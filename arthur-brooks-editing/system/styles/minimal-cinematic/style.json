@@ -1,0 +1,153 @@
+{
+  "id": "minimal-cinematic",
+  "name": "Minimal Cinematic",
+  "description": "Estilo educativo-filosófico minimalista: texto cinematográfico (sans + serif itálica), papel texturizado, líneas que guían la cámara, pinturas, ilustraciones, gráficas con bola azul.",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "fonts": {
+    "sans": {
+      "family": "Inter",
+      "weight": 400
+    },
+    "sans_bold": {
+      "family": "Inter",
+      "weight": 700
+    },
+    "special": {
+      "family": "Playfair Display",
+      "weight": 500,
+      "style": "italic"
+    }
+  },
+  "palette": {
+    "mode": "fixed",
+    "fixed": {
+      "vibrant_bright": "#2F6BFF",
+      "vibrant_dark": "#1638A8",
+      "dull_white": "#F3EFE6",
+      "dull_black": "#101010"
+    },
+    "roles": {
+      "primary": "dull_white",
+      "secondary": "dull_black",
+      "accent": "vibrant_bright"
+    },
+    "ratio": [
+      60,
+      30,
+      10
+    ]
+  },
+  "background": {
+    "fullscreen": "primary",
+    "grid": false,
+    "grid_opacity": 0
+  },
+  "texture": {
+    "kind": "paper",
+    "opacity": 0.22
+  },
+  "shapes": {
+    "radius": 0,
+    "stroke": 3,
+    "edge": "rough"
+  },
+  "captions": {
+    "zone": "center_low",
+    "max_words": 5,
+    "special_per_phrase": [
+      1,
+      2
+    ],
+    "base_size": 64,
+    "special_scale": 1.9,
+    "layout": "special_center_fill_gaps",
+    "color": "#FFFFFF",
+    "special_color": "#FFFFFF",
+    "backdrop": {
+      "type": "gradient_bottom",
+      "blur": 0,
+      "darkness": 0.45
+    },
+    "animation": "blur_fade",
+    "center_y": 0.6,
+    "_min_px": {
+      "small": 42,
+      "special": 100,
+      "_doc": "Tamaños mínimos legibles en móvil (1080 de ancho). El validador rechaza menos."
+    }
+  },
+  "speaker": {
+    "eyes_line": "upper_third",
+    "nose_x": "center"
+  },
+  "motion": {
+    "enter_ms": 600,
+    "exit_ms": 400,
+    "easing": [
+      0.45,
+      0,
+      0.15,
+      1
+    ],
+    "pop_from_scale": 0.97,
+    "blur_from_px": 18,
+    "stagger_ms": 120,
+    "feel": "slow_breathing"
+  },
+  "pacing": {
+    "hook_window_s": 3.0,
+    "max_aroll_streak_s": 7.0,
+    "min_scene_s": 1.2,
+    "target_animation_share": 0.6
+  },
+  "scenes_allowed": [
+    "aroll",
+    "fullscreen_text",
+    "quote",
+    "line_text",
+    "line_graph",
+    "bar_graph",
+    "broll_text",
+    "painting",
+    "center_illustration",
+    "object_callout"
+  ],
+  "sfx": {
+    "aroll": null,
+    "fullscreen_text": "whoosh_soft",
+    "quote": "whoosh_soft",
+    "line_text": "draw",
+    "line_graph": "draw",
+    "bar_graph": "riser",
+    "broll_text": "whoosh_soft",
+    "painting": "whoosh_soft",
+    "center_illustration": "whoosh_soft",
+    "object_callout": "click",
+    "caption_special": null
+  },
+  "music": {
+    "mood": "piano cinematográfico / cuerdas suaves",
+    "ducking_db": -20
+  },
+  "safe_zone": {
+    "_doc": "Zona segura Reels/TikTok/Shorts (fracción del alto/ancho). Fuera de aquí la UI de la app tapa el contenido.",
+    "top": 0.14,
+    "bottom": 0.26,
+    "left": 0.07,
+    "right": 0.15
+  },
+  "broll_grade": {
+    "contrast": 1.1,
+    "saturate": 0.75,
+    "brightness": 0.96,
+    "tint": "accent_dark",
+    "tint_opacity": 0.16,
+    "grain": 0.12,
+    "texture": "paper",
+    "_doc": "Look de marca para B-ROLL/imágenes (stock o generadas): nunca sobre la piel del A-roll. Tinte del acento oscuro en soft-light + grano + textura."
+  }
+}

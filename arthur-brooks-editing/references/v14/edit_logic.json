@@ -1,0 +1,214 @@
+{
+ "video": "v14",
+ "duration_s": 51.75,
+ "fps": 24,
+ "triggers": [
+  {
+   "t_word": 0.0,
+   "word": "The",
+   "element": "Layout split permanente: arriba primer plano de Brooks (~65 %), abajo plano general fijo de los tres en el jardín (~35 %); caption en caja granate en la costura",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "hook-dato; el plano general hace de b-roll del tema (naturaleza)"
+  },
+  {
+   "t_word": 4.18,
+   "word": "I",
+   "element": "Crossfade corto (4.03-4.10) a un reencuadre de Brooks (salto de edición oculto)",
+   "category": "aroll_plain",
+   "offset_s": -0.15,
+   "why": "autoridad ('I study…')"
+  },
+  {
+   "t_word": 8.9,
+   "word": "I",
+   "element": "Corte seco (8.92) arriba al invitado joven: 'I only have one half.'",
+   "category": "aroll_plain",
+   "offset_s": 0.02,
+   "why": "alivio cómico (plano de reacción/broma ~1.1 s)"
+  },
+  {
+   "t_word": 9.98,
+   "word": "But",
+   "element": "Corte seco (10.04) de vuelta a Brooks, grade más frío/azulado",
+   "category": "aroll_plain",
+   "offset_s": 0.06,
+   "why": "réplica 'No, you got both baby.'"
+  },
+  {
+   "t_word": 12.82,
+   "word": "hemisphere",
+   "element": "Crossfade (12.9-13.1) a Brooks con el gesto de la mano en curso",
+   "category": "aroll_plain",
+   "offset_s": 0.1,
+   "why": "ocultar salto de edición en término técnico"
+  },
+  {
+   "t_word": 15.6,
+   "word": "technology,",
+   "element": "Crossfade de ~0.35 s (15.3-15.6) con doble exposición visible",
+   "category": "aroll_plain",
+   "offset_s": -0.25,
+   "why": "ocultar salto"
+  },
+  {
+   "t_word": 27.8,
+   "word": "inside",
+   "element": "Crossfade de ~0.5 s (27.7-28.2) con grade más frío en medio",
+   "category": "aroll_plain",
+   "offset_s": -0.05,
+   "why": "ocultar salto"
+  },
+  {
+   "t_word": 30.94,
+   "word": "in",
+   "element": "Crossfade de 2-3 frames (31.08-31.13) a plano con las manos juntas",
+   "category": "aroll_plain",
+   "offset_s": 0.15,
+   "why": "jump cut suavizado"
+  },
+  {
+   "t_word": 32.84,
+   "word": "And",
+   "element": "Crossfade (32.2-32.6) a Brooks gesticulando",
+   "category": "aroll_plain",
+   "offset_s": -0.44,
+   "why": "ocultar salto antes de la tesis 'your brain is broken'"
+  },
+  {
+   "t_word": 48.76,
+   "word": "correctly.",
+   "element": "Corte seco (49.62) a end card negro con logo 'The Fire Pit' (llama animada) + insignia 'United by Nature'",
+   "category": "title_cta",
+   "offset_s": 0.86,
+   "why": "marca de serie"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 4.05,
+   "from": "Brooks",
+   "to": "Brooks reencuadrado",
+   "type": "crossfade",
+   "frames": 3,
+   "detail": "solo en la mitad superior; la inferior sigue continua"
+  },
+  {
+   "t": 8.92,
+   "from": "Brooks",
+   "to": "invitado",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "solo mitad superior"
+  },
+  {
+   "t": 10.04,
+   "from": "invitado",
+   "to": "Brooks",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "solo mitad superior"
+  },
+  {
+   "t": 12.95,
+   "from": "Brooks",
+   "to": "Brooks",
+   "type": "crossfade",
+   "frames": 5,
+   "detail": "jump cut oculto"
+  },
+  {
+   "t": 15.35,
+   "from": "Brooks",
+   "to": "Brooks",
+   "type": "crossfade",
+   "frames": 8,
+   "detail": "jump cut oculto, doble exposición visible"
+  },
+  {
+   "t": 27.75,
+   "from": "Brooks",
+   "to": "Brooks",
+   "type": "crossfade",
+   "frames": 12,
+   "detail": "jump cut oculto"
+  },
+  {
+   "t": 31.1,
+   "from": "Brooks",
+   "to": "Brooks manos",
+   "type": "crossfade",
+   "frames": 2,
+   "detail": "casi corte"
+  },
+  {
+   "t": 32.25,
+   "from": "Brooks",
+   "to": "Brooks",
+   "type": "crossfade",
+   "frames": 9,
+   "detail": "jump cut oculto"
+  },
+  {
+   "t": 49.62,
+   "from": "split",
+   "to": "end card negro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "llama del logo animada en loop (cambios cada ~0.25 s)"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.0,
+   "fx": "pop",
+   "detail": "caption sans bold pequeña blanca en caja granate #7A2232 ajustada al texto, 2-5 palabras, cambio seco por frase (~0.7-0.8 s/bloque), centrada en la costura del split (~61 % de alto)"
+  },
+  {
+   "t": 9.0,
+   "fx": "pop",
+   "detail": "la caja granate se mantiene igual para el invitado y para Brooks (no hay identificación de hablante)"
+  }
+ ],
+ "camera": [
+  {
+   "t": 4.05,
+   "move": "punch-in",
+   "scale_or_dir": "reencuadre ~1.0→1.1",
+   "dur_s": 0.0
+  },
+  {
+   "t": 30.45,
+   "move": "pan",
+   "scale_or_dir": "movimiento real de cámara/encuadre siguiendo la cabeza que se inclina",
+   "dur_s": 0.6
+  },
+  {
+   "t": 49.62,
+   "move": "shake",
+   "scale_or_dir": "llama del logo parpadea en loop",
+   "dur_s": 2.1
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   8,
+   6,
+   2,
+   5,
+   3,
+   0
+  ],
+  "avg_hold_text_s": 0.75,
+  "notes": "Prácticamente un plano continuo: 9 transiciones en 52 s; el ritmo lo marcan los captions (mediana 0.67 s por bloque) sincronizados al arranque de cada frase. Los crossfades caen dentro de la frase, donde había un corte de contenido."
+ },
+ "typography": "Sans bold pequeña (tipo Inter/Helvetica Bold) blanca en minúscula de frase, caja granate #7A2232 ajustada al texto con esquinas rectas, 2-5 palabras, una sola línea, centrada sobre la costura entre los dos paneles (~61 % de alto). Sin palabra destacada, sin cambios de color ni escala.",
+ "textures": "Ninguna añadida: luz solar dura natural, humo real del brasero (visible en el panel inferior 2-4 s), ligera diferencia de grade entre tomas (más fría en 10-12 s y 27.8-28.2 s).",
+ "distinct": [
+  "Pantalla dividida permanente: primer plano arriba + plano general fijo abajo; el plano general es un b-roll continuo del 'lugar' del tema.",
+  "Las transiciones son crossfades que ocultan jump cuts SOLO en el panel superior; el inferior no se corta nunca.",
+  "Caption en caja granate de marca colocada exactamente en la costura del split.",
+  "Un único plano de reacción de ~1.1 s al invitado para la broma ('I only have one half') como respiro cómico.",
+  "End card de serie con logo de llama animada + insignia del patrocinador, sin CTA hablado."
+ ]
+}

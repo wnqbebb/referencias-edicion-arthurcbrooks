@@ -1,0 +1,477 @@
+{
+ "video": "v17",
+ "triggers": [
+  {
+   "t_word": 0.2,
+   "word": "sido",
+   "element": "whip/zoom-blur de plano a tres a primer plano de la invitada 0.2–0.24; 'HEMOS' 0.28",
+   "category": "captions_text",
+   "offset_s": 0.08,
+   "why": "hook: la tesis entra con un golpe de cámara"
+  },
+  {
+   "t_word": 1.04,
+   "word": "amar.",
+   "element": "bloque apilado 'HEMOS SIDO' blanco / 'CREADOS' azul con contorno blanco / 'PARA AMAR' azul",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "énfasis (palabra-tesis en color)"
+  },
+  {
+   "t_word": 1.62,
+   "word": "Lo",
+   "element": "corte a sobre-el-hombro de Brooks; 'LO ÚNICO' escrito LETRA A LETRA (1 letra/fr) arriba",
+   "category": "captions_text",
+   "offset_s": -0.06,
+   "why": "cambio de plano a ritmo de frase"
+  },
+  {
+   "t_word": 2.92,
+   "word": "amar.",
+   "element": "'ES EL AMAR' con 'EL AMAR' en ROJO",
+   "category": "captions_text",
+   "offset_s": 0.1,
+   "why": "énfasis (amor = rojo)"
+  },
+  {
+   "t_word": 3.32,
+   "word": "Pero",
+   "element": "primer plano invitada 3.28; 'ENTONCES' solo contorno + 'HAY QUE ENTENDER' + 'LO QUE ES' + 'EL AMOR' rojo",
+   "category": "captions_text",
+   "offset_s": -0.04,
+   "why": "giro (pero)"
+  },
+  {
+   "t_word": 5.64,
+   "word": "¿Qué",
+   "element": "whip-pan con smear del texto rojo 5.56–5.68 al presentador; '¿QUÉ QUIERE DECIR AMAR?' (AMAR rojo)",
+   "category": "captions_text",
+   "offset_s": -0.08,
+   "why": "pregunta → contraplano"
+  },
+  {
+   "t_word": 6.78,
+   "word": "es",
+   "element": "tinte azul 2 fr + flash blanco 2 fr → b-roll pareja besándose con light leak rojo 6.48",
+   "category": "broll_text",
+   "offset_s": -0.3,
+   "why": "emoción/definición → b-roll"
+  },
+  {
+   "t_word": 7.84,
+   "word": "bien",
+   "element": "'DESEAR EL BIEN' a máquina arriba con 'EL BIEN' en bold; 'DE LA OTRA PERSONA' blanco sobre franja azul",
+   "category": "broll_text",
+   "offset_s": 0.16,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 9.68,
+   "word": "hacer",
+   "element": "'Y HACER ALGO / AL RESPECTO' abajo a máquina",
+   "category": "broll_text",
+   "offset_s": 0.0,
+   "why": "literal"
+  },
+  {
+   "t_word": 11.1,
+   "word": "Aristóteles",
+   "element": "b-roll primerísimo plano mujer sonriendo con grano 10.96; captions DIMINUTOS de 2–3 palabras",
+   "category": "broll_text",
+   "offset_s": -0.14,
+   "why": "emoción (regocijo)"
+  },
+  {
+   "t_word": 13.44,
+   "word": "hace",
+   "element": "b-roll hombre tapando los ojos a mujer riendo 13.32",
+   "category": "broll_text",
+   "offset_s": -0.12,
+   "why": "literal (hacer el bien)"
+  },
+  {
+   "t_word": 15.48,
+   "word": "hacer",
+   "element": "pareja en cocina, él le da a probar 15.28",
+   "category": "broll_text",
+   "offset_s": -0.2,
+   "why": "literal (hacer el bien del otro)"
+  },
+  {
+   "t_word": 17.76,
+   "word": "eso",
+   "element": "pareja mayor abrazada 17.48; 'ESO NOS HACE' contorno + 'FELICES' AMARILLO itálica heavy",
+   "category": "broll_text",
+   "offset_s": -0.28,
+   "why": "emoción; color amarillo = felicidad"
+  },
+  {
+   "t_word": 19.34,
+   "word": "Entender",
+   "element": "tinte azul 19.4 + flash blanco 19.48–19.52 con 'ENTENDER QUE' diminuto en el blanco → invitada",
+   "category": "captions_text",
+   "offset_s": 0.06,
+   "why": "cambio de tema"
+  },
+  {
+   "t_word": 21.52,
+   "word": "ahora",
+   "element": "'SOLAMENTE PODEMOS AMAR' a máquina + 'AHORA' azul ENORME blur-in 21.67–22.0",
+   "category": "captions_text",
+   "offset_s": 0.15,
+   "why": "énfasis (concepto clave)"
+  },
+  {
+   "t_word": 23.52,
+   "word": "amar",
+   "element": "'NO SE PUEDE' + 'AMAR' blanco gigante + 'EN EL FUTURO' sobre caja azul",
+   "category": "captions_text",
+   "offset_s": 0.15,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 25.7,
+   "word": "Hay",
+   "element": "tinte azul 25.6 + flash blanco 25.68–25.72 → perfil de Brooks con biblioteca",
+   "category": "captions_text",
+   "offset_s": -0.02,
+   "why": "cambio de speaker y tema"
+  },
+  {
+   "t_word": 32.48,
+   "word": "Son",
+   "element": "punch-in con desenfoque de movimiento 32.48 a primerísimo plano de Brooks; 'SON VERDADES' blanco + 'BIOLÓGICAS' azul",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "énfasis (dato rotundo)"
+  },
+  {
+   "t_word": 34.36,
+   "word": "En",
+   "element": "whip-pan con smear del texto azul 34.28–34.36 al presentador",
+   "category": "captions_text",
+   "offset_s": -0.08,
+   "why": "pregunta → contraplano"
+  },
+  {
+   "t_word": 36.38,
+   "word": "¿cómo",
+   "element": "reencuadre/punch-in leve en el presentador 36.32",
+   "category": "captions_text",
+   "offset_s": -0.06,
+   "why": "pregunta"
+  },
+  {
+   "t_word": 37.3,
+   "word": "Es",
+   "element": "corte a perfil de Brooks 37.28",
+   "category": "captions_text",
+   "offset_s": -0.02,
+   "why": "respuesta → cara"
+  },
+  {
+   "t_word": 39.58,
+   "word": "una",
+   "element": "corte a plano a dos 39.48 y zoom-out al plano general del set 40.0–40.36",
+   "category": "graph_stats",
+   "offset_s": -0.1,
+   "why": "hace sitio a la cifra"
+  },
+  {
+   "t_word": 40.74,
+   "word": "8",
+   "element": "'1' blanco gigante + 'PERSONA EN' + '8000 MILLONES' azul heavy caen desde arriba 40.16–40.36 sobre el plano general",
+   "category": "graph_stats",
+   "offset_s": -0.58,
+   "why": "dato (cifra gigante, personas diminutas abajo)"
+  },
+  {
+   "t_word": 42.46,
+   "word": "Las",
+   "element": "tinte azul 42.36 + flash blanco 42.44–42.48 → invitada sonriendo",
+   "category": "captions_text",
+   "offset_s": -0.02,
+   "why": "cambio de tema"
+  },
+  {
+   "t_word": 45.42,
+   "word": "Cómo",
+   "element": "whip-pan 45.32–45.4 al presentador",
+   "category": "captions_text",
+   "offset_s": -0.1,
+   "why": "pregunta → contraplano"
+  },
+  {
+   "t_word": 47.4,
+   "word": "ojos.",
+   "element": "whip-pan 47.68–47.8 a plano a tres y fade a blanco 48.5–49.0",
+   "category": "title_cta",
+   "offset_s": 0.28,
+   "why": "cierre"
+  },
+  {
+   "t_word": 47.4,
+   "word": "ojos.",
+   "element": "logo 'Aladetres.' azul se ensambla letra a letra 51.0–51.67 sobre blanco",
+   "category": "title_cta",
+   "offset_s": 3.6,
+   "why": "outro de marca"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 0.2,
+   "from": "plano a tres",
+   "to": "primer plano invitada",
+   "type": "whip-pan",
+   "frames": 2,
+   "detail": "desenfoque horizontal fuerte + zoom"
+  },
+  {
+   "t": 1.56,
+   "from": "primer plano invitada",
+   "to": "sobre-el-hombro Brooks",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 3.28,
+   "from": "sobre-el-hombro",
+   "to": "primer plano invitada",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 5.56,
+   "from": "invitada",
+   "to": "presentador",
+   "type": "whip-pan",
+   "frames": 3,
+   "detail": "el texto rojo se arrastra con el barrido"
+  },
+  {
+   "t": 6.32,
+   "from": "presentador",
+   "to": "b-roll pareja",
+   "type": "flash blanco",
+   "frames": 4,
+   "detail": "2 fr de tinte azul/violeta sobre el plano (AMAR pasa a violeta) + 2 fr blanco puro"
+  },
+  {
+   "t": 10.96,
+   "from": "pareja",
+   "to": "rostro sonriente",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 13.32,
+   "from": "rostro",
+   "to": "pareja ojos tapados",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 15.28,
+   "from": "pareja",
+   "to": "pareja cocina",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 17.48,
+   "from": "cocina",
+   "to": "pareja mayor",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 19.4,
+   "from": "pareja mayor",
+   "to": "invitada",
+   "type": "flash blanco",
+   "frames": 4,
+   "detail": "tinte azul 2 fr + blanco 2 fr con caption diminuto visible en el blanco"
+  },
+  {
+   "t": 25.6,
+   "from": "invitada",
+   "to": "Brooks perfil",
+   "type": "flash blanco",
+   "frames": 4,
+   "detail": "tinte azul 2 fr + blanco 2 fr"
+  },
+  {
+   "t": 32.48,
+   "from": "Brooks perfil",
+   "to": "Brooks primerísimo plano",
+   "type": "zoom-blur",
+   "frames": 1,
+   "detail": "punch-in con desenfoque de 1 fr"
+  },
+  {
+   "t": 34.28,
+   "from": "Brooks",
+   "to": "presentador",
+   "type": "whip-pan",
+   "frames": 3,
+   "detail": "smear del texto azul 'BIOLÓGICAS'"
+  },
+  {
+   "t": 37.28,
+   "from": "presentador",
+   "to": "Brooks perfil",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 39.48,
+   "from": "Brooks",
+   "to": "plano a dos",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 42.36,
+   "from": "plano general",
+   "to": "invitada",
+   "type": "flash blanco",
+   "frames": 4,
+   "detail": "tinte azul 2 fr + blanco 2 fr"
+  },
+  {
+   "t": 45.32,
+   "from": "invitada",
+   "to": "presentador",
+   "type": "whip-pan",
+   "frames": 3,
+   "detail": ""
+  },
+  {
+   "t": 47.68,
+   "from": "presentador",
+   "to": "plano a tres",
+   "type": "whip-pan",
+   "frames": 3,
+   "detail": ""
+  },
+  {
+   "t": 48.5,
+   "from": "plano a tres",
+   "to": "blanco + logo",
+   "type": "crossfade",
+   "frames": 13,
+   "detail": "fade-to-white 0.5 s"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 1.6,
+   "fx": "write-on por palabra",
+   "detail": "MAYÚSCULAS escritas LETRA A LETRA (1 letra por frame, 'L'→'LO'→'LO Ú'…) — patrón de todo el clip"
+  },
+  {
+   "t": 1.4,
+   "fx": "escala",
+   "detail": "bloque apilado 3 líneas: blanco pequeño / palabra clave azul heavy con contorno blanco / complemento azul"
+  },
+  {
+   "t": 3.3,
+   "fx": "máscara",
+   "detail": "'ENTONCES' solo contorno (outline) como palabra de transición"
+  },
+  {
+   "t": 7.0,
+   "fx": "write-on por palabra",
+   "detail": "'DESEAR EL BIEN' a máquina arriba, 2ª línea sobre franja azul"
+  },
+  {
+   "t": 17.76,
+   "fx": "pop",
+   "detail": "'FELICES' amarillo itálica heavy (único amarillo)"
+  },
+  {
+   "t": 21.67,
+   "fx": "blur-in",
+   "detail": "'AHORA' azul gigante entra letra a letra y desenfocada, se enfoca en ~0.3 s"
+  },
+  {
+   "t": 23.5,
+   "fx": "pop",
+   "detail": "'AMAR' blanco gigante dentro de caja azul con 'NO SE PUEDE' / 'EN EL FUTURO'"
+  },
+  {
+   "t": 40.16,
+   "fx": "tracking",
+   "detail": "'8000 MILLONES' cae desde fuera de cuadro (arriba) en 5 fr"
+  },
+  {
+   "t": 51.0,
+   "fx": "write-on por palabra",
+   "detail": "logo 'Aladetres.' se ensambla letra a letra"
+  }
+ ],
+ "camera": [
+  {
+   "t": 0.2,
+   "move": "zoom-out",
+   "scale_or_dir": "plano a tres → primer plano con barrido",
+   "dur_s": 0.08
+  },
+  {
+   "t": 32.48,
+   "move": "punch-in",
+   "scale_or_dir": "perfil → primerísimo plano ~1.5x con blur",
+   "dur_s": 0.04
+  },
+  {
+   "t": 36.32,
+   "move": "punch-in",
+   "scale_or_dir": "presentador 1.0→1.08",
+   "dur_s": 0.04
+  },
+  {
+   "t": 40.0,
+   "move": "zoom-out",
+   "scale_or_dir": "plano a dos → plano general del set",
+   "dur_s": 0.36
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   9,
+   6,
+   3,
+   5,
+   6,
+   2
+  ],
+  "cuts_per_10s": [
+   5,
+   5,
+   2,
+   3,
+   4,
+   0
+  ],
+  "avg_hold_text_s": 0.9,
+  "notes": "19 cortes en 52 s; cada cambio de speaker es whip-pan (5) o 'tinte azul + flash blanco' (4); cambios de tema siempre con flash. 6.5–19.5 s bloque de b-roll con captions diminutos (ritmo calmado); el resto podcast con bloques apilados. Texto letra a letra: 1 letra/frame (25 fps)."
+ },
+ "typography": "Sans heavy/black MAYÚSCULAS (tipo Montserrat Black/Helvetica Black) blanca con sombra; bloques apilados 2–4 líneas a 55–70 % de altura; palabra clave 2–3x en AZUL #1F3BFF con contorno blanco, ROJO para amor ('EL AMAR', 'EL AMOR'), AMARILLO itálica para 'FELICES'; palabra de enlace en solo-contorno ('ENTONCES', 'ESO NOS HACE'). Captions de b-roll diminutos 2–3 palabras. Caja azul para 'AMAR'/'DE LA OTRA PERSONA'. Marca de agua pixel del canal abajo-centro todo el clip.",
+ "textures": "Sin textura en el set (listones de madera verticales); b-roll de stock con light leak rojo/rosa (6.5–7.3) y grano fino (11–13); tinte azul translúcido de 2 fr antes de cada flash blanco; smear horizontal en los whip-pan.",
+ "distinct": [
+  "Única firma de transición 'tinte azul 2 fr + flash blanco 2 fr' para cada cambio de tema (6.32, 19.4, 25.6, 42.36)",
+  "Whip-pans con el caption arrastrado (smear) para cada cambio de speaker (5.56, 34.28, 45.32, 47.68)",
+  "Captions MAYÚSCULAS heavy escritos letra a letra, con color semántico rojo(amor)/azul(clave)/amarillo(felices)",
+  "Cifra gigante '1 / 8000 MILLONES' que cae sobre un zoom-out al plano general del set (personas diminutas abajo)",
+  "Es clip de podcast de terceros en español: sin gráficos minimal de Arthur, cierre con fade a blanco y logo que se ensambla"
+ ]
+}

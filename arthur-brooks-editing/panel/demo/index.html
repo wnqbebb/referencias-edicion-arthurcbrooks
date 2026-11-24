@@ -1,0 +1,170 @@
+<title>Plan de edición por beats</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@1,600;1,700&display=swap" rel="stylesheet">
+<style>
+/* Layout: mesa de montaje — cada beat es una fila: opciones A/B/C a la izquierda, guion + clip a la derecha */
+:root {
+  --bg: #EEF0F4; --card: #FFFFFF; --ink: #15171C; --muted: #5E6573; --line: #DADEE6;
+  --accent: #2563EB; --accent-soft: #E8EFFE; --chosen: #DCE8FF; --aroll: #9AA3B2;
+  --sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --serif: "Playfair Display", Georgia, serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0F1115; --card: #181B21; --ink: #ECEEF2; --muted: #9AA2B1; --line: #2A2F38;
+  --accent: #6C9BFF; --accent-soft: #1B2740; --chosen: #1E2D4D; --aroll: #5C6575; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #0F1115; --card: #181B21; --ink: #ECEEF2; --muted: #9AA2B1; --line: #2A2F38;
+  --accent: #6C9BFF; --accent-soft: #1B2740; --chosen: #1E2D4D; --aroll: #5C6575; color-scheme: dark }
+body { background: var(--bg); color: var(--ink); font-family: var(--sans); font-size: 15px; }
+.wrap { max-width: 1280px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 24px 80px; display: flex; flex-direction: column; gap: 18px; }
+header { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 14px; }
+h1 { margin: 0; font-size: clamp(26px, 4vw, 38px); font-weight: 700; letter-spacing: -0.02em; text-wrap: balance; }
+h1 em { font-family: var(--serif); font-style: italic; font-weight: 700; color: var(--accent); }
+.meta { color: var(--muted); font-size: 13px; margin-top: 4px; }
+.tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+.tab { border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 999px; padding: 8px 14px; font: 600 13px var(--sans); cursor: pointer; }
+.tab[aria-selected="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+.bar { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px 16px; display: flex; flex-direction: column; gap: 10px; }
+.bar-top { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; }
+.label { font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.timeline { display: flex; height: 30px; border-radius: 8px; overflow: hidden; gap: 2px; }
+.seg { display: flex; align-items: center; justify-content: center; font: 600 11px var(--sans); color: #fff; background: var(--accent); min-width: 0; overflow: hidden; white-space: nowrap; cursor: pointer; border: 0; }
+.seg.ar { background: var(--aroll); }
+.legend { display: flex; gap: 14px; font-size: 12px; color: var(--muted); flex-wrap: wrap; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 5px; vertical-align: -1px; }
+.btn { border: 0; border-radius: 10px; padding: 10px 16px; font: 600 14px var(--sans); cursor: pointer; background: var(--accent); color: #fff; }
+.btn.ghost { background: var(--accent-soft); color: var(--accent); }
+.beat { background: var(--card); border: 1px solid var(--line); border-radius: 16px; display: grid; grid-template-columns: minmax(0, 2.1fr) minmax(0, 1fr); overflow: hidden; scroll-margin-top: 16px; }
+.left { padding: 18px; display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+.right { padding: 18px; border-left: 1px solid var(--line); display: flex; flex-direction: column; gap: 12px; min-width: 0; background: color-mix(in srgb, var(--card) 85%, var(--bg)); }
+.bh { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+.bh h2 { margin: 0; font-size: 22px; font-weight: 700; letter-spacing: -0.01em; }
+.bh h2 span { font-size: 13px; font-weight: 500; color: var(--muted); margin-left: 8px; font-variant-numeric: tabular-nums; }
+.chosen-lbl { font-size: 13px; font-weight: 600; color: var(--accent); }
+textarea { width: 100%; box-sizing: border-box; min-height: 52px; resize: vertical; border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; font: 14px var(--sans); background: var(--card); color: var(--ink); }
+textarea:focus-visible, .tab:focus-visible, .btn:focus-visible, .pick:focus-visible, .seg:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.opts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.opt { border: 1px solid var(--line); border-radius: 12px; padding: 10px; display: grid; grid-template-columns: 74px minmax(0, 1fr); gap: 10px; align-content: start; background: var(--card); }
+.opt.on { border: 2px solid var(--accent); background: var(--chosen); padding: 9px; }
+.opt img, .opt .noimg { width: 74px; height: 132px; object-fit: cover; border-radius: 6px; background: #000; }
+.opt .noimg { display: flex; align-items: center; justify-content: center; font-size: 11px; color: #ccc; text-align: center; }
+.opt h3 { margin: 0; font-size: 14px; font-weight: 700; line-height: 1.25; }
+.cats { color: var(--accent); font-size: 12px; font-weight: 500; margin-top: 2px; }
+.desc { font-size: 12.5px; line-height: 1.4; color: var(--ink); margin-top: 5px; }
+.ref { font-size: 11px; color: var(--muted); margin-top: 5px; }
+.pick { grid-column: 1 / -1; justify-self: center; border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 999px; padding: 6px 16px; font: 600 12px var(--sans); cursor: pointer; }
+.opt.on .pick { background: var(--accent); color: #fff; border-color: var(--accent); }
+.script { font-size: 18px; line-height: 1.45; font-weight: 500; letter-spacing: -0.005em; }
+.seen { font-size: 13px; line-height: 1.45; color: var(--muted); }
+video { width: 100%; max-width: 220px; aspect-ratio: 9 / 16; border-radius: 12px; background: #000; align-self: center; }
+.play { align-self: center; }
+.toast { position: fixed; left: 50%; bottom: calc(20px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 10px 16px; border-radius: 10px; font-weight: 600; font-size: 14px; }
+.copybox { width: 100%; min-height: 120px; font-family: ui-monospace, monospace; font-size: 12px; }
+@media (max-width: 900px) { .beat { grid-template-columns: 1fr; } .right { border-left: 0; border-top: 1px solid var(--line); } .opts { grid-template-columns: 1fr; } }
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Plan de edición <em>por beats</em></h1>
+      <div class="meta" id="meta">Cargando…</div>
+    </div>
+    <div class="tabs" role="tablist" id="tabs"></div>
+  </header>
+
+  <section class="bar" aria-label="Resumen del plan">
+    <div class="bar-top">
+      <span class="label">Línea de tiempo · tu elección por beat</span>
+      <div style="display:flex; gap:8px; flex-wrap:wrap">
+        <button class="btn ghost" id="reset">Volver a lo recomendado</button>
+        <button class="btn" id="copy">Copiar plan</button>
+      </div>
+    </div>
+    <div class="timeline" id="timeline"></div>
+    <div class="legend"><span><i style="background:var(--accent)"></i>Animación / cut-away</span><span><i style="background:var(--aroll)"></i>A-roll con captions</span></div>
+    <textarea class="copybox" id="copybox" hidden readonly aria-label="Plan para copiar"></textarea>
+  </section>
+
+  <main id="beats" style="display:flex; flex-direction:column; gap:14px"></main>
+</div>
+<div class="toast" id="toast" hidden></div>
+
+<script>
+const S = { data: null, vid: "v1", picks: {}, notes: {} };
+const store = {
+  get(k) { try { return JSON.parse(localStorage.getItem(k) || "null"); } catch (e) { return null; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} },
+};
+const fmt = (t) => `${Math.floor(t / 60)}:${(t % 60).toFixed(1).padStart(4, "0")}`;
+const el = (tag, attrs = {}, ...kids) => { const n = document.createElement(tag); for (const [k, v] of Object.entries(attrs)) { if (k === "class") n.className = v; else if (k.startsWith("on")) n.addEventListener(k.slice(2), v); else n.setAttribute(k, v); } for (const c of kids) n.append(c); return n; };
+const pickOf = (b) => (S.picks[S.vid] || {})[b.id] || b.pick;
+const toast = (m) => { const t = document.getElementById("toast"); t.textContent = m; t.hidden = false; clearTimeout(toast._t); toast._t = setTimeout(() => (t.hidden = true), 1800); };
+
+function render() {
+  const v = S.data.videos[S.vid];
+  const beats = v.beats;
+  const dur = beats[beats.length - 1].end;
+  document.getElementById("meta").textContent = `${v.title} · ${beats.length} beats · ${dur.toFixed(1)} s · las opciones vienen de la biblioteca de 339 animaciones de Arthur`;
+  // tabs
+  const tabs = document.getElementById("tabs"); tabs.innerHTML = "";
+  for (const [k, vv] of Object.entries(S.data.videos)) tabs.append(el("button", { class: "tab", role: "tab", "aria-selected": String(k === S.vid), onclick: () => { S.vid = k; store.set("vid", k); render(); } }, vv.title.split(" · ")[0] + " · " + vv.title.split(" · ")[1].split(" (")[0]));
+  // timeline
+  const tl = document.getElementById("timeline"); tl.innerHTML = "";
+  beats.forEach((b, i) => {
+    const o = b.opts["ABC".indexOf(pickOf(b))];
+    const ar = !o.type || o.type === "aroll";
+    tl.append(el("button", { class: "seg" + (ar ? " ar" : ""), style: `flex:${(b.end - b.start).toFixed(2)}`, title: `Beat ${i + 1}: ${o.title}`, onclick: () => document.getElementById(b.id).scrollIntoView({ behavior: "smooth" }) }, String(i + 1)));
+  });
+  // beats
+  const main = document.getElementById("beats"); main.innerHTML = "";
+  beats.forEach((b, i) => {
+    const k = pickOf(b);
+    const opts = el("div", { class: "opts" });
+    b.opts.forEach((o, j) => {
+      const L = "ABC"[j]; const on = L === k;
+      const th = S.data.thumbs[o.ref];
+      opts.append(el("div", { class: "opt" + (on ? " on" : "") },
+        th ? el("img", { src: th, alt: `Referencia ${o.ref}` }) : el("div", { class: "noimg" }, o.ref),
+        el("div", {}, el("h3", {}, `${L} · ${o.title}`), el("div", { class: "cats" }, o.cats), o.desc ? el("div", { class: "desc" }, o.desc) : "", el("div", { class: "ref" }, `Ref ${o.ref}`)),
+        el("button", { class: "pick", onclick: () => { (S.picks[S.vid] ||= {})[b.id] = L; store.set("picks", S.picks); render(); } }, on ? "✓ Elegida" : "Usar esta")));
+    });
+    const note = el("textarea", { id: `note-${S.vid}-${b.id}`, placeholder: "Escribe tu plan para este beat, o elige un diseño y edítalo aquí." });
+    note.value = (S.notes[S.vid] || {})[b.id] || "";
+    note.addEventListener("input", () => { (S.notes[S.vid] ||= {})[b.id] = note.value; store.set("notes", S.notes); });
+    const chosen = b.opts["ABC".indexOf(k)];
+    const video = el("video", { src: `${S.vid}.mp4#t=${b.start}`, preload: "metadata", playsinline: "", controls: "" });
+    video.addEventListener("timeupdate", () => { if (video.currentTime > b.end) { video.pause(); video.currentTime = b.start; } });
+    main.append(el("article", { class: "beat", id: b.id },
+      el("div", { class: "left" },
+        el("div", { class: "bh" }, el("h2", {}, `Beat ${i + 1}`, el("span", {}, `${fmt(b.start)} – ${fmt(b.end)}`)), el("div", { class: "chosen-lbl" }, `Elegida: ${k} · ${chosen.title}`)),
+        note, el("div", { class: "label" }, "Opciones de diseño"), opts),
+      el("div", { class: "right" },
+        el("div", { class: "label" }, "Guion"), el("div", { class: "script" }, b.script),
+        video,
+        el("div", { class: "label" }, "Visto en los reels"), el("div", { class: "seen" }, b.seen))));
+  });
+}
+
+function planText() {
+  const out = { picks: {}, notes: {} };
+  for (const [k, v] of Object.entries(S.data.videos)) {
+    out.picks[k] = {}; v.beats.forEach((b) => { out.picks[k][b.id] = (S.picks[k] || {})[b.id] || b.pick; });
+    const n = Object.fromEntries(Object.entries(S.notes[k] || {}).filter(([, t]) => t.trim()));
+    if (Object.keys(n).length) out.notes[k] = n;
+  }
+  return "PLAN DE EDICIÓN (pégalo en el chat)\n" + JSON.stringify(out, null, 1);
+}
+
+document.getElementById("copy").addEventListener("click", () => {
+  const txt = planText(); const box = document.getElementById("copybox");
+  navigator.clipboard.writeText(txt).then(() => toast("Plan copiado. Pégalo en el chat."), () => { box.hidden = false; box.value = txt; box.select(); toast("Selecciona el texto de abajo y cópialo."); });
+});
+document.getElementById("reset").addEventListener("click", () => { delete S.picks[S.vid]; store.set("picks", S.picks); render(); toast("Opciones recomendadas restauradas."); });
+
+S.picks = store.get("picks") || {}; S.notes = store.get("notes") || {}; S.vid = store.get("vid") || "v1";
+fetch("panel_data.json").then((r) => r.json()).then((d) => { S.data = d; if (!d.videos[S.vid]) S.vid = "v1"; render(); })
+  .catch(() => { document.getElementById("meta").textContent = "No se pudo cargar el plan. Recarga la página."; });
+</script>

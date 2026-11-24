@@ -1,0 +1,1639 @@
+{
+  "phrases": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "sentence": 0,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "Tu",
+          "start": 0.0,
+          "end": 0.14
+        },
+        {
+          "w": "tienda",
+          "start": 0.14,
+          "end": 0.38
+        },
+        {
+          "w": "no",
+          "start": 0.38,
+          "end": 0.54
+        },
+        {
+          "w": "necesita",
+          "start": 0.54,
+          "end": 0.84
+        }
+      ],
+      "special": [
+        3
+      ],
+      "y": 1252
+    },
+    {
+      "start": 0.84,
+      "end": 2.12,
+      "sentence": 0,
+      "treatment": "serif",
+      "box": false,
+      "words": [
+        {
+          "w": "más",
+          "start": 0.84,
+          "end": 1.12
+        },
+        {
+          "w": "ropa",
+          "start": 1.12,
+          "end": 1.34
+        },
+        {
+          "w": "para",
+          "start": 1.34,
+          "end": 1.52
+        },
+        {
+          "w": "Black",
+          "start": 1.52,
+          "end": 1.72
+        },
+        {
+          "w": "Friday.",
+          "start": 1.72,
+          "end": 2.06
+        }
+      ],
+      "special": [
+        3,
+        4
+      ],
+      "y": 1252
+    },
+    {
+      "start": 2.12,
+      "end": 2.84,
+      "sentence": 1,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "Necesita",
+          "start": 2.12,
+          "end": 2.52
+        },
+        {
+          "w": "menos.",
+          "start": 2.52,
+          "end": 2.78
+        }
+      ],
+      "special": [
+        1
+      ],
+      "y": 1252
+    },
+    {
+      "start": 2.84,
+      "end": 3.04,
+      "sentence": 2,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "Ya",
+          "start": 2.84,
+          "end": 2.94
+        },
+        {
+          "w": "sé",
+          "start": 2.94,
+          "end": 3.04
+        }
+      ],
+      "special": [
+        1
+      ],
+      "y": 1252
+    },
+    {
+      "start": 3.04,
+      "end": 3.86,
+      "sentence": 2,
+      "treatment": "serif",
+      "box": false,
+      "words": [
+        {
+          "w": "que",
+          "start": 3.04,
+          "end": 3.12
+        },
+        {
+          "w": "suena",
+          "start": 3.12,
+          "end": 3.32
+        },
+        {
+          "w": "al",
+          "start": 3.32,
+          "end": 3.42
+        },
+        {
+          "w": "revés,",
+          "start": 3.42,
+          "end": 3.74
+        }
+      ],
+      "special": [
+        3
+      ],
+      "y": 1252
+    },
+    {
+      "start": 3.86,
+      "end": 4.62,
+      "sentence": 2,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "te",
+          "start": 3.86,
+          "end": 3.92
+        },
+        {
+          "w": "explico.",
+          "start": 3.92,
+          "end": 4.3
+        }
+      ],
+      "special": [
+        1
+      ],
+      "y": 1252
+    },
+    {
+      "start": 4.62,
+      "end": 5.86,
+      "sentence": 3,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "Piensa",
+          "start": 4.62,
+          "end": 4.86
+        },
+        {
+          "w": "en",
+          "start": 4.86,
+          "end": 4.98
+        },
+        {
+          "w": "dos",
+          "start": 4.98,
+          "end": 5.08
+        },
+        {
+          "w": "tiendas",
+          "start": 5.08,
+          "end": 5.38
+        },
+        {
+          "w": "físicas.",
+          "start": 5.38,
+          "end": 5.8
+        }
+      ],
+      "special": [
+        4
+      ],
+      "y": 1252
+    },
+    {
+      "start": 5.86,
+      "end": 7.6,
+      "sentence": 4,
+      "treatment": "serif",
+      "box": false,
+      "words": [
+        {
+          "w": "Una",
+          "start": 5.86,
+          "end": 6.02
+        },
+        {
+          "w": "tiene",
+          "start": 6.02,
+          "end": 6.24
+        },
+        {
+          "w": "100",
+          "start": 6.24,
+          "end": 6.44
+        },
+        {
+          "w": "camisetas",
+          "start": 6.44,
+          "end": 6.9
+        },
+        {
+          "w": "colgadas,",
+          "start": 6.9,
+          "end": 7.34
+        }
+      ],
+      "special": [
+        2,
+        3
+      ],
+      "y": 1252
+    },
+    {
+      "start": 7.6,
+      "end": 8.52,
+      "sentence": 4,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "todas",
+          "start": 7.6,
+          "end": 7.72
+        },
+        {
+          "w": "parecidas.",
+          "start": 7.72,
+          "end": 8.26
+        }
+      ],
+      "special": [
+        1
+      ],
+      "y": 1252
+    },
+    {
+      "start": 8.52,
+      "end": 10.16,
+      "sentence": 5,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "Miras,",
+          "start": 8.52,
+          "end": 8.84
+        },
+        {
+          "w": "te",
+          "start": 8.94,
+          "end": 9.0
+        },
+        {
+          "w": "confundes",
+          "start": 9.0,
+          "end": 9.52
+        },
+        {
+          "w": "y",
+          "start": 9.52,
+          "end": 9.64
+        },
+        {
+          "w": "dices,",
+          "start": 9.64,
+          "end": 9.86
+        }
+      ],
+      "special": [
+        2
+      ],
+      "y": 1252
+    },
+    {
+      "start": 10.16,
+      "end": 10.92,
+      "sentence": 5,
+      "treatment": "serif",
+      "box": true,
+      "words": [
+        {
+          "w": "voy",
+          "start": 10.16,
+          "end": 10.26
+        },
+        {
+          "w": "a",
+          "start": 10.26,
+          "end": 10.34
+        },
+        {
+          "w": "dar",
+          "start": 10.34,
+          "end": 10.44
+        },
+        {
+          "w": "una",
+          "start": 10.44,
+          "end": 10.56
+        },
+        {
+          "w": "vuelta.",
+          "start": 10.56,
+          "end": 10.86
+        }
+      ],
+      "special": [
+        3,
+        4
+      ],
+      "y": 1252
+    },
+    {
+      "start": 10.92,
+      "end": 11.54,
+      "sentence": 6,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "Y",
+          "start": 10.92,
+          "end": 11.06
+        },
+        {
+          "w": "no",
+          "start": 11.06,
+          "end": 11.14
+        },
+        {
+          "w": "vuelves.",
+          "start": 11.14,
+          "end": 11.48
+        }
+      ],
+      "special": [
+        2
+      ],
+      "y": 1252
+    },
+    {
+      "start": 11.54,
+      "end": 12.08,
+      "sentence": 7,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "La",
+          "start": 11.54,
+          "end": 11.7
+        },
+        {
+          "w": "otra",
+          "start": 11.7,
+          "end": 11.86
+        },
+        {
+          "w": "tiene",
+          "start": 11.86,
+          "end": 12.08
+        }
+      ],
+      "special": [
+        2
+      ],
+      "y": 1252
+    },
+    {
+      "start": 12.08,
+      "end": 13.46,
+      "sentence": 7,
+      "treatment": "serif",
+      "box": false,
+      "words": [
+        {
+          "w": "5",
+          "start": 12.08,
+          "end": 12.34
+        },
+        {
+          "w": "prendas",
+          "start": 12.34,
+          "end": 12.7
+        },
+        {
+          "w": "bien",
+          "start": 12.7,
+          "end": 12.86
+        },
+        {
+          "w": "puestas,",
+          "start": 12.86,
+          "end": 13.32
+        }
+      ],
+      "special": [
+        0,
+        1
+      ],
+      "y": 1252
+    },
+    {
+      "start": 13.46,
+      "end": 13.8,
+      "sentence": 7,
+      "treatment": "serif",
+      "box": false,
+      "words": [
+        {
+          "w": "con",
+          "start": 13.46,
+          "end": 13.56
+        },
+        {
+          "w": "un",
+          "start": 13.56,
+          "end": 13.68
+        },
+        {
+          "w": "man",
+          "start": 13.68,
+          "end": 13.8
+        }
+      ],
+      "special": [
+        1,
+        2
+      ],
+      "y": 1252
+    },
+    {
+      "start": 13.8,
+      "end": 15.26,
+      "sentence": 7,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "que",
+          "start": 13.8,
+          "end": 13.94
+        },
+        {
+          "w": "las",
+          "start": 13.94,
+          "end": 14.06
+        },
+        {
+          "w": "tiene",
+          "start": 14.06,
+          "end": 14.22
+        },
+        {
+          "w": "puestas",
+          "start": 14.22,
+          "end": 14.54
+        },
+        {
+          "w": "al",
+          "start": 14.54,
+          "end": 14.72
+        },
+        {
+          "w": "lado.",
+          "start": 14.72,
+          "end": 14.96
+        }
+      ],
+      "special": [
+        3
+      ],
+      "y": 1252
+    },
+    {
+      "start": 15.26,
+      "end": 16.08,
+      "sentence": 8,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "En",
+          "start": 15.26,
+          "end": 15.4
+        },
+        {
+          "w": "dos",
+          "start": 15.4,
+          "end": 15.56
+        },
+        {
+          "w": "minutos",
+          "start": 15.56,
+          "end": 15.88
+        },
+        {
+          "w": "ya",
+          "start": 15.88,
+          "end": 16.08
+        }
+      ],
+      "special": [
+        2
+      ],
+      "y": 1252
+    },
+    {
+      "start": 16.08,
+      "end": 17.0,
+      "sentence": 8,
+      "treatment": "serif",
+      "box": false,
+      "words": [
+        {
+          "w": "sabes",
+          "start": 16.08,
+          "end": 16.3
+        },
+        {
+          "w": "cuál",
+          "start": 16.3,
+          "end": 16.53
+        },
+        {
+          "w": "quieres.",
+          "start": 16.53,
+          "end": 16.76
+        }
+      ],
+      "special": [
+        2
+      ],
+      "y": 1252
+    },
+    {
+      "start": 17.0,
+      "end": 17.78,
+      "sentence": 9,
+      "treatment": "serif",
+      "box": true,
+      "words": [
+        {
+          "w": "En",
+          "start": 17.0,
+          "end": 17.1
+        },
+        {
+          "w": "tu",
+          "start": 17.1,
+          "end": 17.2
+        },
+        {
+          "w": "perfil,",
+          "start": 17.2,
+          "end": 17.64
+        }
+      ],
+      "special": [
+        1,
+        2
+      ],
+      "y": 1252
+    },
+    {
+      "start": 17.78,
+      "end": 18.56,
+      "sentence": 9,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "pasa",
+          "start": 17.78,
+          "end": 17.96
+        },
+        {
+          "w": "igual.",
+          "start": 17.96,
+          "end": 18.22
+        }
+      ],
+      "special": [
+        1
+      ],
+      "y": 1252
+    },
+    {
+      "start": 18.56,
+      "end": 20.04,
+      "sentence": 10,
+      "treatment": "serif",
+      "box": false,
+      "words": [
+        {
+          "w": "Si",
+          "start": 18.56,
+          "end": 18.68
+        },
+        {
+          "w": "subes",
+          "start": 18.68,
+          "end": 18.92
+        },
+        {
+          "w": "40",
+          "start": 18.92,
+          "end": 19.14
+        },
+        {
+          "w": "camisetas,",
+          "start": 19.14,
+          "end": 19.86
+        }
+      ],
+      "special": [
+        2,
+        3
+      ],
+      "y": 1252
+    },
+    {
+      "start": 20.04,
+      "end": 21.72,
+      "sentence": 10,
+      "treatment": "serif",
+      "box": false,
+      "words": [
+        {
+          "w": "20",
+          "start": 20.04,
+          "end": 20.18
+        },
+        {
+          "w": "jeans",
+          "start": 20.18,
+          "end": 20.6
+        },
+        {
+          "w": "y",
+          "start": 20.6,
+          "end": 20.78
+        },
+        {
+          "w": "15",
+          "start": 20.78,
+          "end": 21.04
+        },
+        {
+          "w": "gorras,",
+          "start": 21.04,
+          "end": 21.44
+        }
+      ],
+      "special": [
+        3,
+        4
+      ],
+      "y": 1252
+    },
+    {
+      "start": 21.72,
+      "end": 22.32,
+      "sentence": 10,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "el",
+          "start": 21.72,
+          "end": 21.78
+        },
+        {
+          "w": "cliente",
+          "start": 21.78,
+          "end": 22.18
+        },
+        {
+          "w": "no",
+          "start": 22.18,
+          "end": 22.32
+        }
+      ],
+      "special": [
+        1
+      ],
+      "y": 1252
+    },
+    {
+      "start": 22.32,
+      "end": 23.62,
+      "sentence": 10,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "sabe",
+          "start": 22.32,
+          "end": 22.6
+        },
+        {
+          "w": "cuál",
+          "start": 22.6,
+          "end": 22.82
+        },
+        {
+          "w": "escoger.",
+          "start": 22.82,
+          "end": 23.3
+        }
+      ],
+      "special": [
+        2
+      ],
+      "y": 1252
+    },
+    {
+      "start": 23.62,
+      "end": 24.0,
+      "sentence": 11,
+      "treatment": null,
+      "box": false,
+      "words": [
+        {
+          "w": "Y",
+          "start": 23.62,
+          "end": 23.72
+        },
+        {
+          "w": "el",
+          "start": 23.72,
+          "end": 23.8
+        },
+        {
+          "w": "que",
+          "start": 23.8,
+          "end": 23.88
+        },
+        {
+          "w": "no",
+          "start": 23.88,
+          "end": 24.0
+        }
+      ],
+      "special": [],
+      "y": 1252
+    },
+    {
+      "start": 24.0,
+      "end": 24.78,
+      "sentence": 11,
+      "treatment": "serif",
+      "box": false,
+      "words": [
+        {
+          "w": "sabe",
+          "start": 24.0,
+          "end": 24.16
+        },
+        {
+          "w": "qué",
+          "start": 24.16,
+          "end": 24.3
+        },
+        {
+          "w": "escoger.",
+          "start": 24.3,
+          "end": 24.68
+        }
+      ],
+      "special": [
+        2
+      ],
+      "y": 1252
+    },
+    {
+      "start": 24.78,
+      "end": 25.38,
+      "sentence": 12,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "no",
+          "start": 24.78,
+          "end": 24.99
+        },
+        {
+          "w": "escoge.",
+          "start": 24.99,
+          "end": 25.2
+        }
+      ],
+      "special": [
+        1
+      ],
+      "y": 1252
+    },
+    {
+      "start": 25.38,
+      "end": 25.64,
+      "sentence": 13,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "Se",
+          "start": 25.38,
+          "end": 25.46
+        },
+        {
+          "w": "va.",
+          "start": 25.46,
+          "end": 25.64
+        }
+      ],
+      "special": [
+        1
+      ],
+      "y": 1252
+    },
+    {
+      "start": 25.64,
+      "end": 26.48,
+      "sentence": 14,
+      "treatment": "serif",
+      "box": true,
+      "words": [
+        {
+          "w": "Las",
+          "start": 25.64,
+          "end": 25.94
+        },
+        {
+          "w": "tiendas",
+          "start": 25.94,
+          "end": 26.24
+        },
+        {
+          "w": "de",
+          "start": 26.24,
+          "end": 26.32
+        },
+        {
+          "w": "hombre",
+          "start": 26.32,
+          "end": 26.48
+        }
+      ],
+      "special": [
+        1
+      ],
+      "y": 1252
+    },
+    {
+      "start": 26.48,
+      "end": 27.82,
+      "sentence": 14,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "que",
+          "start": 26.48,
+          "end": 26.66
+        },
+        {
+          "w": "más",
+          "start": 26.66,
+          "end": 26.8
+        },
+        {
+          "w": "venden",
+          "start": 26.8,
+          "end": 27.14
+        },
+        {
+          "w": "muestran.",
+          "start": 27.14,
+          "end": 27.66
+        }
+      ],
+      "special": [
+        3
+      ],
+      "y": 1252
+    },
+    {
+      "start": 27.82,
+      "end": 28.76,
+      "sentence": 15,
+      "treatment": "serif",
+      "box": false,
+      "words": [
+        {
+          "w": "Poquitas",
+          "start": 27.82,
+          "end": 28.18
+        },
+        {
+          "w": "prendas,",
+          "start": 28.18,
+          "end": 28.66
+        }
+      ],
+      "special": [
+        0,
+        1
+      ],
+      "y": 1252
+    },
+    {
+      "start": 28.76,
+      "end": 30.02,
+      "sentence": 15,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "cada",
+          "start": 28.76,
+          "end": 28.9
+        },
+        {
+          "w": "una",
+          "start": 28.9,
+          "end": 29.12
+        },
+        {
+          "w": "bien",
+          "start": 29.12,
+          "end": 29.3
+        },
+        {
+          "w": "mostrada.",
+          "start": 29.3,
+          "end": 29.86
+        }
+      ],
+      "special": [
+        3
+      ],
+      "y": 1252
+    },
+    {
+      "start": 30.02,
+      "end": 31.54,
+      "sentence": 16,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "Puesta",
+          "start": 30.02,
+          "end": 30.4
+        },
+        {
+          "w": "con",
+          "start": 30.4,
+          "end": 30.7
+        },
+        {
+          "w": "la",
+          "start": 30.7,
+          "end": 30.82
+        },
+        {
+          "w": "pinta",
+          "start": 30.82,
+          "end": 31.1
+        },
+        {
+          "w": "completa",
+          "start": 31.1,
+          "end": 31.54
+        }
+      ],
+      "special": [
+        4
+      ],
+      "y": 1252
+    },
+    {
+      "start": 31.54,
+      "end": 32.82,
+      "sentence": 16,
+      "treatment": "serif",
+      "box": false,
+      "words": [
+        {
+          "w": "y",
+          "start": 31.54,
+          "end": 31.7
+        },
+        {
+          "w": "diciendo",
+          "start": 31.7,
+          "end": 31.94
+        },
+        {
+          "w": "para",
+          "start": 31.94,
+          "end": 32.18
+        },
+        {
+          "w": "qué",
+          "start": 32.18,
+          "end": 32.38
+        },
+        {
+          "w": "es.",
+          "start": 32.38,
+          "end": 32.64
+        }
+      ],
+      "special": [
+        1
+      ],
+      "y": 1252
+    },
+    {
+      "start": 32.82,
+      "end": 33.44,
+      "sentence": 17,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "Le",
+          "start": 32.82,
+          "end": 32.9
+        },
+        {
+          "w": "apuestan",
+          "start": 32.9,
+          "end": 33.3
+        },
+        {
+          "w": "a",
+          "start": 33.3,
+          "end": 33.34
+        },
+        {
+          "w": "lo",
+          "start": 33.34,
+          "end": 33.44
+        }
+      ],
+      "special": [
+        1
+      ],
+      "y": 1252
+    },
+    {
+      "start": 33.44,
+      "end": 34.3,
+      "sentence": 17,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "que",
+          "start": 33.44,
+          "end": 33.54
+        },
+        {
+          "w": "ya",
+          "start": 33.54,
+          "end": 33.7
+        },
+        {
+          "w": "se",
+          "start": 33.7,
+          "end": 33.78
+        },
+        {
+          "w": "vendió",
+          "start": 33.78,
+          "end": 34.08
+        },
+        {
+          "w": "bien",
+          "start": 34.08,
+          "end": 34.3
+        }
+      ],
+      "special": [
+        3
+      ],
+      "y": 1252
+    },
+    {
+      "start": 34.3,
+      "end": 35.34,
+      "sentence": 17,
+      "treatment": "serif",
+      "box": false,
+      "words": [
+        {
+          "w": "y",
+          "start": 34.3,
+          "end": 34.66
+        },
+        {
+          "w": "le",
+          "start": 34.66,
+          "end": 34.76
+        },
+        {
+          "w": "suman",
+          "start": 34.76,
+          "end": 35.1
+        },
+        {
+          "w": "una",
+          "start": 35.1,
+          "end": 35.34
+        }
+      ],
+      "special": [
+        2
+      ],
+      "y": 1252
+    },
+    {
+      "start": 35.34,
+      "end": 36.16,
+      "sentence": 17,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "o",
+          "start": 35.34,
+          "end": 35.48
+        },
+        {
+          "w": "dos",
+          "start": 35.48,
+          "end": 35.62
+        },
+        {
+          "w": "cosas",
+          "start": 35.62,
+          "end": 35.84
+        },
+        {
+          "w": "nuevas.",
+          "start": 35.84,
+          "end": 36.1
+        }
+      ],
+      "special": [
+        3
+      ],
+      "y": 1252
+    },
+    {
+      "start": 36.16,
+      "end": 37.38,
+      "sentence": 18,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "Una",
+          "start": 36.16,
+          "end": 36.26
+        },
+        {
+          "w": "tienda",
+          "start": 36.26,
+          "end": 36.54
+        },
+        {
+          "w": "que",
+          "start": 36.54,
+          "end": 36.86
+        },
+        {
+          "w": "escoge.",
+          "start": 36.86,
+          "end": 37.18
+        }
+      ],
+      "special": [
+        3
+      ],
+      "y": 1252
+    },
+    {
+      "start": 37.38,
+      "end": 38.14,
+      "sentence": 19,
+      "treatment": "serif",
+      "box": true,
+      "words": [
+        {
+          "w": "Una",
+          "start": 37.38,
+          "end": 37.5
+        },
+        {
+          "w": "tienda",
+          "start": 37.5,
+          "end": 37.74
+        },
+        {
+          "w": "curada",
+          "start": 37.74,
+          "end": 38.14
+        }
+      ],
+      "special": [
+        2
+      ],
+      "y": 1252
+    },
+    {
+      "start": 38.14,
+      "end": 39.02,
+      "sentence": 19,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "se",
+          "start": 38.14,
+          "end": 38.3
+        },
+        {
+          "w": "ve",
+          "start": 38.3,
+          "end": 38.4
+        },
+        {
+          "w": "segura.",
+          "start": 38.4,
+          "end": 38.82
+        }
+      ],
+      "special": [
+        2
+      ],
+      "y": 1252
+    },
+    {
+      "start": 39.02,
+      "end": 39.68,
+      "sentence": 20,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "Una",
+          "start": 39.02,
+          "end": 39.14
+        },
+        {
+          "w": "que",
+          "start": 39.14,
+          "end": 39.28
+        },
+        {
+          "w": "lo",
+          "start": 39.28,
+          "end": 39.38
+        },
+        {
+          "w": "muestra",
+          "start": 39.38,
+          "end": 39.68
+        }
+      ],
+      "special": [
+        3
+      ],
+      "y": 1252
+    },
+    {
+      "start": 39.68,
+      "end": 41.26,
+      "sentence": 20,
+      "treatment": "serif",
+      "box": false,
+      "words": [
+        {
+          "w": "todo",
+          "start": 39.68,
+          "end": 39.94
+        },
+        {
+          "w": "se",
+          "start": 39.94,
+          "end": 40.2
+        },
+        {
+          "w": "ve",
+          "start": 40.2,
+          "end": 40.32
+        },
+        {
+          "w": "desesperada.",
+          "start": 40.32,
+          "end": 40.96
+        }
+      ],
+      "special": [
+        3
+      ],
+      "y": 1252
+    },
+    {
+      "start": 41.26,
+      "end": 42.96,
+      "sentence": 21,
+      "treatment": "serif",
+      "box": false,
+      "words": [
+        {
+          "w": "Esta",
+          "start": 41.26,
+          "end": 41.44
+        },
+        {
+          "w": "semana",
+          "start": 41.44,
+          "end": 41.78
+        },
+        {
+          "w": "busca",
+          "start": 41.78,
+          "end": 42.16
+        },
+        {
+          "w": "tus",
+          "start": 42.16,
+          "end": 42.34
+        },
+        {
+          "w": "5",
+          "start": 42.34,
+          "end": 42.58
+        },
+        {
+          "w": "prendas",
+          "start": 42.58,
+          "end": 42.96
+        }
+      ],
+      "special": [
+        4,
+        5
+      ],
+      "y": 1252
+    },
+    {
+      "start": 42.96,
+      "end": 43.58,
+      "sentence": 21,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "que",
+          "start": 42.96,
+          "end": 43.06
+        },
+        {
+          "w": "más",
+          "start": 43.06,
+          "end": 43.24
+        },
+        {
+          "w": "salieron",
+          "start": 43.24,
+          "end": 43.58
+        }
+      ],
+      "special": [
+        2
+      ],
+      "y": 1252
+    },
+    {
+      "start": 43.58,
+      "end": 45.18,
+      "sentence": 21,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "y",
+          "start": 43.58,
+          "end": 43.76
+        },
+        {
+          "w": "dale",
+          "start": 43.76,
+          "end": 43.86
+        },
+        {
+          "w": "todo",
+          "start": 43.86,
+          "end": 44.16
+        },
+        {
+          "w": "el",
+          "start": 44.16,
+          "end": 44.28
+        },
+        {
+          "w": "protagonismo.",
+          "start": 44.28,
+          "end": 44.96
+        }
+      ],
+      "special": [
+        4
+      ],
+      "y": 1252
+    },
+    {
+      "start": 45.18,
+      "end": 46.08,
+      "sentence": 22,
+      "treatment": "serif",
+      "box": false,
+      "words": [
+        {
+          "w": "Comenta",
+          "start": 45.18,
+          "end": 45.52
+        },
+        {
+          "w": "5",
+          "start": 45.52,
+          "end": 45.84
+        },
+        {
+          "w": "y",
+          "start": 45.84,
+          "end": 46.0
+        },
+        {
+          "w": "te",
+          "start": 46.0,
+          "end": 46.08
+        }
+      ],
+      "special": [
+        1
+      ],
+      "y": 1252
+    },
+    {
+      "start": 46.08,
+      "end": 46.96,
+      "sentence": 22,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "hago",
+          "start": 46.08,
+          "end": 46.2
+        },
+        {
+          "w": "un",
+          "start": 46.2,
+          "end": 46.3
+        },
+        {
+          "w": "anuncio",
+          "start": 46.3,
+          "end": 46.58
+        },
+        {
+          "w": "de",
+          "start": 46.58,
+          "end": 46.68
+        },
+        {
+          "w": "muestra",
+          "start": 46.68,
+          "end": 46.96
+        }
+      ],
+      "special": [
+        4
+      ],
+      "y": 1252
+    },
+    {
+      "start": 46.96,
+      "end": 47.84,
+      "sentence": 22,
+      "treatment": null,
+      "box": false,
+      "words": [
+        {
+          "w": "con",
+          "start": 46.96,
+          "end": 47.18
+        },
+        {
+          "w": "una",
+          "start": 47.18,
+          "end": 47.46
+        },
+        {
+          "w": "de",
+          "start": 47.46,
+          "end": 47.6
+        },
+        {
+          "w": "ellas",
+          "start": 47.6,
+          "end": 47.84
+        }
+      ],
+      "special": [],
+      "y": 1252
+    },
+    {
+      "start": 47.84,
+      "end": 49.78,
+      "sentence": 22,
+      "treatment": "sans",
+      "box": false,
+      "words": [
+        {
+          "w": "para",
+          "start": 47.84,
+          "end": 48.28
+        },
+        {
+          "w": "que",
+          "start": 48.28,
+          "end": 48.42
+        },
+        {
+          "w": "veas",
+          "start": 48.42,
+          "end": 48.64
+        },
+        {
+          "w": "cómo",
+          "start": 48.64,
+          "end": 48.82
+        },
+        {
+          "w": "se",
+          "start": 48.82,
+          "end": 48.98
+        },
+        {
+          "w": "vería",
+          "start": 48.98,
+          "end": 49.78
+        }
+      ],
+      "special": [
+        5
+      ],
+      "y": 1252
+    },
+    {
+      "start": 49.78,
+      "end": 50.48,
+      "sentence": 22,
+      "treatment": "serif",
+      "box": true,
+      "words": [
+        {
+          "w": "en",
+          "start": 49.78,
+          "end": 49.94
+        },
+        {
+          "w": "Black",
+          "start": 49.94,
+          "end": 50.14
+        },
+        {
+          "w": "Friday.",
+          "start": 50.14,
+          "end": 50.48
+        }
+      ],
+      "special": [
+        1,
+        2
+      ],
+      "y": 1252
+    }
+  ]
+}

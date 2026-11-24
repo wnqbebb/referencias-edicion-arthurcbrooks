@@ -1,0 +1,1092 @@
+{
+  "video": "v04.mp4",
+  "duration": 57.45,
+  "derived": {
+    "shots": 4,
+    "avg_shot_len": 14.36,
+    "cuts_per_min": 4.2,
+    "hook_shots_first_3s": 1,
+    "high_motion_shots": [
+      1,
+      2,
+      3
+    ]
+  },
+  "method": "ffmpeg scene>0.32 + keyframes 5/plano + paleta cuantizada + energía de movimiento",
+  "words": [
+    {
+      "w": "Never",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "w": "waste",
+      "start": 0.36,
+      "end": 0.66
+    },
+    {
+      "w": "your",
+      "start": 0.66,
+      "end": 0.84
+    },
+    {
+      "w": "suffering.",
+      "start": 0.84,
+      "end": 1.22
+    },
+    {
+      "w": "I",
+      "start": 1.56,
+      "end": 1.72
+    },
+    {
+      "w": "ask",
+      "start": 1.72,
+      "end": 1.92
+    },
+    {
+      "w": "my",
+      "start": 1.92,
+      "end": 2.12
+    },
+    {
+      "w": "students",
+      "start": 2.12,
+      "end": 2.56
+    },
+    {
+      "w": "in",
+      "start": 2.56,
+      "end": 3.2
+    },
+    {
+      "w": "my",
+      "start": 3.2,
+      "end": 3.36
+    },
+    {
+      "w": "happiness",
+      "start": 3.36,
+      "end": 3.58
+    },
+    {
+      "w": "class",
+      "start": 3.58,
+      "end": 3.98
+    },
+    {
+      "w": "to",
+      "start": 3.98,
+      "end": 4.42
+    },
+    {
+      "w": "keep",
+      "start": 4.42,
+      "end": 5.22
+    },
+    {
+      "w": "a",
+      "start": 5.22,
+      "end": 5.42
+    },
+    {
+      "w": "failure",
+      "start": 5.42,
+      "end": 5.9
+    },
+    {
+      "w": "and",
+      "start": 5.9,
+      "end": 6.2
+    },
+    {
+      "w": "disappointment",
+      "start": 6.2,
+      "end": 6.7
+    },
+    {
+      "w": "list.",
+      "start": 6.7,
+      "end": 7.3
+    },
+    {
+      "w": "And",
+      "start": 8.08,
+      "end": 8.08
+    },
+    {
+      "w": "each",
+      "start": 8.08,
+      "end": 8.5
+    },
+    {
+      "w": "time",
+      "start": 8.5,
+      "end": 8.88
+    },
+    {
+      "w": "something",
+      "start": 8.88,
+      "end": 9.14
+    },
+    {
+      "w": "bad",
+      "start": 9.14,
+      "end": 9.44
+    },
+    {
+      "w": "happens",
+      "start": 9.44,
+      "end": 9.92
+    },
+    {
+      "w": "that",
+      "start": 9.92,
+      "end": 10.26
+    },
+    {
+      "w": "feels",
+      "start": 10.26,
+      "end": 10.5
+    },
+    {
+      "w": "like",
+      "start": 10.5,
+      "end": 10.74
+    },
+    {
+      "w": "a",
+      "start": 10.74,
+      "end": 10.84
+    },
+    {
+      "w": "loss",
+      "start": 10.84,
+      "end": 11.12
+    },
+    {
+      "w": "or",
+      "start": 11.12,
+      "end": 11.32
+    },
+    {
+      "w": "it",
+      "start": 11.32,
+      "end": 11.42
+    },
+    {
+      "w": "feels",
+      "start": 11.42,
+      "end": 11.54
+    },
+    {
+      "w": "like",
+      "start": 11.54,
+      "end": 11.7
+    },
+    {
+      "w": "a",
+      "start": 11.7,
+      "end": 11.76
+    },
+    {
+      "w": "disappointment",
+      "start": 11.76,
+      "end": 12.28
+    },
+    {
+      "w": "or",
+      "start": 12.28,
+      "end": 12.52
+    },
+    {
+      "w": "feels",
+      "start": 12.52,
+      "end": 12.7
+    },
+    {
+      "w": "like",
+      "start": 12.7,
+      "end": 12.88
+    },
+    {
+      "w": "a",
+      "start": 12.88,
+      "end": 12.96
+    },
+    {
+      "w": "failure,",
+      "start": 12.96,
+      "end": 13.28
+    },
+    {
+      "w": "you",
+      "start": 13.68,
+      "end": 13.9
+    },
+    {
+      "w": "write",
+      "start": 13.9,
+      "end": 14.08
+    },
+    {
+      "w": "it",
+      "start": 14.08,
+      "end": 14.22
+    },
+    {
+      "w": "down",
+      "start": 14.22,
+      "end": 14.38
+    },
+    {
+      "w": "and",
+      "start": 14.38,
+      "end": 14.52
+    },
+    {
+      "w": "leave",
+      "start": 14.52,
+      "end": 14.64
+    },
+    {
+      "w": "two",
+      "start": 14.64,
+      "end": 14.88
+    },
+    {
+      "w": "lines",
+      "start": 14.88,
+      "end": 15.18
+    },
+    {
+      "w": "blank.",
+      "start": 15.18,
+      "end": 15.46
+    },
+    {
+      "w": "And",
+      "start": 16.36,
+      "end": 16.72
+    },
+    {
+      "w": "on",
+      "start": 16.72,
+      "end": 16.84
+    },
+    {
+      "w": "the",
+      "start": 16.84,
+      "end": 16.94
+    },
+    {
+      "w": "first",
+      "start": 16.94,
+      "end": 17.12
+    },
+    {
+      "w": "line,",
+      "start": 17.12,
+      "end": 17.38
+    },
+    {
+      "w": "you",
+      "start": 17.56,
+      "end": 17.64
+    },
+    {
+      "w": "write",
+      "start": 17.64,
+      "end": 17.88
+    },
+    {
+      "w": "down",
+      "start": 17.88,
+      "end": 18.24
+    },
+    {
+      "w": "is",
+      "start": 18.24,
+      "end": 18.5
+    },
+    {
+      "w": "like",
+      "start": 18.5,
+      "end": 18.64
+    },
+    {
+      "w": "that",
+      "start": 18.64,
+      "end": 18.8
+    },
+    {
+      "w": "thing",
+      "start": 18.8,
+      "end": 19.02
+    },
+    {
+      "w": "really",
+      "start": 19.02,
+      "end": 19.22
+    },
+    {
+      "w": "bothered",
+      "start": 19.22,
+      "end": 19.68
+    },
+    {
+      "w": "me.",
+      "start": 19.68,
+      "end": 20.08
+    },
+    {
+      "w": "And",
+      "start": 20.22,
+      "end": 20.4
+    },
+    {
+      "w": "then",
+      "start": 20.4,
+      "end": 20.62
+    },
+    {
+      "w": "a",
+      "start": 20.62,
+      "end": 21.04
+    },
+    {
+      "w": "month",
+      "start": 21.04,
+      "end": 21.3
+    },
+    {
+      "w": "later,",
+      "start": 21.3,
+      "end": 21.6
+    },
+    {
+      "w": "you",
+      "start": 21.62,
+      "end": 21.74
+    },
+    {
+      "w": "come",
+      "start": 21.74,
+      "end": 21.9
+    },
+    {
+      "w": "back",
+      "start": 21.9,
+      "end": 22.08
+    },
+    {
+      "w": "to",
+      "start": 22.08,
+      "end": 22.24
+    },
+    {
+      "w": "the",
+      "start": 22.24,
+      "end": 22.34
+    },
+    {
+      "w": "first",
+      "start": 22.34,
+      "end": 22.56
+    },
+    {
+      "w": "line",
+      "start": 22.56,
+      "end": 22.78
+    },
+    {
+      "w": "that",
+      "start": 22.78,
+      "end": 22.92
+    },
+    {
+      "w": "you",
+      "start": 22.92,
+      "end": 23.0
+    },
+    {
+      "w": "left",
+      "start": 23.0,
+      "end": 23.22
+    },
+    {
+      "w": "blank",
+      "start": 23.22,
+      "end": 23.42
+    },
+    {
+      "w": "under",
+      "start": 23.42,
+      "end": 23.7
+    },
+    {
+      "w": "it",
+      "start": 23.7,
+      "end": 23.94
+    },
+    {
+      "w": "and",
+      "start": 23.94,
+      "end": 24.6
+    },
+    {
+      "w": "write",
+      "start": 24.6,
+      "end": 24.82
+    },
+    {
+      "w": "down",
+      "start": 24.82,
+      "end": 25.04
+    },
+    {
+      "w": "what",
+      "start": 25.04,
+      "end": 25.2
+    },
+    {
+      "w": "did",
+      "start": 25.2,
+      "end": 25.3
+    },
+    {
+      "w": "you",
+      "start": 25.3,
+      "end": 25.4
+    },
+    {
+      "w": "learn?",
+      "start": 25.4,
+      "end": 25.7
+    },
+    {
+      "w": "And",
+      "start": 25.96,
+      "end": 26.14
+    },
+    {
+      "w": "then",
+      "start": 26.14,
+      "end": 26.34
+    },
+    {
+      "w": "three",
+      "start": 26.34,
+      "end": 26.94
+    },
+    {
+      "w": "months",
+      "start": 26.94,
+      "end": 27.14
+    },
+    {
+      "w": "later,",
+      "start": 27.14,
+      "end": 27.36
+    },
+    {
+      "w": "you",
+      "start": 27.36,
+      "end": 27.5
+    },
+    {
+      "w": "come",
+      "start": 27.5,
+      "end": 27.66
+    },
+    {
+      "w": "back",
+      "start": 27.66,
+      "end": 27.84
+    },
+    {
+      "w": "to",
+      "start": 27.84,
+      "end": 27.96
+    },
+    {
+      "w": "the",
+      "start": 27.96,
+      "end": 28.06
+    },
+    {
+      "w": "second",
+      "start": 28.06,
+      "end": 28.3
+    },
+    {
+      "w": "line",
+      "start": 28.3,
+      "end": 28.56
+    },
+    {
+      "w": "and",
+      "start": 28.56,
+      "end": 28.7
+    },
+    {
+      "w": "write",
+      "start": 28.7,
+      "end": 28.88
+    },
+    {
+      "w": "down",
+      "start": 28.88,
+      "end": 29.1
+    },
+    {
+      "w": "a",
+      "start": 29.1,
+      "end": 29.32
+    },
+    {
+      "w": "good",
+      "start": 29.32,
+      "end": 29.5
+    },
+    {
+      "w": "thing",
+      "start": 29.5,
+      "end": 29.74
+    },
+    {
+      "w": "that",
+      "start": 29.74,
+      "end": 29.9
+    },
+    {
+      "w": "happened",
+      "start": 29.9,
+      "end": 30.2
+    },
+    {
+      "w": "because",
+      "start": 30.2,
+      "end": 30.54
+    },
+    {
+      "w": "of",
+      "start": 30.54,
+      "end": 30.76
+    },
+    {
+      "w": "that",
+      "start": 30.76,
+      "end": 30.88
+    },
+    {
+      "w": "loss.",
+      "start": 30.88,
+      "end": 31.14
+    },
+    {
+      "w": "And",
+      "start": 31.82,
+      "end": 32.3
+    },
+    {
+      "w": "you're",
+      "start": 32.3,
+      "end": 32.68
+    },
+    {
+      "w": "filling",
+      "start": 32.68,
+      "end": 32.92
+    },
+    {
+      "w": "in",
+      "start": 32.92,
+      "end": 33.12
+    },
+    {
+      "w": "the",
+      "start": 33.12,
+      "end": 33.2
+    },
+    {
+      "w": "notebook.",
+      "start": 33.2,
+      "end": 33.46
+    },
+    {
+      "w": "And",
+      "start": 33.68,
+      "end": 33.68
+    },
+    {
+      "w": "by",
+      "start": 33.68,
+      "end": 33.8
+    },
+    {
+      "w": "the",
+      "start": 33.8,
+      "end": 33.86
+    },
+    {
+      "w": "time",
+      "start": 33.86,
+      "end": 34.08
+    },
+    {
+      "w": "you're",
+      "start": 34.08,
+      "end": 34.26
+    },
+    {
+      "w": "going",
+      "start": 34.26,
+      "end": 34.52
+    },
+    {
+      "w": "to",
+      "start": 34.52,
+      "end": 34.74
+    },
+    {
+      "w": "a",
+      "start": 34.74,
+      "end": 34.88
+    },
+    {
+      "w": "new",
+      "start": 34.88,
+      "end": 35.04
+    },
+    {
+      "w": "thing",
+      "start": 35.04,
+      "end": 35.28
+    },
+    {
+      "w": "that's",
+      "start": 35.28,
+      "end": 35.48
+    },
+    {
+      "w": "really",
+      "start": 35.48,
+      "end": 35.6
+    },
+    {
+      "w": "bugging",
+      "start": 35.6,
+      "end": 36.58
+    },
+    {
+      "w": "you,",
+      "start": 36.58,
+      "end": 36.82
+    },
+    {
+      "w": "really",
+      "start": 37.08,
+      "end": 37.16
+    },
+    {
+      "w": "bothering",
+      "start": 37.16,
+      "end": 37.68
+    },
+    {
+      "w": "you,",
+      "start": 37.68,
+      "end": 38.06
+    },
+    {
+      "w": "you",
+      "start": 38.54,
+      "end": 38.64
+    },
+    {
+      "w": "start",
+      "start": 38.64,
+      "end": 38.82
+    },
+    {
+      "w": "to",
+      "start": 38.82,
+      "end": 39.02
+    },
+    {
+      "w": "look",
+      "start": 39.02,
+      "end": 39.12
+    },
+    {
+      "w": "forward",
+      "start": 39.12,
+      "end": 39.54
+    },
+    {
+      "w": "to",
+      "start": 39.54,
+      "end": 39.78
+    },
+    {
+      "w": "it",
+      "start": 39.78,
+      "end": 39.92
+    },
+    {
+      "w": "because",
+      "start": 39.92,
+      "end": 40.12
+    },
+    {
+      "w": "you're",
+      "start": 40.12,
+      "end": 40.32
+    },
+    {
+      "w": "going",
+      "start": 40.32,
+      "end": 40.4
+    },
+    {
+      "w": "to",
+      "start": 40.4,
+      "end": 40.46
+    },
+    {
+      "w": "be",
+      "start": 40.46,
+      "end": 40.58
+    },
+    {
+      "w": "looking",
+      "start": 40.58,
+      "end": 40.84
+    },
+    {
+      "w": "back",
+      "start": 40.84,
+      "end": 41.32
+    },
+    {
+      "w": "at",
+      "start": 41.32,
+      "end": 41.88
+    },
+    {
+      "w": "the",
+      "start": 41.88,
+      "end": 42.12
+    },
+    {
+      "w": "knowledge",
+      "start": 42.78,
+      "end": 43.26
+    },
+    {
+      "w": "and",
+      "start": 43.26,
+      "end": 43.5
+    },
+    {
+      "w": "growth",
+      "start": 43.5,
+      "end": 43.86
+    },
+    {
+      "w": "from",
+      "start": 43.86,
+      "end": 44.24
+    },
+    {
+      "w": "past",
+      "start": 44.24,
+      "end": 44.64
+    },
+    {
+      "w": "negative",
+      "start": 44.64,
+      "end": 45.16
+    },
+    {
+      "w": "experiences",
+      "start": 45.16,
+      "end": 45.88
+    },
+    {
+      "w": "and",
+      "start": 45.88,
+      "end": 46.36
+    },
+    {
+      "w": "the",
+      "start": 46.36,
+      "end": 46.52
+    },
+    {
+      "w": "benefit",
+      "start": 46.52,
+      "end": 47.8
+    },
+    {
+      "w": "that",
+      "start": 47.8,
+      "end": 48.12
+    },
+    {
+      "w": "actually",
+      "start": 48.12,
+      "end": 48.4
+    },
+    {
+      "w": "has",
+      "start": 48.4,
+      "end": 48.6
+    },
+    {
+      "w": "come",
+      "start": 48.6,
+      "end": 48.78
+    },
+    {
+      "w": "from",
+      "start": 48.78,
+      "end": 48.94
+    },
+    {
+      "w": "those",
+      "start": 48.94,
+      "end": 49.12
+    },
+    {
+      "w": "negative",
+      "start": 49.12,
+      "end": 49.34
+    },
+    {
+      "w": "experiences.",
+      "start": 49.34,
+      "end": 49.9
+    },
+    {
+      "w": "Never,",
+      "start": 50.2,
+      "end": 50.5
+    },
+    {
+      "w": "never,",
+      "start": 50.58,
+      "end": 51.2
+    },
+    {
+      "w": "never",
+      "start": 51.22,
+      "end": 51.56
+    },
+    {
+      "w": "waste",
+      "start": 51.56,
+      "end": 52.0
+    },
+    {
+      "w": "sacrifice.",
+      "start": 52.0,
+      "end": 52.78
+    },
+    {
+      "w": "Never",
+      "start": 53.2,
+      "end": 53.36
+    },
+    {
+      "w": "waste",
+      "start": 53.36,
+      "end": 53.64
+    },
+    {
+      "w": "your",
+      "start": 53.64,
+      "end": 53.86
+    },
+    {
+      "w": "suffering.",
+      "start": 53.86,
+      "end": 54.2
+    }
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 13.583,
+      "length": 13.583,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F2EDE0",
+            "share": 0.943
+          },
+          {
+            "hex": "#534E4C",
+            "share": 0.008
+          },
+          {
+            "hex": "#353131",
+            "share": 0.007
+          },
+          {
+            "hex": "#94908A",
+            "share": 0.006
+          },
+          {
+            "hex": "#75706C",
+            "share": 0.006
+          }
+        ],
+        "motion_energy": 8.77,
+        "script": "Never waste your suffering. I ask my students in my happiness class to keep a failure and disappointment list. And each time something bad happens that feels like a loss or it feels like a disappointment or feels like a failure,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 1,
+      "start": 13.583,
+      "end": 24.167,
+      "length": 10.583,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#333032",
+            "share": 0.978
+          },
+          {
+            "hex": "#504D4C",
+            "share": 0.004
+          },
+          {
+            "hex": "#928E8A",
+            "share": 0.003
+          },
+          {
+            "hex": "#74716E",
+            "share": 0.003
+          },
+          {
+            "hex": "#B4B0AA",
+            "share": 0.003
+          }
+        ],
+        "motion_energy": 13.53,
+        "script": "you write it down and leave two lines blank. And on the first line, you write down is like that thing really bothered me. And then a month later, you come back to the first line that you left blank under it and"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 2,
+      "start": 24.167,
+      "end": 24.25,
+      "length": 0.083,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F2EDE0",
+            "share": 0.507
+          },
+          {
+            "hex": "#333032",
+            "share": 0.448
+          },
+          {
+            "hex": "#EBE6DA",
+            "share": 0.016
+          },
+          {
+            "hex": "#524F4E",
+            "share": 0.005
+          },
+          {
+            "hex": "#D6D2C9",
+            "share": 0.004
+          }
+        ],
+        "motion_energy": 12.5,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 3,
+      "start": 24.25,
+      "end": 57.455,
+      "length": 33.205,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F2EDE0",
+            "share": 0.899
+          },
+          {
+            "hex": "#EDE8DB",
+            "share": 0.044
+          },
+          {
+            "hex": "#746F6B",
+            "share": 0.008
+          },
+          {
+            "hex": "#534E4C",
+            "share": 0.008
+          },
+          {
+            "hex": "#B5B1A9",
+            "share": 0.008
+          }
+        ],
+        "motion_energy": 27.97,
+        "script": "write down what did you learn? And then three months later, you come back to the second line and write down a good thing that happened because of that loss. And you're filling in the notebook. And by the time you're going to a new thing that's really bugging you, really bothering you, you start to look forward to it because you're going to be looking back at the knowledge and growth from past negative experiences and the benefit that actually has come from those negative experiences. Never, never, never waste sacrifice. Never waste your suffering."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    }
+  ]
+}

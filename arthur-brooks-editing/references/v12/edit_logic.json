@@ -1,0 +1,1444 @@
+{
+ "video": "v12",
+ "duration_s": 91.32,
+ "fps": 29.97,
+ "triggers": [
+  {
+   "t_word": 0.0,
+   "word": "You",
+   "element": "Ilustración busto-puzzle azul con la pieza del ojo en la mano; push-in desde el frame 0",
+   "category": "center_illustration",
+   "offset_s": 0.0,
+   "why": "metáfora: 'meaning problem' = persona incompleta (la imagen da la tesis antes de terminar la frase)"
+  },
+  {
+   "t_word": 0.58,
+   "word": "solve",
+   "element": "Palabra clave 'solve' en serif condensada grande bajo 'You can't' (sans pequeña), arriba-izquierda",
+   "category": "center_illustration",
+   "offset_s": 0.17,
+   "why": "énfasis: verbo de la tesis"
+  },
+  {
+   "t_word": 1.02,
+   "word": "meaning",
+   "element": "'meaning' serif grande sustituye al bloque anterior; 'problem' en sans pequeña debajo",
+   "category": "center_illustration",
+   "offset_s": 0.2,
+   "why": "énfasis: concepto central del canal"
+  },
+  {
+   "t_word": 2.3,
+   "word": "just",
+   "element": "Corte a azul pleno #1954F7 con la frase entera en ghost-text (~15 % opacidad): 'with just another / achievement.'",
+   "category": "text_centric",
+   "offset_s": -0.3,
+   "why": "énfasis: el remate del hook se lee solo, sin imagen"
+  },
+  {
+   "t_word": 2.84,
+   "word": "achievement.",
+   "element": "'achievement.' sans heavy se enciende a blanco 100 % (karaoke)",
+   "category": "text_centric",
+   "offset_s": 0.16,
+   "why": "énfasis: palabra-remate del hook"
+  },
+  {
+   "t_word": 3.62,
+   "word": "I",
+   "element": "Corte a b-roll macro: mano escribiendo con pluma en cuaderno (cálido)",
+   "category": "broll_text",
+   "offset_s": 0.05,
+   "why": "metáfora: 'mistake' = escribir/equivocarse; el plano entra 0.4 s antes de la palabra"
+  },
+  {
+   "t_word": 4.06,
+   "word": "mistake",
+   "element": "'mistake' serif grande pop entre 'I see' y 'this' (sans pequeñas)",
+   "category": "broll_text",
+   "offset_s": 0.27,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 4.38,
+   "word": "all",
+   "element": "Corte a silueta negra sobre fondo rojo carmesí #781720",
+   "category": "broll_text",
+   "offset_s": 0.08,
+   "why": "metáfora: gente anónima, sin rostro"
+  },
+  {
+   "t_word": 4.82,
+   "word": "time",
+   "element": "'time in' serif grande sobre la silueta; 'all the' sans pequeña encima",
+   "category": "broll_text",
+   "offset_s": 0.08,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 5.6,
+   "word": "who",
+   "element": "Corte a silueta sentada contra nubes naranjas; el bloque 'time in / people' CRUZA el corte sin cambiar",
+   "category": "broll_text",
+   "offset_s": 0.01,
+   "why": "continuidad: el texto ancla la frase mientras cambia la imagen"
+  },
+  {
+   "t_word": 6.34,
+   "word": "worked",
+   "element": "Corte (6.44) a oficinista solo de noche; 'worked' serif grande + 'very hard' sans pequeña debajo",
+   "category": "broll_text",
+   "offset_s": 0.43,
+   "why": "literal"
+  },
+  {
+   "t_word": 7.4,
+   "word": "build",
+   "element": "Corte a negro con foto pequeña de esquinas redondeadas (salón familiar) en el centro; 'to build' sans arriba",
+   "category": "broll_text",
+   "offset_s": 0.04,
+   "why": "literal (vida construida = hogar)"
+  },
+  {
+   "t_word": 7.74,
+   "word": "lives.",
+   "element": "La foto de la tarjeta cambia a pareja en la playa (7.94); 'good lives.' serif encima",
+   "category": "broll_text",
+   "offset_s": 0.2,
+   "why": "literal; dos fotos en la misma tarjeta = 'vidas buenas' en plural"
+  },
+  {
+   "t_word": 8.5,
+   "word": "Maybe",
+   "element": "Ilustración azul de persona mirando el móvil revelada por paneles deslizantes; 'Maybe / that's you,' serif",
+   "category": "center_illustration",
+   "offset_s": -0.06,
+   "why": "identificación: interpela al espectador ('tú')"
+  },
+  {
+   "t_word": 9.84,
+   "word": "career.",
+   "element": "Corte a azul con avatar-silueta en círculo blanco (zoom-out con blur) + 'you built / the career,'",
+   "category": "object_element",
+   "offset_s": 0.1,
+   "why": "metáfora: perfil genérico = 'tú' como usuario"
+  },
+  {
+   "t_word": 11.06,
+   "word": "family.",
+   "element": "Se añade un icono a la órbita del avatar; 'the family,' serif",
+   "category": "object_element",
+   "offset_s": 0.69,
+   "why": "literal: cada logro = un icono más en órbita"
+  },
+  {
+   "t_word": 12.54,
+   "word": "goals",
+   "element": "Nuevo icono en la órbita + 'the goals' serif (ghost→blanco)",
+   "category": "object_element",
+   "offset_s": 0.21,
+   "why": "literal / lista acumulativa"
+  },
+  {
+   "t_word": 13.38,
+   "word": "yourself.",
+   "element": "'for yourself.' serif; órbita completa con 4 iconos",
+   "category": "object_element",
+   "offset_s": 0.12,
+   "why": "cierre de la enumeración"
+  },
+  {
+   "t_word": 14.0,
+   "word": "But",
+   "element": "Corte a tarjeta blanca casi vacía: 'But then,' sans azul pequeña en ghost→azul",
+   "category": "text_centric",
+   "offset_s": 0.11,
+   "why": "cambio de tema (giro) — blanco = respiro"
+  },
+  {
+   "t_word": 15.14,
+   "word": "point,",
+   "element": "Corte (14.95) a cenital de persona en escritorio; 'point,' serif grande, 'at a certain' sans",
+   "category": "broll_text",
+   "offset_s": 0.11,
+   "why": "literal-ambiental (rutina de trabajo)"
+  },
+  {
+   "t_word": 15.94,
+   "word": "questions,",
+   "element": "Corte a blanco: figura azul diminuta en silla crece sobre una montaña triangular, anillos de pensamiento",
+   "category": "center_illustration",
+   "offset_s": -0.09,
+   "why": "metáfora: 'preguntas' = cima / ondas mentales"
+  },
+  {
+   "t_word": 18.04,
+   "word": "What",
+   "element": "Corte a negro (18.59) → orbe blanco-eclipse emerge detrás de figura azul de pie (18.85); 'What comes next?' sans pequeña",
+   "category": "center_illustration",
+   "offset_s": 0.55,
+   "why": "metáfora: lo desconocido; la imagen llega tras la pregunta (eco)"
+  },
+  {
+   "t_word": 19.96,
+   "word": "now?",
+   "element": "'do now?' serif grande sobre el orbe ('What do I wanna' sans encima)",
+   "category": "center_illustration",
+   "offset_s": 0.04,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 22.18,
+   "word": "be",
+   "element": "'life to be?' serif más pequeño mientras la cámara se aleja",
+   "category": "center_illustration",
+   "offset_s": -0.2,
+   "why": "énfasis decreciente (pull-out)"
+  },
+  {
+   "t_word": 24.44,
+   "word": "remembered",
+   "element": "Corte (23.69) a hombre sentado de noche en banco; 'remembered' serif grande, 'for?' sans",
+   "category": "broll_text",
+   "offset_s": 0.06,
+   "why": "metáfora (soledad/legado)"
+  },
+  {
+   "t_word": 26.4,
+   "word": "actually",
+   "element": "Corte (25.76) a joven en capucha, B/N, mano en barbilla; 'this actually' serif",
+   "category": "broll_text",
+   "offset_s": -0.2,
+   "why": "literal (gesto de pensar)"
+  },
+  {
+   "t_word": 27.92,
+   "word": "basically",
+   "element": "Corte (27.53) a caminante en playa al atardecer; 'basically' sans heavy blanca enorme",
+   "category": "broll_text",
+   "offset_s": 0.24,
+   "why": "énfasis: única sans heavy del bloque"
+  },
+  {
+   "t_word": 29.28,
+   "word": "meaning.",
+   "element": "Corte a blanco (28.43) + glow radial azul que florece; 'meaning' serif azul con dos puntos a los lados",
+   "category": "text_centric",
+   "offset_s": -0.28,
+   "why": "énfasis + cambio de tono (de b-roll a marco científico)"
+  },
+  {
+   "t_word": 29.9,
+   "word": "science",
+   "element": "'The science' serif azul bold, 'tells us that' sans debajo, sin glow",
+   "category": "text_centric",
+   "offset_s": 0.1,
+   "why": "dato/autoridad"
+  },
+  {
+   "t_word": 31.04,
+   "word": "meaning",
+   "element": "Punto azul aparece arriba y baja al centro",
+   "category": "line_illustration",
+   "offset_s": -0.04,
+   "why": "inicio del diagrama: 'meaning' = un punto"
+  },
+  {
+   "t_word": 32.24,
+   "word": "parts.",
+   "element": "El punto se divide en 3 puntos (32.5) que forman un triángulo relleno azul (32.75)",
+   "category": "line_illustration",
+   "offset_s": 0.26,
+   "why": "literal: 3 partes = 3 vértices"
+  },
+  {
+   "t_word": 33.18,
+   "word": "Coherence,",
+   "element": "Etiqueta 'Coherence' en el vértice superior",
+   "category": "line_illustration",
+   "offset_s": 0.57,
+   "why": "dato/lista: etiqueta al nombrarse"
+  },
+  {
+   "t_word": 33.98,
+   "word": "purpose,",
+   "element": "Etiqueta 'Purpose' en el vértice derecho",
+   "category": "line_illustration",
+   "offset_s": 0.77,
+   "why": "dato/lista"
+  },
+  {
+   "t_word": 35.24,
+   "word": "significance.",
+   "element": "Etiqueta 'Significance' en el vértice izquierdo",
+   "category": "line_illustration",
+   "offset_s": 0.26,
+   "why": "dato/lista"
+  },
+  {
+   "t_word": 36.36,
+   "word": "Coherence",
+   "element": "Tarjeta blanca 'Coherence is' (sans bold azul, ghost→azul)",
+   "category": "text_centric",
+   "offset_s": 0.04,
+   "why": "cambio de sub-tema (definición 1)"
+  },
+  {
+   "t_word": 36.96,
+   "word": "understanding",
+   "element": "Corte (37.34) a manos sobre libro abierto; 'understanding' sans pequeña",
+   "category": "broll_text",
+   "offset_s": 0.38,
+   "why": "metáfora: leer = entender"
+  },
+  {
+   "t_word": 38.44,
+   "word": "unfolding",
+   "element": "Corte (37.67) a silueta ante ventana con luz dura; 'unfolding' serif",
+   "category": "broll_text",
+   "offset_s": -0.01,
+   "why": "metáfora"
+  },
+  {
+   "t_word": 39.08,
+   "word": "way",
+   "element": "Corte (38.77) a retrato B/N de joven mirando a cámara; 'the way that it is.' sans pequeña",
+   "category": "broll_text",
+   "offset_s": -0.31,
+   "why": "identificación (mirada a cámara)"
+  },
+  {
+   "t_word": 39.94,
+   "word": "Purpose",
+   "element": "Corte a azul pleno: 'Purpose is' blanco ghost→blanco",
+   "category": "text_centric",
+   "offset_s": 0.06,
+   "why": "cambio de sub-tema (definición 2)"
+  },
+  {
+   "t_word": 40.58,
+   "word": "knowing",
+   "element": "Corte (40.77) a hombre junto a ventana, luz cálida; 'knowing' serif",
+   "category": "broll_text",
+   "offset_s": 0.32,
+   "why": "ambiental"
+  },
+  {
+   "t_word": 41.88,
+   "word": "pointed",
+   "element": "Corte (41.78) a dos manos que casi se tocan (Creación de Adán) sobre negro; 'pointed' serif gris→blanco",
+   "category": "broll_text",
+   "offset_s": 0.03,
+   "why": "juego palabra-imagen (apuntar)"
+  },
+  {
+   "t_word": 43.18,
+   "word": "significance",
+   "element": "Corte (43.28) a tarjeta blanca 'And significance is' sans azul",
+   "category": "text_centric",
+   "offset_s": 0.1,
+   "why": "cambio de sub-tema (definición 3)"
+  },
+  {
+   "t_word": 44.0,
+   "word": "knowing",
+   "element": "Corte (44.18) a silueta en el campo al anochecer; 'knowing' serif grande, 'why your life matters' sans",
+   "category": "broll_text",
+   "offset_s": 0.18,
+   "why": "ambiental"
+  },
+  {
+   "t_word": 45.64,
+   "word": "and",
+   "element": "Corte (45.45) a plano general de personas bailando en un prado; 'and to whom.' sans",
+   "category": "broll_text",
+   "offset_s": -0.19,
+   "why": "literal: 'a quién' = otras personas"
+  },
+  {
+   "t_word": 46.36,
+   "word": "You",
+   "element": "Corte a blanco (46.18); cabeza dibujada (trazo azul a lápiz) sube desde abajo con la tapa del cráneo levantada y el cerebro visible",
+   "category": "center_illustration",
+   "offset_s": -0.18,
+   "why": "metáfora: entender con la cabeza"
+  },
+  {
+   "t_word": 46.6,
+   "word": "understand",
+   "element": "'understand' serif azul grande arriba de la cabeza",
+   "category": "center_illustration",
+   "offset_s": 0.9,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 47.66,
+   "word": "intellectually",
+   "element": "'intellectually' serif + 'pretty quickly' sans",
+   "category": "center_illustration",
+   "offset_s": 0.34,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 49.48,
+   "word": "understanding",
+   "element": "El dibujo desaparece (49.25) y aparece un escáner cerebral real (axial) que va rotando cortes; 'but understanding them'",
+   "category": "center_illustration",
+   "offset_s": -0.23,
+   "why": "contraste idea vs realidad"
+  },
+  {
+   "t_word": 50.92,
+   "word": "building",
+   "element": "Corte (50.35) a hombre de perfil al aire libre; 'building' serif (50.98)",
+   "category": "broll_text",
+   "offset_s": 0.06,
+   "why": "literal-ambiental"
+  },
+  {
+   "t_word": 51.22,
+   "word": "your",
+   "element": "Corte (51.08) a retrato desenfocado; 'your' / 'your life' sans bold blanca",
+   "category": "broll_text",
+   "offset_s": -0.14,
+   "why": "énfasis en 'tu'"
+  },
+  {
+   "t_word": 51.62,
+   "word": "around",
+   "element": "Corte (51.75) a hombre trabajando junto a ventana; 'around them,' sans",
+   "category": "broll_text",
+   "offset_s": 0.13,
+   "why": "ambiental"
+  },
+  {
+   "t_word": 52.72,
+   "word": "two",
+   "element": "Corte a blanco (52.35): 'well, those are / two different / things.' ghost→azul por palabra",
+   "category": "text_centric",
+   "offset_s": 0.28,
+   "why": "énfasis/contraste"
+  },
+  {
+   "t_word": 53.74,
+   "word": "Sometimes,",
+   "element": "Corte (53.75) a cena en grupo en casa con ventanas verdes",
+   "category": "broll_text",
+   "offset_s": 0.01,
+   "why": "ambiental (vida cotidiana)"
+  },
+  {
+   "t_word": 54.96,
+   "word": "work",
+   "element": "Corte (54.75) a anciano escribiendo a máquina; 'work' → 'work well,' sans heavy blanca",
+   "category": "broll_text",
+   "offset_s": 0.04,
+   "why": "literal"
+  },
+  {
+   "t_word": 55.88,
+   "word": "need",
+   "element": "Corte (55.86) a ciclista junto al agua al amanecer; 'you need' sans pequeña",
+   "category": "broll_text",
+   "offset_s": -0.02,
+   "why": "metáfora (salir)"
+  },
+  {
+   "t_word": 56.36,
+   "word": "outside",
+   "element": "Corte (56.42) a silueta caminando al atardecer; 'outside' sans heavy enorme (56.55); cruza el corte de 57.02",
+   "category": "broll_text",
+   "offset_s": 0.19,
+   "why": "énfasis máximo del bloque"
+  },
+  {
+   "t_word": 58.28,
+   "word": "everyday",
+   "element": "Corte (57.92) a joven en sofá iluminado por el móvil; 'demands of / everyday life' serif",
+   "category": "broll_text",
+   "offset_s": -0.03,
+   "why": "literal (rutina = pantalla)"
+  },
+  {
+   "t_word": 59.8,
+   "word": "really",
+   "element": "Corte a blanco (59.19): 'long enough to / really think.' ghost→azul",
+   "category": "text_centric",
+   "offset_s": 0.2,
+   "why": "pausa/reflexión"
+  },
+  {
+   "t_word": 60.88,
+   "word": "Well,",
+   "element": "Collage de 4 fotos reales del retiro entra volando rotado desde abajo-izquierda (61.0-61.7)",
+   "category": "object_element",
+   "offset_s": 0.12,
+   "why": "cambio de tema → producto"
+  },
+  {
+   "t_word": 61.76,
+   "word": "idea",
+   "element": "'idea behind' serif azul arriba del collage, 'Well that's the' sans",
+   "category": "object_element",
+   "offset_s": -0.01,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 62.64,
+   "word": "meaning",
+   "element": "Fondo pasa de blanco a azul (62.86) con el collage fijo; 'The meaning' serif blanca",
+   "category": "object_element",
+   "offset_s": 0.22,
+   "why": "producto: color de marca a sangre"
+  },
+  {
+   "t_word": 63.94,
+   "word": "MEA.",
+   "element": "'of Your life retreat at MEA.' sans pequeña completa",
+   "category": "object_element",
+   "offset_s": 0.1,
+   "why": "dato (nombre del producto)"
+  },
+  {
+   "t_word": 65.28,
+   "word": "days",
+   "element": "Corte (64.76) a edificio de adobe al atardecer; 'For 5 days' sans",
+   "category": "broll_text",
+   "offset_s": -0.03,
+   "why": "literal (el lugar)"
+  },
+  {
+   "t_word": 65.72,
+   "word": "Santa",
+   "element": "Corte (65.53) a suelo de rocas; 'Santa Fe,' serif grande",
+   "category": "broll_text",
+   "offset_s": -0.19,
+   "why": "literal (lugar)"
+  },
+  {
+   "t_word": 66.54,
+   "word": "you'll",
+   "element": "Corte (66.53) a hombre sentado en gran sala con lámpara de forja",
+   "category": "broll_text",
+   "offset_s": 0.0,
+   "why": "literal (el espacio)"
+  },
+  {
+   "t_word": 67.42,
+   "word": "work",
+   "element": "Corte (67.33) a biblioteca con persona; 'to work' serif grande",
+   "category": "broll_text",
+   "offset_s": -0.03,
+   "why": "ambiental"
+  },
+  {
+   "t_word": 68.14,
+   "word": "questions",
+   "element": "'questions' serif sobre la biblioteca",
+   "category": "broll_text",
+   "offset_s": 0.36,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 68.9,
+   "word": "small",
+   "element": "Corte (68.67) a aérea de grupo de senderistas en el desierto; 'small group' serif",
+   "category": "broll_text",
+   "offset_s": 0.35,
+   "why": "literal"
+  },
+  {
+   "t_word": 70.4,
+   "word": "frameworks",
+   "element": "Corte a blanco (69.60): cerebro 3D gris aparece con glow azul (69.9); 'frameworks' serif grande",
+   "category": "center_illustration",
+   "offset_s": -0.15,
+   "why": "metáfora: método = cerebro"
+  },
+  {
+   "t_word": 72.38,
+   "word": "meaning,",
+   "element": "Nodo + etiqueta 'Meaning' arriba del cerebro",
+   "category": "center_illustration",
+   "offset_s": 0.37,
+   "why": "lista: etiqueta al nombrarse"
+  },
+  {
+   "t_word": 73.12,
+   "word": "purpose,",
+   "element": "Nodo + etiqueta 'Purpose' a la izquierda",
+   "category": "center_illustration",
+   "offset_s": 0.13,
+   "why": "lista"
+  },
+  {
+   "t_word": 73.8,
+   "word": "happiness.",
+   "element": "Nodo + etiqueta 'Happiness' a la derecha",
+   "category": "center_illustration",
+   "offset_s": 0.2,
+   "why": "lista"
+  },
+  {
+   "t_word": 74.78,
+   "word": "time",
+   "element": "Corte (74.61) a mujer con los brazos en alto, cielo azul",
+   "category": "broll_text",
+   "offset_s": -0.17,
+   "why": "emoción (alegría)"
+  },
+  {
+   "t_word": 75.22,
+   "word": "look",
+   "element": "Corte (75.61) a mujer leyendo en el jardín con libro rojo; 'look' → 'look carefully' serif",
+   "category": "broll_text",
+   "offset_s": 0.48,
+   "why": "literal"
+  },
+  {
+   "t_word": 76.24,
+   "word": "you've",
+   "element": "'you've built.' serif",
+   "category": "broll_text",
+   "offset_s": 0.51,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 77.66,
+   "word": "next",
+   "element": "Corte (77.11) a mujer con sombrero mirando abajo; 'next' → 'next chapter,' serif",
+   "category": "broll_text",
+   "offset_s": 0.09,
+   "why": "ambiental/introspección"
+  },
+  {
+   "t_word": 79.06,
+   "word": "asking",
+   "element": "Corte (78.68) a azul pleno: 'what it's asking of you,' sans con 'asking' en bold",
+   "category": "text_centric",
+   "offset_s": 0.0,
+   "why": "énfasis en la pregunta"
+  },
+  {
+   "t_word": 80.5,
+   "word": "how",
+   "element": "Cortes (79.85) jinete y (80.51) grupo caminando; 'how you' serif",
+   "category": "broll_text",
+   "offset_s": 0.1,
+   "why": "literal (experiencias del retiro)"
+  },
+  {
+   "t_word": 82.36,
+   "word": "good",
+   "element": "Corte (81.51) a hombre mayor mirando arriba; 'good life' serif",
+   "category": "broll_text",
+   "offset_s": 0.04,
+   "why": "ambiental"
+  },
+  {
+   "t_word": 83.52,
+   "word": "wondering",
+   "element": "Corte (83.02) a hombre con manos juntas pensando; 'wondering' serif",
+   "category": "broll_text",
+   "offset_s": 0.23,
+   "why": "literal (gesto de pensar)"
+  },
+  {
+   "t_word": 84.4,
+   "word": "next,",
+   "element": "Corte (84.02) a azul pleno: 'what comes / next,' sans bold blanca",
+   "category": "text_centric",
+   "offset_s": 0.1,
+   "why": "eco del 'What comes next?' de 18 s (callback)"
+  },
+  {
+   "t_word": 85.4,
+   "word": "take",
+   "element": "Corte (85.02) a manos escribiendo; 'take a look.' serif",
+   "category": "broll_text",
+   "offset_s": -0.15,
+   "why": "CTA"
+  },
+  {
+   "t_word": 86.16,
+   "word": "learn",
+   "element": "Corte a blanco (85.92): 'You can / learn more / about' serif azul",
+   "category": "title_cta",
+   "offset_s": 0.14,
+   "why": "CTA"
+  },
+  {
+   "t_word": 87.12,
+   "word": "upcoming",
+   "element": "Tarjeta-foto redondeada del lugar del retiro aparece con crossfade (87.0-87.3); 'the upcoming retreats at' sans encima",
+   "category": "title_cta",
+   "offset_s": -0.12,
+   "why": "prueba visual del lugar real"
+  },
+  {
+   "t_word": 88.44,
+   "word": "retreats",
+   "element": "URL 'retreats.arthurbrooks.com' en typewriter carácter a carácter (88.75-91.0) sans bold azul",
+   "category": "title_cta",
+   "offset_s": 0.31,
+   "why": "CTA tecleado = acción"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 2.0,
+   "from": "ilustración puzzle",
+   "to": "azul pleno con ghost-text",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "a mitad de frase ('with'), sin flash"
+  },
+  {
+   "t": 3.67,
+   "from": "azul texto",
+   "to": "b-roll pluma",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "en la palabra 'I'"
+  },
+  {
+   "t": 4.46,
+   "from": "b-roll pluma",
+   "to": "silueta sobre rojo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "en 'all'"
+  },
+  {
+   "t": 5.61,
+   "from": "silueta rojo",
+   "to": "silueta nubes naranja",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "el bloque de texto 'time in' se mantiene idéntico a través del corte"
+  },
+  {
+   "t": 6.44,
+   "from": "silueta nubes",
+   "to": "oficinista nocturno",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "en 'have'"
+  },
+  {
+   "t": 7.44,
+   "from": "oficinista",
+   "to": "negro + tarjeta-foto redondeada",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "en 'build'"
+  },
+  {
+   "t": 7.94,
+   "from": "foto salón (en tarjeta)",
+   "to": "foto pareja playa (en tarjeta)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "solo cambia la foto dentro de la tarjeta, el marco negro queda"
+  },
+  {
+   "t": 8.44,
+   "from": "tarjeta negra",
+   "to": "ilustración persona+móvil",
+   "type": "wipe",
+   "frames": 10,
+   "detail": "paneles rectangulares azul claro se deslizan/abren y revelan la ilustración (8.44-8.77)"
+  },
+  {
+   "t": 9.94,
+   "from": "ilustración móvil",
+   "to": "avatar en azul",
+   "type": "zoom-blur",
+   "frames": 3,
+   "detail": "el avatar entra enorme y desenfocado y se reduce a su tamaño (zoom-out con blur)"
+  },
+  {
+   "t": 14.11,
+   "from": "órbita avatar",
+   "to": "tarjeta blanca 'But then,'",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "azul→blanco: cambio de color = giro del guion"
+  },
+  {
+   "t": 14.95,
+   "from": "blanco",
+   "to": "cenital escritorio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 15.85,
+   "from": "cenital",
+   "to": "blanco + figura que crece",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "la ilustración se construye desde un punto (escala)"
+  },
+  {
+   "t": 18.59,
+   "from": "montaña blanca",
+   "to": "negro → orbe-eclipse",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "corte a negro puro 0.26 s y el orbe/figura entran con fade-in (18.85)"
+  },
+  {
+   "t": 23.69,
+   "from": "eclipse",
+   "to": "banco nocturno",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 25.76,
+   "from": "banco",
+   "to": "joven B/N",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "cambio de grade a B/N"
+  },
+  {
+   "t": 27.53,
+   "from": "joven B/N",
+   "to": "playa atardecer",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 28.43,
+   "from": "playa",
+   "to": "blanco + glow azul",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "el glow radial florece 0.4 s después"
+  },
+  {
+   "t": 29.86,
+   "from": "glow 'meaning'",
+   "to": "blanco 'The science'",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "blanco→blanco, desaparece el glow"
+  },
+  {
+   "t": 36.4,
+   "from": "triángulo",
+   "to": "tarjeta 'Coherence is'",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "blanco→blanco"
+  },
+  {
+   "t": 37.34,
+   "from": "tarjeta blanca",
+   "to": "libro abierto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "en 'why'"
+  },
+  {
+   "t": 37.67,
+   "from": "libro",
+   "to": "silueta ventana",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "plano de 0.33 s"
+  },
+  {
+   "t": 38.77,
+   "from": "silueta",
+   "to": "retrato B/N",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 40.0,
+   "from": "retrato B/N",
+   "to": "azul 'Purpose is'",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 40.77,
+   "from": "azul",
+   "to": "ventana cálida",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 41.78,
+   "from": "ventana",
+   "to": "manos Creación de Adán",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 43.28,
+   "from": "manos",
+   "to": "blanco 'And significance is'",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 44.18,
+   "from": "blanco",
+   "to": "silueta campo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 45.45,
+   "from": "silueta",
+   "to": "prado bailando",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 46.18,
+   "from": "prado",
+   "to": "blanco + cabeza dibujada",
+   "type": "slide",
+   "frames": 8,
+   "detail": "corte a blanco vacío y la cabeza sube desde el borde inferior"
+  },
+  {
+   "t": 49.22,
+   "from": "cabeza dibujada",
+   "to": "escáner cerebral",
+   "type": "crossfade",
+   "frames": 6,
+   "detail": "el dibujo desaparece a blanco y el escáner aparece con fade, pequeño y girando cortes"
+  },
+  {
+   "t": 50.35,
+   "from": "escáner",
+   "to": "hombre perfil",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 51.08,
+   "from": "hombre perfil",
+   "to": "retrato desenfocado",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 51.75,
+   "from": "retrato",
+   "to": "hombre ventana",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 52.35,
+   "from": "hombre ventana",
+   "to": "blanco 'two different'",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 53.75,
+   "from": "blanco",
+   "to": "cena grupo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 54.75,
+   "from": "cena",
+   "to": "anciano máquina",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 55.86,
+   "from": "anciano",
+   "to": "ciclista",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 56.42,
+   "from": "ciclista",
+   "to": "silueta atardecer",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "ráfaga de 0.56 s"
+  },
+  {
+   "t": 57.02,
+   "from": "silueta atardecer",
+   "to": "silueta gris/sombra",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "'outside' se queda fijo cruzando el corte"
+  },
+  {
+   "t": 57.92,
+   "from": "sombra",
+   "to": "joven sofá",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 59.19,
+   "from": "joven sofá",
+   "to": "blanco 'really think'",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 61.0,
+   "from": "blanco texto",
+   "to": "collage fotos",
+   "type": "slide",
+   "frames": 21,
+   "detail": "4 fotos entran volando rotadas desde abajo-izquierda sobre el mismo blanco y se asientan (61.0-61.7)"
+  },
+  {
+   "t": 62.86,
+   "from": "collage sobre blanco",
+   "to": "collage sobre azul",
+   "type": "match-cut (elemento compartido)",
+   "frames": 0,
+   "detail": "el collage no se mueve; solo el fondo pasa de blanco a azul de golpe"
+  },
+  {
+   "t": 64.76,
+   "from": "azul collage",
+   "to": "adobe atardecer",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 65.53,
+   "from": "adobe",
+   "to": "suelo rocas",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 66.53,
+   "from": "rocas",
+   "to": "sala lámpara",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 67.33,
+   "from": "sala",
+   "to": "biblioteca",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 68.67,
+   "from": "biblioteca",
+   "to": "aérea senderistas",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 69.6,
+   "from": "aérea",
+   "to": "blanco + cerebro 3D",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "el cerebro y el glow entran con fade 0.3 s"
+  },
+  {
+   "t": 74.61,
+   "from": "cerebro",
+   "to": "mujer brazos arriba",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 75.61,
+   "from": "mujer",
+   "to": "mujer leyendo jardín",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 77.11,
+   "from": "jardín",
+   "to": "mujer sombrero",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 78.68,
+   "from": "sombrero",
+   "to": "azul 'asking'",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 79.85,
+   "from": "azul",
+   "to": "jinete",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 80.51,
+   "from": "jinete",
+   "to": "grupo caminando",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 81.51,
+   "from": "grupo",
+   "to": "hombre mayor",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 83.02,
+   "from": "hombre mayor",
+   "to": "hombre manos juntas",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 84.02,
+   "from": "manos juntas",
+   "to": "azul 'next,'",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 85.02,
+   "from": "azul",
+   "to": "manos escribiendo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 85.92,
+   "from": "manos",
+   "to": "blanco 'learn more'",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 87.0,
+   "from": "texto 'learn more'",
+   "to": "tarjeta-foto redondeada",
+   "type": "crossfade",
+   "frames": 8,
+   "detail": "el texto se funde mientras la tarjeta-foto aparece debajo con fade+escala leve"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.25,
+   "fx": "write-on por palabra",
+   "detail": "'You' → 'You can't' → 'You can't solve a': cada palabra aparece con fade al decirla, bloque apilado arriba-izquierda"
+  },
+  {
+   "t": 0.75,
+   "fx": "escala",
+   "detail": "palabra clave en serif condensada 3× más grande que las sans; sustituye el par anterior en vez de acumularse"
+  },
+  {
+   "t": 2.0,
+   "fx": "gris→blanco",
+   "detail": "ghost-text: la frase entera ya está al ~15 % y cada palabra se enciende al 100 % (karaoke) hasta 'achievement.' (3.0)"
+  },
+  {
+   "t": 4.33,
+   "fx": "pop",
+   "detail": "'mistake' entra de golpe (1 frame) en serif grande entre las sans 'I see' / 'this'"
+  },
+  {
+   "t": 5.61,
+   "fx": "máscara",
+   "detail": "texto persistente a través de corte ('time in / people')"
+  },
+  {
+   "t": 6.77,
+   "fx": "pop",
+   "detail": "'worked' serif + 'very hard' debajo a la derecha, solapado"
+  },
+  {
+   "t": 10.2,
+   "fx": "write-on por palabra",
+   "detail": "'you built' sans → 'the career,' serif; luego cada logro sustituye: 'the family,' 'the goals' (ghost→blanco)"
+  },
+  {
+   "t": 14.25,
+   "fx": "gris→blanco",
+   "detail": "'But then,' sans azul pequeña: 'then' pasa de ghost a azul"
+  },
+  {
+   "t": 16.0,
+   "fx": "write-on por palabra",
+   "detail": "'the' → 'questions,' serif grande; 'they start to change.' sans pequeña debajo palabra a palabra"
+  },
+  {
+   "t": 19.0,
+   "fx": "write-on por palabra",
+   "detail": "preguntas en serie sobre el orbe: 'What comes next?' sans pequeña, luego 'do now?' serif grande con 'What do I wanna' encima"
+  },
+  {
+   "t": 21.25,
+   "fx": "blur-in",
+   "detail": "'do now?' se desvanece con blur (21.25) y entra la siguiente pregunta más pequeña"
+  },
+  {
+   "t": 28.16,
+   "fx": "pop",
+   "detail": "'basically' sans heavy enorme; 'Those are' sans pequeña encima"
+  },
+  {
+   "t": 28.6,
+   "fx": "blur-in",
+   "detail": "'questions of / meaning' entra con el glow radial; puntos a izquierda y derecha de 'meaning'"
+  },
+  {
+   "t": 33.75,
+   "fx": "blur-in",
+   "detail": "etiquetas del triángulo aparecen con fade suave al nombrarse"
+  },
+  {
+   "t": 36.5,
+   "fx": "gris→blanco",
+   "detail": "'Coherence is' (azul sobre blanco): 'is' pasa de ghost a azul"
+  },
+  {
+   "t": 40.0,
+   "fx": "gris→blanco",
+   "detail": "'Purpose is' blanco sobre azul ghost→blanco"
+  },
+  {
+   "t": 41.91,
+   "fx": "gris→blanco",
+   "detail": "'pointed' entra gris (41.91) y pasa a blanco en 3 frames; 'toward' sans pequeña debajo (42.25)"
+  },
+  {
+   "t": 43.3,
+   "fx": "gris→blanco",
+   "detail": "'And significance is' palabra a palabra ghost→azul"
+  },
+  {
+   "t": 47.5,
+   "fx": "escala",
+   "detail": "'understand' / 'intellectually' serif azul sobre la ilustración, 'You can' y 'pretty quickly' sans diminutas"
+  },
+  {
+   "t": 51.0,
+   "fx": "pop",
+   "detail": "'building' serif con 'and actually' sans pequeña encima"
+  },
+  {
+   "t": 52.4,
+   "fx": "gris→blanco",
+   "detail": "'well, those are / two different / things.' ghost → azul palabra a palabra (52.4-53.1)"
+  },
+  {
+   "t": 55.0,
+   "fx": "pop",
+   "detail": "'work' → 'work well,' sans heavy blanca con 'Sometimes, to do that' pequeña encima"
+  },
+  {
+   "t": 56.55,
+   "fx": "pop",
+   "detail": "'outside' sans heavy enorme (~70 % del ancho) con 'you need to step' pequeña encima y 'the routines and' debajo"
+  },
+  {
+   "t": 59.25,
+   "fx": "gris→blanco",
+   "detail": "'long enough to / really think.' ghost→azul"
+  },
+  {
+   "t": 61.3,
+   "fx": "write-on por palabra",
+   "detail": "'Well that's the' sans → 'idea behind' serif sobre el collage"
+  },
+  {
+   "t": 62.9,
+   "fx": "write-on por palabra",
+   "detail": "'The' → 'The meaning' serif blanca → 'of Your life retreat at MEA.' sans pequeña"
+  },
+  {
+   "t": 65.3,
+   "fx": "blur-in",
+   "detail": "'Santa' entra con blur/fade sobre el plano (65.3-65.4) y luego 'Santa Fe,'"
+  },
+  {
+   "t": 70.25,
+   "fx": "blur-in",
+   "detail": "'frameworks' entra gris-desenfocado (70.25) y se enfoca a negro (70.5)"
+  },
+  {
+   "t": 79.0,
+   "fx": "gris→blanco",
+   "detail": "'what it's asking of you,' blanco sobre azul con 'asking' en bold"
+  },
+  {
+   "t": 84.5,
+   "fx": "pop",
+   "detail": "'next,' sans bold blanca centrada, sola"
+  },
+  {
+   "t": 86.3,
+   "fx": "escala",
+   "detail": "'learn more' serif azul grande, 'You can' y 'about' sans diminutas solapadas"
+  },
+  {
+   "t": 88.75,
+   "fx": "tracking",
+   "detail": "typewriter de la URL 'retreats.arthurbrooks.com' carácter a carácter (~0.1 s/carácter) en sans bold azul pequeña sobre la tarjeta-foto"
+  }
+ ],
+ "camera": [
+  {
+   "t": 0.0,
+   "move": "push-in lento",
+   "scale_or_dir": "1.0→1.3",
+   "dur_s": 2.0
+  },
+  {
+   "t": 8.44,
+   "move": "slide",
+   "scale_or_dir": "paneles hacia arriba / revelado",
+   "dur_s": 0.33
+  },
+  {
+   "t": 9.94,
+   "move": "zoom-out",
+   "scale_or_dir": "2.5→1.0 con blur",
+   "dur_s": 0.35
+  },
+  {
+   "t": 10.3,
+   "move": "slide",
+   "scale_or_dir": "órbita: iconos giran alrededor del avatar",
+   "dur_s": 3.8
+  },
+  {
+   "t": 15.85,
+   "move": "zoom-out",
+   "scale_or_dir": "figura+montaña crecen de 0.2→1.0 (build desde el centro)",
+   "dur_s": 0.7
+  },
+  {
+   "t": 18.85,
+   "move": "zoom-out",
+   "scale_or_dir": "1.3→1.0 pull-out lento sobre figura y orbe",
+   "dur_s": 4.5
+  },
+  {
+   "t": 28.6,
+   "move": "push-in lento",
+   "scale_or_dir": "glow radial 0→1 (bloom)",
+   "dur_s": 0.4
+  },
+  {
+   "t": 31.0,
+   "move": "slide",
+   "scale_or_dir": "punto baja de arriba al centro y se divide en 3",
+   "dur_s": 1.8
+  },
+  {
+   "t": 46.18,
+   "move": "slide",
+   "scale_or_dir": "cabeza dibujada sube desde abajo",
+   "dur_s": 0.6
+  },
+  {
+   "t": 49.25,
+   "move": "zoom-out",
+   "scale_or_dir": "escáner cerebral pequeño, rota cortes",
+   "dur_s": 1.1
+  },
+  {
+   "t": 61.0,
+   "move": "slide",
+   "scale_or_dir": "fotos vuelan rotadas desde abajo-izquierda",
+   "dur_s": 0.7
+  },
+  {
+   "t": 69.6,
+   "move": "push-in lento",
+   "scale_or_dir": "cerebro 3D 0.8→1.0 con glow",
+   "dur_s": 0.7
+  },
+  {
+   "t": 87.0,
+   "move": "push-in lento",
+   "scale_or_dir": "tarjeta-foto 0.95→1.0 + fade",
+   "dur_s": 0.3
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   33,
+   18,
+   15,
+   17,
+   24,
+   25,
+   24,
+   16,
+   19,
+   0
+  ],
+  "avg_hold_text_s": 1.1,
+  "notes": "Ritmo de ~1 corte/1.4 s (33/min); b-roll en ráfagas de 0.5-1.2 s (53.75-59.2: 6 planos en 5.4 s); ilustraciones y diagramas sostienen 2-5 s; tarjetas planas 0.8-1.5 s. El corte cae al inicio de la frase o sub-frase (en la palabra función: 'I', 'all', 'who', 'have', 'build'), no en la palabra clave; la palabra clave llega 0.1-0.4 s después del corte."
+ },
+ "typography": "Dos voces: (1) sans grotesca regular pequeña (tipo Inter/Helvetica, ~3-4 % del alto) para palabras funcionales; (2) serif condensada de alto contraste con tracking muy apretado (tipo Editorial New / Times condensed) 3-4× más grande para LA palabra clave, siempre en minúsculas. Bloque de 1 palabra grande + 1-4 pequeñas apiladas y solapadas (las pequeñas pisan la ascendente de la grande). Tercera voz puntual: sans heavy (tipo Helvetica Black) enorme para énfasis máximo sobre b-roll ('achievement.', 'basically', 'work well,', 'outside', 'next,'). Color: azul #1954F7 sobre blanco, blanco sobre azul/b-roll; la palabra clave NO cambia de color, cambia de tamaño y familia. Sin cajas, sin sombras marcadas, centrado a ~45-55 % de alto (o ~15-25 % cuando hay ilustración). Ghost-text (frase completa al ~15 %) en las tarjetas planas. URL final en sans bold azul pequeña con typewriter.",
+ "textures": "Grano/papel fino en los fondos blancos y azules; ilustraciones con relleno tipo risografía/spray granulado azul y trazo de lápiz/cera (cabeza 46 s); glow radial azul suave (28.6 s, 70 s); orbe blanco con halo (18.85 s). B-roll con grades variados (cálido ámbar, B/N 25.8 y 38.8 s, rojo carmesí 4.5 s) sin unificar; ligero parpadeo de exposición en el retrato B/N (39.6 y 39.95 s). Sin light leaks, sin viñeta añadida, sin flashes.",
+ "distinct": [
+  "Cero flashes/leaks: >60 transiciones y casi todas son corte seco; el 'efecto' lo hacen el cambio de color de fondo (blanco↔azul↔b-roll) y la tipografía.",
+  "Tres capas que rotan casi cada frase: ilustración azul de una figura (metáfora) → b-roll de stock en ráfaga → tarjeta plana blanca/azul con ghost-text.",
+  "Diagramas que se construyen al ritmo de la enumeración: punto→3 puntos→triángulo con etiquetas (31-36 s) y cerebro 3D con 3 nodos (70-74 s).",
+  "Eco estructural: la pregunta 'What comes next?' del giro (18 s) vuelve como tarjeta azul 'next,' antes del CTA (84.5 s).",
+  "Cierre de producto con objetos reales: collage de fotos que vuela y match-cut de fondo blanco→azul (62.86), tarjeta-foto redondeada del lugar + URL tecleada."
+ ]
+}

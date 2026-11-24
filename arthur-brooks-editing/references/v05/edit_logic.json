@@ -1,0 +1,534 @@
+{
+ "triggers": [
+  {
+   "t_word": 0.0,
+   "word": "Women",
+   "element": "split 70/30 (Arthur de perfil cuerpo entero arriba / plano general de ambos abajo) + caption 'Women' sobre la costura",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "hook: tesis polémica en el plano de contexto"
+  },
+  {
+   "t_word": 0.3,
+   "word": "are",
+   "element": "corte a CU 3/4 de Arthur; el caption 'Women' cruza el corte y cambia a 'are' (0.73)",
+   "category": "captions_text",
+   "offset_s": 0.08,
+   "why": "cara en cuanto arranca la afirmación"
+  },
+  {
+   "t_word": 0.82,
+   "word": "magnetized",
+   "element": "caption sentence-case blanco 'magnetized to'",
+   "category": "captions_text",
+   "offset_s": 0.18,
+   "why": "segmentación"
+  },
+  {
+   "t_word": 1.98,
+   "word": "dark",
+   "element": "caption sentence-case blanco 'dark triads.'",
+   "category": "captions_text",
+   "offset_s": 0.02,
+   "why": "término clave (sin destacar)"
+  },
+  {
+   "t_word": 2.72,
+   "word": "There's",
+   "element": "micro punch-in (≈1.0→1.1) por corte + caption 'There's a'",
+   "category": "captions_text",
+   "offset_s": 0.01,
+   "why": "nueva frase = reencuadre"
+  },
+  {
+   "t_word": 5.94,
+   "word": "falling",
+   "element": "caption sentence-case blanco 'falling in love'",
+   "category": "captions_text",
+   "offset_s": 0.06,
+   "why": "segmentación"
+  },
+  {
+   "t_word": 7.98,
+   "word": "The",
+   "element": "corte a split 70/30; caption 'The dark triad is' en la costura",
+   "category": "split_layout",
+   "offset_s": -0.06,
+   "why": "definición = plano de contexto"
+  },
+  {
+   "t_word": 11.42,
+   "word": "Narcissism,",
+   "element": "caption sentence-case blanco 'Narcissism,'",
+   "category": "split_layout",
+   "offset_s": -0.42,
+   "why": "1/3 de la lista"
+  },
+  {
+   "t_word": 12.12,
+   "word": "it's",
+   "element": "caption entre comillas '\"It's all about me\"'",
+   "category": "split_layout",
+   "offset_s": -0.12,
+   "why": "voz interna de la tríada (comillas tipográficas)"
+  },
+  {
+   "t_word": 13.4,
+   "word": "Machiavellianism,",
+   "element": "corte a CU 3/4 con la mano en el pecho; caption 'Machiavellianism,' sale 0.7 s antes de la palabra",
+   "category": "captions_text",
+   "offset_s": -0.72,
+   "why": "2/3 de la lista → cara"
+  },
+  {
+   "t_word": 14.28,
+   "word": "I'm",
+   "element": "caption '\"I'm' (abre comillas)",
+   "category": "captions_text",
+   "offset_s": -0.28,
+   "why": "cita interna"
+  },
+  {
+   "t_word": 16.62,
+   "word": "psychopathy,",
+   "element": "micro punch-in por corte + 'And psychopathy,'",
+   "category": "captions_text",
+   "offset_s": -0.15,
+   "why": "3/3 de la lista = reencuadre"
+  },
+  {
+   "t_word": 18.52,
+   "word": "if",
+   "element": "caption '\"If I'",
+   "category": "captions_text",
+   "offset_s": -0.02,
+   "why": "cita interna"
+  },
+  {
+   "t_word": 21.36,
+   "word": "Those",
+   "element": "micro reencuadre por corte (zoom-out ≈1.1→1.0) + 'Those are the'",
+   "category": "captions_text",
+   "offset_s": -0.03,
+   "why": "cierre de la lista"
+  },
+  {
+   "t_word": 25.66,
+   "word": "dangerous.",
+   "element": "caption sentence-case blanco 'dangerous.'",
+   "category": "captions_text",
+   "offset_s": -0.16,
+   "why": "énfasis por aislamiento (1 palabra sola)"
+  },
+  {
+   "t_word": 26.34,
+   "word": "People",
+   "element": "micro punch-in por corte + 'People who do'",
+   "category": "captions_text",
+   "offset_s": -0.01,
+   "why": "nueva frase (dato)"
+  },
+  {
+   "t_word": 28.8,
+   "word": "one",
+   "element": "caption sentence-case blanco 'are one in 14,'",
+   "category": "captions_text",
+   "offset_s": -0.3,
+   "why": "dato numérico en cifra"
+  },
+  {
+   "t_word": 30.36,
+   "word": "7",
+   "element": "caption sentence-case blanco 'it's 7% of the'",
+   "category": "captions_text",
+   "offset_s": 0.14,
+   "why": "dato en cifra con %"
+  },
+  {
+   "t_word": 32.1,
+   "word": "lot.",
+   "element": "caption sentence-case blanco 'It's a lot.'",
+   "category": "captions_text",
+   "offset_s": -0.1,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 33.46,
+   "word": "That's",
+   "element": "corte a split; caption 'That's a lot'",
+   "category": "split_layout",
+   "offset_s": -0.34,
+   "why": "repetición = plano de contexto"
+  },
+  {
+   "t_word": 37.1,
+   "word": "encountered",
+   "element": "caption sentence-case blanco '… dark triad'",
+   "category": "split_layout",
+   "offset_s": 0.4,
+   "why": "segmentación"
+  },
+  {
+   "t_word": 44.02,
+   "word": "boyfriend",
+   "element": "corte a CU; el caption 'It's a boyfriend' cruza el corte",
+   "category": "split_layout",
+   "offset_s": 0.25,
+   "why": "ejemplo personal → cara"
+  },
+  {
+   "t_word": 47.26,
+   "word": "crazy.",
+   "element": "caption sentence-case blanco 'like crazy'",
+   "category": "captions_text",
+   "offset_s": -0.26,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 48.62,
+   "word": "emptied",
+   "element": "caption sentence-case blanco 'emptied your'",
+   "category": "captions_text",
+   "offset_s": -0.12,
+   "why": "ejemplo concreto"
+  },
+  {
+   "t_word": 50.26,
+   "word": "abandoned",
+   "element": "caption sentence-case blanco 'abandoned you,'",
+   "category": "captions_text",
+   "offset_s": 0.24,
+   "why": "ejemplo concreto"
+  },
+  {
+   "t_word": 54.46,
+   "word": "over",
+   "element": "micro punch-in por corte en 'over and over and'",
+   "category": "captions_text",
+   "offset_s": 0.21,
+   "why": "repetición = reencuadre"
+  },
+  {
+   "t_word": 56.64,
+   "word": "Or",
+   "element": "corte a split; caption 'Or you worked for'",
+   "category": "split_layout",
+   "offset_s": 0.21,
+   "why": "nuevo ejemplo"
+  },
+  {
+   "t_word": 59.74,
+   "word": "exploitative",
+   "element": "caption sentence-case blanco 'exploitative'",
+   "category": "split_layout",
+   "offset_s": 0.06,
+   "why": "palabra larga sola"
+  },
+  {
+   "t_word": 62.92,
+   "word": "That",
+   "element": "corte a CU 'That kind of'",
+   "category": "split_layout",
+   "offset_s": -0.05,
+   "why": "conclusión → cara"
+  },
+  {
+   "t_word": 65.48,
+   "word": "When",
+   "element": "corte a contraplano del host (MS frontal); 0.3 s sin caption hasta 'When I came' (65.6)",
+   "category": "aroll_plain",
+   "offset_s": -0.15,
+   "why": "cambio de hablante"
+  },
+  {
+   "t_word": 75.48,
+   "word": "If",
+   "element": "corte a split; caption 'If you're worried'",
+   "category": "split_layout",
+   "offset_s": -0.15,
+   "why": "respuesta de Arthur = vuelve al contexto"
+  },
+  {
+   "t_word": 78.54,
+   "word": "test",
+   "element": "caption sentence-case blanco 'test on my'",
+   "category": "split_layout",
+   "offset_s": -0.04,
+   "why": "CTA verbal"
+  },
+  {
+   "t_word": 80.42,
+   "word": "battery",
+   "element": "caption sentence-case blanco 'battery of tests'",
+   "category": "split_layout",
+   "offset_s": 0.08,
+   "why": "dato"
+  },
+  {
+   "t_word": 86.2,
+   "word": "call",
+   "element": "corte a CU (se frota el ojo) 'It's called the'",
+   "category": "captions_text",
+   "offset_s": -0.28,
+   "why": "momento humano → cara"
+  },
+  {
+   "t_word": 88.06,
+   "word": "Okay,",
+   "element": "jump cut dentro del CU (se elimina un gesto) → 'Okay, tell them'",
+   "category": "captions_text",
+   "offset_s": -0.46,
+   "why": "recorte de pausa"
+  },
+  {
+   "t_word": 88.36,
+   "word": "website?",
+   "element": "corte a split; caption 'website'",
+   "category": "split_layout",
+   "offset_s": 0.06,
+   "why": "CTA (web)"
+  },
+  {
+   "t_word": 99.02,
+   "word": "women.",
+   "element": "caption sentence-case blanco 'for women.' — termina en seco",
+   "category": "title_cta",
+   "offset_s": -0.02,
+   "why": "cierre con la audiencia objetivo"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 0.38,
+   "from": "split 70/30",
+   "to": "Arthur CU 3/4",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "tras solo 0.38 s de split; caption 'Women' cruza el corte"
+  },
+  {
+   "t": 2.73,
+   "from": "CU",
+   "to": "CU (≈1.1)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "micro punch-in (jump zoom) en inicio de frase"
+  },
+  {
+   "t": 7.92,
+   "from": "CU",
+   "to": "split 70/30",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "definición"
+  },
+  {
+   "t": 12.68,
+   "from": "split",
+   "to": "CU 3/4",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 16.47,
+   "from": "CU",
+   "to": "CU (≈1.1)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "micro punch-in"
+  },
+  {
+   "t": 21.33,
+   "from": "CU (≈1.1)",
+   "to": "CU (1.0)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "micro zoom-out"
+  },
+  {
+   "t": 26.33,
+   "from": "CU",
+   "to": "CU (≈1.1)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "micro punch-in"
+  },
+  {
+   "t": 33.12,
+   "from": "CU",
+   "to": "split 70/30",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "split sostenido 11.2 s (33.12–44.27) sin cortes"
+  },
+  {
+   "t": 44.27,
+   "from": "split",
+   "to": "CU 3/4",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "caption cruza el corte"
+  },
+  {
+   "t": 54.67,
+   "from": "CU",
+   "to": "CU (≈1.1)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "micro punch-in en 'over and over'"
+  },
+  {
+   "t": 56.85,
+   "from": "CU",
+   "to": "split 70/30",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 62.87,
+   "from": "split",
+   "to": "CU 3/4",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 65.33,
+   "from": "CU Arthur",
+   "to": "host MS frontal",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "contraplano 10 s con push-in lento"
+  },
+  {
+   "t": 75.33,
+   "from": "host",
+   "to": "split 70/30",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 85.92,
+   "from": "split",
+   "to": "CU 3/4",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 87.6,
+   "from": "CU",
+   "to": "CU (jump cut)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "jump cut: se elimina un trozo del gesto; mismo encuadre"
+  },
+  {
+   "t": 88.42,
+   "from": "CU",
+   "to": "split 70/30",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "split final sostenido 11.2 s hasta el final"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.0,
+   "fx": "pop",
+   "detail": "bloques sentence-case de 1–4 palabras que se sustituyen en corte seco; hold medio ≈0.6 s"
+  },
+  {
+   "t": 0.38,
+   "fx": "pop",
+   "detail": "el bloque cruza el corte de cámara sin moverse (0.38 'Women', 44.27 'It's a boyfriend')"
+  },
+  {
+   "t": 12.0,
+   "fx": "pop",
+   "detail": "citas internas entre comillas tipográficas curvas en el propio caption ('\"It's all about me\"', '\"I'm … my ends\"', '\"If I … you at all\"')"
+  },
+  {
+   "t": 28.5,
+   "fx": "pop",
+   "detail": "cifras en número ('one in 14,', '7%')"
+  },
+  {
+   "t": 65.33,
+   "fx": "pop",
+   "detail": "sin caption en silencios/pausas (65.33–65.6)"
+  }
+ ],
+ "camera": [
+  {
+   "t": 0.38,
+   "move": "push-in lento",
+   "scale_or_dir": "CU con deriva de cámara leve (handheld suave) en todos los CU",
+   "dur_s": 0.0
+  },
+  {
+   "t": 2.73,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.1 por corte",
+   "dur_s": 0.0
+  },
+  {
+   "t": 16.47,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.1 por corte",
+   "dur_s": 0.0
+  },
+  {
+   "t": 21.33,
+   "move": "zoom-out",
+   "scale_or_dir": "1.1→1.0 por corte",
+   "dur_s": 0.0
+  },
+  {
+   "t": 26.33,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.1 por corte",
+   "dur_s": 0.0
+  },
+  {
+   "t": 54.67,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.1 por corte",
+   "dur_s": 0.0
+  },
+  {
+   "t": 65.33,
+   "move": "push-in lento",
+   "scale_or_dir": "1.00→1.08 en el host",
+   "dur_s": 10.0
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   10,
+   8,
+   6,
+   5,
+   4,
+   6,
+   4,
+   3,
+   7,
+   1
+  ],
+  "avg_hold_text_s": 0.6,
+  "notes": "Ritmo lento de cámara (17 cortes en 99.6 s, holds de hasta 11 s en split) compensado por captions cada ≈0.6 s. Los CU se 'refrescan' con micro punch-ins de ≈10 % en inicio de frase. Sin gráficos ni b-roll."
+ },
+ "typography": "Sans grotesca semibold (tipo SF Pro Display / Inter Semibold) en sentence case, blanca con sombra suave, 1–4 palabras por bloque, una línea, ~3.5 % del alto (más pequeña que v02). Posición ≈67 % del alto: en CU sobre el pecho, en split justo encima de la costura del panel inferior. Comillas curvas para voz interna; cifras en número. Sin color de acento ni palabra clave.",
+ "textures": "Ninguna textura añadida: luz natural de ventanal (nieve/bosque), madera cálida, grade natural ligeramente frío en las ventanas. Split sin borde.",
+ "distinct": [
+  "Split 70/30 (Arthur de perfil a cuerpo entero arriba + plano general de los dos abajo) en vez de 50/50.",
+  "Micro punch-ins de ≈10 % por corte dentro del mismo CU al empezar frase (2.73, 16.47, 26.33, 54.67) en lugar de cambiar de cámara.",
+  "Captions sentence-case pequeños con comillas curvas para las 'voces' de la tríada oscura.",
+  "Holds muy largos en split (33.1–44.3 y 88.4–99.6, 11 s) y contraplano del host de 10 s: el más lento de los 5.",
+  "Jump cut visible dentro del CU (87.6) para quitar una pausa en vez de cubrirlo."
+ ]
+}

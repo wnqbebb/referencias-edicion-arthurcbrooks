@@ -1,0 +1,15 @@
+{
+  "_doc": "Acentos por público/marca. ves.py palette <p> --preset NOMBRE o --accent #HEX. El resto de tonos se derivan igual (2 vibrantes + 2 apagados).",
+  "rosa": "#E8559A",
+  "morado": "#8B5CF6",
+  "lila": "#C084FC",
+  "fucsia": "#D946EF",
+  "azul": "#2F6BFF",
+  "celeste": "#38BDF8",
+  "verde": "#22C55E",
+  "esmeralda": "#10B981",
+  "naranja": "#F97316",
+  "rojo": "#EF4444",
+  "dorado": "#D4A017",
+  "neutro": "#9CA3AF"
+}

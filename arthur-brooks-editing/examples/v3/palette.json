@@ -1,0 +1,17 @@
+{
+ "source": "elegida por el editor seg\u00fan el video",
+ "colors": {
+  "vibrant_bright": "#7B2FF0",
+  "vibrant_dark": "#3E1185",
+  "dull_white": "#F8F5FB",
+  "dull_black": "#0E0A14"
+ },
+ "options": [
+  {
+   "vibrant_bright": "#7B2FF0",
+   "vibrant_dark": "#3E1185",
+   "dull_white": "#F8F5FB",
+   "dull_black": "#0E0A14"
+  }
+ ]
+}

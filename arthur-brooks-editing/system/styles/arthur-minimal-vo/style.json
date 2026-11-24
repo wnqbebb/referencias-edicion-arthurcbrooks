@@ -1,0 +1,214 @@
+{
+ "id": "arthur-minimal-vo",
+ "name": "Arthur Brooks · Animación minimal con voz en off",
+ "description": "Sin A-roll: ilustraciones/íconos azules sobre blanco o fondos azul pleno, b-roll cinematográfico oscuro con texto serif, líneas y gráficas. Variantes: ilustración plana (v03), tipografía cinética manuscrita (v04).",
+ "format": {
+  "width": 1080,
+  "height": 1920,
+  "fps": 30
+ },
+ "fonts": {
+  "sans": {
+   "family": "Inter",
+   "weight": 400
+  },
+  "sans_bold": {
+   "family": "Inter",
+   "weight": 700
+  },
+  "special": {
+   "family": "Playfair Display",
+   "weight": 500,
+   "style": "italic"
+  }
+ },
+ "palette": {
+  "mode": "fixed",
+  "fixed": {
+   "vibrant_bright": "#1B54F8",
+   "vibrant_dark": "#0A2A8C",
+   "dull_white": "#FAF7FA",
+   "dull_black": "#0B0B0D"
+  },
+  "roles": {
+   "primary": "dull_white",
+   "secondary": "dull_black",
+   "accent": "vibrant_bright"
+  },
+  "ratio": [
+   60,
+   30,
+   10
+  ],
+  "_doc": "Azul de marca medido: v10 #0134ED, v12 #1B54F8, v19 #1369FA, v08 #0348E6. Papel medido #FAF7FA. Cambia con --preset/--accent."
+ },
+ "background": {
+  "fullscreen": "primary",
+  "grid": false,
+  "grid_opacity": 0
+ },
+ "texture": {
+  "kind": "paper",
+  "opacity": 0.1
+ },
+ "shapes": {
+  "radius": 0,
+  "stroke": 3,
+  "edge": "rough"
+ },
+ "captions": {
+  "zone": "center_low",
+  "max_words": 5,
+  "special_per_phrase": [
+   1,
+   2
+  ],
+  "base_size": 70,
+  "special_scale": 1.85,
+  "layout": "special_center_fill_gaps",
+  "color": "#FFFFFF",
+  "special_color": "accent",
+  "backdrop": {
+   "type": "none"
+  },
+  "animation": "blur_fade",
+  "center_y": 0.5,
+  "mode": "arthur",
+  "_min_px": {
+   "small": 42,
+   "special": 100,
+   "_doc": "Tamaños mínimos legibles en móvil (1080 de ancho). El validador rechaza menos."
+  }
+ },
+ "speaker": {
+  "eyes_line": "upper_third",
+  "nose_x": "center"
+ },
+ "motion": {
+  "enter_ms": 600,
+  "exit_ms": 0,
+  "easing": [
+   0.45,
+   0,
+   0.15,
+   1
+  ],
+  "pop_from_scale": 0.97,
+  "blur_from_px": 18,
+  "stagger_ms": 120,
+  "feel": "slow_breathing"
+ },
+ "pacing": {
+  "hook_window_s": 2.0,
+  "max_aroll_streak_s": 0.0,
+  "min_scene_s": 0.8,
+  "target_animation_share": 1.0
+ },
+ "scenes_allowed": [
+  "fullscreen_text",
+  "quote",
+  "line_text",
+  "line_graph",
+  "bar_graph",
+  "broll_text",
+  "painting",
+  "center_illustration",
+  "object_callout",
+  "kinetic_type",
+  "blue_quote",
+  "video_card",
+  "arthur_text",
+  "arthur_icons",
+  "arthur_orbit",
+  "arthur_stripes",
+  "arthur_blocks",
+  "arthur_broll",
+  "arthur_number",
+  "paper_collage",
+  "timeline",
+  "archival_photo",
+  "name_card",
+  "j_graph",
+  "j_line",
+  "j_quote",
+  "j_illus",
+  "j_half",
+  "j_painting",
+  "j_broll"
+ ],
+ "sfx": {
+  "aroll": null,
+  "fullscreen_text": "whoosh_soft",
+  "quote": "whoosh_soft",
+  "line_text": "draw",
+  "line_graph": "draw",
+  "bar_graph": "riser",
+  "broll_text": "whoosh_soft",
+  "painting": "whoosh_soft",
+  "center_illustration": "whoosh_soft",
+  "object_callout": "click",
+  "kinetic_type": null,
+  "blue_quote": "hit",
+  "video_card": "pop",
+  "min_gap_s": 6.0,
+  "arthur_number": "hit",
+  "arthur_icons": "pop",
+  "arthur_orbit": "pop",
+  "arthur_stripes": "click",
+  "paper_collage": "pop",
+  "archival_photo": "pop",
+  "name_card": "hit",
+  "timeline": "click",
+  "arthur_blocks": "pop",
+  "arthur_text": null,
+  "arthur_broll": null,
+  "j_graph": "draw",
+  "j_line": "whoosh_soft",
+  "j_quote": "click",
+  "j_illus": "pop",
+  "j_half": "whoosh_soft",
+  "j_painting": "whoosh_soft",
+  "j_broll": null
+ },
+ "music": {
+  "mood": "piano cinematográfico / cuerdas suaves",
+  "ducking_db": -20
+ },
+ "safe_zone": {
+  "_doc": "Zona segura Reels/TikTok/Shorts (fracción del alto/ancho). Fuera de aquí la UI de la app tapa el contenido.",
+  "top": 0.14,
+  "bottom": 0.26,
+  "left": 0.07,
+  "right": 0.15
+ },
+ "_evidence": {
+  "videos": [
+   "v10",
+   "v12",
+   "v19",
+   "v03",
+   "v04"
+  ],
+  "shot_len_s": "≈1.7 (v10: 68 planos/111 s)"
+ },
+ "broll_grade": {
+  "contrast": 1.1,
+  "saturate": 0.75,
+  "brightness": 0.96,
+  "tint": "accent_dark",
+  "tint_opacity": 0.18,
+  "grain": 0.12,
+  "texture": "paper",
+  "_doc": "Look de marca para B-ROLL/imágenes (stock o generadas): nunca sobre la piel del A-roll. Tinte del acento oscuro en soft-light + grano + textura."
+ },
+ "transitions": {
+  "allowed": [
+   "slide",
+   "wipe",
+   "iris",
+   "flash_white"
+  ],
+  "min_gap_s": 7,
+  "_doc": "Fluidez: corte seco por defecto (70–85 % en Arthur). Solo estas transiciones, separadas ≥ min_gap_s, en cambio de tema/capítulo."
+ }
+}

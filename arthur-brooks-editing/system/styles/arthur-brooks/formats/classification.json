@@ -1,0 +1,302 @@
+[
+  {
+    "video": "v01",
+    "observed": {
+      "duration": 150.0,
+      "face": 0.61,
+      "face_size": 0.062,
+      "seam": 0.09,
+      "flat": 0.167,
+      "white": 0.127,
+      "cuts_per_min": 30.8
+    },
+    "inferred_format": "documental_bio",
+    "why": "A-roll + escenas de papel blanco + corte rápido → documental biográfico",
+    "human_label": "documental_bio"
+  },
+  {
+    "video": "v02",
+    "observed": {
+      "duration": 41.4,
+      "face": 1.0,
+      "face_size": 0.156,
+      "seam": 0.0,
+      "flat": 0.0,
+      "white": 0.0,
+      "cuts_per_min": 7.3
+    },
+    "inferred_format": "podcast_clip",
+    "why": "predomina la cara, pocas gráficas → clip de podcast con zooms/cambios de cámara",
+    "human_label": "podcast_split"
+  },
+  {
+    "video": "v03",
+    "observed": {
+      "duration": 12.9,
+      "face": 0.077,
+      "face_size": 0.028,
+      "seam": 0.0,
+      "flat": 0.0,
+      "white": 0.0,
+      "cuts_per_min": 0.0
+    },
+    "inferred_format": "desconocido",
+    "why": "ninguna regla aplica",
+    "human_label": "animacion_vo"
+  },
+  {
+    "video": "v04",
+    "observed": {
+      "duration": 57.5,
+      "face": 0.0,
+      "face_size": 0.0,
+      "seam": 0.009,
+      "flat": 0.817,
+      "white": 0.765,
+      "cuts_per_min": 3.1
+    },
+    "inferred_format": "animacion_vo",
+    "why": "casi sin cara + fondos gráficos planos → animación con voz en off",
+    "human_label": "animacion_vo"
+  },
+  {
+    "video": "v05",
+    "observed": {
+      "duration": 99.6,
+      "face": 0.548,
+      "face_size": 0.264,
+      "seam": 0.0,
+      "flat": 0.0,
+      "white": 0.0,
+      "cuts_per_min": 6.0
+    },
+    "inferred_format": "podcast_clip",
+    "why": "predomina la cara, pocas gráficas → clip de podcast con zooms/cambios de cámara",
+    "human_label": "podcast_split"
+  },
+  {
+    "video": "v06",
+    "observed": {
+      "duration": 54.7,
+      "face": 0.33,
+      "face_size": 0.123,
+      "seam": 0.009,
+      "flat": 0.0,
+      "white": 0.0,
+      "cuts_per_min": 37.3
+    },
+    "inferred_format": "podcast_clip",
+    "why": "predomina la cara, pocas gráficas → clip de podcast con zooms/cambios de cámara",
+    "human_label": "talking_head_minimal"
+  },
+  {
+    "video": "v07",
+    "observed": {
+      "duration": 54.4,
+      "face": 0.771,
+      "face_size": 0.067,
+      "seam": 0.0,
+      "flat": 0.0,
+      "white": 0.0,
+      "cuts_per_min": 1.1
+    },
+    "inferred_format": "podcast_clip",
+    "why": "predomina la cara, pocas gráficas → clip de podcast con zooms/cambios de cámara",
+    "human_label": "podcast_clip"
+  },
+  {
+    "video": "v08",
+    "observed": {
+      "duration": 58.4,
+      "face": 0.564,
+      "face_size": 0.24,
+      "seam": 0.017,
+      "flat": 0.179,
+      "white": 0.026,
+      "cuts_per_min": 29.8
+    },
+    "inferred_format": "talking_head_minimal",
+    "why": "A-roll alternado con escenas gráficas planas (azul/blanco)",
+    "human_label": "talking_head_minimal"
+  },
+  {
+    "video": "v09",
+    "observed": {
+      "duration": 52.9,
+      "face": 0.972,
+      "face_size": 0.184,
+      "seam": 0.0,
+      "flat": 0.0,
+      "white": 0.0,
+      "cuts_per_min": 1.1
+    },
+    "inferred_format": "podcast_clip",
+    "why": "predomina la cara, pocas gráficas → clip de podcast con zooms/cambios de cámara",
+    "human_label": "podcast_clip"
+  },
+  {
+    "video": "v10",
+    "observed": {
+      "duration": 110.8,
+      "face": 0.05,
+      "face_size": 0.072,
+      "seam": 0.009,
+      "flat": 0.407,
+      "white": 0.321,
+      "cuts_per_min": 36.3
+    },
+    "inferred_format": "animacion_vo",
+    "why": "casi sin cara + fondos gráficos planos → animación con voz en off",
+    "human_label": "animacion_vo"
+  },
+  {
+    "video": "v11",
+    "observed": {
+      "duration": 90.2,
+      "face": 0.539,
+      "face_size": 0.217,
+      "seam": 0.061,
+      "flat": 0.094,
+      "white": 0.083,
+      "cuts_per_min": 23.3
+    },
+    "inferred_format": "documental_bio",
+    "why": "A-roll + escenas de papel blanco + corte rápido → documental biográfico",
+    "human_label": "documental_bio"
+  },
+  {
+    "video": "v12",
+    "observed": {
+      "duration": 91.3,
+      "face": 0.033,
+      "face_size": 0.073,
+      "seam": 0.038,
+      "flat": 0.549,
+      "white": 0.324,
+      "cuts_per_min": 32.9
+    },
+    "inferred_format": "animacion_vo",
+    "why": "casi sin cara + fondos gráficos planos → animación con voz en off",
+    "human_label": "animacion_vo"
+  },
+  {
+    "video": "v13",
+    "observed": {
+      "duration": 57.4,
+      "face": 0.711,
+      "face_size": 0.161,
+      "seam": 0.009,
+      "flat": 0.0,
+      "white": 0.0,
+      "cuts_per_min": 2.1
+    },
+    "inferred_format": "podcast_clip",
+    "why": "predomina la cara, pocas gráficas → clip de podcast con zooms/cambios de cámara",
+    "human_label": "podcast_clip"
+  },
+  {
+    "video": "v14",
+    "observed": {
+      "duration": 51.8,
+      "face": 0.903,
+      "face_size": 0.094,
+      "seam": 0.049,
+      "flat": 0.0,
+      "white": 0.0,
+      "cuts_per_min": 3.5
+    },
+    "inferred_format": "podcast_clip",
+    "why": "predomina la cara, pocas gráficas → clip de podcast con zooms/cambios de cámara",
+    "human_label": "podcast_split"
+  },
+  {
+    "video": "v15",
+    "observed": {
+      "duration": 53.2,
+      "face": 0.925,
+      "face_size": 0.082,
+      "seam": 0.972,
+      "flat": 0.0,
+      "white": 0.0,
+      "cuts_per_min": 1.1
+    },
+    "inferred_format": "podcast_split",
+    "why": "costura horizontal estable (30–80 % del alto) en parte del video + caras → pantalla dividida",
+    "human_label": "podcast_split"
+  },
+  {
+    "video": "v16",
+    "observed": {
+      "duration": 100.3,
+      "face": 0.47,
+      "face_size": 0.092,
+      "seam": 0.015,
+      "flat": 0.235,
+      "white": 0.205,
+      "cuts_per_min": 22.1
+    },
+    "inferred_format": "talking_head_minimal",
+    "why": "A-roll alternado con escenas gráficas planas (azul/blanco)",
+    "human_label": "talking_head_minimal"
+  },
+  {
+    "video": "v17",
+    "observed": {
+      "duration": 52.4,
+      "face": 0.471,
+      "face_size": 0.13,
+      "seam": 0.029,
+      "flat": 0.087,
+      "white": 0.067,
+      "cuts_per_min": 20.6
+    },
+    "inferred_format": "documental_bio",
+    "why": "A-roll + escenas de papel blanco + corte rápido → documental biográfico",
+    "human_label": "podcast_clip"
+  },
+  {
+    "video": "v18",
+    "observed": {
+      "duration": 67.0,
+      "face": 0.127,
+      "face_size": 0.13,
+      "seam": 0.03,
+      "flat": 0.045,
+      "white": 0.045,
+      "cuts_per_min": 25.1
+    },
+    "inferred_format": "desconocido",
+    "why": "ninguna regla aplica",
+    "human_label": "podcast_clip"
+  },
+  {
+    "video": "v19",
+    "observed": {
+      "duration": 110.1,
+      "face": 0.068,
+      "face_size": 0.017,
+      "seam": 0.023,
+      "flat": 0.664,
+      "white": 0.245,
+      "cuts_per_min": 31.6
+    },
+    "inferred_format": "animacion_vo",
+    "why": "casi sin cara + fondos gráficos planos → animación con voz en off",
+    "human_label": "animacion_vo"
+  },
+  {
+    "video": "v20",
+    "observed": {
+      "duration": 50.0,
+      "face": 0.86,
+      "face_size": 0.174,
+      "seam": 0.0,
+      "flat": 0.0,
+      "white": 0.0,
+      "cuts_per_min": 6.0
+    },
+    "inferred_format": "podcast_clip",
+    "why": "predomina la cara, pocas gráficas → clip de podcast con zooms/cambios de cámara",
+    "human_label": "podcast_split"
+  }
+]

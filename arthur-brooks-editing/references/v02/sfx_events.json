@@ -1,0 +1,29 @@
+[
+ {
+  "t": 14.78,
+  "dur": 0.19,
+  "kind": "hit/boom",
+  "gain_db": 14.4,
+  "to_cut": -2.72,
+  "word": "put",
+  "to_word": 0.06
+ },
+ {
+  "t": 21.699,
+  "dur": 0.0,
+  "kind": "click",
+  "gain_db": 10.7,
+  "to_cut": 1.2,
+  "word": "kids",
+  "to_word": 0.06
+ },
+ {
+  "t": 23.162,
+  "dur": 0.19,
+  "kind": "hit/boom",
+  "gain_db": 12.7,
+  "to_cut": -0.34,
+  "word": "practice",
+  "to_word": -0.02
+ }
+]

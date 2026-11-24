@@ -1,0 +1,3422 @@
+{
+  "video": "v16.mp4",
+  "duration": 100.28,
+  "derived": {
+    "shots": 38,
+    "avg_shot_len": 2.64,
+    "cuts_per_min": 22.7,
+    "hook_shots_first_3s": 2,
+    "high_motion_shots": [
+      1,
+      2,
+      3,
+      6,
+      7,
+      9,
+      13,
+      14,
+      15,
+      17,
+      18,
+      21,
+      23,
+      28,
+      32,
+      34,
+      35,
+      36
+    ]
+  },
+  "method": "ffmpeg scene>0.32 + keyframes 5/plano + paleta cuantizada + energía de movimiento",
+  "words": [
+    {
+      "w": "What's",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "w": "the",
+      "start": 0.2,
+      "end": 0.3
+    },
+    {
+      "w": "number",
+      "start": 0.3,
+      "end": 0.44
+    },
+    {
+      "w": "one",
+      "start": 0.44,
+      "end": 0.64
+    },
+    {
+      "w": "predictor,",
+      "start": 0.64,
+      "end": 1.06
+    },
+    {
+      "w": "that",
+      "start": 1.12,
+      "end": 1.18
+    },
+    {
+      "w": "somebody",
+      "start": 1.18,
+      "end": 1.4
+    },
+    {
+      "w": "doesn't",
+      "start": 1.4,
+      "end": 1.66
+    },
+    {
+      "w": "want",
+      "start": 1.66,
+      "end": 1.8
+    },
+    {
+      "w": "a",
+      "start": 1.8,
+      "end": 1.92
+    },
+    {
+      "w": "second",
+      "start": 1.92,
+      "end": 2.14
+    },
+    {
+      "w": "date?",
+      "start": 2.14,
+      "end": 2.4
+    },
+    {
+      "w": "There's",
+      "start": 2.62,
+      "end": 2.78
+    },
+    {
+      "w": "a",
+      "start": 2.78,
+      "end": 2.86
+    },
+    {
+      "w": "lot",
+      "start": 2.86,
+      "end": 2.92
+    },
+    {
+      "w": "of",
+      "start": 2.92,
+      "end": 3.0
+    },
+    {
+      "w": "research",
+      "start": 3.0,
+      "end": 3.36
+    },
+    {
+      "w": "on",
+      "start": 3.36,
+      "end": 3.66
+    },
+    {
+      "w": "what",
+      "start": 3.66,
+      "end": 3.82
+    },
+    {
+      "w": "makes",
+      "start": 3.82,
+      "end": 4.1
+    },
+    {
+      "w": "dates",
+      "start": 4.1,
+      "end": 4.28
+    },
+    {
+      "w": "successful.",
+      "start": 4.28,
+      "end": 4.96
+    },
+    {
+      "w": "The",
+      "start": 5.3,
+      "end": 5.38
+    },
+    {
+      "w": "research",
+      "start": 5.38,
+      "end": 5.7
+    },
+    {
+      "w": "is",
+      "start": 5.7,
+      "end": 5.92
+    },
+    {
+      "w": "very",
+      "start": 5.92,
+      "end": 6.1
+    },
+    {
+      "w": "clear",
+      "start": 6.1,
+      "end": 6.5
+    },
+    {
+      "w": "that",
+      "start": 6.5,
+      "end": 6.78
+    },
+    {
+      "w": "fear",
+      "start": 6.78,
+      "end": 7.22
+    },
+    {
+      "w": "is",
+      "start": 7.22,
+      "end": 7.52
+    },
+    {
+      "w": "on",
+      "start": 7.52,
+      "end": 7.64
+    },
+    {
+      "w": "the",
+      "start": 7.64,
+      "end": 7.78
+    },
+    {
+      "w": "rise",
+      "start": 7.78,
+      "end": 8.12
+    },
+    {
+      "w": "from",
+      "start": 8.12,
+      "end": 8.52
+    },
+    {
+      "w": "people",
+      "start": 8.52,
+      "end": 8.92
+    },
+    {
+      "w": "who",
+      "start": 8.92,
+      "end": 9.06
+    },
+    {
+      "w": "are",
+      "start": 9.06,
+      "end": 9.16
+    },
+    {
+      "w": "dating.",
+      "start": 9.16,
+      "end": 9.44
+    },
+    {
+      "w": "Now,",
+      "start": 9.74,
+      "end": 9.84
+    },
+    {
+      "w": "here's",
+      "start": 9.86,
+      "end": 10.18
+    },
+    {
+      "w": "how",
+      "start": 10.18,
+      "end": 10.28
+    },
+    {
+      "w": "we",
+      "start": 10.28,
+      "end": 10.38
+    },
+    {
+      "w": "measure",
+      "start": 10.38,
+      "end": 10.7
+    },
+    {
+      "w": "that.",
+      "start": 10.7,
+      "end": 10.92
+    },
+    {
+      "w": "There's",
+      "start": 11.04,
+      "end": 11.18
+    },
+    {
+      "w": "two",
+      "start": 11.18,
+      "end": 11.3
+    },
+    {
+      "w": "dimensions.",
+      "start": 11.3,
+      "end": 11.64
+    },
+    {
+      "w": "There's",
+      "start": 12.1,
+      "end": 12.26
+    },
+    {
+      "w": "avoidance",
+      "start": 12.26,
+      "end": 12.82
+    },
+    {
+      "w": "and",
+      "start": 12.82,
+      "end": 13.2
+    },
+    {
+      "w": "there's",
+      "start": 13.2,
+      "end": 13.4
+    },
+    {
+      "w": "anxiety.",
+      "start": 13.4,
+      "end": 13.86
+    },
+    {
+      "w": "Now,",
+      "start": 14.18,
+      "end": 14.3
+    },
+    {
+      "w": "you",
+      "start": 14.44,
+      "end": 14.64
+    },
+    {
+      "w": "can",
+      "start": 14.64,
+      "end": 14.8
+    },
+    {
+      "w": "be",
+      "start": 14.8,
+      "end": 14.92
+    },
+    {
+      "w": "the",
+      "start": 14.92,
+      "end": 15.04
+    },
+    {
+      "w": "kind",
+      "start": 15.04,
+      "end": 15.16
+    },
+    {
+      "w": "of",
+      "start": 15.16,
+      "end": 15.22
+    },
+    {
+      "w": "person",
+      "start": 15.22,
+      "end": 15.52
+    },
+    {
+      "w": "who's",
+      "start": 15.52,
+      "end": 15.84
+    },
+    {
+      "w": "both",
+      "start": 15.84,
+      "end": 16.0
+    },
+    {
+      "w": "anxious",
+      "start": 16.0,
+      "end": 16.48
+    },
+    {
+      "w": "and",
+      "start": 16.48,
+      "end": 16.88
+    },
+    {
+      "w": "avoidant.",
+      "start": 16.88,
+      "end": 17.48
+    },
+    {
+      "w": "That's",
+      "start": 17.58,
+      "end": 17.8
+    },
+    {
+      "w": "called",
+      "start": 17.8,
+      "end": 18.08
+    },
+    {
+      "w": "insecure",
+      "start": 18.08,
+      "end": 18.78
+    },
+    {
+      "w": "in",
+      "start": 18.78,
+      "end": 19.3
+    },
+    {
+      "w": "your",
+      "start": 19.3,
+      "end": 19.44
+    },
+    {
+      "w": "attachment",
+      "start": 19.44,
+      "end": 19.92
+    },
+    {
+      "w": "style",
+      "start": 19.92,
+      "end": 20.38
+    },
+    {
+      "w": "and",
+      "start": 20.38,
+      "end": 20.6
+    },
+    {
+      "w": "in",
+      "start": 20.6,
+      "end": 20.74
+    },
+    {
+      "w": "your",
+      "start": 20.74,
+      "end": 20.88
+    },
+    {
+      "w": "dating",
+      "start": 20.88,
+      "end": 21.28
+    },
+    {
+      "w": "style.",
+      "start": 21.28,
+      "end": 21.7
+    },
+    {
+      "w": "So",
+      "start": 21.84,
+      "end": 22.0
+    },
+    {
+      "w": "you",
+      "start": 22.0,
+      "end": 22.1
+    },
+    {
+      "w": "need",
+      "start": 22.1,
+      "end": 22.24
+    },
+    {
+      "w": "to",
+      "start": 22.24,
+      "end": 22.38
+    },
+    {
+      "w": "work",
+      "start": 22.38,
+      "end": 22.64
+    },
+    {
+      "w": "against",
+      "start": 22.64,
+      "end": 23.12
+    },
+    {
+      "w": "it",
+      "start": 23.12,
+      "end": 23.44
+    },
+    {
+      "w": "consciously.",
+      "start": 23.44,
+      "end": 23.94
+    },
+    {
+      "w": "And",
+      "start": 24.5,
+      "end": 24.66
+    },
+    {
+      "w": "there's",
+      "start": 24.66,
+      "end": 24.84
+    },
+    {
+      "w": "a",
+      "start": 24.84,
+      "end": 24.92
+    },
+    {
+      "w": "way",
+      "start": 24.92,
+      "end": 25.02
+    },
+    {
+      "w": "to",
+      "start": 25.02,
+      "end": 25.14
+    },
+    {
+      "w": "do",
+      "start": 25.14,
+      "end": 25.3
+    },
+    {
+      "w": "that.",
+      "start": 25.3,
+      "end": 25.5
+    },
+    {
+      "w": "You",
+      "start": 25.68,
+      "end": 25.72
+    },
+    {
+      "w": "take",
+      "start": 25.72,
+      "end": 25.9
+    },
+    {
+      "w": "that",
+      "start": 25.9,
+      "end": 26.08
+    },
+    {
+      "w": "anxiety,",
+      "start": 26.08,
+      "end": 26.62
+    },
+    {
+      "w": "you",
+      "start": 26.92,
+      "end": 27.1
+    },
+    {
+      "w": "take",
+      "start": 27.1,
+      "end": 27.26
+    },
+    {
+      "w": "that",
+      "start": 27.26,
+      "end": 27.44
+    },
+    {
+      "w": "sense",
+      "start": 27.44,
+      "end": 27.78
+    },
+    {
+      "w": "of",
+      "start": 27.78,
+      "end": 27.98
+    },
+    {
+      "w": "dread",
+      "start": 27.98,
+      "end": 28.34
+    },
+    {
+      "w": "and",
+      "start": 28.34,
+      "end": 28.54
+    },
+    {
+      "w": "uncertainty",
+      "start": 28.54,
+      "end": 29.0
+    },
+    {
+      "w": "and",
+      "start": 29.0,
+      "end": 29.48
+    },
+    {
+      "w": "you",
+      "start": 29.48,
+      "end": 29.56
+    },
+    {
+      "w": "turn",
+      "start": 29.56,
+      "end": 29.8
+    },
+    {
+      "w": "it",
+      "start": 29.8,
+      "end": 29.94
+    },
+    {
+      "w": "into",
+      "start": 29.94,
+      "end": 30.2
+    },
+    {
+      "w": "adventure.",
+      "start": 30.2,
+      "end": 30.74
+    },
+    {
+      "w": "And",
+      "start": 31.26,
+      "end": 31.34
+    },
+    {
+      "w": "you",
+      "start": 31.34,
+      "end": 31.48
+    },
+    {
+      "w": "can",
+      "start": 31.48,
+      "end": 31.64
+    },
+    {
+      "w": "do",
+      "start": 31.64,
+      "end": 31.86
+    },
+    {
+      "w": "that",
+      "start": 31.86,
+      "end": 32.16
+    },
+    {
+      "w": "because",
+      "start": 32.16,
+      "end": 32.5
+    },
+    {
+      "w": "you",
+      "start": 32.5,
+      "end": 32.66
+    },
+    {
+      "w": "have",
+      "start": 32.66,
+      "end": 32.82
+    },
+    {
+      "w": "a",
+      "start": 32.82,
+      "end": 32.9
+    },
+    {
+      "w": "modern",
+      "start": 32.9,
+      "end": 33.2
+    },
+    {
+      "w": "brain",
+      "start": 33.2,
+      "end": 33.58
+    },
+    {
+      "w": "that",
+      "start": 33.58,
+      "end": 33.94
+    },
+    {
+      "w": "makes",
+      "start": 33.94,
+      "end": 34.12
+    },
+    {
+      "w": "it",
+      "start": 34.12,
+      "end": 34.24
+    },
+    {
+      "w": "possible",
+      "start": 34.24,
+      "end": 34.72
+    },
+    {
+      "w": "for",
+      "start": 34.72,
+      "end": 35.22
+    },
+    {
+      "w": "you",
+      "start": 35.22,
+      "end": 35.36
+    },
+    {
+      "w": "to",
+      "start": 35.36,
+      "end": 35.5
+    },
+    {
+      "w": "reframe",
+      "start": 35.5,
+      "end": 36.3
+    },
+    {
+      "w": "that",
+      "start": 36.3,
+      "end": 36.74
+    },
+    {
+      "w": "experience",
+      "start": 36.74,
+      "end": 37.34
+    },
+    {
+      "w": "as",
+      "start": 37.34,
+      "end": 37.78
+    },
+    {
+      "w": "something",
+      "start": 37.78,
+      "end": 38.16
+    },
+    {
+      "w": "better.",
+      "start": 38.16,
+      "end": 38.8
+    },
+    {
+      "w": "Turning",
+      "start": 39.06,
+      "end": 39.26
+    },
+    {
+      "w": "anxiety",
+      "start": 39.26,
+      "end": 39.76
+    },
+    {
+      "w": "into",
+      "start": 39.76,
+      "end": 40.06
+    },
+    {
+      "w": "an",
+      "start": 40.06,
+      "end": 40.22
+    },
+    {
+      "w": "adventure",
+      "start": 40.22,
+      "end": 40.56
+    },
+    {
+      "w": "really",
+      "start": 40.56,
+      "end": 40.94
+    },
+    {
+      "w": "is",
+      "start": 40.94,
+      "end": 41.18
+    },
+    {
+      "w": "a",
+      "start": 41.18,
+      "end": 41.36
+    },
+    {
+      "w": "two",
+      "start": 41.36,
+      "end": 41.66
+    },
+    {
+      "w": "step",
+      "start": 41.66,
+      "end": 41.84
+    },
+    {
+      "w": "process.",
+      "start": 41.84,
+      "end": 42.4
+    },
+    {
+      "w": "The",
+      "start": 42.58,
+      "end": 42.7
+    },
+    {
+      "w": "first",
+      "start": 42.7,
+      "end": 43.02
+    },
+    {
+      "w": "is",
+      "start": 43.02,
+      "end": 43.46
+    },
+    {
+      "w": "to",
+      "start": 43.46,
+      "end": 43.58
+    },
+    {
+      "w": "say",
+      "start": 43.58,
+      "end": 43.74
+    },
+    {
+      "w": "this,",
+      "start": 43.74,
+      "end": 44.02
+    },
+    {
+      "w": "I'm",
+      "start": 44.2,
+      "end": 44.48
+    },
+    {
+      "w": "normal.",
+      "start": 44.48,
+      "end": 44.86
+    },
+    {
+      "w": "The",
+      "start": 45.14,
+      "end": 45.26
+    },
+    {
+      "w": "anxiety",
+      "start": 45.26,
+      "end": 45.66
+    },
+    {
+      "w": "that",
+      "start": 45.66,
+      "end": 45.98
+    },
+    {
+      "w": "I'm",
+      "start": 45.98,
+      "end": 46.08
+    },
+    {
+      "w": "feeling",
+      "start": 46.08,
+      "end": 46.34
+    },
+    {
+      "w": "is",
+      "start": 46.34,
+      "end": 46.52
+    },
+    {
+      "w": "normal.",
+      "start": 46.52,
+      "end": 46.92
+    },
+    {
+      "w": "My",
+      "start": 47.22,
+      "end": 47.32
+    },
+    {
+      "w": "brain",
+      "start": 47.32,
+      "end": 47.62
+    },
+    {
+      "w": "is",
+      "start": 47.62,
+      "end": 47.84
+    },
+    {
+      "w": "working",
+      "start": 47.84,
+      "end": 48.04
+    },
+    {
+      "w": "the",
+      "start": 48.04,
+      "end": 48.26
+    },
+    {
+      "w": "way",
+      "start": 48.26,
+      "end": 48.42
+    },
+    {
+      "w": "it's",
+      "start": 48.42,
+      "end": 48.66
+    },
+    {
+      "w": "supposed",
+      "start": 48.66,
+      "end": 49.08
+    },
+    {
+      "w": "to,",
+      "start": 49.08,
+      "end": 49.46
+    },
+    {
+      "w": "as",
+      "start": 49.58,
+      "end": 49.66
+    },
+    {
+      "w": "a",
+      "start": 49.66,
+      "end": 49.72
+    },
+    {
+      "w": "matter",
+      "start": 49.72,
+      "end": 49.84
+    },
+    {
+      "w": "of",
+      "start": 49.84,
+      "end": 50.02
+    },
+    {
+      "w": "fact.",
+      "start": 50.02,
+      "end": 50.32
+    },
+    {
+      "w": "If",
+      "start": 50.48,
+      "end": 50.58
+    },
+    {
+      "w": "you",
+      "start": 50.58,
+      "end": 50.66
+    },
+    {
+      "w": "try",
+      "start": 50.66,
+      "end": 50.8
+    },
+    {
+      "w": "to",
+      "start": 50.8,
+      "end": 50.94
+    },
+    {
+      "w": "fight",
+      "start": 50.94,
+      "end": 51.24
+    },
+    {
+      "w": "against",
+      "start": 51.24,
+      "end": 51.54
+    },
+    {
+      "w": "something",
+      "start": 51.54,
+      "end": 51.96
+    },
+    {
+      "w": "that's",
+      "start": 51.96,
+      "end": 52.22
+    },
+    {
+      "w": "a",
+      "start": 52.22,
+      "end": 52.3
+    },
+    {
+      "w": "normal",
+      "start": 52.3,
+      "end": 52.66
+    },
+    {
+      "w": "part",
+      "start": 52.66,
+      "end": 53.08
+    },
+    {
+      "w": "of",
+      "start": 53.08,
+      "end": 53.24
+    },
+    {
+      "w": "your",
+      "start": 53.24,
+      "end": 53.36
+    },
+    {
+      "w": "physiology,",
+      "start": 53.36,
+      "end": 53.88
+    },
+    {
+      "w": "it's",
+      "start": 54.22,
+      "end": 54.4
+    },
+    {
+      "w": "just",
+      "start": 54.4,
+      "end": 54.54
+    },
+    {
+      "w": "gonna",
+      "start": 54.54,
+      "end": 54.74
+    },
+    {
+      "w": "get",
+      "start": 54.74,
+      "end": 54.92
+    },
+    {
+      "w": "worse.",
+      "start": 54.92,
+      "end": 55.24
+    },
+    {
+      "w": "So",
+      "start": 55.48,
+      "end": 55.66
+    },
+    {
+      "w": "to",
+      "start": 55.66,
+      "end": 55.86
+    },
+    {
+      "w": "start",
+      "start": 55.86,
+      "end": 56.06
+    },
+    {
+      "w": "off",
+      "start": 56.06,
+      "end": 56.28
+    },
+    {
+      "w": "by",
+      "start": 56.28,
+      "end": 56.44
+    },
+    {
+      "w": "saying,",
+      "start": 56.44,
+      "end": 56.7
+    },
+    {
+      "w": "I",
+      "start": 56.92,
+      "end": 57.02
+    },
+    {
+      "w": "don't",
+      "start": 57.02,
+      "end": 57.12
+    },
+    {
+      "w": "like",
+      "start": 57.12,
+      "end": 57.3
+    },
+    {
+      "w": "how",
+      "start": 57.3,
+      "end": 57.42
+    },
+    {
+      "w": "this",
+      "start": 57.42,
+      "end": 57.54
+    },
+    {
+      "w": "feels,",
+      "start": 57.54,
+      "end": 57.84
+    },
+    {
+      "w": "but",
+      "start": 57.84,
+      "end": 58.22
+    },
+    {
+      "w": "this",
+      "start": 58.22,
+      "end": 58.4
+    },
+    {
+      "w": "is",
+      "start": 58.4,
+      "end": 58.54
+    },
+    {
+      "w": "a",
+      "start": 58.54,
+      "end": 58.64
+    },
+    {
+      "w": "normal",
+      "start": 58.64,
+      "end": 58.8
+    },
+    {
+      "w": "thing.",
+      "start": 58.8,
+      "end": 59.12
+    },
+    {
+      "w": "This",
+      "start": 59.38,
+      "end": 59.44
+    },
+    {
+      "w": "is",
+      "start": 59.44,
+      "end": 59.56
+    },
+    {
+      "w": "the",
+      "start": 59.56,
+      "end": 59.66
+    },
+    {
+      "w": "first",
+      "start": 59.66,
+      "end": 59.9
+    },
+    {
+      "w": "way",
+      "start": 59.9,
+      "end": 60.2
+    },
+    {
+      "w": "to",
+      "start": 60.2,
+      "end": 60.42
+    },
+    {
+      "w": "start",
+      "start": 60.42,
+      "end": 60.6
+    },
+    {
+      "w": "putting",
+      "start": 60.6,
+      "end": 60.9
+    },
+    {
+      "w": "yourself",
+      "start": 60.9,
+      "end": 61.24
+    },
+    {
+      "w": "at",
+      "start": 61.24,
+      "end": 61.5
+    },
+    {
+      "w": "ease.",
+      "start": 61.5,
+      "end": 61.74
+    },
+    {
+      "w": "Remember,",
+      "start": 62.1,
+      "end": 62.28
+    },
+    {
+      "w": "anxiety",
+      "start": 62.58,
+      "end": 62.96
+    },
+    {
+      "w": "is",
+      "start": 62.96,
+      "end": 63.64
+    },
+    {
+      "w": "a",
+      "start": 63.64,
+      "end": 63.76
+    },
+    {
+      "w": "normal",
+      "start": 63.76,
+      "end": 63.94
+    },
+    {
+      "w": "thing.",
+      "start": 63.94,
+      "end": 64.32
+    },
+    {
+      "w": "There's",
+      "start": 64.5,
+      "end": 64.64
+    },
+    {
+      "w": "nothing",
+      "start": 64.64,
+      "end": 64.8
+    },
+    {
+      "w": "wrong",
+      "start": 64.8,
+      "end": 65.02
+    },
+    {
+      "w": "with",
+      "start": 65.02,
+      "end": 65.22
+    },
+    {
+      "w": "you.",
+      "start": 65.22,
+      "end": 65.36
+    },
+    {
+      "w": "Here's",
+      "start": 65.48,
+      "end": 65.72
+    },
+    {
+      "w": "the",
+      "start": 65.72,
+      "end": 65.8
+    },
+    {
+      "w": "second",
+      "start": 65.8,
+      "end": 66.04
+    },
+    {
+      "w": "part.",
+      "start": 66.04,
+      "end": 66.34
+    },
+    {
+      "w": "Think",
+      "start": 66.6,
+      "end": 66.72
+    },
+    {
+      "w": "about",
+      "start": 66.72,
+      "end": 67.1
+    },
+    {
+      "w": "this",
+      "start": 67.1,
+      "end": 67.52
+    },
+    {
+      "w": "thing",
+      "start": 67.52,
+      "end": 67.74
+    },
+    {
+      "w": "that",
+      "start": 67.74,
+      "end": 67.84
+    },
+    {
+      "w": "makes",
+      "start": 67.84,
+      "end": 68.02
+    },
+    {
+      "w": "you",
+      "start": 68.02,
+      "end": 68.12
+    },
+    {
+      "w": "feel",
+      "start": 68.12,
+      "end": 68.36
+    },
+    {
+      "w": "uncertain.",
+      "start": 68.36,
+      "end": 68.6
+    },
+    {
+      "w": "This",
+      "start": 69.02,
+      "end": 69.2
+    },
+    {
+      "w": "thing",
+      "start": 69.2,
+      "end": 69.5
+    },
+    {
+      "w": "that",
+      "start": 69.5,
+      "end": 69.66
+    },
+    {
+      "w": "you're",
+      "start": 69.66,
+      "end": 69.82
+    },
+    {
+      "w": "walking",
+      "start": 69.82,
+      "end": 70.16
+    },
+    {
+      "w": "toward,",
+      "start": 70.16,
+      "end": 70.6
+    },
+    {
+      "w": "you",
+      "start": 70.82,
+      "end": 70.9
+    },
+    {
+      "w": "don't",
+      "start": 70.9,
+      "end": 71.04
+    },
+    {
+      "w": "know",
+      "start": 71.04,
+      "end": 71.18
+    },
+    {
+      "w": "exactly",
+      "start": 71.18,
+      "end": 71.52
+    },
+    {
+      "w": "what",
+      "start": 71.52,
+      "end": 71.76
+    },
+    {
+      "w": "it",
+      "start": 71.76,
+      "end": 71.86
+    },
+    {
+      "w": "is.",
+      "start": 71.86,
+      "end": 72.14
+    },
+    {
+      "w": "That's",
+      "start": 72.32,
+      "end": 72.56
+    },
+    {
+      "w": "interesting.",
+      "start": 72.56,
+      "end": 73.02
+    },
+    {
+      "w": "Isn't",
+      "start": 73.38,
+      "end": 73.62
+    },
+    {
+      "w": "that",
+      "start": 73.62,
+      "end": 73.78
+    },
+    {
+      "w": "how",
+      "start": 73.78,
+      "end": 73.92
+    },
+    {
+      "w": "you",
+      "start": 73.92,
+      "end": 74.02
+    },
+    {
+      "w": "like",
+      "start": 74.02,
+      "end": 74.22
+    },
+    {
+      "w": "to",
+      "start": 74.22,
+      "end": 74.36
+    },
+    {
+      "w": "learn",
+      "start": 74.36,
+      "end": 74.52
+    },
+    {
+      "w": "about",
+      "start": 74.52,
+      "end": 74.7
+    },
+    {
+      "w": "new",
+      "start": 74.7,
+      "end": 74.92
+    },
+    {
+      "w": "things?",
+      "start": 74.92,
+      "end": 75.24
+    },
+    {
+      "w": "Isn't",
+      "start": 75.44,
+      "end": 75.62
+    },
+    {
+      "w": "this",
+      "start": 75.62,
+      "end": 75.78
+    },
+    {
+      "w": "what",
+      "start": 75.78,
+      "end": 75.92
+    },
+    {
+      "w": "makes",
+      "start": 75.92,
+      "end": 76.16
+    },
+    {
+      "w": "you",
+      "start": 76.16,
+      "end": 76.3
+    },
+    {
+      "w": "curious?",
+      "start": 76.3,
+      "end": 76.66
+    },
+    {
+      "w": "Well,",
+      "start": 77.08,
+      "end": 77.2
+    },
+    {
+      "w": "a",
+      "start": 77.2,
+      "end": 77.42
+    },
+    {
+      "w": "date",
+      "start": 77.42,
+      "end": 77.66
+    },
+    {
+      "w": "is",
+      "start": 77.66,
+      "end": 78.22
+    },
+    {
+      "w": "a",
+      "start": 78.22,
+      "end": 78.62
+    },
+    {
+      "w": "new",
+      "start": 78.62,
+      "end": 78.78
+    },
+    {
+      "w": "experience.",
+      "start": 78.78,
+      "end": 79.36
+    },
+    {
+      "w": "It's",
+      "start": 79.68,
+      "end": 79.86
+    },
+    {
+      "w": "an",
+      "start": 79.86,
+      "end": 79.96
+    },
+    {
+      "w": "opportunity",
+      "start": 79.96,
+      "end": 80.4
+    },
+    {
+      "w": "for",
+      "start": 80.4,
+      "end": 80.82
+    },
+    {
+      "w": "you",
+      "start": 80.82,
+      "end": 80.96
+    },
+    {
+      "w": "to",
+      "start": 80.96,
+      "end": 81.1
+    },
+    {
+      "w": "talk",
+      "start": 81.1,
+      "end": 81.5
+    },
+    {
+      "w": "to",
+      "start": 81.5,
+      "end": 81.74
+    },
+    {
+      "w": "a",
+      "start": 81.74,
+      "end": 81.86
+    },
+    {
+      "w": "new",
+      "start": 81.86,
+      "end": 81.96
+    },
+    {
+      "w": "person,",
+      "start": 81.96,
+      "end": 82.4
+    },
+    {
+      "w": "to",
+      "start": 82.52,
+      "end": 82.7
+    },
+    {
+      "w": "get",
+      "start": 82.7,
+      "end": 82.98
+    },
+    {
+      "w": "to",
+      "start": 82.98,
+      "end": 83.16
+    },
+    {
+      "w": "know",
+      "start": 83.16,
+      "end": 83.34
+    },
+    {
+      "w": "a",
+      "start": 83.34,
+      "end": 83.5
+    },
+    {
+      "w": "new",
+      "start": 83.5,
+      "end": 83.64
+    },
+    {
+      "w": "human",
+      "start": 83.64,
+      "end": 84.18
+    },
+    {
+      "w": "being.",
+      "start": 84.18,
+      "end": 84.62
+    },
+    {
+      "w": "Focus",
+      "start": 85.0,
+      "end": 85.32
+    },
+    {
+      "w": "more",
+      "start": 85.32,
+      "end": 85.76
+    },
+    {
+      "w": "on",
+      "start": 85.76,
+      "end": 86.14
+    },
+    {
+      "w": "being",
+      "start": 86.14,
+      "end": 86.36
+    },
+    {
+      "w": "interested",
+      "start": 86.36,
+      "end": 87.02
+    },
+    {
+      "w": "in",
+      "start": 87.02,
+      "end": 87.32
+    },
+    {
+      "w": "your",
+      "start": 87.32,
+      "end": 87.4
+    },
+    {
+      "w": "date",
+      "start": 87.4,
+      "end": 87.68
+    },
+    {
+      "w": "as",
+      "start": 87.68,
+      "end": 87.8
+    },
+    {
+      "w": "opposed",
+      "start": 87.8,
+      "end": 88.02
+    },
+    {
+      "w": "to",
+      "start": 88.02,
+      "end": 88.26
+    },
+    {
+      "w": "trying",
+      "start": 88.26,
+      "end": 88.46
+    },
+    {
+      "w": "to",
+      "start": 88.46,
+      "end": 88.62
+    },
+    {
+      "w": "be",
+      "start": 88.62,
+      "end": 88.76
+    },
+    {
+      "w": "interesting.",
+      "start": 88.76,
+      "end": 89.32
+    },
+    {
+      "w": "Going",
+      "start": 89.76,
+      "end": 89.92
+    },
+    {
+      "w": "on",
+      "start": 89.92,
+      "end": 90.1
+    },
+    {
+      "w": "a",
+      "start": 90.1,
+      "end": 90.18
+    },
+    {
+      "w": "date",
+      "start": 90.18,
+      "end": 90.4
+    },
+    {
+      "w": "is",
+      "start": 90.4,
+      "end": 90.56
+    },
+    {
+      "w": "a",
+      "start": 90.56,
+      "end": 90.64
+    },
+    {
+      "w": "very",
+      "start": 90.64,
+      "end": 90.8
+    },
+    {
+      "w": "interesting",
+      "start": 90.8,
+      "end": 91.14
+    },
+    {
+      "w": "thing.",
+      "start": 91.14,
+      "end": 91.48
+    },
+    {
+      "w": "So",
+      "start": 91.68,
+      "end": 91.74
+    },
+    {
+      "w": "get",
+      "start": 91.74,
+      "end": 91.9
+    },
+    {
+      "w": "into",
+      "start": 91.9,
+      "end": 92.16
+    },
+    {
+      "w": "it,",
+      "start": 92.16,
+      "end": 92.38
+    },
+    {
+      "w": "get",
+      "start": 92.5,
+      "end": 92.64
+    },
+    {
+      "w": "curious,",
+      "start": 92.64,
+      "end": 93.12
+    },
+    {
+      "w": "go",
+      "start": 93.56,
+      "end": 93.72
+    },
+    {
+      "w": "deeper,",
+      "start": 93.72,
+      "end": 94.12
+    },
+    {
+      "w": "ask",
+      "start": 94.42,
+      "end": 94.7
+    },
+    {
+      "w": "more",
+      "start": 94.7,
+      "end": 94.98
+    },
+    {
+      "w": "questions.",
+      "start": 94.98,
+      "end": 95.48
+    },
+    {
+      "w": "Before",
+      "start": 96.0,
+      "end": 96.08
+    },
+    {
+      "w": "you",
+      "start": 96.08,
+      "end": 96.26
+    },
+    {
+      "w": "know",
+      "start": 96.26,
+      "end": 96.44
+    },
+    {
+      "w": "it,",
+      "start": 96.44,
+      "end": 96.72
+    },
+    {
+      "w": "your",
+      "start": 96.88,
+      "end": 96.98
+    },
+    {
+      "w": "anxiety",
+      "start": 96.98,
+      "end": 97.58
+    },
+    {
+      "w": "is",
+      "start": 97.58,
+      "end": 98.1
+    },
+    {
+      "w": "gonna",
+      "start": 98.1,
+      "end": 98.26
+    },
+    {
+      "w": "start",
+      "start": 98.26,
+      "end": 98.46
+    },
+    {
+      "w": "to",
+      "start": 98.46,
+      "end": 98.64
+    },
+    {
+      "w": "feel",
+      "start": 98.64,
+      "end": 98.92
+    },
+    {
+      "w": "more",
+      "start": 98.92,
+      "end": 99.34
+    },
+    {
+      "w": "like",
+      "start": 99.34,
+      "end": 99.56
+    },
+    {
+      "w": "an",
+      "start": 99.56,
+      "end": 99.68
+    },
+    {
+      "w": "adventure.",
+      "start": 99.68,
+      "end": 99.98
+    }
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.586,
+      "length": 2.586,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#4A2C14",
+            "share": 0.129
+          },
+          {
+            "hex": "#75490F",
+            "share": 0.089
+          },
+          {
+            "hex": "#3B2214",
+            "share": 0.065
+          },
+          {
+            "hex": "#714F2C",
+            "share": 0.055
+          },
+          {
+            "hex": "#67390A",
+            "share": 0.051
+          }
+        ],
+        "motion_energy": 10.18,
+        "script": "What's the number one predictor, that somebody doesn't want a second date?"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 1,
+      "start": 2.586,
+      "end": 3.128,
+      "length": 0.542,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#ADB4C5",
+            "share": 0.146
+          },
+          {
+            "hex": "#764D33",
+            "share": 0.111
+          },
+          {
+            "hex": "#A5AABA",
+            "share": 0.062
+          },
+          {
+            "hex": "#8E94AB",
+            "share": 0.043
+          },
+          {
+            "hex": "#CBAD94",
+            "share": 0.042
+          }
+        ],
+        "motion_energy": 24.77,
+        "script": "There's a lot of research"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.128,
+      "end": 3.378,
+      "length": 0.25,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#707071",
+            "share": 0.326
+          },
+          {
+            "hex": "#181818",
+            "share": 0.215
+          },
+          {
+            "hex": "#2E2E2E",
+            "share": 0.181
+          },
+          {
+            "hex": "#4F4F4F",
+            "share": 0.14
+          },
+          {
+            "hex": "#848484",
+            "share": 0.116
+          }
+        ],
+        "motion_energy": 14.12,
+        "script": "on"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.378,
+      "end": 3.962,
+      "length": 0.584,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#181818",
+            "share": 0.304
+          },
+          {
+            "hex": "#2E2E2E",
+            "share": 0.284
+          },
+          {
+            "hex": "#4E4E4E",
+            "share": 0.261
+          },
+          {
+            "hex": "#6C6C6C",
+            "share": 0.127
+          },
+          {
+            "hex": "#848484",
+            "share": 0.023
+          }
+        ],
+        "motion_energy": 40.52,
+        "script": "what makes"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 4,
+      "start": 3.962,
+      "end": 5.255,
+      "length": 1.293,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#29180B",
+            "share": 0.163
+          },
+          {
+            "hex": "#4C2F12",
+            "share": 0.161
+          },
+          {
+            "hex": "#111206",
+            "share": 0.159
+          },
+          {
+            "hex": "#342710",
+            "share": 0.128
+          },
+          {
+            "hex": "#53472D",
+            "share": 0.056
+          }
+        ],
+        "motion_energy": 9.19,
+        "script": "dates successful."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 5,
+      "start": 5.255,
+      "end": 5.297,
+      "length": 0.042,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0CA7FC",
+            "share": 0.998
+          },
+          {
+            "hex": "#0B9FFB",
+            "share": 0.002
+          }
+        ],
+        "motion_energy": 0.0,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 6,
+      "start": 5.297,
+      "end": 6.089,
+      "length": 0.792,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0279F8",
+            "share": 0.748
+          },
+          {
+            "hex": "#F6F6F5",
+            "share": 0.196
+          },
+          {
+            "hex": "#D5D5D5",
+            "share": 0.039
+          },
+          {
+            "hex": "#3794EF",
+            "share": 0.005
+          },
+          {
+            "hex": "#A7BEF4",
+            "share": 0.003
+          }
+        ],
+        "motion_energy": 37.22,
+        "script": "The research is very"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 7,
+      "start": 6.089,
+      "end": 7.257,
+      "length": 1.168,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F7F7F7",
+            "share": 0.662
+          },
+          {
+            "hex": "#0279F8",
+            "share": 0.164
+          },
+          {
+            "hex": "#D0CFD0",
+            "share": 0.097
+          },
+          {
+            "hex": "#B4B2B3",
+            "share": 0.048
+          },
+          {
+            "hex": "#498DF5",
+            "share": 0.007
+          }
+        ],
+        "motion_energy": 28.59,
+        "script": "clear that fear is"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 8,
+      "start": 7.257,
+      "end": 8.383,
+      "length": 1.126,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0279F8",
+            "share": 0.683
+          },
+          {
+            "hex": "#F6F6F5",
+            "share": 0.22
+          },
+          {
+            "hex": "#D4D3D4",
+            "share": 0.052
+          },
+          {
+            "hex": "#73B0F0",
+            "share": 0.012
+          },
+          {
+            "hex": "#85B8F0",
+            "share": 0.006
+          }
+        ],
+        "motion_energy": 7.88,
+        "script": "on the rise from"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 9,
+      "start": 8.383,
+      "end": 10.969,
+      "length": 2.586,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#16100B",
+            "share": 0.126
+          },
+          {
+            "hex": "#6C6A76",
+            "share": 0.123
+          },
+          {
+            "hex": "#724814",
+            "share": 0.096
+          },
+          {
+            "hex": "#312D2C",
+            "share": 0.089
+          },
+          {
+            "hex": "#4E4A4E",
+            "share": 0.073
+          }
+        ],
+        "motion_energy": 13.66,
+        "script": "people who are dating. Now, here's how we measure that."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 10,
+      "start": 10.969,
+      "end": 21.897,
+      "length": 10.928,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F0F3F8",
+            "share": 0.634
+          },
+          {
+            "hex": "#D9E4F8",
+            "share": 0.233
+          },
+          {
+            "hex": "#D0DDF6",
+            "share": 0.03
+          },
+          {
+            "hex": "#1165E9",
+            "share": 0.022
+          },
+          {
+            "hex": "#035AE8",
+            "share": 0.018
+          }
+        ],
+        "motion_energy": 8.44,
+        "script": "There's two dimensions. There's avoidance and there's anxiety. Now, you can be the kind of person who's both anxious and avoidant. That's called insecure in your attachment style and in your dating style. So"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 11,
+      "start": 21.897,
+      "end": 25.567,
+      "length": 3.67,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#130C07",
+            "share": 0.175
+          },
+          {
+            "hex": "#744711",
+            "share": 0.081
+          },
+          {
+            "hex": "#28190B",
+            "share": 0.078
+          },
+          {
+            "hex": "#362412",
+            "share": 0.063
+          },
+          {
+            "hex": "#6F6B70",
+            "share": 0.058
+          }
+        ],
+        "motion_energy": 10.32,
+        "script": "you need to work against it consciously. And there's a way to do that."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 12,
+      "start": 25.567,
+      "end": 26.944,
+      "length": 1.376,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#A6A598",
+            "share": 0.152
+          },
+          {
+            "hex": "#554C47",
+            "share": 0.144
+          },
+          {
+            "hex": "#170F0E",
+            "share": 0.142
+          },
+          {
+            "hex": "#281917",
+            "share": 0.118
+          },
+          {
+            "hex": "#362A2B",
+            "share": 0.093
+          }
+        ],
+        "motion_energy": 1.81,
+        "script": "You take that anxiety, you"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 13,
+      "start": 26.944,
+      "end": 27.444,
+      "length": 0.5,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#000504",
+            "share": 0.995
+          },
+          {
+            "hex": "#888A89",
+            "share": 0.001
+          },
+          {
+            "hex": "#707371",
+            "share": 0.001
+          },
+          {
+            "hex": "#515352",
+            "share": 0.001
+          },
+          {
+            "hex": "#ACADAC",
+            "share": 0.001
+          }
+        ],
+        "motion_energy": 25.92,
+        "script": "take that sense"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 14,
+      "start": 27.444,
+      "end": 28.82,
+      "length": 1.376,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#091311",
+            "share": 0.64
+          },
+          {
+            "hex": "#292F28",
+            "share": 0.167
+          },
+          {
+            "hex": "#18211D",
+            "share": 0.053
+          },
+          {
+            "hex": "#46473B",
+            "share": 0.041
+          },
+          {
+            "hex": "#4E4F43",
+            "share": 0.036
+          }
+        ],
+        "motion_energy": 16.45,
+        "script": "of dread and uncertainty"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 15,
+      "start": 28.82,
+      "end": 32.282,
+      "length": 3.462,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#16100C",
+            "share": 0.149
+          },
+          {
+            "hex": "#6A6974",
+            "share": 0.119
+          },
+          {
+            "hex": "#714715",
+            "share": 0.099
+          },
+          {
+            "hex": "#312D2C",
+            "share": 0.081
+          },
+          {
+            "hex": "#4E4B4F",
+            "share": 0.062
+          }
+        ],
+        "motion_energy": 15.71,
+        "script": "and you turn it into adventure. And you can do that because"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 16,
+      "start": 32.282,
+      "end": 33.408,
+      "length": 1.126,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F0F2F8",
+            "share": 0.656
+          },
+          {
+            "hex": "#D9E3F8",
+            "share": 0.215
+          },
+          {
+            "hex": "#D2DDF5",
+            "share": 0.037
+          },
+          {
+            "hex": "#130E0F",
+            "share": 0.012
+          },
+          {
+            "hex": "#F3D3F0",
+            "share": 0.008
+          }
+        ],
+        "motion_energy": 9.2,
+        "script": "you have a modern brain"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 17,
+      "start": 33.408,
+      "end": 35.035,
+      "length": 1.627,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F0F3F8",
+            "share": 0.676
+          },
+          {
+            "hex": "#D9E4F8",
+            "share": 0.231
+          },
+          {
+            "hex": "#D1DEF6",
+            "share": 0.032
+          },
+          {
+            "hex": "#CDCED2",
+            "share": 0.005
+          },
+          {
+            "hex": "#ADAFB3",
+            "share": 0.005
+          }
+        ],
+        "motion_energy": 30.17,
+        "script": "that makes it possible for"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 18,
+      "start": 35.035,
+      "end": 41.416,
+      "length": 6.381,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#4B4C54",
+            "share": 0.121
+          },
+          {
+            "hex": "#6B4A38",
+            "share": 0.086
+          },
+          {
+            "hex": "#2C2D33",
+            "share": 0.08
+          },
+          {
+            "hex": "#B18D52",
+            "share": 0.07
+          },
+          {
+            "hex": "#555965",
+            "share": 0.051
+          }
+        ],
+        "motion_energy": 14.37,
+        "script": "you to reframe that experience as something better. Turning anxiety into an adventure really is a two"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 19,
+      "start": 41.416,
+      "end": 45.045,
+      "length": 3.629,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F0F3F8",
+            "share": 0.688
+          },
+          {
+            "hex": "#D9E4F8",
+            "share": 0.226
+          },
+          {
+            "hex": "#D0DDF6",
+            "share": 0.029
+          },
+          {
+            "hex": "#2875F8",
+            "share": 0.023
+          },
+          {
+            "hex": "#1968F9",
+            "share": 0.015
+          }
+        ],
+        "motion_energy": 6.21,
+        "script": "step process. The first is to say this, I'm normal."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 20,
+      "start": 45.045,
+      "end": 50.384,
+      "length": 5.339,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#130C07",
+            "share": 0.123
+          },
+          {
+            "hex": "#27190D",
+            "share": 0.101
+          },
+          {
+            "hex": "#744714",
+            "share": 0.093
+          },
+          {
+            "hex": "#342D29",
+            "share": 0.08
+          },
+          {
+            "hex": "#6D4D31",
+            "share": 0.07
+          }
+        ],
+        "motion_energy": 4.57,
+        "script": "The anxiety that I'm feeling is normal. My brain is working the way it's supposed to, as a matter of fact."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 21,
+      "start": 50.384,
+      "end": 54.179,
+      "length": 3.796,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#03070A",
+            "share": 0.441
+          },
+          {
+            "hex": "#132931",
+            "share": 0.283
+          },
+          {
+            "hex": "#0D1C22",
+            "share": 0.085
+          },
+          {
+            "hex": "#264753",
+            "share": 0.076
+          },
+          {
+            "hex": "#1C3A44",
+            "share": 0.058
+          }
+        ],
+        "motion_energy": 17.65,
+        "script": "If you try to fight against something that's a normal part of your physiology,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 22,
+      "start": 54.179,
+      "end": 56.849,
+      "length": 2.669,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#140F0B",
+            "share": 0.16
+          },
+          {
+            "hex": "#714716",
+            "share": 0.109
+          },
+          {
+            "hex": "#676672",
+            "share": 0.1
+          },
+          {
+            "hex": "#4E4C54",
+            "share": 0.083
+          },
+          {
+            "hex": "#5A5A65",
+            "share": 0.078
+          }
+        ],
+        "motion_energy": 9.39,
+        "script": "it's just gonna get worse. So to start off by saying,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 23,
+      "start": 56.849,
+      "end": 59.268,
+      "length": 2.419,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#6A4936",
+            "share": 0.098
+          },
+          {
+            "hex": "#2C2E33",
+            "share": 0.087
+          },
+          {
+            "hex": "#4C4D54",
+            "share": 0.077
+          },
+          {
+            "hex": "#383B45",
+            "share": 0.053
+          },
+          {
+            "hex": "#565A64",
+            "share": 0.048
+          }
+        ],
+        "motion_energy": 14.5,
+        "script": "I don't like how this feels, but this is a normal thing."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 24,
+      "start": 59.268,
+      "end": 65.44,
+      "length": 6.173,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#16100C",
+            "share": 0.145
+          },
+          {
+            "hex": "#696772",
+            "share": 0.097
+          },
+          {
+            "hex": "#724715",
+            "share": 0.096
+          },
+          {
+            "hex": "#312D2B",
+            "share": 0.084
+          },
+          {
+            "hex": "#6C4D32",
+            "share": 0.067
+          }
+        ],
+        "motion_energy": 5.77,
+        "script": "This is the first way to start putting yourself at ease. Remember, anxiety is a normal thing. There's nothing wrong with you."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 25,
+      "start": 65.44,
+      "end": 66.483,
+      "length": 1.043,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#4B4C54",
+            "share": 0.14
+          },
+          {
+            "hex": "#6B4A37",
+            "share": 0.09
+          },
+          {
+            "hex": "#2C2E33",
+            "share": 0.089
+          },
+          {
+            "hex": "#565964",
+            "share": 0.067
+          },
+          {
+            "hex": "#B38C51",
+            "share": 0.047
+          }
+        ],
+        "motion_energy": 2.83,
+        "script": "Here's the second part."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 26,
+      "start": 66.483,
+      "end": 68.944,
+      "length": 2.461,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F0F3F8",
+            "share": 0.66
+          },
+          {
+            "hex": "#D9E3F8",
+            "share": 0.225
+          },
+          {
+            "hex": "#D0DDF5",
+            "share": 0.032
+          },
+          {
+            "hex": "#2773F8",
+            "share": 0.024
+          },
+          {
+            "hex": "#1968F8",
+            "share": 0.016
+          }
+        ],
+        "motion_energy": 0.89,
+        "script": "Think about this thing that makes you feel uncertain."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 27,
+      "start": 68.944,
+      "end": 70.737,
+      "length": 1.793,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#8A9091",
+            "share": 0.245
+          },
+          {
+            "hex": "#545252",
+            "share": 0.153
+          },
+          {
+            "hex": "#6F7B84",
+            "share": 0.1
+          },
+          {
+            "hex": "#7A8389",
+            "share": 0.096
+          },
+          {
+            "hex": "#36322B",
+            "share": 0.081
+          }
+        ],
+        "motion_energy": 9.28,
+        "script": "This thing that you're walking toward,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 28,
+      "start": 70.737,
+      "end": 73.365,
+      "length": 2.628,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#12181C",
+            "share": 0.214
+          },
+          {
+            "hex": "#141C23",
+            "share": 0.164
+          },
+          {
+            "hex": "#4578A8",
+            "share": 0.114
+          },
+          {
+            "hex": "#3974A8",
+            "share": 0.109
+          },
+          {
+            "hex": "#162330",
+            "share": 0.105
+          }
+        ],
+        "motion_energy": 15.05,
+        "script": "you don't know exactly what it is. That's interesting."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 29,
+      "start": 73.365,
+      "end": 75.367,
+      "length": 2.002,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#6B4A38",
+            "share": 0.101
+          },
+          {
+            "hex": "#4B4B53",
+            "share": 0.084
+          },
+          {
+            "hex": "#2C2D32",
+            "share": 0.08
+          },
+          {
+            "hex": "#51352B",
+            "share": 0.061
+          },
+          {
+            "hex": "#B28D51",
+            "share": 0.059
+          }
+        ],
+        "motion_energy": 6.53,
+        "script": "Isn't that how you like to learn about new things?"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 30,
+      "start": 75.367,
+      "end": 76.994,
+      "length": 1.627,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#130C07",
+            "share": 0.184
+          },
+          {
+            "hex": "#734810",
+            "share": 0.085
+          },
+          {
+            "hex": "#28190B",
+            "share": 0.084
+          },
+          {
+            "hex": "#352411",
+            "share": 0.067
+          },
+          {
+            "hex": "#6F6B70",
+            "share": 0.057
+          }
+        ],
+        "motion_energy": 3.46,
+        "script": "Isn't this what makes you curious?"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 31,
+      "start": 76.994,
+      "end": 78.454,
+      "length": 1.46,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#141514",
+            "share": 0.558
+          },
+          {
+            "hex": "#251B15",
+            "share": 0.089
+          },
+          {
+            "hex": "#2B2219",
+            "share": 0.061
+          },
+          {
+            "hex": "#6E502F",
+            "share": 0.037
+          },
+          {
+            "hex": "#492F1C",
+            "share": 0.028
+          }
+        ],
+        "motion_energy": 8.84,
+        "script": "Well, a date is a"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 32,
+      "start": 78.454,
+      "end": 79.705,
+      "length": 1.251,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#321308",
+            "share": 0.481
+          },
+          {
+            "hex": "#4D2A10",
+            "share": 0.098
+          },
+          {
+            "hex": "#160A05",
+            "share": 0.071
+          },
+          {
+            "hex": "#8C4A19",
+            "share": 0.069
+          },
+          {
+            "hex": "#42190B",
+            "share": 0.066
+          }
+        ],
+        "motion_energy": 12.48,
+        "script": "new experience. It's"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 33,
+      "start": 79.705,
+      "end": 81.165,
+      "length": 1.46,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#120C06",
+            "share": 0.124
+          },
+          {
+            "hex": "#734813",
+            "share": 0.096
+          },
+          {
+            "hex": "#27190C",
+            "share": 0.092
+          },
+          {
+            "hex": "#332E29",
+            "share": 0.074
+          },
+          {
+            "hex": "#6D4E30",
+            "share": 0.065
+          }
+        ],
+        "motion_energy": 2.61,
+        "script": "an opportunity for you to talk"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 34,
+      "start": 81.165,
+      "end": 85.002,
+      "length": 3.837,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#6B4A38",
+            "share": 0.118
+          },
+          {
+            "hex": "#4E352B",
+            "share": 0.106
+          },
+          {
+            "hex": "#2E2C2E",
+            "share": 0.083
+          },
+          {
+            "hex": "#4D4B51",
+            "share": 0.073
+          },
+          {
+            "hex": "#6D5247",
+            "share": 0.058
+          }
+        ],
+        "motion_energy": 14.68,
+        "script": "to a new person, to get to know a new human being. Focus"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 35,
+      "start": 85.002,
+      "end": 85.961,
+      "length": 0.959,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#130B07",
+            "share": 0.176
+          },
+          {
+            "hex": "#29190C",
+            "share": 0.099
+          },
+          {
+            "hex": "#754713",
+            "share": 0.07
+          },
+          {
+            "hex": "#362412",
+            "share": 0.057
+          },
+          {
+            "hex": "#706A6F",
+            "share": 0.056
+          }
+        ],
+        "motion_energy": 13.05,
+        "script": "more on"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 36,
+      "start": 85.961,
+      "end": 88.839,
+      "length": 2.878,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#1B191A",
+            "share": 0.357
+          },
+          {
+            "hex": "#241C1B",
+            "share": 0.127
+          },
+          {
+            "hex": "#302826",
+            "share": 0.123
+          },
+          {
+            "hex": "#D9D6D5",
+            "share": 0.07
+          },
+          {
+            "hex": "#49342E",
+            "share": 0.039
+          }
+        ],
+        "motion_energy": 16.21,
+        "script": "being interested in your date as opposed to trying to be interesting."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 37,
+      "start": 88.839,
+      "end": 100.284,
+      "length": 11.445,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#130C07",
+            "share": 0.178
+          },
+          {
+            "hex": "#29190C",
+            "share": 0.094
+          },
+          {
+            "hex": "#754712",
+            "share": 0.075
+          },
+          {
+            "hex": "#706B6F",
+            "share": 0.063
+          },
+          {
+            "hex": "#362412",
+            "share": 0.058
+          }
+        ],
+        "motion_energy": 10.7,
+        "script": "Going on a date is a very interesting thing. So get into it, get curious, go deeper, ask more questions. Before you know it, your anxiety is gonna start to feel more like an adventure."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,694 @@
+{
+ "title": "V2 · Clip de podcast (azul)",
+ "beats": [
+  {
+   "id": "b01",
+   "start": 0.0,
+   "end": 4.62,
+   "script": "Tu tienda no necesita más ropa para Black Friday. Necesita menos. Ya sé que suena al revés, te explico.",
+   "seen": "Hook en su cara; punch-in en el remate «menos» (V11-A09).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "A-roll + punch en «menos»",
+     "cats": "A-roll + captions",
+     "desc": "Zoom 1.3 en «Necesita menos.»",
+     "ref": "V11-A09",
+     "type": "aroll",
+     "props": {
+      "zoom": 1.3
+     },
+     "start": 2.12,
+     "end": 2.84
+    },
+    {
+     "title": "Número gigante «-»",
+     "cats": "Gráficas sobre A-roll",
+     "desc": "«MENOS» gigante cae.",
+     "ref": "V17-A05",
+     "type": "arthur_number",
+     "props": {
+      "value": "MENOS",
+      "label": ""
+     },
+     "start": 2.12,
+     "end": 2.9
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "start": 4.62,
+   "end": 7.6,
+   "script": "Piensa en dos tiendas físicas. Una tiene 100 camisetas colgadas, todas parecidas.",
+   "seen": "Describe → b-roll literal; la cifra va en sans gigante (V17-A05).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Rack saturado + «100»",
+     "cats": "B-roll + texto · Cut-away",
+     "desc": "El rack lleno, bordes desenfocados; «una tiene / 100 camisetas».",
+     "ref": "V12-A16",
+     "type": "j_broll",
+     "props": {
+      "media": [
+       "media/assets/A03.mp4"
+      ],
+      "small": "una tiene",
+      "big": "100 camisetas",
+      "sans": true,
+      "t": 6.24,
+      "px": 150
+     },
+     "enter": "whip"
+    },
+    {
+     "title": "Número sobre b-roll",
+     "cats": "Gráficas",
+     "desc": "«100» cae sobre el rack.",
+     "ref": "V17-A05",
+     "type": "arthur_number",
+     "props": {
+      "value": "100",
+      "label": "camisetas"
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "start": 7.6,
+   "end": 11.54,
+   "script": "Miras, te confundes y dices, voy a dar una vuelta. Y no vuelves.",
+   "seen": "Historia → b-roll que la cuenta; whip-pan de salida (V13/V17).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Cliente que se va",
+     "cats": "B-roll + texto",
+     "desc": "El cliente duda y sale; «te confundes / y no vuelves.»",
+     "ref": "V01-A24",
+     "type": "j_broll",
+     "props": {
+      "media": [
+       "media/assets/A05.mp4"
+      ],
+      "small": "miras,",
+      "big": "te confundes",
+      "after": "y no vuelves.",
+      "t": 9.0
+     },
+     "exit": "whip"
+    },
+    {
+     "title": "Silueta que se va",
+     "cats": "Ilustración lateral",
+     "desc": "Silueta crema sobre azul.",
+     "ref": "V10-A02",
+     "type": "j_illus",
+     "props": {
+      "bg": "accent",
+      "mode": "side",
+      "media": "media/assets/A04_cut.png",
+      "fill": "#F1E9DC",
+      "big": "no vuelves.",
+      "t": 11.06
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "start": 11.54,
+   "end": 15.26,
+   "script": "La otra tiene 5 prendas bien puestas, con un man que las tiene puestas al lado.",
+   "seen": "Contraste: el mismo encuadre cambia de estado (V16-A33): 100 → 5.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Tienda curada + modelo",
+     "cats": "B-roll + texto",
+     "desc": "La pared con 5 prendas y luego el modelo caminando; «5 prendas / bien puestas,»",
+     "ref": "V12-A16",
+     "type": "j_broll",
+     "props": {
+      "media": [
+       "media/assets/A02.png",
+       "media/assets/A06.mp4"
+      ],
+      "cuts": [
+       11.54,
+       13.46
+      ],
+      "small": "la otra tiene",
+      "big": "5 prendas",
+      "after": "bien puestas,",
+      "sans": true,
+      "t": 12.08,
+      "px": 160
+     },
+     "enter": "whip"
+    },
+    {
+     "title": "Número «5»",
+     "cats": "Gráficas",
+     "desc": "«5» cae sobre la tienda.",
+     "ref": "V17-A05",
+     "type": "arthur_number",
+     "props": {
+      "value": "5",
+      "label": "prendas"
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "start": 15.26,
+   "end": 18.56,
+   "script": "En dos minutos ya sabes cuál quieres. En tu perfil, pasa igual.",
+   "seen": "Cambio de tema → cara + flash de tinte (V17).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "Con flash de tinte azul en «En tu perfil».",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    },
+    {
+     "title": "Punch-in",
+     "cats": "A-roll",
+     "desc": "",
+     "ref": "V11-A09",
+     "type": "aroll",
+     "props": {
+      "zoom": 1.3
+     },
+     "start": 17.0,
+     "end": 18.56
+    },
+    {
+     "title": "Cita",
+     "cats": "Texto centrado",
+     "desc": "«pasa igual.»",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "accent",
+      "small": "en tu perfil",
+      "big": "pasa igual.",
+      "t": 17.78
+     }
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "start": 18.56,
+   "end": 21.72,
+   "script": "Si subes 40 camisetas, 20 jeans y 15 gorras,",
+   "seen": "Enumeración con cifras → línea que baja en zigzag por cada cantidad sobre azul (principio 5).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Zigzag de cantidades",
+     "cats": "Línea + texto · Cut-away",
+     "desc": "Fondo negro, línea azul en zigzag; la cámara baja por «40 camisetas · 20 jeans · 15 gorras».",
+     "ref": "V10-A11",
+     "type": "j_line",
+     "props": {
+      "bg": "black",
+      "shape": "zigzag",
+      "px": 140,
+      "stops": [
+       {
+        "small": "si subes",
+        "big": "40 camisetas,",
+        "sans": true,
+        "t": 18.92
+       },
+       {
+        "big": "20 jeans",
+        "sans": true,
+        "t": 20.04
+       },
+       {
+        "small": "y",
+        "big": "15 gorras,",
+        "sans": true,
+        "t": 20.78
+       }
+      ]
+     },
+     "enter": "whip"
+    },
+    {
+     "title": "Bloques de su perfil",
+     "cats": "Gráficas",
+     "desc": "Rejilla 40 · 20 · 15 · ¿Cuál?",
+     "ref": "V19-A15",
+     "type": "arthur_blocks",
+     "props": {
+      "bg": "accent",
+      "labels": [
+       "40 camisetas",
+       "20 jeans",
+       "15 gorras",
+       "¿Cuál?"
+      ],
+      "highlight": 3,
+      "lines": [
+       {
+        "t": "en tu perfil pasa igual",
+        "size": "s"
+       }
+      ]
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "start": 21.72,
+   "end": 25.64,
+   "script": "el cliente no sabe cuál escoger. Y el que no sabe qué escoger, no escoge. Se va.",
+   "seen": "Persona + decisión → silueta lateral con texto al otro lado (principio 8).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Silueta que no escoge",
+     "cats": "Ilustración lateral + texto",
+     "desc": "El modelo en silueta crema con textura de tela sobre azul; «el que no sabe / no escoge.»",
+     "ref": "V10-A02",
+     "type": "j_illus",
+     "props": {
+      "bg": "accent",
+      "mode": "side",
+      "media": "media/assets/A04_cut.png",
+      "fill": "#F1E9DC",
+      "small": "el que no sabe",
+      "big": "no escoge.",
+      "after": "se va.",
+      "t": 24.78
+     },
+     "exit": "whip"
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    },
+    {
+     "title": "Cita",
+     "cats": "Texto centrado",
+     "desc": "«no escoge.»",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "accent",
+      "small": "el que no sabe",
+      "big": "no escoge.",
+      "t": 24.78
+     }
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "start": 25.64,
+   "end": 27.82,
+   "script": "Las tiendas de hombre que más venden muestran.",
+   "seen": "Giro → punch-in.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Punch-in",
+     "cats": "A-roll",
+     "desc": "Zoom 1.35 en «muestran».",
+     "ref": "V11-A09",
+     "type": "aroll",
+     "props": {
+      "zoom": 1.35
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    },
+    {
+     "title": "Cita",
+     "cats": "Texto centrado",
+     "desc": "«muestran.»",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "accent",
+      "small": "las que más venden",
+      "big": "muestran.",
+      "t": 27.14
+     }
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "start": 27.82,
+   "end": 32.38,
+   "script": "Poquitas prendas, cada una bien mostrada. Puesta con la pinta completa y diciendo para qué es.",
+   "seen": "Describe → b-roll del modelo + macro de detalles (V01-A24).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Pinta completa",
+     "cats": "B-roll + texto",
+     "desc": "El modelo de cuerpo entero y los detalles; «puesta con la / pinta completa».",
+     "ref": "V01-A24",
+     "type": "j_broll",
+     "props": {
+      "media": [
+       "media/assets/A04.png",
+       "media/assets/A07.mp4"
+      ],
+      "cuts": [
+       27.82,
+       30.4
+      ],
+      "small": "puesta con la",
+      "big": "pinta completa",
+      "t": 30.82
+     },
+     "enter": "whip",
+     "exit": "whip"
+    },
+    {
+     "title": "Silueta del outfit",
+     "cats": "Ilustración central",
+     "desc": "El modelo en silueta crema.",
+     "ref": "V10-A08",
+     "type": "j_illus",
+     "props": {
+      "bg": "accent",
+      "media": "media/assets/A04_cut.png",
+      "fill": "#F1E9DC",
+      "big": "pinta completa",
+      "t": 30.82
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "start": 32.82,
+   "end": 36.16,
+   "script": "Le apuestan a lo que ya se vendió bien y le suman una o dos cosas nuevas.",
+   "seen": "Proporción conocida → gráfico que sube estable con un pequeño extra (principio 10).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Gráfico seguro",
+     "cats": "Gráficas + representación visual",
+     "desc": "Fondo oscuro, la bola sube firme en «vendió bien» y da un paso extra en «cosas nuevas».",
+     "ref": "V19-A14",
+     "type": "j_graph",
+     "props": {
+      "y_label": "VENTAS",
+      "x_label": "TEMPORADA",
+      "points": [
+       {
+        "x": 0,
+        "y": 0.2,
+        "t": 32.9
+       },
+       {
+        "x": 0.55,
+        "y": 0.62,
+        "t": 33.78,
+        "label": "lo que ya se vendió"
+       },
+       {
+        "x": 0.9,
+        "y": 0.78,
+        "t": 35.62,
+        "label": "+ 1 o 2 nuevas"
+       }
+      ],
+      "small": "apuéstale a",
+      "big": "lo seguro.",
+      "text_t": 33.3
+     },
+     "enter": "whip"
+    },
+    {
+     "title": "Bloques Ya vendió",
+     "cats": "Gráficas",
+     "desc": "Ya vendió ×3 + Nuevo.",
+     "ref": "V19-A15",
+     "type": "arthur_blocks",
+     "props": {
+      "bg": "white",
+      "labels": [
+       "Ya vendió",
+       "Ya vendió",
+       "Ya vendió",
+       "+ Nuevo"
+      ],
+      "highlight": 3,
+      "lines": [
+       {
+        "t": "apuéstale a",
+        "size": "s"
+       },
+       {
+        "t": "lo seguro.",
+        "size": "l",
+        "sans": true
+       }
+      ]
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "start": 36.16,
+   "end": 41.26,
+   "script": "Una tienda que escoge. Una tienda curada se ve segura. Una que lo muestra todo se ve desesperada.",
+   "seen": "Dos estados opuestos → media luna con los dos conceptos rotando (principio 8).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Media luna curada / desesperada",
+     "cats": "Ilustración lateral + texto",
+     "desc": "Media luna azul con tela; «CURADA · SEGURA · DESESPERADA» rotando; «se ve / segura.»",
+     "ref": "V10-A02",
+     "type": "j_half",
+     "props": {
+      "bg": "white",
+      "ring": [
+       "CURADA",
+       "SEGURA",
+       "VS",
+       "DESESPERADA"
+      ],
+      "small": "una tienda curada",
+      "big": "se ve segura.",
+      "t": 38.14
+     },
+     "start": 37.38,
+     "end": 40.2,
+     "enter": "flash_tint"
+    },
+    {
+     "title": "Cita",
+     "cats": "Texto centrado",
+     "desc": "«curada / se ve segura.»",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "accent",
+      "small": "una tienda curada",
+      "big": "se ve segura.",
+      "t": 38.14
+     },
+     "start": 37.38,
+     "end": 40.2
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "start": 41.26,
+   "end": 45.18,
+   "script": "Esta semana busca tus 5 prendas que más salieron y dale todo el protagonismo.",
+   "seen": "Cifra de acción → número gigante sobre su cara (V17-A05).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "«5» gigante",
+     "cats": "Gráficas sobre A-roll",
+     "desc": "«5 / las que más salieron».",
+     "ref": "V17-A05",
+     "type": "arthur_number",
+     "props": {
+      "value": "5",
+      "label": "las que más salieron",
+      "px": 330
+     },
+     "start": 42.34,
+     "end": 44.1
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    },
+    {
+     "title": "Cita",
+     "cats": "Texto centrado",
+     "desc": "«dale todo el / protagonismo.»",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "accent",
+      "small": "dale todo el",
+      "big": "protagonismo.",
+      "t": 44.28
+     }
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "start": 45.18,
+   "end": 47.6,
+   "script": "Comenta 5 y te hago un anuncio de muestra con una de ellas",
+   "seen": "CTA → pantalla de acento con la palabra.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Palabra FLOW",
+     "cats": "Título · CTA",
+     "desc": "Azul, «comenta / FLOW».",
+     "ref": "V10-A59",
+     "type": "arthur_text",
+     "props": {
+      "bg": "accent",
+      "lines": [
+       {
+        "t": "comenta",
+        "size": "s"
+       },
+       {
+        "t": "FLOW",
+        "size": "l",
+        "px": 260,
+        "sans": true
+       }
+      ]
+     },
+     "enter": "flash_tint",
+     "exit": "whip"
+    },
+    {
+     "title": "Cita FLOW",
+     "cats": "Texto centrado",
+     "desc": "",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "accent",
+      "small": "comenta",
+      "big": "FLOW",
+      "sans": true,
+      "t": 45.5
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  }
+ ]
+}

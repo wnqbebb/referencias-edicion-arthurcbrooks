@@ -1,0 +1,474 @@
+{
+ "_doc": "Catálogo canónico de escenas. Cada escena = componente Remotion probado. Los modelos SOLO eligen tipo + llenan props. 'use_when' = psicología de edición; 'limits' = reglas duras que valida pipeline/validate.py.",
+ "aroll": {
+  "layer": "base",
+  "use_when": "Transiciones, presentar un punto nuevo, descanso visual, conexión con el speaker. Nunca más de pacing.max_aroll_streak_s seguido.",
+  "props": {
+   "zoom": "number 1.0-1.3 (punch-in)",
+   "desaturate": "bool (romper patrón)"
+  },
+  "limits": {}
+ },
+ "fullscreen_text": {
+  "layer": "fullscreen",
+  "use_when": "Frase clave / tesis que el viewer debe leer. Fondo y texto contrastan.",
+  "props": {
+   "text": "string <= 8 palabras",
+   "special": "array de palabras dentro de text (1-2)"
+  },
+  "limits": {
+   "max_words": 8,
+   "special_max": 2
+  }
+ },
+ "quote": {
+  "layer": "fullscreen",
+  "use_when": "Cita textual o cierre filosófico. Comillas alrededor del texto.",
+  "props": {
+   "text": "string <= 14 palabras",
+   "special": "array",
+   "author": "string opcional"
+  },
+  "limits": {
+   "max_words": 14,
+   "special_max": 2
+  }
+ },
+ "listicle": {
+  "layer": "overlay",
+  "use_when": "Videos por capítulos: mostrar los N pasos temprano; reusar al mencionar cada capítulo con active=i.",
+  "props": {
+   "items": "array de 2-5 strings cortos",
+   "active": "int índice resaltado o -1",
+   "title": "string opcional"
+  },
+  "limits": {
+   "max_items": 5,
+   "max_item_words": 4
+  }
+ },
+ "notification": {
+  "layer": "overlay",
+  "use_when": "Mención de software, marca, evento, dinero (ej. pago de Stripe). Pop-up de UI con fondo blur.",
+  "props": {
+   "app": "string",
+   "title": "string",
+   "body": "string",
+   "icon": "emoji o ruta a logo"
+  },
+  "limits": {
+   "max_words_body": 10
+  }
+ },
+ "counter_ring": {
+  "layer": "overlay",
+  "use_when": "Timers, porcentajes, contadores, cifras.",
+  "props": {
+   "from": "number",
+   "to": "number",
+   "suffix": "string ej. % o s",
+   "label": "string corto",
+   "max": "number valor que llena el anillo"
+  },
+  "limits": {}
+ },
+ "before_after": {
+  "layer": "fullscreen",
+  "use_when": "Comparar dos cosas: antes/después, A vs B. Balance horizontal con flecha.",
+  "props": {
+   "left": "{label, image?}",
+   "right": "{label, image?}",
+   "arrow": "bool"
+  },
+  "limits": {
+   "max_label_words": 3
+  }
+ },
+ "two_object": {
+  "layer": "fullscreen",
+  "use_when": "Speaker/persona en mitad inferior + texto/pregunta en mitad superior (balance vertical).",
+  "props": {
+   "text": "string",
+   "special": "array",
+   "image": "ruta opcional (si no: frame del A-roll)"
+  },
+  "limits": {
+   "max_words": 10
+  }
+ },
+ "list_card": {
+  "layer": "overlay",
+  "use_when": "Enumerar varias cosas en secuencia sobre un cuadro con blur.",
+  "props": {
+   "title": "string",
+   "items": "array 2-6 strings"
+  },
+  "limits": {
+   "max_items": 6
+  }
+ },
+ "bar_graph": {
+  "layer": "fullscreen",
+  "use_when": "Dos o más magnitudes que suben/bajan (productividad vs contratación).",
+  "props": {
+   "bars": "array {label, value 0-100}",
+   "title": "string opcional"
+  },
+  "limits": {
+   "max_bars": 4
+  }
+ },
+ "line_graph": {
+  "layer": "fullscreen",
+  "use_when": "Progresión en el tiempo; 'sube y sube' = escalones; 'lento y constante' = línea plana. Bola de acento sigue la línea.",
+  "props": {
+   "points": "array de números 0-100",
+   "steps": "bool (escalonado)",
+   "label": "string opcional",
+   "sync_words": "array de tiempos (s) donde avanza cada punto, opcional"
+  },
+  "limits": {
+   "max_points": 12
+  }
+ },
+ "broll_text": {
+  "layer": "fullscreen",
+  "use_when": "Momentos emocionales o con personajes. B-roll con viñeta, blur de bordes, textura y texto cinematográfico encima.",
+  "props": {
+   "media": "ruta imagen/video",
+   "text": "string",
+   "special": "array"
+  },
+  "limits": {
+   "max_words": 8
+  }
+ },
+ "painting": {
+  "layer": "fullscreen",
+  "use_when": "Puntos filosóficos / historias: pintura clásica (dominio público) + textura + texto alrededor del sujeto + slide-in de cámara.",
+  "props": {
+   "media": "ruta imagen",
+   "text": "string",
+   "special": "array"
+  },
+  "limits": {
+   "max_words": 8
+  }
+ },
+ "line_text": {
+  "layer": "fullscreen",
+  "use_when": "Encadenar conceptos: una línea de acento se dibuja, es interrumpida por texto, y continúa al siguiente concepto. Cámara sigue la línea.",
+  "props": {
+   "words": "array 2-4 conceptos (cada uno 1-3 palabras)"
+  },
+  "limits": {
+   "max_items": 4
+  }
+ },
+ "center_illustration": {
+  "layer": "fullscreen",
+  "use_when": "Idea principal visualizada en el centro (espiral, cerebro, persona) con texto alrededor.",
+  "props": {
+   "media": "ruta imagen opcional",
+   "shape": "spiral|circle|none",
+   "text": "string",
+   "special": "array"
+  },
+  "limits": {
+   "max_words": 8
+  }
+ },
+ "object_callout": {
+  "layer": "fullscreen",
+  "use_when": "Un objeto/persona con texto alrededor como parte de la historia (one-object scene: punto focal + color de acento).",
+  "props": {
+   "media": "ruta imagen",
+   "label": "string",
+   "text": "string opcional"
+  },
+  "limits": {
+   "max_words": 8
+  }
+ },
+ "lower_third": {
+  "layer": "overlay",
+  "use_when": "Presentar quién habla (nombre + cargo) al aparecer un speaker nuevo.",
+  "props": {
+   "name": "string",
+   "role": "string"
+  },
+  "limits": {}
+ },
+ "name_card": {
+  "layer": "fullscreen",
+  "use_when": "Presentación del protagonista al inicio (v01 0:01): 'Me llamo' + nombre en serif azul sobre estudio blanco.",
+  "props": {
+   "kicker": "string",
+   "name": "string",
+   "media": "foto/video recortado opcional"
+  },
+  "limits": {
+   "max_words": 4
+  }
+ },
+ "paper_collage": {
+  "layer": "fullscreen",
+  "use_when": "Enumerar roles/identidades o momentos con fotos impresas sobre papel blanco (v01 0:03 'escribo / hablo / enseño').",
+  "props": {
+   "images": "1-3 rutas",
+   "labels": "[{small, word}] 1-3"
+  },
+  "limits": {
+   "max_items": 3
+  }
+ },
+ "timeline": {
+  "layer": "fullscreen",
+  "use_when": "Historia por edades/etapas: línea con hitos, marcador azul avanza al hito activo; fotos caen encima. Con over_aroll=true va sobre el A-roll (v01 2:07).",
+  "props": {
+   "milestones": "[{label, age}]",
+   "active": "int",
+   "images": "rutas opcionales",
+   "over_aroll": "bool"
+  },
+  "limits": {
+   "max_items": 6
+  }
+ },
+ "archival_photo": {
+  "layer": "fullscreen",
+  "use_when": "Recuerdo/pasado: foto de archivo a sangre con scanlines y aro de resaltado sobre la persona (v01 0:24). Caption sigue visible.",
+  "props": {
+   "media": "ruta",
+   "bw": "bool",
+   "ring": "{x,y,r} opcional (x,y en 0-1)",
+   "scanlines": "bool"
+  },
+  "limits": {}
+ },
+ "video_card": {
+  "layer": "fullscreen",
+  "use_when": "B-roll como tarjeta redondeada sobre negro (v01 0:45, 1:34). Caption visible.",
+  "props": {
+   "media": "ruta",
+   "size": "small|tall"
+  },
+  "limits": {}
+ },
+ "split_layout": {
+  "layer": "base",
+  "use_when": "Podcast pantalla dividida: close-up arriba + plano abierto abajo (v05, v14, v20).",
+  "props": {
+   "ratio": "0.6-0.75",
+   "zoom": "1.5-2.2",
+   "face_x": "0-1",
+   "face_y": "0-1",
+   "top_media": "opcional",
+   "bottom_media": "opcional"
+  },
+  "limits": {}
+ },
+ "kinetic_type": {
+  "layer": "fullscreen",
+  "use_when": "Tipografía cinética manuscrita palabra por palabra (v04).",
+  "props": {
+   "lines": "[{text,size,at}]",
+   "dark": "bool"
+  },
+  "limits": {
+   "max_items": 8
+  }
+ },
+ "blue_quote": {
+  "layer": "fullscreen",
+  "use_when": "Cita interna/pensamiento en fondo azul radial con comilla (v01 1:24).",
+  "props": {
+   "text": "string"
+  },
+  "limits": {
+   "max_words": 12
+  }
+ },
+ "arthur_text": {
+  "layer": "fullscreen",
+  "use_when": "Frase clave/tesis/cita: fondo acento (texto blanco) o blanco (texto acento), write-on por palabra; alternar bg entre escenas consecutivas (inversión de marca).",
+  "props": {
+   "bg": "accent|white|black",
+   "lines": "[{t, size:'s'|'l', align, italic, accentWord}]",
+   "quote": "bool",
+   "flash": "in|out|both"
+  },
+  "limits": {}
+ },
+ "arthur_icons": {
+  "layer": "fullscreen",
+  "use_when": "Idea concreta con objetos (prendas, etiquetas, celular, caja, persona): mancha blanca con íconos de línea que aparecen en secuencia + texto arriba.",
+  "props": {
+   "bg": "accent|white",
+   "icons": "[tshirt,hanger,tag,phone,box,person,eye,heart,bag,camera,star,calendar,sun,cart]",
+   "highlight": "int",
+   "lines": "[...]"
+  },
+  "limits": {}
+ },
+ "arthur_orbit": {
+  "layer": "fullscreen",
+  "use_when": "Una persona/cliente/producto como centro de la idea: círculo con ícono o foto y anillos orbitales.",
+  "props": {
+   "bg": "accent|white",
+   "icon": "nombre",
+   "media": "ruta opcional",
+   "lines": "[...]"
+  },
+  "limits": {}
+ },
+ "arthur_stripes": {
+  "layer": "fullscreen",
+  "use_when": "ENUMERAR (2–4 cosas): pantalla dividida en franjas numeradas con imagen/video en cada una; se ilumina la que se nombra.",
+  "props": {
+   "items": "[{label, media?}]",
+   "active_at": "[segundos relativos]"
+  },
+  "limits": {
+   "max_items": 4
+  }
+ },
+ "arthur_blocks": {
+  "layer": "fullscreen",
+  "use_when": "Comparar/dividir un todo (2 o 4 partes): bloque de acento que se divide.",
+  "props": {
+   "bg": "white|accent",
+   "labels": "[2|4 textos cortos]",
+   "highlight": "int",
+   "lines": "[...]"
+  },
+  "limits": {
+   "max_items": 4
+  }
+ },
+ "arthur_broll": {
+  "layer": "fullscreen",
+  "use_when": "Momento emocional/descriptivo: b-roll oscuro de cine (varias tomas cambiando) con texto fijo encima.",
+  "props": {
+   "media": "[rutas]",
+   "lines": "[...]"
+  },
+  "limits": {}
+ },
+ "arthur_number": {
+  "layer": "overlay",
+  "use_when": "Una cifra protagonista (100 camisetas, 5 prendas, 50 %): número gigante que cae desde arriba + etiqueta en mayúsculas.",
+  "props": {
+   "value": "string",
+   "label": "string",
+   "px": "int"
+  },
+  "limits": {}
+ },
+ "j_graph": {
+  "layer": "fullscreen",
+  "use_when": "Principio 10: cifra/consecuencia/tendencia. Fondo oscuro, cuadrícula brillante, bola de acento que avanza un punto por palabra; la cámara la sigue y al final zoom-out.",
+  "props": {
+   "small": "str",
+   "big": "str",
+   "after": "str",
+   "sans": "bool",
+   "t": "seg absoluto de la palabra que enciende el texto",
+   "px": "int",
+   "points": "[{x,y (0-1), t, label}]",
+   "x_label": "str",
+   "y_label": "str",
+   "text_t": "seg"
+  },
+  "limits": {}
+ },
+ "j_line": {
+  "layer": "fullscreen",
+  "use_when": "Principios 4/5: progresión, fases, enumeración. Línea gruesa de acento que el texto interrumpe; la cámara sigue la punta; zigzag con fotos a los lados.",
+  "props": {
+   "bg": "white|black|accent",
+   "shape": "zigzag|down|arc",
+   "stops": "[{small,big,after,sans,t,img}]",
+   "dot": "bool",
+   "px": "int"
+  },
+  "limits": {}
+ },
+ "j_quote": {
+  "layer": "fullscreen",
+  "use_when": "Principio 6: tesis/regla/pensamiento interior. Papel muy rugoso blanco o de acento, comillas alrededor del texto.",
+  "props": {
+   "small": "str",
+   "big": "str",
+   "after": "str",
+   "sans": "bool",
+   "t": "seg absoluto de la palabra que enciende el texto",
+   "px": "int",
+   "bg": "white|accent"
+  },
+  "limits": {}
+ },
+ "j_illus": {
+  "layer": "fullscreen",
+  "use_when": "Principios 7/8/9: persona u objeto como ilustración rugosa (recorte PNG de pipeline/cutout.py).",
+  "props": {
+   "small": "str",
+   "big": "str",
+   "after": "str",
+   "sans": "bool",
+   "t": "seg absoluto de la palabra que enciende el texto",
+   "px": "int",
+   "media": "*_cut.png",
+   "mode": "center|side",
+   "bg": "white|accent|black",
+   "keep_color": "bool (objeto a color)",
+   "fill": "color de silueta"
+  },
+  "limits": {}
+ },
+ "j_half": {
+  "layer": "fullscreen",
+  "use_when": "Principio 8: dos elementos a la vez. Media luna con textura de tela y palabras rotando alrededor.",
+  "props": {
+   "small": "str",
+   "big": "str",
+   "after": "str",
+   "sans": "bool",
+   "t": "seg absoluto de la palabra que enciende el texto",
+   "px": "int",
+   "ring": "[str]",
+   "bg": "white|accent"
+  },
+  "limits": {}
+ },
+ "j_painting": {
+  "layer": "fullscreen",
+  "use_when": "Principio 3: emoción/belleza/idea filosófica. Pintura de dominio público, slide de cámara, textura de pintura que se mueve con ella.",
+  "props": {
+   "small": "str",
+   "big": "str",
+   "after": "str",
+   "sans": "bool",
+   "t": "seg absoluto de la palabra que enciende el texto",
+   "px": "int",
+   "media": "png",
+   "text_pos": "top|bottom"
+  },
+  "limits": {}
+ },
+ "j_broll": {
+  "layer": "fullscreen",
+  "use_when": "Principio 2: describe una escena. B-roll literal con papel, bordes oscuros y desenfocados, texto fijo encima; varias tomas bajo el mismo texto.",
+  "props": {
+   "small": "str",
+   "big": "str",
+   "after": "str",
+   "sans": "bool",
+   "t": "seg absoluto de la palabra que enciende el texto",
+   "px": "int",
+   "media": "[ruta]",
+   "cuts": "[seg]"
+  },
+  "limits": {}
+ }
+}

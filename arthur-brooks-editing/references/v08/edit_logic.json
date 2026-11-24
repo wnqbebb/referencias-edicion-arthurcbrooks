@@ -1,0 +1,625 @@
+{
+ "triggers": [
+  {
+   "t_word": 0.0,
+   "word": "People",
+   "element": "A-roll con captions en sans regular pequeña que entran grises y se aclaran",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "hook hablado"
+  },
+  {
+   "t_word": 3.4,
+   "word": "eye",
+   "element": "b-roll de mujer poniendo los ojos en blanco (entra con glitch de bloques negativos)",
+   "category": "broll_text",
+   "offset_s": -0.33,
+   "why": "literal: el gesto descrito"
+  },
+  {
+   "t_word": 3.7,
+   "word": "rolling",
+   "element": "'eye-rolling' en serif condensada grande + 'that their' pequeña encima",
+   "category": "broll_text",
+   "offset_s": -0.1,
+   "why": "énfasis del término"
+  },
+  {
+   "t_word": 4.56,
+   "word": "expressing",
+   "element": "actor en B/N gritando (entra con flash negativo de 2 frames)",
+   "category": "broll_text",
+   "offset_s": -0.16,
+   "why": "metáfora: odio"
+  },
+  {
+   "t_word": 5.12,
+   "word": "hatred",
+   "element": "'hatred' serif grande + 'for their partner.' pequeña",
+   "category": "broll_text",
+   "offset_s": 0.3,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 6.86,
+   "word": "which",
+   "element": "vuelta al A-roll",
+   "category": "captions_text",
+   "offset_s": -0.02,
+   "why": "explicación"
+  },
+  {
+   "t_word": 8.48,
+   "word": "when",
+   "element": "tarjeta azul con textura de papel + figura graffiti naíf que se lleva la mano a la cara (entra con glitch amarillo)",
+   "category": "center_illustration",
+   "offset_s": -0.08,
+   "why": "metáfora del dolor emocional"
+  },
+  {
+   "t_word": 9.1,
+   "word": "hatred",
+   "element": "'get hatred from' serif + 'another person that' pequeña",
+   "category": "center_illustration",
+   "offset_s": -0.1,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 10.58,
+   "word": "you're",
+   "element": "b-roll de pareja abrazada",
+   "category": "broll_text",
+   "offset_s": -0.04,
+   "why": "literal ('someone you're supposed to love')"
+  },
+  {
+   "t_word": 11.08,
+   "word": "love,",
+   "element": "'love,' serif grande",
+   "category": "broll_text",
+   "offset_s": 0.3,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 11.5,
+   "word": "that",
+   "element": "b-roll B/N de hombre tapándose la cara (con 'blur dip' 11.93–12.10)",
+   "category": "broll_text",
+   "offset_s": 0.08,
+   "why": "metáfora del dolor"
+  },
+  {
+   "t_word": 12.26,
+   "word": "painful",
+   "element": "'painful' serif grande",
+   "category": "broll_text",
+   "offset_s": 0.8,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 13.4,
+   "word": "the",
+   "element": "tarjeta azul: line-art de cabeza con cerebro que sube y baja; 'in the limbic system' (bold en 'limbic system')",
+   "category": "line_illustration",
+   "offset_s": -0.15,
+   "why": "dato científico → diagrama"
+  },
+  {
+   "t_word": 15.32,
+   "word": "abuse.",
+   "element": "'as physical abuse.' con 'physical abuse.' en bold",
+   "category": "line_illustration",
+   "offset_s": 0.0,
+   "why": "dato"
+  },
+  {
+   "t_word": 17.5,
+   "word": "dorsal",
+   "element": "tarjeta azul con cerebro wireframe pequeño en una tarjeta blanca",
+   "category": "object_element",
+   "offset_s": 0.05,
+   "why": "dato científico"
+  },
+  {
+   "t_word": 17.86,
+   "word": "anterior",
+   "element": "la tarjeta del cerebro salta de escala (~1.5x) en un frame",
+   "category": "object_element",
+   "offset_s": 0.01,
+   "why": "énfasis por escala"
+  },
+  {
+   "t_word": 19.36,
+   "word": "limbic",
+   "element": "A-roll con 'the limbic system' (bold en el término)",
+   "category": "captions_text",
+   "offset_s": -0.17,
+   "why": "repetición del término"
+  },
+  {
+   "t_word": 21.18,
+   "word": "you're",
+   "element": "b-roll ámbar oscuro de una persona sola",
+   "category": "broll_text",
+   "offset_s": 0.01,
+   "why": "metáfora: rechazo"
+  },
+  {
+   "t_word": 21.72,
+   "word": "rejected.",
+   "element": "'rejected.' serif grande",
+   "category": "broll_text",
+   "offset_s": 0.3,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 23.6,
+   "word": "what",
+   "element": "b-roll de hombre con los brazos abiertos en un paisaje nevado",
+   "category": "broll_text",
+   "offset_s": -0.28,
+   "why": "metáfora: soledad/tristeza"
+  },
+  {
+   "t_word": 23.78,
+   "word": "motivates",
+   "element": "'motivates / social rejection' serif + 'and sadness.' pequeña",
+   "category": "broll_text",
+   "offset_s": 0.4,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 26.34,
+   "word": "That's",
+   "element": "vuelta al A-roll (5.4 s)",
+   "category": "captions_text",
+   "offset_s": 0.05,
+   "why": "explicación"
+  },
+  {
+   "t_word": 31.92,
+   "word": "And",
+   "element": "flash negativo + amarillo → tarjeta azul con fantasma del speaker; cita '“All I did was roll my eyes.”' serif",
+   "category": "text_centric",
+   "offset_s": -0.12,
+   "why": "diálogo imaginado"
+  },
+  {
+   "t_word": 33.88,
+   "word": "No,",
+   "element": "flash amarillo + negativo → A-roll 'No, no, no.'",
+   "category": "captions_text",
+   "offset_s": -0.11,
+   "why": "réplica enfática en la cara"
+  },
+  {
+   "t_word": 35.78,
+   "word": "you",
+   "element": "b-roll teal oscuro; 'that you didn't' palabras separadas + 'think that' serif",
+   "category": "broll_text",
+   "offset_s": -0.14,
+   "why": "metáfora"
+  },
+  {
+   "t_word": 37.28,
+   "word": "you",
+   "element": "b-roll con luz roja; 'you didn't / even mean it.' serif",
+   "category": "broll_text",
+   "offset_s": -0.01,
+   "why": "metáfora"
+  },
+  {
+   "t_word": 38.4,
+   "word": "Well,",
+   "element": "A-roll más cerrado ('Well, here's the beautiful')",
+   "category": "captions_text",
+   "offset_s": 0.07,
+   "why": "giro hacia la solución"
+  },
+  {
+   "t_word": 39.68,
+   "word": "Most",
+   "element": "tarjeta azul con siluetas de pareja bajo un paraguas (entra con glitch naranja) + 'most couples' serif",
+   "category": "center_illustration",
+   "offset_s": -0.14,
+   "why": "literal: pareja"
+  },
+  {
+   "t_word": 41.58,
+   "word": "which",
+   "element": "glitch naranja inverso → A-roll",
+   "category": "captions_text",
+   "offset_s": -0.05,
+   "why": "vuelta al speaker"
+  },
+  {
+   "t_word": 42.34,
+   "word": "I",
+   "element": "caption '“I love you.”' con comillas sobre el A-roll",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "diálogo actuado"
+  },
+  {
+   "t_word": 44.82,
+   "word": "Really?",
+   "element": "reencuadre del A-roll (cambio de 'personaje') + '“Really?”'",
+   "category": "captions_text",
+   "offset_s": -0.01,
+   "why": "diálogo: 2ª voz"
+  },
+  {
+   "t_word": 47.64,
+   "word": "So",
+   "element": "tarjeta azul de papel: 'So let's not' pequeña + 'accidentally' serif",
+   "category": "text_centric",
+   "offset_s": -0.06,
+   "why": "conclusión"
+  },
+  {
+   "t_word": 49.28,
+   "word": "telling",
+   "element": "tarjeta BLANCA de papel con texto azul (inversión): 'hate each / other.' serif",
+   "category": "text_centric",
+   "offset_s": -0.06,
+   "why": "énfasis: inversión de color en la frase clave"
+  },
+  {
+   "t_word": 50.65,
+   "word": "(pausa)",
+   "element": "A-roll de Arthur sonriendo, sin texto",
+   "category": "aroll_plain",
+   "offset_s": 0.0,
+   "why": "respiro"
+  },
+  {
+   "t_word": 51.78,
+   "word": "That's",
+   "element": "plano de reacción del host mientras sigue la voz de Arthur",
+   "category": "captions_text",
+   "offset_s": -0.33,
+   "why": "reacción (L-cut)"
+  },
+  {
+   "t_word": 52.42,
+   "word": "contempt",
+   "element": "vuelta a Arthur: 'the contempt comes in.'",
+   "category": "captions_text",
+   "offset_s": 0.13,
+   "why": "término"
+  },
+  {
+   "t_word": 57.44,
+   "word": "life",
+   "element": "punch-in en 'life gets better'",
+   "category": "captions_text",
+   "offset_s": 0.18,
+   "why": "remate"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 3.07,
+   "from": "aroll",
+   "to": "b-roll eye-roll",
+   "type": "glitch",
+   "frames": 4,
+   "detail": "glitch de bloques: rectángulo NEGATIVO (cian) con la cara del plano siguiente sobre el A-roll (3.07) → bloque negativo del ojo + barras blancas/cian verticales sobre el nuevo plano (3.13–3.20)"
+  },
+  {
+   "t": 4.34,
+   "from": "b-roll mujer",
+   "to": "b-roll actor B/N",
+   "type": "inversión de color",
+   "frames": 2,
+   "detail": "2 frames en negativo: la mujer invertida (4.33) y el actor invertido (4.40); luego el actor en B/N normal"
+  },
+  {
+   "t": 6.84,
+   "from": "b-roll",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 8.4,
+   "from": "aroll",
+   "to": "tarjeta azul graffiti",
+   "type": "glitch",
+   "frames": 4,
+   "detail": "bloque negativo con la cara sobre el A-roll (8.40) → tarjeta con rectángulos AMARILLOS (8.47) → bloque blanco/negro sobre la figura (8.53); limpio en 8.60"
+  },
+  {
+   "t": 10.54,
+   "from": "tarjeta",
+   "to": "b-roll pareja",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 11.58,
+   "from": "b-roll",
+   "to": "b-roll B/N hombre",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "dentro del plano, 'blur dip': desenfoque/oscurecimiento 11.93–12.10 y vuelve nítido"
+  },
+  {
+   "t": 13.25,
+   "from": "b-roll",
+   "to": "tarjeta cabeza line-art",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 16.28,
+   "from": "tarjeta",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 17.52,
+   "from": "aroll",
+   "to": "tarjeta cerebro wireframe",
+   "type": "corte seco",
+   "frames": 1,
+   "detail": "1 frame de A-roll oscurecido (dip a negro) antes del corte"
+  },
+  {
+   "t": 19.19,
+   "from": "tarjeta",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 21.19,
+   "from": "aroll",
+   "to": "b-roll ámbar",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 23.32,
+   "from": "b-roll",
+   "to": "b-roll nieve",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 26.39,
+   "from": "b-roll",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 31.8,
+   "from": "aroll",
+   "to": "tarjeta azul cita (fantasma)",
+   "type": "flash amarillo",
+   "frames": 2,
+   "detail": "secuencia: A-roll en NEGATIVO (31.87, 1 frame) → frame AMARILLO plano con fantasma (31.93, 1 frame) → tarjeta azul (32.00)"
+  },
+  {
+   "t": 33.77,
+   "from": "tarjeta azul",
+   "to": "aroll",
+   "type": "flash amarillo",
+   "frames": 2,
+   "detail": "simétrica a la entrada: AMARILLO (33.80) → NEGATIVO del A-roll (33.87) → A-roll (33.93)"
+  },
+  {
+   "t": 35.64,
+   "from": "aroll",
+   "to": "b-roll teal",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 37.27,
+   "from": "b-roll",
+   "to": "b-roll rojo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 38.47,
+   "from": "b-roll",
+   "to": "aroll cerrado",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 39.54,
+   "from": "aroll",
+   "to": "tarjeta paraguas",
+   "type": "glitch",
+   "frames": 8,
+   "detail": "bloque negativo sobre la cara (39.54) → la tarjeta entra con rectángulos NARANJAS que se retiran hacia los bordes 39.60–39.80"
+  },
+  {
+   "t": 41.53,
+   "from": "tarjeta paraguas",
+   "to": "aroll",
+   "type": "glitch",
+   "frames": 4,
+   "detail": "inverso: bloque naranja sobre la tarjeta (41.53) → bloques negativo/blanco sobre el A-roll (41.60–41.67)"
+  },
+  {
+   "t": 44.81,
+   "from": "aroll",
+   "to": "aroll reencuadrado",
+   "type": "punch-in (jump-zoom)",
+   "frames": 0,
+   "detail": "cambio de escala en 'Really?' = cambio de personaje en el diálogo"
+  },
+  {
+   "t": 47.58,
+   "from": "aroll",
+   "to": "tarjeta azul papel",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 49.22,
+   "from": "tarjeta azul",
+   "to": "tarjeta blanca (texto azul)",
+   "type": "inversión de color",
+   "frames": 0,
+   "detail": "corte seco que invierte el sistema de marca (azul/blanco → blanco/azul)"
+  },
+  {
+   "t": 50.65,
+   "from": "tarjeta blanca",
+   "to": "aroll sonriendo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 51.45,
+   "from": "aroll",
+   "to": "host reacción",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "L-cut: la voz de Arthur sigue sobre el host"
+  },
+  {
+   "t": 52.55,
+   "from": "host",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 57.62,
+   "from": "aroll",
+   "to": "aroll ~1.15x",
+   "type": "punch-in (jump-zoom)",
+   "frames": 0,
+   "detail": "en 'life gets better'"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.0,
+   "fx": "gris→blanco",
+   "detail": "sobre el A-roll: sans REGULAR pequeña; cada palabra entra gris (~50%) y pasa a blanco en ~0.15 s; frases de 2–4 palabras"
+  },
+  {
+   "t": 3.6,
+   "fx": "escala",
+   "detail": "sobre b-roll: palabra clave en serif condensada grande ('eye-rolling', 'hatred', 'love,', 'painful', 'rejected.') + sans diminuta encima/debajo como super/subíndice"
+  },
+  {
+   "t": 13.4,
+   "fx": "write-on por palabra",
+   "detail": "'in the limbic system': 'limbic system' entra gris y se aclara en sans BOLD dentro de la frase regular"
+  },
+  {
+   "t": 32.0,
+   "fx": "write-on por palabra",
+   "detail": "cita entre comillas curvas en serif sobre azul: '“All I did was roll my eyes.”', palabra a palabra gris→blanco"
+  },
+  {
+   "t": 35.7,
+   "fx": "tracking",
+   "detail": "'that   you   didn't' palabras separadas en horizontal con huecos grandes, sobre 'think that' serif"
+  },
+  {
+   "t": 39.8,
+   "fx": "gris→blanco",
+   "detail": "'most couples': 'couples' entra gris claro y se aclara"
+  },
+  {
+   "t": 42.34,
+   "fx": "write-on por palabra",
+   "detail": "diálogo actuado sobre el A-roll con comillas: '“I really, really love you.”', '“Really?”', '…love you too.”'"
+  },
+  {
+   "t": 49.25,
+   "fx": "write-on por palabra",
+   "detail": "sobre la tarjeta blanca el texto es AZUL: sans pequeña 'be telling each other that we' + serif 'hate each / other.'"
+  }
+ ],
+ "camera": [
+  {
+   "t": 8.6,
+   "move": "push-in lento",
+   "scale_or_dir": "1.0→1.03 sobre la ilustración",
+   "dur_s": 1.9
+  },
+  {
+   "t": 13.3,
+   "move": "slide",
+   "scale_or_dir": "el cerebro sube fuera de la cabeza y vuelve a bajar",
+   "dur_s": 2.8
+  },
+  {
+   "t": 17.87,
+   "move": "punch-in",
+   "scale_or_dir": "tarjeta 1.0→1.5 en un frame",
+   "dur_s": 0.0
+  },
+  {
+   "t": 38.47,
+   "move": "punch-in",
+   "scale_or_dir": "A-roll ~1.15x",
+   "dur_s": 0.0
+  },
+  {
+   "t": 39.6,
+   "move": "push-in lento",
+   "scale_or_dir": "pareja pequeña → media",
+   "dur_s": 1.9
+  },
+  {
+   "t": 44.81,
+   "move": "zoom-out",
+   "scale_or_dir": "reencuadre del A-roll",
+   "dur_s": 0.0
+  },
+  {
+   "t": 57.62,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.15",
+   "dur_s": 0.0
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   9,
+   11,
+   5,
+   6,
+   5,
+   4
+  ],
+  "avg_hold_text_s": 0.8,
+  "notes": "Parte explicativa (3–31 s) con un cambio cada 1.5–3 s alternando A-roll / b-roll / tarjeta azul. Las transiciones 'de golpe' (glitch, negativo, amarillo) se guardan para la entrada/salida de las tarjetas gráficas y SIEMPRE van en pareja simétrica (entrada y salida con el mismo código de color). El tramo final (50–58) es lento, con reacción del host."
+ },
+ "typography": "Dos sistemas. (1) Sobre A-roll: sans REGULAR (Inter/Helvetica Regular) blanca, pequeña (~2.5% del alto), 2–4 palabras, a la altura del pecho; bold solo para el término técnico ('limbic system', 'physical abuse'). (2) Sobre b-roll y tarjetas: serif de alto contraste, condensada y con tracking negativo (tipo Playfair Display Condensed / Editorial New), grande (~7% del alto), 1–2 palabras, en minúsculas, con sans diminuta pegada arriba-izquierda o abajo-derecha. Citas con comillas curvas. En la tarjeta blanca el texto pasa a azul de marca.",
+ "textures": "Tarjetas azul #1E3FD8 con papel arrugado (arrugas en diagonal visibles); tarjeta blanca con el mismo papel arrugado (49.2). Ilustración graffiti con bordes de pincel seco. Fantasma del speaker en doble exposición sobre la tarjeta de la cita. B-roll de cine con grano; algunos en B/N. Sin viñeta añadida.",
+ "distinct": [
+  "Transiciones de glitch con BLOQUES rectangulares en negativo + rectángulos de color (amarillo 8.4, naranja 39.5) que entran y salen de forma simétrica",
+  "Sándwich negativo↔amarillo de 1 frame cada uno para entrar y salir de la cita (31.8 / 33.8)",
+  "El A-roll lleva captions en sans REGULAR gris→blanco, no bold",
+  "Inversión del sistema de marca al final: tarjeta blanca con texto azul (49.22)",
+  "Diálogo imaginado actuado con comillas y reencuadre por 'personaje' (44.81)"
+ ]
+}

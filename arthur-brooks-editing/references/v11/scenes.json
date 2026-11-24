@@ -1,0 +1,362 @@
+[
+ {
+  "id": "v11_s01", "start": 0.0, "end": 0.75, "category": "aroll_plain",
+  "script": "You talk about this emptiness,",
+  "what": "Arthur Brooks en plano medio de perfil (3/4 a la izquierda), escuchando, americana gris de cuadros, micro de estudio negro delante y taza blanca en primer término. Fondo azul petróleo muy oscuro. La pregunta la hace el entrevistador en off.",
+  "design": "Caption pequeño centrado a ~63 % de altura: sans geométrica fina tipo Outfit/Jost (regular, minúsculas, 2–3 palabras), blanco #FFFFFF con sombra suave. Ojos de Brooks en el tercio superior. Fondo #091217.",
+  "effects": "Grade cálido-cinematográfico: negros azulados, piel cálida, contraste medio, ligera viñeta, profundidad de campo corta (fondo desenfocado).",
+  "animation": "Corte seco de entrada; caption cambia por frase corta (pop+fade ~0.1 s). Dura <1 s: plano de 'presentación' del protagonista antes de saltar al b-roll.",
+  "why": "Hook: lo primero que se ve es la cara del protagonista (autoridad) mientras se oye una pregunta emocional; ancla quién va a responder antes de la ráfaga de b-roll.",
+  "quality": 3, "best_t": 0.0
+ },
+ {
+  "id": "v11_s02", "start": 0.75, "end": 1.33, "category": "broll_text",
+  "script": "this emptiness,",
+  "what": "Destello de light leak dorado/blanco (0.75–0.92) que da paso a un macro extremo de un ojo humano con piel en tonos naranja-cobre; caption 'this emptiness,' encima.",
+  "design": "Mismo caption sans fina blanco centrado a ~63 %. Paleta del flash: #E9CE8D, #FBFAF6, #C99135; macro del ojo #9A5027–#CA8E69.",
+  "effects": "Light leak / film burn dorado a pantalla casi completa, sobreexposición, grano fino; macro con mucho desenfoque y tono ámbar.",
+  "animation": "Flash de luz de 0.15–0.2 s como transición (sube a blanco cálido y se disuelve), luego micro-plano de 0.4 s. Sensación de 'parpadeo' emocional, seca y rápida.",
+  "why": "La palabra abstracta 'vacío' se convierte en imagen íntima (un ojo): describe la emoción sin explicarla. El light leak marca el tono cálido-espiritual del documental desde el segundo 1.",
+  "quality": 4, "best_t": 1.0
+ },
+ {
+  "id": "v11_s03", "start": 1.33, "end": 3.25, "category": "broll_text",
+  "script": "this isolation, this loneliness,",
+  "what": "Mujer joven con capucha caminando sola de noche en la calle, farolas y luces de coches desenfocadas detrás; mirada perdida a la izquierda.",
+  "design": "Caption sans fina blanca centrada (~63 %), una palabra-clave por golpe: 'this isolation,' / 'this loneliness,'. Paleta nocturna #120E13, #2F292D, #4B4D55.",
+  "effects": "Bokeh urbano, grade frío-cálido (piel cálida, entorno gris azulado), grano cinematográfico.",
+  "animation": "Corte seco; leve movimiento de cámara en mano siguiendo a la mujer. Captions cambian al ritmo de cada palabra enumerada (~0.8 s cada una).",
+  "why": "Enumeración de tres males (vacío, aislamiento, soledad): cada concepto recibe su imagen-metáfora de stock. 'Soledad' = persona sola en ciudad de noche, lectura instantánea.",
+  "quality": 4, "best_t": 1.5
+ },
+ {
+  "id": "v11_s04", "start": 3.25, "end": 3.88, "category": "broll_text",
+  "script": "the lack of meaning.",
+  "what": "Macro de un dedo tocando una pantalla/teclado táctil iluminado, en tonos burdeos-violeta; termina con un flash blanco-dorado (3.79–3.88).",
+  "design": "Caption 'meaning.' sans fina blanca centrada a ~63 %. Paleta #9A5027/#AD6438 con reflejos azul-violeta de la pantalla.",
+  "effects": "Macro con profundidad mínima, glow de la pantalla, light leak de cierre a blanco cálido.",
+  "animation": "Plano de 0.6 s; el dedo baja hacia la pantalla (acción mínima); flash de 0.1–0.2 s para salir.",
+  "why": "'Falta de sentido' asociada a la tecnología/pantalla: insinúa la causa sin decirla. El flash cierra la enumeración del hook y marca el cambio de hablante.",
+  "quality": 3, "best_t": 3.0
+ },
+ {
+  "id": "v11_s05", "start": 3.88, "end": 6.0, "category": "aroll_plain",
+  "script": "This may sound weird, but",
+  "what": "Fr. Dave Pivonka (entrevistador) en primer plano, mirando hacia abajo, sonriendo, jersey negro de cuello alto, estantería con libros de colores desenfocada a la izquierda. Primer fotograma aún con tinte dorado del flash.",
+  "design": "Caption sans fina blanca centrada a ~63 %: 'This may sound' / 'weird, but...'. Cara en tercio superior-central.",
+  "effects": "Grade cálido, fondo oscuro, desenfoque de fondo, viñeta suave.",
+  "animation": "Entrada desde el light leak (cross de luz ~0.15 s). Plano fijo con micro-movimiento.",
+  "why": "Presentar al que pregunta = conexión humana; el 'esto puede sonar raro' crea curiosidad (open loop) que paga la escena siguiente.",
+  "quality": 3, "best_t": 4.5
+ },
+ {
+  "id": "v11_s06", "start": 6.0, "end": 6.8, "category": "captions_text",
+  "script": "are they even aware?",
+  "what": "Sobre el mismo primer plano del entrevistador (gesticulando con un bolígrafo) aparece un bloque tipográfico grande: 'are they even' / 'AWARE' / '???'.",
+  "design": "'are they even' en sans fina blanca con tracking amplio, tamaño caption ×1.3; 'AWARE' serif de alto contraste en MAYÚSCULAS (tipo Playfair/Bodoni ligera), ~4× el caption, color dorado-melocotón en degradado (#F3C9A0→#E39A5C); '???' en la misma serif dorada debajo. Bloque centrado a ~45–65 % de altura.",
+  "effects": "Degradado dorado en el texto, ligera sombra difusa para separarlo del fondo; sin caja.",
+  "animation": "Palabras aparecen una a una sincronizadas a la voz ('are' → 'they' → 'even'), 'AWARE' entra con fade+leve escala (~0.2 s), '???' justo después. Suave.",
+  "why": "Es LA pregunta del video: se tipografía en grande para convertirla en titular y en hook visual. Cambio de sans a serif dorada = momento emocional/importante.",
+  "quality": 5, "best_t": 6.4
+ },
+ {
+  "id": "v11_s07", "start": 6.8, "end": 7.26, "category": "captions_text",
+  "script": "—",
+  "what": "Transición: light leak ámbar-dorado a pantalla completa con la palabra 'AWARE' en serif dorada fantasma flotando sobre el destello.",
+  "design": "'AWARE' serif MAYÚSCULAS dorada semitransparente centrada a ~50 %; fondo #C99135→#924D24.",
+  "effects": "Film burn / light leak naranja-dorado, sobreexposición, blur.",
+  "animation": "El texto se queda mientras el destello barre la pantalla (~0.45 s) y se desvanece: transición 'quemada' suave.",
+  "why": "Deja respirar la pregunta (pausa en el audio) y la sella visualmente antes de un cambio de bloque (créditos).",
+  "quality": 4, "best_t": 7.1
+ },
+ {
+  "id": "v11_s08", "start": 7.26, "end": 8.8, "category": "title_cta",
+  "script": "Do young people",
+  "what": "Cartón negro con crédito pequeño: 'Join Fr. Dave Pivonka, TOR'.",
+  "design": "Serif fina (tipo Cormorant/Garamond) blanca/gris claro #D9D9D9, tamaño muy pequeño (≈ caption), centrada a ~50 %; fondo #000000.",
+  "effects": "Ninguno; negro puro, mucho espacio negativo.",
+  "animation": "Fade in/out suave del texto (~0.3 s). La voz continúa por encima.",
+  "why": "Crédito de presentación del entrevistador insertado como 'respiro' tras el hook; el negro con letra minúscula y elegante da sensación de documental de cine.",
+  "quality": 3, "best_t": 7.5
+ },
+ {
+  "id": "v11_s09", "start": 8.8, "end": 9.72, "category": "text_centric",
+  "script": "understand actually what's going on?",
+  "what": "El negro pasa a blanco total; solo el caption 'understand' en gris en el centro.",
+  "design": "Fondo blanco #FFFFFF; caption sans fina gris medio con contorno, centrado a ~63 %.",
+  "effects": "Sobreexposición a blanco (flash blanco sostenido).",
+  "animation": "Fundido de negro a blanco (~0.5 s), corte seco a Brooks.",
+  "why": "Contraste negro→blanco como 'despertar' sobre la palabra 'understand' y puente hacia la respuesta de Brooks.",
+  "quality": 3, "best_t": 9.0
+ },
+ {
+  "id": "v11_s10", "start": 9.72, "end": 13.0, "category": "aroll_plain",
+  "script": "No, because they don't have the language for it. And in fact,",
+  "what": "Brooks plano medio 3/4 mirando al entrevistador fuera de campo, micro y taza en primer término.",
+  "design": "Caption sans fina blanca centrada a ~63 %, 2–3 palabras: 'No, because they', 'language for it.'.",
+  "effects": "Grade cálido cinematográfico, fondo azul oscuro #091217, viñeta.",
+  "animation": "Corte seco; captions por golpe de frase.",
+  "why": "Respuesta directa del experto = cara a cámara (autoridad, conexión).",
+  "quality": 2, "best_t": 10.5
+ },
+ {
+  "id": "v11_s11", "start": 13.0, "end": 15.52, "category": "aroll_plain",
+  "script": "if you ask young people today,",
+  "what": "Mismo plano de Brooks pero más cerrado (punch-in / segunda cámara más cerrada).",
+  "design": "Caption igual ('you ask young').",
+  "effects": "Igual grade.",
+  "animation": "Corte a plano más cerrado (jump-in) ~1.2×.",
+  "why": "El punch-in sube la intensidad justo antes del dato-anécdota que viene.",
+  "quality": 2, "best_t": 13.5
+ },
+ {
+  "id": "v11_s12", "start": 15.52, "end": 18.18, "category": "aroll_plain",
+  "script": "do you feel like your life is meaningless?",
+  "what": "Plano general horizontal 16:9 de los dos (sacerdote con hábito y Brooks en mesa redonda, crucifijo de San Damián en la pared) encajado en una franja central; arriba y abajo, el mismo plano ampliado y desenfocado.",
+  "design": "Franja 16:9 centrada entre ~30 % y ~57 % de altura; relleno superior/inferior = versión blur del propio plano. Caption 'do you feel like your life is' sans fina blanca sobre la parte baja de la franja.",
+  "effects": "Fondo blur extendido (blur-fill), oscurecido; grade cálido.",
+  "animation": "Corte seco; plano estable.",
+  "why": "Plano de situación: recuerda que es una conversación (contexto) y da descanso visual antes del remate 'yeah'.",
+  "quality": 3, "best_t": 16.5
+ },
+ {
+  "id": "v11_s13", "start": 18.18, "end": 19.7, "category": "captions_text",
+  "script": "And then they say,",
+  "what": "Brooks en primer plano cerrado (cara grande, gafas), mirando a la izquierda; texto 'and then they say:' a media altura a la izquierda.",
+  "design": "Serif fina regular blanca (tipo Cormorant), tamaño ~1.3× caption, alineada a la izquierda en ~47 % de altura, superpuesta a la cara.",
+  "effects": "Grade cálido; leve sombra en el texto.",
+  "animation": "Write-on palabra a palabra con fade; prepara el sitio para la palabra grande que viene.",
+  "why": "Construye suspense: el texto anuncia la cita ('they say:') y deja hueco a la derecha para el golpe.",
+  "quality": 4, "best_t": 18.0
+ },
+ {
+  "id": "v11_s14", "start": 19.7, "end": 20.5, "category": "captions_text",
+  "script": "yeah.",
+  "what": "Aparece 'Yeah...' gigante en serif dorada sobre el primer plano de Brooks, debajo de 'and then they say:'.",
+  "design": "Serif alto contraste ligera (tipo Playfair), ~5× caption, degradado dorado-melocotón (#F5D3A8→#E3A36A), alineada a la derecha/centro en ~50 % de altura, desbordando casi el ancho.",
+  "effects": "Degradado en relleno, sombra difusa muy suave.",
+  "animation": "Fade + escala ligera (0.95→1.0) en ~0.25 s, sincronizado exacto con 'yeah'.",
+  "why": "Remate emocional: la respuesta devastadora de los jóvenes se convierte en titular. Cambio a serif dorada = 'esto importa'.",
+  "quality": 5, "best_t": 19.5
+ },
+ {
+  "id": "v11_s15", "start": 20.5, "end": 21.1, "category": "captions_text",
+  "script": "—",
+  "what": "Light leak dorado-blanco que quema la imagen dejando ver 'Yeah...' fantasma, y se funde a un fondo marrón-rojizo oscuro.",
+  "design": "Paleta #F5E7C0 → #924D24 → #4A1E10.",
+  "effects": "Film burn / light leak, sobreexposición, blur intenso.",
+  "animation": "Transición de ~0.6 s: destello que entra por la izquierda, satura a blanco y cae a marrón oscuro.",
+  "why": "Pausa emocional tras el 'yeah' (silencio en el audio): deja que el golpe aterrice y separa capítulos.",
+  "quality": 4, "best_t": 20.7
+ },
+ {
+  "id": "v11_s16", "start": 21.1, "end": 23.6, "category": "title_cta",
+  "script": "I've been giving",
+  "what": "Cartón negro con crédito 'in conversation with Arthur Brooks' y debajo el caption 'I've been giving'.",
+  "design": "Crédito en serif fina minúscula muy pequeña gris claro centrada a ~50 %; caption sans fina blanca a ~63 %. Fondo #000 con resto marrón de la transición.",
+  "effects": "Negro limpio.",
+  "animation": "Fade del crédito (~0.4 s); caption aparece con la voz.",
+  "why": "Segundo crédito (presenta al invitado) colocado en el cambio de capítulo: de la pregunta al dato de Brooks.",
+  "quality": 3, "best_t": 22.5
+ },
+ {
+  "id": "v11_s17", "start": 23.6, "end": 28.4, "category": "aroll_plain",
+  "script": "a test for whether people have a meaning crisis in their lives for many years.",
+  "what": "Flash blanco de 0.2 s ('a test for' en gris) y entra Brooks plano medio, brazos sobre la mesa, mirando abajo-izquierda.",
+  "design": "Caption sans fina blanca centrada a ~63 %: 'a test for', 'have a meaning', 'lives for'.",
+  "effects": "Flash blanco de entrada; grade cálido.",
+  "animation": "Flash blanco seco (~0.2 s) → corte; plano fijo.",
+  "why": "Anuncio de algo nuevo (su test) = cara del speaker; el flash blanco subraya el inicio del argumento.",
+  "quality": 3, "best_t": 25.5
+ },
+ {
+  "id": "v11_s18", "start": 28.4, "end": 29.6, "category": "aroll_plain",
+  "script": "The first question is,",
+  "what": "Transición: barrido con motion blur vertical y distorsión tipo 'glitch'/franjas (barcode) que pasa del plano de Brooks a una textura de papel beige.",
+  "design": "Tonos grises-beige #B9AFA3; franjas verticales oscuras.",
+  "effects": "Motion blur direccional, glitch de líneas verticales, desenfoque.",
+  "animation": "Whip/slide vertical rápido (~0.3–0.5 s), seco.",
+  "why": "Transición enérgica que marca 'ahora viene el contenido concreto' (el examen).",
+  "quality": 3, "best_t": 28.5
+ },
+ {
+  "id": "v11_s19", "start": 29.6, "end": 33.8, "category": "text_centric",
+  "script": "why are you alive? And the second question is, for what would you give your life?",
+  "what": "Tarjeta 'The Meaning Exam' sobre papel/pergamino: título, línea divisoria corta, y lista numerada '1. Why are you alive?' / '2. For what would you give your life?' que se escribe en sincronía con la voz.",
+  "design": "Serif fina regular (tipo Cormorant/Playfair light) gris carbón #3A3330; título ~2× la lista, centrado a ~22 % de altura; divisor fino ~15 % del ancho; lista alineada a la izquierda con sangría, ~25–32 % de altura. Fondo beige-gris #B9AFA3→#8E857B con resplandor naranja #F08A2A en el borde inferior.",
+  "effects": "Textura de papel con motas/grano, viñeta oscura en los bordes, glow cálido abajo (como brasa/fuego), polvo.",
+  "animation": "Título y divisor presentes; cada ítem de la lista aparece palabra a palabra (write-on por palabra con fade ~0.1 s) siguiendo la voz. Cámara casi fija con ligero drift.",
+  "why": "Momento de valor (las dos preguntas del test): se saca del A-roll y se 'imprime' como documento para que el espectador se haga la pregunta. Lista = animación.",
+  "quality": 5, "best_t": 33.0
+ },
+ {
+  "id": "v11_s20", "start": 33.8, "end": 37.9, "category": "graph_stats",
+  "script": "Traditionally, about 85 % of my students passed and 15 % failed.",
+  "what": "Brooks plano medio gesticulando; a la izquierda-centro aparece '85% PASS' y debajo, desplazado a la derecha, '15% FAIL'.",
+  "design": "Sans geométrica bold/black MAYÚSCULAS (tipo Montserrat ExtraBold), '85% PASS' blanco #FFFFFF, '15% FAIL' rojo oscuro #8E1B1B; tamaño ~2.5× caption; bloque a ~40–45 % de altura sobre el pecho. Sombra suave.",
+  "effects": "Sombra paralela suave; sin caja.",
+  "animation": "'85% PASS' pop-in sincronizado con '85', '15% FAIL' entra después con '15' (pop+fade ~0.15 s), escalonados en diagonal.",
+  "why": "Dato numérico = se visualiza. Blanco vs rojo codifica aprobado/suspenso sin explicar.",
+  "quality": 4, "best_t": 36.0
+ },
+ {
+  "id": "v11_s21", "start": 37.9, "end": 39.5, "category": "aroll_plain",
+  "script": "And then that started to creep up.",
+  "what": "Brooks plano medio gesticulando con la mano, sin gráfico.",
+  "design": "Caption sans fina blanca centrada ~63 %.",
+  "effects": "Grade cálido.",
+  "animation": "Los textos de % salen (fade) y queda A-roll limpio.",
+  "why": "Respiro visual entre dos datos para que el segundo golpee más.",
+  "quality": 2, "best_t": 37.5
+ },
+ {
+  "id": "v11_s22", "start": 39.5, "end": 41.6, "category": "graph_stats",
+  "script": "Now about half of my students failed that exam.",
+  "what": "Primer plano cerrado de Brooks (punch-in) con '50% FAIL' en rojo sobre el pecho/cuello.",
+  "design": "Sans bold MAYÚSCULAS roja #8E1B1B, mismo estilo que '15% FAIL', a ~38–45 % de altura; caption fina debajo a ~63 %.",
+  "effects": "Sombra suave.",
+  "animation": "Punch-in (corte a plano ~1.4× más cerrado) + pop del texto sincronizado con 'half'.",
+  "why": "El dato que escala la crisis: plano más cerrado + rojo = alarma.",
+  "quality": 4, "best_t": 39.0
+ },
+ {
+  "id": "v11_s23", "start": 41.6, "end": 44.1, "category": "aroll_plain",
+  "script": "It's a catastrophe and all the explanations were wrong.",
+  "what": "Plano general horizontal de los dos en la mesa, encajado en franja central con relleno blur arriba/abajo.",
+  "design": "Franja 16:9 centrada; caption 'all the' en la franja.",
+  "effects": "Blur-fill oscuro.",
+  "animation": "Corte seco.",
+  "why": "Contexto/descanso tras el dato; plano abierto = conclusión ('es una catástrofe').",
+  "quality": 2, "best_t": 42.0
+ },
+ {
+  "id": "v11_s24", "start": 44.1, "end": 48.4, "category": "aroll_plain",
+  "script": "Clinical depression has tripled. That generalized anxiety has doubled. That loneliness is up.",
+  "what": "Brooks en plano medio, cambio de ángulo (3/4 izquierda → más frontal) mientras enumera.",
+  "design": "Caption sans fina blanca ~63 %: 'Clinical', 'doubled.'.",
+  "effects": "Grade cálido.",
+  "animation": "Cortes de cámara entre ángulos cada ~1.5 s siguiendo cada dato.",
+  "why": "Lista de datos rápidos: el ritmo de cortes la sostiene sin gráficos (evita saturar tras el 50 %).",
+  "quality": 2, "best_t": 45.0
+ },
+ {
+  "id": "v11_s25", "start": 48.4, "end": 50.3, "category": "captions_text",
+  "script": "What happened?",
+  "what": "Primer plano muy cerrado de Brooks con 'What / Happened?' enorme a la izquierda; luego todo se desenfoca y oscurece quedando el texto fantasma.",
+  "design": "Serif alto contraste ligera blanca, ~4× caption, alineada a la izquierda a ~45–55 % de altura, dos líneas.",
+  "effects": "Aberración cromática (separación RGB) en el texto y la imagen, glow, después blur fuerte y oscurecimiento.",
+  "animation": "Push-in lento sobre la cara; 'What' entra, 'Happened?' después; a 49.5 s blur + dim a casi negro (~0.6 s).",
+  "why": "Pregunta retórica que abre el giro del video: se tipografía como titular y el blur-to-dark crea el 'cliffhanger' antes de la respuesta espiritual.",
+  "quality": 5, "best_t": 48.0
+ },
+ {
+  "id": "v11_s26", "start": 50.3, "end": 51.1, "category": "captions_text",
+  "script": "One of the greatest,",
+  "what": "Light leak naranja-rojizo y luego dorado-blanco; caption 'greatest,' en el centro.",
+  "design": "Paleta #924D24 → #E4C478 → #FBFAF6; caption sans fina blanca ~63 %.",
+  "effects": "Film burn / light leak.",
+  "animation": "Transición de luz ~0.6 s en dos pulsos (rojo → dorado).",
+  "why": "Cambio de hablante (de Brooks al sacerdote) y de tono (de datos a lo espiritual): la luz cálida actúa como 'revelación'.",
+  "quality": 4, "best_t": 50.9
+ },
+ {
+  "id": "v11_s27", "start": 51.1, "end": 55.4, "category": "aroll_plain",
+  "script": "greatest deceptions of the evil one is to cause us to believe that life is supposed to be easy.",
+  "what": "Fr. Dave en primer plano, iluminación lateral cálida, fondo crema desenfocado, mirando a Brooks.",
+  "design": "Caption sans fina blanca ~63 %.",
+  "effects": "Grade cálido, piel muy cálida.",
+  "animation": "Corte seco; plano fijo con leves cambios de encuadre.",
+  "why": "La tesis espiritual la dice el sacerdote: cara = credibilidad y emoción.",
+  "quality": 2, "best_t": 52.5
+ },
+ {
+  "id": "v11_s28", "start": 55.4, "end": 61.0, "category": "aroll_plain",
+  "script": "So if the evil one can cause us to believe it's not supposed to be difficult, well then we begin to question God.",
+  "what": "Fr. Dave desde otro ángulo (estantería de libros de colores detrás), gesticulando, mano en la boca pensativo, termina en primer plano.",
+  "design": "Caption sans fina blanca ~63 %.",
+  "effects": "Grade cálido.",
+  "animation": "Cortes entre dos ángulos cada ~1.5–3 s.",
+  "why": "Mantiene el A-roll durante el razonamiento; los cambios de ángulo evitan monotonía.",
+  "quality": 2, "best_t": 57.0
+ },
+ {
+  "id": "v11_s29", "start": 61.0, "end": 67.4, "category": "aroll_plain",
+  "script": "If you spend your life trying to exempt yourself from suffering, trying to avoid the pain in life,",
+  "what": "Brooks plano medio 3/4 escuchando/hablando, micro y taza delante.",
+  "design": "Caption sans fina blanca ~63 %: 'If you spend your', 'exempt yourself', 'trying to avoid'.",
+  "effects": "Grade cálido.",
+  "animation": "Plano fijo largo (~6 s) — la escena más larga de A-roll, deja crecer la frase.",
+  "why": "Construcción de la frase-tesis final: se mantiene la cara para que la conclusión venga de él.",
+  "quality": 2, "best_t": 63.0
+ },
+ {
+  "id": "v11_s30", "start": 67.4, "end": 68.9, "category": "captions_text",
+  "script": "you will avoid the",
+  "what": "Primer plano cerrado de Brooks; a la izquierda aparece 'You will avoid the' y debajo 'Meaning'.",
+  "design": "'You will avoid the' sans geométrica medium blanca (~1.8× caption), alineada a la izquierda a ~45 %; 'Meaning' serif ligera con degradado dorado-melocotón ~2.5× debajo.",
+  "effects": "Sombra suave.",
+  "animation": "Write-on palabra a palabra sincronizado; 'Meaning' con fade+escala.",
+  "why": "La frase-tesis del video se escribe palabra a palabra para que el espectador la lea con él; la palabra clave en serif dorada.",
+  "quality": 5, "best_t": 67.5
+ },
+ {
+  "id": "v11_s31", "start": 68.9, "end": 70.3, "category": "text_centric",
+  "script": "meaning of your life.",
+  "what": "Se completa la frase sobre fondo oscuro degradado (la imagen de Brooks desaparece): 'You will avoid the / Meaning / of your Life'.",
+  "design": "Mezcla sans medium blanca ('You will avoid the', 'of your') + serif ligera dorada en degradado grande ('Meaning', 'Life'); composición escalonada centrada a ~45–58 %. Fondo degradado marrón-negro #2A1C14→#0B0807.",
+  "effects": "Degradado cálido de fondo, glow suave en las palabras doradas.",
+  "animation": "Fondo cambia con dissolve (~0.3 s); 'of your Life' entra al final con fade.",
+  "why": "Quote card: aísla la frase más compartible del video (pull-quote) en pantalla limpia.",
+  "quality": 5, "best_t": 69.0
+ },
+ {
+  "id": "v11_s32", "start": 70.3, "end": 76.3, "category": "title_cta",
+  "script": "I believe that American Catholicism is literally what the world needs.",
+  "what": "Cartón de título de la serie 'IN FOCUS' con subtítulo 'THE MEANING OF YOUR LIFE'; captions de la voz debajo.",
+  "design": "'IN FOCUS' serif de alto contraste MAYÚSCULAS blanca/plata, ~4× caption, centrada a ~48 %; la 'O' de FOCUS con un anillo/círculo fino orbitando; subtítulo sans MAYÚSCULAS pequeña con tracking amplio en naranja #E07A3A; caption sans fina blanca a ~63 %. Fondo gris-negro humeante #1A1A1C.",
+  "effects": "Textura de humo/niebla oscura, glow blanco detrás del título, viñeta fuerte.",
+  "animation": "Título aparece con fade+blur-to-sharp (~0.6 s); subtítulo entra después; leve zoom-in lento continuo.",
+  "why": "Branding de la serie colocado justo después de la frase-tesis (pico emocional) y antes del CTA: asocia la marca al momento de mayor valor.",
+  "quality": 4, "best_t": 73.5
+ },
+ {
+  "id": "v11_s33", "start": 76.3, "end": 77.3, "category": "text_centric",
+  "script": "Where we see the",
+  "what": "Flash blanco sostenido con caption 'Where we see the' en gris con contorno.",
+  "design": "Fondo #FFFFFF; caption sans fina gris centrada ~63 %.",
+  "effects": "Sobreexposición blanca.",
+  "animation": "Flash a blanco ~1 s, corte.",
+  "why": "Transición limpia hacia el bloque de cierre/CTA.",
+  "quality": 2, "best_t": 76.5
+ },
+ {
+  "id": "v11_s34", "start": 77.3, "end": 82.3, "category": "title_cta",
+  "script": "crisis of depression, anxiety among young people, that's the opportunity for evangelization.",
+  "what": "Overlay de CTA 'AVAILABLE ON / FAITH & REASON / faithandreason.com' sobre el plano general de los dos (con foreground borroso) y luego sobre primer plano de Brooks.",
+  "design": "'AVAILABLE ON' sans MAYÚSCULAS fina con tracking muy amplio blanca; 'FAITH & REASON' sans geométrica bold blanca con '&' en serif itálica dorada (con paloma); URL serif pequeña blanca. Bloque centrado a ~42–55 %; caption a ~63 %.",
+  "effects": "Imagen de fondo oscurecida ~40 % y con foreground desenfocado; sin caja.",
+  "animation": "Overlay hace fade-in (~0.4 s) y permanece fijo mientras cambian los planos debajo.",
+  "why": "CTA de plataforma mientras se oye la conclusión: el mensaje final y la llamada a la acción coinciden.",
+  "quality": 4, "best_t": 79.5
+ },
+ {
+  "id": "v11_s35", "start": 82.3, "end": 83.8, "category": "title_cta",
+  "script": "—",
+  "what": "Negro total.",
+  "design": "#000000.",
+  "effects": "Ninguno.",
+  "animation": "Fade a negro (~0.4 s).",
+  "why": "Cierre del contenido antes del logo institucional.",
+  "quality": 2, "best_t": 82.5
+ },
+ {
+  "id": "v11_s36", "start": 83.8, "end": 90.17, "category": "title_cta",
+  "script": "Thank you.",
+  "what": "Logo de Franciscan University of Steubenville (cruz e iglesia en verde, texto en dorado oliva) centrado sobre blanco.",
+  "design": "Logo institucional centrado a ~45 %; verde #1F5A2A, dorado #9A8A4E; fondo #FFFFFF/#F3F3F3.",
+  "effects": "Ninguno.",
+  "animation": "Fade in desde negro; estático ~6 s.",
+  "why": "Firma institucional / end card de la productora.",
+  "quality": 1, "best_t": 85.5
+ }
+]

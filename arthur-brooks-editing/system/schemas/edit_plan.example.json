@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "style": "premium-clean",
+  "source": { "video": "media/raw_cut.mp4", "captions": "captions.json" },
+  "palette": null,
+  "hook": { "speaker": true, "text": "3 pasos para que te contraten", "visual": "notification" },
+  "scenes": [
+    { "id": "s01", "start": 0.0, "end": 2.2, "type": "notification",
+      "props": { "app": "Stripe", "title": "Pago recibido", "body": "+$1,500.00 de un cliente nuevo", "icon": "💸" } },
+    { "id": "s02", "start": 2.2, "end": 4.6, "type": "listicle",
+      "props": { "title": "3 pasos", "items": ["Editor viral", "Marca personal", "Clientes reyes"], "active": -1 } },
+    { "id": "s03", "start": 4.6, "end": 7.0, "type": "aroll", "props": { "zoom": 1.12, "desaturate": true } },
+    { "id": "s04", "start": 7.0, "end": 9.4, "type": "fullscreen_text",
+      "props": { "text": "Nadie contrata editores promedio", "special": ["promedio"] } },
+    { "id": "s05", "start": 9.4, "end": 12.0, "type": "counter_ring",
+      "props": { "from": 0, "to": 90, "suffix": "%", "label": "se rinden", "max": 100 } },
+    { "id": "s06", "start": 12.0, "end": 14.8, "type": "bar_graph",
+      "props": { "title": "Si eres más productivo…", "bars": [ { "label": "Productividad", "value": 88 }, { "label": "Contratación", "value": 24 } ] } },
+    { "id": "s07", "start": 14.8, "end": 17.5, "type": "quote",
+      "props": { "text": "No basta con construir algo increíble, tienes que venderlo", "special": ["venderlo"], "author": "Russell Brunson" } }
+  ],
+  "captions": { "enabled": true, "hide_during": ["fullscreen"] },
+  "music": { "file": null, "volume": 0.18 }
+}

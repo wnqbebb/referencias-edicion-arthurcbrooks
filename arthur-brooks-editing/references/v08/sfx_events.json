@@ -1,0 +1,38 @@
+[
+ {
+  "t": 0.046,
+  "dur": 0.33,
+  "kind": "hit/boom",
+  "gain_db": 7.6,
+  "to_cut": 0.05,
+  "word": "People",
+  "to_word": 0.05
+ },
+ {
+  "t": 22.814,
+  "dur": 0.0,
+  "kind": "click",
+  "gain_db": 6.0,
+  "to_cut": -0.51,
+  "word": "That's",
+  "to_word": -0.27
+ },
+ {
+  "t": 28.665,
+  "dur": 0.09,
+  "kind": "pop",
+  "gain_db": 6.3,
+  "to_cut": 2.28,
+  "word": "as",
+  "to_word": 0.09
+ },
+ {
+  "t": 36.258,
+  "dur": 0.19,
+  "kind": "hit/boom",
+  "gain_db": 6.7,
+  "to_cut": 0.62,
+  "word": "think",
+  "to_word": -0.06
+ }
+]

@@ -1,0 +1,1544 @@
+{
+ "video": "v19",
+ "triggers": [
+  {
+   "t_word": 0.0,
+   "word": "Most",
+   "element": "ilustración hook: cabeza-silueta negra con tapa del cráneo abierta y cerebro rojo; haz azul diagonal",
+   "category": "center_illustration",
+   "offset_s": 0.0,
+   "why": "metáfora (abrir la cabeza = revisar una creencia), hook antes de entender"
+  },
+  {
+   "t_word": 1.28,
+   "word": "happiness",
+   "element": "corte a cabeza de perfil dither/pixel con cerebro azul; 'happiness' serif entra gris→blanco",
+   "category": "center_illustration",
+   "offset_s": 0.25,
+   "why": "literal (el concepto vive en la mente); corte en 1.53"
+  },
+  {
+   "t_word": 2.98,
+   "word": "opposites.",
+   "element": "glitch-smear 2 fr → b-roll prado con dos personas; 'opposites.' serif blur-in en 3.27",
+   "category": "broll_text",
+   "offset_s": 0.29,
+   "why": "metáfora (dos personas = dos polos)"
+  },
+  {
+   "t_word": 4.02,
+   "word": "If",
+   "element": "b-roll hombre sonriendo (gafas) — 'more of one,' grande",
+   "category": "broll_text",
+   "offset_s": 0.11,
+   "why": "emoción literal: 'more' = alegría"
+  },
+  {
+   "t_word": 5.3,
+   "word": "less",
+   "element": "b-roll hombre solo en la orilla al anochecer — 'you have' grande + 'less of the other.'",
+   "category": "broll_text",
+   "offset_s": -0.17,
+   "why": "contraste: 'less' = tristeza (corte en 5.13 sobre 'you')"
+  },
+  {
+   "t_word": 6.42,
+   "word": "It's",
+   "element": "pantalla azul plana vacía con 'It's' diminuto (≈8 px) centrado",
+   "category": "text_centric",
+   "offset_s": -0.09,
+   "why": "respiración antes de la frase-matiz 'on a dial'"
+  },
+  {
+   "t_word": 7.36,
+   "word": "basically.",
+   "element": "'It's on ● a dial.' diminuto con punto-glifo + 'basically.' serif grande",
+   "category": "text_centric",
+   "offset_s": 0.1,
+   "why": "énfasis; el '●' sustituye visualmente al dial"
+  },
+  {
+   "t_word": 8.18,
+   "word": "But",
+   "element": "corte a blanco roto (inversión azul→blanco); 'But that's' gris→negro, 'wrong.' serif negra blur-in 8.5–8.8",
+   "category": "text_centric",
+   "offset_s": -0.18,
+   "why": "cambio de tema: refutación = cambio de fondo"
+  },
+  {
+   "t_word": 9.26,
+   "word": "In",
+   "element": "macro de ojo B/N (2 planos de 0.17 s) con 'In truth,' sobre la pupila",
+   "category": "broll_text",
+   "offset_s": -0.16,
+   "why": "metáfora (ver la verdad)"
+  },
+  {
+   "t_word": 9.72,
+   "word": "happiness",
+   "element": "cerebro line-art blanco vista superior sobre azul + marco blueprint con cotas",
+   "category": "line_illustration",
+   "offset_s": -0.25,
+   "why": "literal/esquema científico"
+  },
+  {
+   "t_word": 11.14,
+   "word": "separate",
+   "element": "panel blanco entra en wipe desde la izquierda (10.93–11.27) y parte el cerebro en mitad blanca/azul",
+   "category": "line_illustration",
+   "offset_s": -0.21,
+   "why": "literal: la animación ejecuta 'separar'"
+  },
+  {
+   "t_word": 12.42,
+   "word": "Researchers",
+   "element": "archivo B/N de científico en laboratorio; 'Researchers' serif blanca 12.67",
+   "category": "imagery_characters",
+   "offset_s": 0.11,
+   "why": "literal (autoridad de archivo)"
+  },
+  {
+   "t_word": 13.4,
+   "word": "this",
+   "element": "glitch datamosh de macrobloques entre dos rostros de archivo 13.27–13.47",
+   "category": "imagery_characters",
+   "offset_s": -0.13,
+   "why": "énfasis/textura de 'documento antiguo'"
+  },
+  {
+   "t_word": 13.88,
+   "word": "1988",
+   "element": "fondo blanco: línea de tiempo azul se dibuja 13.9–14.0 + 3 fotos recortadas pop en stagger 14.13/14.2/14.27 + rótulo '1988'",
+   "category": "timeline",
+   "offset_s": -0.08,
+   "why": "dato (año → timeline)"
+  },
+  {
+   "t_word": 15.42,
+   "word": "PANIS",
+   "element": "wash a azul 15.2–15.43 + hoja de paper entra volando girada 15.47 y aterriza con esquina doblada 15.53",
+   "category": "object_element",
+   "offset_s": 0.05,
+   "why": "dato (nombre propio → documento real)"
+  },
+  {
+   "t_word": 15.42,
+   "word": "PANIS",
+   "element": "corte a paper a pantalla completa ('The PANAS', autores) con paneo lento a la izquierda 15.93–16.5",
+   "category": "object_element",
+   "offset_s": 0.51,
+   "why": "prueba documental legible"
+  },
+  {
+   "t_word": 16.34,
+   "word": "Positive",
+   "element": "vuelta a azul: '“PANAS”' serif bold blanca con comillas tipográficas sobre la hoja",
+   "category": "object_element",
+   "offset_s": 0.19,
+   "why": "dato; siembra la palabra del CTA"
+  },
+  {
+   "t_word": 18.18,
+   "word": "Schedule.",
+   "element": "subtítulo diminuto 'the Positive and Negative Affect Schedule' bajo el título",
+   "category": "object_element",
+   "offset_s": 0.6,
+   "why": "dato"
+  },
+  {
+   "t_word": 19.28,
+   "word": "You",
+   "element": "fondo blanco: barra azul se dibuja y se divide en caja 'Positive' azul + caja 'Negative' azul claro (19.2–19.4)",
+   "category": "graph_stats",
+   "offset_s": -0.08,
+   "why": "literal ('two scores' = dos bloques)"
+  },
+  {
+   "t_word": 20.32,
+   "word": "scores.",
+   "element": "las cajas hacen morph a matriz 2x2 azul",
+   "category": "graph_stats",
+   "offset_s": 0.08,
+   "why": "dato (dos ejes independientes)"
+  },
+  {
+   "t_word": 21.48,
+   "word": "positive",
+   "element": "etiquetas 'Positive affect' (arriba) y 'Negative affect' (izquierda) fade-in",
+   "category": "graph_stats",
+   "offset_s": -0.2,
+   "why": "literal (nombra los ejes)"
+  },
+  {
+   "t_word": 23.98,
+   "word": "high",
+   "element": "barra-leyenda vertical con degradado azul crece a la derecha de la matriz",
+   "category": "graph_stats",
+   "offset_s": -0.4,
+   "why": "dato (alto = vertical)"
+  },
+  {
+   "t_word": 25.3,
+   "word": "low",
+   "element": "barra-leyenda horizontal con degradado aparece bajo la matriz",
+   "category": "graph_stats",
+   "offset_s": -0.1,
+   "why": "dato (bajo = horizontal)"
+  },
+  {
+   "t_word": 26.26,
+   "word": "Most",
+   "element": "fondo negro + vídeo vintage en tarjeta redondeada (padre e hijo en la playa); cambia a familia en salón ~26.55 dentro de la tarjeta",
+   "category": "broll_text",
+   "offset_s": -0.06,
+   "why": "emoción ('entire lives' = recuerdos de familia)"
+  },
+  {
+   "t_word": 27.28,
+   "word": "entire",
+   "element": "b-roll a sangre: pareja de espaldas en playa nublada",
+   "category": "broll_text",
+   "offset_s": -0.15,
+   "why": "emoción"
+  },
+  {
+   "t_word": 28.34,
+   "word": "to",
+   "element": "fondo blanco: punto azul 'Happiness' pop con overshoot 28.13→28.33; 'to manage' serif gris→negro",
+   "category": "center_illustration",
+   "offset_s": -0.2,
+   "why": "literal (el dial único)"
+  },
+  {
+   "t_word": 28.74,
+   "word": "one",
+   "element": "bloque de texto cambia a 'one dial,'; halo azul claro pop alrededor del punto 29.2",
+   "category": "center_illustration",
+   "offset_s": 0.26,
+   "why": "literal (dial)"
+  },
+  {
+   "t_word": 29.76,
+   "word": "didn't",
+   "element": "'SADNESS' serif gigante azul claro fade-in DETRÁS del dial 29.7–30.0",
+   "category": "center_illustration",
+   "offset_s": 0.0,
+   "why": "metáfora: lo ignorado está literalmente detrás"
+  },
+  {
+   "t_word": 32.66,
+   "word": "other.",
+   "element": "blur-out del dial 32.93 y corte",
+   "category": "center_illustration",
+   "offset_s": 0.27,
+   "why": "cierre de idea"
+  },
+  {
+   "t_word": 33.12,
+   "word": "Mother",
+   "element": "grabados de 'evolución del hombre' en papel envejecido, tarjetas inclinadas; 'Mother Nature' serif",
+   "category": "imagery_characters",
+   "offset_s": -0.12,
+   "why": "literal (naturaleza/evolución)"
+  },
+  {
+   "t_word": 33.54,
+   "word": "built",
+   "element": "parpadeos de sobreexposición blanca 33.4 y 33.8–33.87 + cortes a láminas más cerradas 33.47/33.93",
+   "category": "imagery_characters",
+   "offset_s": -0.14,
+   "why": "énfasis (textura de proyector antiguo)"
+  },
+  {
+   "t_word": 35.48,
+   "word": "Negative",
+   "element": "fondo oliva oscuro + foto enmarcada; dentro del marco cambian 3 fotos (mujer llorando teal 35.4, abstracta 35.6, perfil B/N 35.73); 'Negative' serif",
+   "category": "imagery_characters",
+   "offset_s": -0.08,
+   "why": "emoción negativa"
+  },
+  {
+   "t_word": 36.58,
+   "word": "survival",
+   "element": "flash blanco 36.8 → fondo blanco con cortes axiales de resonancia que se animan; 'Negative emotions are a' entra deslizando desde la izquierda; 'survival' serif azul 37.2",
+   "category": "center_illustration",
+   "offset_s": 0.22,
+   "why": "literal (sistema cerebral)"
+  },
+  {
+   "t_word": 37.94,
+   "word": "They",
+   "element": "franjas negras tipo tira de película con imagen borrosa cruzan horizontalmente arriba/abajo 38.0–39.8",
+   "category": "center_illustration",
+   "offset_s": 0.06,
+   "why": "metáfora (escaneo continuo)"
+  },
+  {
+   "t_word": 38.36,
+   "word": "scanning",
+   "element": "'scanning' serif negra 39.0 + resonancia que cambia de corte",
+   "category": "center_illustration",
+   "offset_s": 0.64,
+   "why": "literal"
+  },
+  {
+   "t_word": 39.76,
+   "word": "Positive",
+   "element": "corte a blanco vacío 39.93; 'Positive' sans azul 40.13; arco azul grueso entra desde arriba-izq. y gira como aguja 40.2–41.0",
+   "category": "line_illustration",
+   "offset_s": 0.17,
+   "why": "metáfora (dial positivo)"
+  },
+  {
+   "t_word": 41.46,
+   "word": "opportunity.",
+   "element": "'opportunity' serif negra fina",
+   "category": "line_illustration",
+   "offset_s": -0.26,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 42.44,
+   "word": "Those",
+   "element": "el arco se estira en curva S y sale 42.0–42.2, vuelve desde arriba y su punta aterriza en un cerebro 42.6; 'Those are two different systems.' diminuto",
+   "category": "line_illustration",
+   "offset_s": 0.16,
+   "why": "literal (aguja apunta al sistema)"
+  },
+  {
+   "t_word": 43.8,
+   "word": "The",
+   "element": "ráfaga de 6 imágenes de arte antiguo a 2 fr c/u 43.8–44.33 (bronce, tarjeta pequeña, busto, fresco con carro, pintura egipcia, friso)",
+   "category": "imagery_characters",
+   "offset_s": 0.0,
+   "why": "literal ('ancients'), staccato"
+  },
+  {
+   "t_word": 44.8,
+   "word": "this",
+   "element": "la última obra se reduce a tarjeta sobre blanco; 'The ancients' serif negra grande",
+   "category": "imagery_characters",
+   "offset_s": 0.0,
+   "why": "cierre de ráfaga (match del friso)"
+  },
+  {
+   "t_word": 46.64,
+   "word": "Ecclesiastes",
+   "element": "degradado radial navy 46.2; tarjetas de grabados (Doré) entran deslizando desde la derecha 46.53 y se apilan",
+   "category": "imagery_characters",
+   "offset_s": -0.11,
+   "why": "literal (texto bíblico → grabado)"
+  },
+  {
+   "t_word": 47.84,
+   "word": "a",
+   "element": "primer plano B/N de rostro con lágrima; cita '“A TIME TO' mayúsculas diminutas",
+   "category": "broll_text",
+   "offset_s": -0.04,
+   "why": "literal (weep)"
+  },
+  {
+   "t_word": 48.4,
+   "word": "weep",
+   "element": "corte a hombre en la costa; 'WEEP,' en bold dentro de la cita",
+   "category": "broll_text",
+   "offset_s": 0.4,
+   "why": "literal"
+  },
+  {
+   "t_word": 50.08,
+   "word": "both",
+   "element": "silueta de familia en playa al atardecer; cita acumulada 3 líneas '...BOTH BELONGING TO A FULL LIFE.' (FULL LIFE bold)",
+   "category": "broll_text",
+   "offset_s": 0.25,
+   "why": "emoción/cierre de cita"
+  },
+  {
+   "t_word": 52.1,
+   "word": "My",
+   "element": "corte a azul plano; cerebro 3D pop en 2 fr (52.27→52.33); líneas de constelación se dibujan",
+   "category": "center_illustration",
+   "offset_s": 0.1,
+   "why": "cambio a historia personal"
+  },
+  {
+   "t_word": 52.34,
+   "word": "negative",
+   "element": "'negative' serif contorno + sector circular blanco se barre en sentido horario tras el cerebro 52.6; media cabeza roja",
+   "category": "center_illustration",
+   "offset_s": 0.26,
+   "why": "metáfora (dial 'caliente' = rojo)"
+  },
+  {
+   "t_word": 53.28,
+   "word": "runs",
+   "element": "macro B/N de ojo con lágrima; 'runs pretty high.' diminuto gris→blanco",
+   "category": "broll_text",
+   "offset_s": 0.32,
+   "why": "emoción"
+  },
+  {
+   "t_word": 55.52,
+   "word": "assumed",
+   "element": "mano escribiendo con pluma; 'For years, I' + 'assumed' serif gris→blanco 55.33–55.47",
+   "category": "broll_text",
+   "offset_s": -0.19,
+   "why": "literal (pensar/escribir)"
+  },
+  {
+   "t_word": 56.56,
+   "word": "was",
+   "element": "hombre de abrigo de espaldas bajo cielo gris; 'was wrong' sans bold gris→blanco",
+   "category": "broll_text",
+   "offset_s": -0.09,
+   "why": "emoción"
+  },
+  {
+   "t_word": 57.84,
+   "word": "doesn't.",
+   "element": "azul vacío 57.67 (beat 0.13 s) → 'but it' diminuto + 'doesn't.' sans bold",
+   "category": "text_centric",
+   "offset_s": 0.16,
+   "why": "giro/respiración"
+  },
+  {
+   "t_word": 58.84,
+   "word": "have",
+   "element": "crossfade azul→blanco 58.6–58.87; silueta meditando sube desde abajo con glow azul radial 58.87–59.2; anillos con flechas giran",
+   "category": "center_illustration",
+   "offset_s": 0.03,
+   "why": "metáfora ('setting' = ajuste interno)"
+  },
+  {
+   "t_word": 59.04,
+   "word": "specific",
+   "element": "'specific' serif negra",
+   "category": "center_illustration",
+   "offset_s": 0.16,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 60.74,
+   "word": "malfunction.",
+   "element": "'malfunction.' serif negra",
+   "category": "center_illustration",
+   "offset_s": 0.26,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 61.68,
+   "word": "And",
+   "element": "azul vacío 61.33 + 'And' diminuto 61.47",
+   "category": "text_centric",
+   "offset_s": -0.21,
+   "why": "respiración"
+  },
+  {
+   "t_word": 62.78,
+   "word": "what",
+   "element": "foto real del narrador en tarjeta entra deslizando desde la izquierda 62.73; segunda desde la derecha 63.2; 'actually' serif",
+   "category": "imagery_characters",
+   "offset_s": -0.05,
+   "why": "literal (su vida real)"
+  },
+  {
+   "t_word": 65.56,
+   "word": "stopped",
+   "element": "collage de fotos del narrador en conferencias: tarjetas pop en stagger 65.93 / 66.2 / 66.4; 'I stopped' serif",
+   "category": "imagery_characters",
+   "offset_s": 0.24,
+   "why": "literal"
+  },
+  {
+   "t_word": 68.48,
+   "word": "started",
+   "element": "casi negro 68.33 → glow radial azul 68.53 + dos barras-slider degradadas 'Negative Dial'/'Positive Dial' 68.6",
+   "category": "center_illustration",
+   "offset_s": -0.15,
+   "why": "metáfora (dial = slider)"
+  },
+  {
+   "t_word": 69.78,
+   "word": "dial",
+   "element": "las barras se funden en una 69.8–70.0 y aparece cerebro con órbita circular 70.2",
+   "category": "center_illustration",
+   "offset_s": 0.02,
+   "why": "literal"
+  },
+  {
+   "t_word": 70.52,
+   "word": "sleep,",
+   "element": "nodo 'Sleep' en la órbita (arriba)",
+   "category": "center_illustration",
+   "offset_s": -0.12,
+   "why": "lista → nodos en órbita"
+  },
+  {
+   "t_word": 71.1,
+   "word": "exercise,",
+   "element": "nodo 'Exercise' (izquierda)",
+   "category": "center_illustration",
+   "offset_s": -0.3,
+   "why": "lista"
+  },
+  {
+   "t_word": 72.18,
+   "word": "food.",
+   "element": "nodo 'Food' (derecha) ~71.1 (ASR de 'food' probablemente tardío)",
+   "category": "center_illustration",
+   "offset_s": -1.0,
+   "why": "lista"
+  },
+  {
+   "t_word": 72.78,
+   "word": "Not",
+   "element": "azul vacío 72.67; 'Not' diminuto 72.87 → 'Not turning it' → 'to zero,' serif 73.6–74.0",
+   "category": "text_centric",
+   "offset_s": 0.09,
+   "why": "respiración + énfasis"
+  },
+  {
+   "t_word": 74.84,
+   "word": "managing",
+   "element": "collage de fotos del narrador (casa/columpio) 74.33; 'managing' serif",
+   "category": "imagery_characters",
+   "offset_s": -0.5,
+   "why": "literal (su rutina)"
+  },
+  {
+   "t_word": 75.7,
+   "word": "That's",
+   "element": "b-roll corriendo en la playa al atardecer naranja",
+   "category": "broll_text",
+   "offset_s": -0.03,
+   "why": "emoción (ejercicio)"
+  },
+  {
+   "t_word": 76.04,
+   "word": "unglamorous",
+   "element": "anciano en columpio bajo árbol B/N; 'unglamorous' serif 77.0",
+   "category": "broll_text",
+   "offset_s": 0.36,
+   "why": "metáfora (vida sencilla)"
+  },
+  {
+   "t_word": 79.06,
+   "word": "wellness",
+   "element": "yoga en piscina de resort de lujo; 'industry' sans bold 79.73",
+   "category": "broll_text",
+   "offset_s": 0.07,
+   "why": "literal/ironía"
+  },
+  {
+   "t_word": 80.12,
+   "word": "sell",
+   "element": "azul plano; 'sell' aparece diminuto 80.13 y salta a serif grande 80.27",
+   "category": "text_centric",
+   "offset_s": 0.01,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 81.34,
+   "word": "feeling",
+   "element": "negro + orbe blanco con glow azul pop con overshoot 81.27→81.53; 'Feeling' serif azul gigante desenfocado detrás",
+   "category": "center_illustration",
+   "offset_s": -0.07,
+   "why": "metáfora (sentir = luz)"
+  },
+  {
+   "t_word": 81.64,
+   "word": "better",
+   "element": "'better' diminuto sobre el orbe",
+   "category": "center_illustration",
+   "offset_s": -0.04,
+   "why": "literal"
+  },
+  {
+   "t_word": 82.56,
+   "word": "less",
+   "element": "el orbe se vacía a media altura (relleno líquido) 82.2–82.6",
+   "category": "center_illustration",
+   "offset_s": -0.2,
+   "why": "literal ('less bad')"
+  },
+  {
+   "t_word": 83.5,
+   "word": "same",
+   "element": "anillo fino se dibuja alrededor 82.8 + zoom-out; 'same project.' serif 83.0",
+   "category": "center_illustration",
+   "offset_s": -0.5,
+   "why": "esquema"
+  },
+  {
+   "t_word": 84.46,
+   "word": "not",
+   "element": "crossfade negro→azul 84.4–84.47; el orbe se divide en 2→3 círculos; constelación se dibuja 84.6; 'not' serif 84.8",
+   "category": "center_illustration",
+   "offset_s": 0.0,
+   "why": "literal ('no son el mismo')"
+  },
+  {
+   "t_word": 85.06,
+   "word": "project.",
+   "element": "los círculos se sustituyen por cerebro gris 3D 85.0",
+   "category": "center_illustration",
+   "offset_s": -0.06,
+   "why": "literal"
+  },
+  {
+   "t_word": 86.48,
+   "word": "eliminate",
+   "element": "corte a cabeza de resonancia azul sobre negro 86.2 con push-in lento; 'eliminate' diminuto 86.8",
+   "category": "center_illustration",
+   "offset_s": -0.28,
+   "why": "literal (sistema interno)"
+  },
+  {
+   "t_word": 87.44,
+   "word": "unhappiness",
+   "element": "'unhappiness' serif blanca 88.0",
+   "category": "center_illustration",
+   "offset_s": 0.56,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 89.26,
+   "word": "eliminate",
+   "element": "la imagen se lava a blanco 89.2–89.47 (bleach)",
+   "category": "center_illustration",
+   "offset_s": -0.06,
+   "why": "la animación EJECUTA 'eliminar'"
+  },
+  {
+   "t_word": 90.32,
+   "word": "happiness",
+   "element": "el arco azul vuelve (curva S desde abajo 89.67, barrido desde arriba 90.0); 'eliminate' serif azul 90.6",
+   "category": "line_illustration",
+   "offset_s": -0.3,
+   "why": "callback del dial positivo"
+  },
+  {
+   "t_word": 91.42,
+   "word": "So",
+   "element": "azul; círculo fino con ticks se dibuja por segmentos 91.47–92.0 y gira lento",
+   "category": "line_illustration",
+   "offset_s": 0.05,
+   "why": "esquema (medir = dial con marcas)"
+  },
+  {
+   "t_word": 92.4,
+   "word": "knowing",
+   "element": "'knowing your' serif + 'positive & negative' / 'affect numbers.' diminutos",
+   "category": "line_illustration",
+   "offset_s": -0.2,
+   "why": "dato"
+  },
+  {
+   "t_word": 95.04,
+   "word": "Not",
+   "element": "manos escribiendo en cuaderno; 'Not' diminuto 95.13",
+   "category": "broll_text",
+   "offset_s": 0.09,
+   "why": "literal (anotar números)"
+  },
+  {
+   "t_word": 96.46,
+   "word": "understand",
+   "element": "hombre sentado solo en pabellón vacío; 'understand' diminuto",
+   "category": "broll_text",
+   "offset_s": 0.07,
+   "why": "emoción (reflexión)"
+  },
+  {
+   "t_word": 98.16,
+   "word": "working",
+   "element": "vuelve el círculo con ticks; el texto se recoloca deslizando 98.27–98.6",
+   "category": "line_illustration",
+   "offset_s": -0.16,
+   "why": "callback"
+  },
+  {
+   "t_word": 100.2,
+   "word": "changes.",
+   "element": "'changes' serif arriba del círculo",
+   "category": "line_illustration",
+   "offset_s": -0.4,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 101.1,
+   "word": "You",
+   "element": "silueta en puerta luminosa con cartel 'Don't Forget To Smile!'; 'You' serif con relleno violeta por modo de fusión 101.0",
+   "category": "broll_text",
+   "offset_s": -0.1,
+   "why": "ironía visual (cartel)"
+  },
+  {
+   "t_word": 102.36,
+   "word": "but",
+   "element": "'but you' serif con letras teñidas 103.0; corte a moteros al atardecer violeta 103.27 'can be happier,'",
+   "category": "broll_text",
+   "offset_s": 0.64,
+   "why": "emoción/remate"
+  },
+  {
+   "t_word": 104.18,
+   "word": "but",
+   "element": "azul vacío 104.2; 'but' diminuto 104.33 + 'not' serif 104.53",
+   "category": "text_centric",
+   "offset_s": 0.02,
+   "why": "respiración + énfasis"
+  },
+  {
+   "t_word": 105.38,
+   "word": "wrong",
+   "element": "'wrong dial.' diminuto centrado 105.7",
+   "category": "text_centric",
+   "offset_s": 0.32,
+   "why": "cierre seco"
+  },
+  {
+   "t_word": 105.54,
+   "word": "dial.",
+   "element": "CTA: azul más profundo #0044EC 106.33; 'Comment' entra a baja opacidad y se completa '“PANAS”' 106.47; 'below and I'll send you the quiz.' diminuto",
+   "category": "title_cta",
+   "offset_s": 0.79,
+   "why": "callback de la palabra sembrada en 16.5"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 1.53,
+   "from": "ilustración cabeza abierta",
+   "to": "cabeza dither azul",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "cambio de ilustración sobre la palabra 'happiness'"
+  },
+  {
+   "t": 2.93,
+   "from": "cabeza dither",
+   "to": "b-roll prado",
+   "type": "glitch",
+   "frames": 2,
+   "detail": "2 fr de mancha desaturada con streak horizontal, el 2º mezcla azul; b-roll limpio en 3.07"
+  },
+  {
+   "t": 4.13,
+   "from": "b-roll prado",
+   "to": "b-roll hombre sonriente",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 5.13,
+   "from": "b-roll hombre sonriente",
+   "to": "b-roll hombre en orilla",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 6.33,
+   "from": "b-roll orilla",
+   "to": "azul plano vacío",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "b-roll → color plano (respiración)"
+  },
+  {
+   "t": 8.0,
+   "from": "azul plano",
+   "to": "blanco roto",
+   "type": "inversión de color",
+   "frames": 0,
+   "detail": "corte azul→blanco; texto pasa de blanco a negro"
+  },
+  {
+   "t": 9.1,
+   "from": "blanco",
+   "to": "macro ojo B/N",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 9.27,
+   "from": "ojo A",
+   "to": "ojo B (otro plano)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "micro-corte de 0.17 s"
+  },
+  {
+   "t": 9.47,
+   "from": "ojo",
+   "to": "cerebro line-art en azul",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 10.93,
+   "from": "cerebro en azul",
+   "to": "mitad blanca/mitad azul",
+   "type": "wipe",
+   "frames": 10,
+   "detail": "panel blanco entra desde el borde izquierdo y se detiene en el centro (ease-out), deja el cerebro partido"
+  },
+  {
+   "t": 12.53,
+   "from": "cerebro partido",
+   "to": "archivo científico B/N",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 13.0,
+   "from": "archivo científico",
+   "to": "rostro archivo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 13.27,
+   "from": "rostro A",
+   "to": "rostro B con gafas",
+   "type": "glitch",
+   "frames": 6,
+   "detail": "datamosh de macrobloques 13.27–13.47"
+  },
+  {
+   "t": 13.8,
+   "from": "rostro archivo",
+   "to": "blanco con timeline",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "2 fr de blanco vacío antes de que se dibuje la línea"
+  },
+  {
+   "t": 15.2,
+   "from": "timeline blanco",
+   "to": "azul",
+   "type": "crossfade",
+   "frames": 7,
+   "detail": "wash: el blanco se tiñe de azul en 0.23 s con las fotos desvaneciéndose"
+  },
+  {
+   "t": 15.47,
+   "from": "azul vacío",
+   "to": "hoja de paper",
+   "type": "slide",
+   "frames": 2,
+   "detail": "la hoja entra girada desde arriba-derecha y se asienta"
+  },
+  {
+   "t": 15.93,
+   "from": "tarjeta paper sobre azul",
+   "to": "paper a pantalla completa",
+   "type": "match-cut (elemento compartido)",
+   "frames": 0,
+   "detail": "punch-in por corte al mismo documento"
+  },
+  {
+   "t": 16.53,
+   "from": "paper pantalla completa",
+   "to": "tarjeta paper sobre azul + '“PANAS”'",
+   "type": "match-cut (elemento compartido)",
+   "frames": 0,
+   "detail": "zoom-out por corte"
+  },
+  {
+   "t": 19.13,
+   "from": "azul",
+   "to": "blanco con barras",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 26.2,
+   "from": "matriz 2x2 blanco",
+   "to": "negro + tarjeta de vídeo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 26.55,
+   "from": "vídeo playa (en tarjeta)",
+   "to": "vídeo salón (en tarjeta)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "corte dentro de la tarjeta, el marco permanece"
+  },
+  {
+   "t": 27.13,
+   "from": "tarjeta sobre negro",
+   "to": "b-roll a sangre",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 28.13,
+   "from": "b-roll playa",
+   "to": "blanco con dial",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 33.0,
+   "from": "dial SADNESS",
+   "to": "grabados evolución",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "precedido de 1–2 fr de blur del dial (32.93)"
+  },
+  {
+   "t": 33.4,
+   "from": "lámina evolución",
+   "to": "lámina más cerrada",
+   "type": "flash blanco",
+   "frames": 1,
+   "detail": "sobreexposición/parpadeo de proyector; se repite 33.8–33.87"
+  },
+  {
+   "t": 35.4,
+   "from": "grabados",
+   "to": "fondo oliva + foto enmarcada",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "luego 3 cortes de foto dentro del marco (35.47, 35.6, 35.73)"
+  },
+  {
+   "t": 36.8,
+   "from": "fondo oliva",
+   "to": "blanco + resonancia",
+   "type": "flash blanco",
+   "frames": 1,
+   "detail": "el texto 'Negative emotions are a' sobrevive al corte y entra deslizando desde la izquierda (36.8–36.93)"
+  },
+  {
+   "t": 39.93,
+   "from": "resonancia",
+   "to": "blanco vacío (arco)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "2–3 fr vacíos antes del arco"
+  },
+  {
+   "t": 43.8,
+   "from": "arco + cerebro",
+   "to": "ráfaga arte antiguo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "inicio de ráfaga"
+  },
+  {
+   "t": 43.87,
+   "from": "bronce",
+   "to": "tarjeta pequeña sobre gris",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "ráfaga 2 fr"
+  },
+  {
+   "t": 43.93,
+   "from": "tarjeta pequeña",
+   "to": "tarjeta busto grande",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "ráfaga 2 fr (efecto de escala)"
+  },
+  {
+   "t": 44.0,
+   "from": "busto",
+   "to": "fresco con carro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "ráfaga"
+  },
+  {
+   "t": 44.2,
+   "from": "fresco",
+   "to": "pintura egipcia",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "ráfaga (44.13 inserta una tarjeta encima)"
+  },
+  {
+   "t": 44.33,
+   "from": "pintura egipcia",
+   "to": "friso egipcio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "ráfaga; el friso se sostiene 0.47 s"
+  },
+  {
+   "t": 44.8,
+   "from": "friso a sangre",
+   "to": "friso en tarjeta sobre blanco",
+   "type": "match-cut (elemento compartido)",
+   "frames": 0,
+   "detail": "misma imagen reducida a tarjeta"
+  },
+  {
+   "t": 46.2,
+   "from": "blanco",
+   "to": "navy degradado",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 47.8,
+   "from": "navy + grabados",
+   "to": "rostro B/N con lágrima",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 48.8,
+   "from": "rostro",
+   "to": "hombre en costa",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "cita continúa"
+  },
+  {
+   "t": 50.33,
+   "from": "hombre",
+   "to": "familia silueta",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "cita continúa"
+  },
+  {
+   "t": 52.2,
+   "from": "familia",
+   "to": "azul + cerebro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 53.6,
+   "from": "azul cerebro",
+   "to": "macro ojo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 54.93,
+   "from": "ojo",
+   "to": "pluma escribiendo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 56.27,
+   "from": "pluma",
+   "to": "hombre de abrigo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 57.67,
+   "from": "hombre de abrigo",
+   "to": "azul vacío",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 58.6,
+   "from": "azul 'doesn't.'",
+   "to": "blanco + meditador",
+   "type": "crossfade",
+   "frames": 8,
+   "detail": "disolución azul→blanco con el texto; el meditador sube desde abajo"
+  },
+  {
+   "t": 61.33,
+   "from": "meditador blanco",
+   "to": "azul vacío",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 62.73,
+   "from": "azul vacío",
+   "to": "tarjeta foto",
+   "type": "slide",
+   "frames": 2,
+   "detail": "tarjeta entra desde la izquierda; 2ª desde la derecha 63.2"
+  },
+  {
+   "t": 68.33,
+   "from": "collage azul",
+   "to": "casi negro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 72.67,
+   "from": "cerebro órbita",
+   "to": "azul vacío",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 74.33,
+   "from": "azul 'to zero'",
+   "to": "collage fotos",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 75.67,
+   "from": "collage",
+   "to": "b-roll playa corriendo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 76.4,
+   "from": "playa",
+   "to": "columpio B/N",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 77.27,
+   "from": "columpio",
+   "to": "columpio con anciano",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "mismo lugar, otro plano"
+  },
+  {
+   "t": 78.8,
+   "from": "anciano",
+   "to": "anciano de pie",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 79.13,
+   "from": "anciano",
+   "to": "yoga piscina",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 80.0,
+   "from": "yoga",
+   "to": "azul plano",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 81.27,
+   "from": "azul",
+   "to": "negro + orbe",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 84.4,
+   "from": "negro orbe",
+   "to": "azul constelación",
+   "type": "crossfade",
+   "frames": 2,
+   "detail": "fondo negro→azul en 2 fr mientras el orbe se divide"
+  },
+  {
+   "t": 86.2,
+   "from": "azul 'not the'",
+   "to": "resonancia cabeza",
+   "type": "zoom-blur",
+   "frames": 3,
+   "detail": "push-in rápido sobre el texto 86.0–86.13 y corte"
+  },
+  {
+   "t": 89.2,
+   "from": "resonancia",
+   "to": "blanco",
+   "type": "crossfade",
+   "frames": 8,
+   "detail": "fade-to-white (bleach) que ejecuta 'eliminate'"
+  },
+  {
+   "t": 91.4,
+   "from": "arco blanco",
+   "to": "azul círculo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 95.0,
+   "from": "círculo",
+   "to": "manos escribiendo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 96.53,
+   "from": "manos",
+   "to": "hombre en pabellón",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 98.0,
+   "from": "pabellón",
+   "to": "azul círculo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 100.8,
+   "from": "azul círculo",
+   "to": "silueta puerta",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 103.27,
+   "from": "silueta puerta",
+   "to": "moteros atardecer",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 104.2,
+   "from": "moteros",
+   "to": "azul vacío",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 106.33,
+   "from": "azul #1E6BF0",
+   "to": "azul profundo #0044EC CTA",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "cambio de tono de azul marca el CTA"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 1.6,
+   "fx": "gris→blanco",
+   "detail": "'happiness' entra a ~40 % de opacidad gris y llega a blanco en 3 fr (0.1 s); patrón de TODO el video para cada palabra nueva"
+  },
+  {
+   "t": 3.27,
+   "fx": "blur-in",
+   "detail": "'opposites.' aparece desenfocado/pequeño y se enfoca en 2 fr"
+  },
+  {
+   "t": 4.2,
+   "fx": "write-on por palabra",
+   "detail": "'If' → 'If you' → 'If you have' diminutos (4.2/4.27/4.47) y luego 'more of one,' grande 4.8"
+  },
+  {
+   "t": 7.4,
+   "fx": "escala",
+   "detail": "glifo '●' insertado en la frase 'It's on ● a dial.' a tamaño de x-height"
+  },
+  {
+   "t": 8.2,
+   "fx": "gris→blanco",
+   "detail": "en fondo blanco el patrón se invierte: 'But' entra gris claro y pasa a negro"
+  },
+  {
+   "t": 8.5,
+   "fx": "blur-in",
+   "detail": "'wrong.' serif grande desenfocada → nítida en ~0.3 s"
+  },
+  {
+   "t": 12.27,
+   "fx": "write-on por palabra",
+   "detail": "'are separate systems.' diminuto abajo-derecha del marco blueprint"
+  },
+  {
+   "t": 16.53,
+   "fx": "pop",
+   "detail": "'“PANAS”' serif bold con comillas curvas aparece completo"
+  },
+  {
+   "t": 28.2,
+   "fx": "gris→blanco",
+   "detail": "'to' y 'manage' (serif negra sobre blanco) entran grises y se oscurecen en 2 fr"
+  },
+  {
+   "t": 29.0,
+   "fx": "máscara",
+   "detail": "el bloque 'to manage' es sustituido entero por 'one dial,' (dial en gris)"
+  },
+  {
+   "t": 29.8,
+   "fx": "blur-in",
+   "detail": "'SADNESS' gigante entra difuso detrás del dial y queda parcialmente tapado"
+  },
+  {
+   "t": 36.8,
+   "fx": "tracking",
+   "detail": "'Negative' cruza el corte con flash y se desliza desde la izquierda hasta su sitio (3 fr)"
+  },
+  {
+   "t": 37.2,
+   "fx": "pop",
+   "detail": "'survival' serif azul en esquina inferior derecha (color = concepto)"
+  },
+  {
+   "t": 40.13,
+   "fx": "pop",
+   "detail": "'Positive emotions' en sans AZUL (único bloque sans de color)"
+  },
+  {
+   "t": 47.9,
+   "fx": "write-on por palabra",
+   "detail": "cita en MAYÚSCULAS sans diminuta que se ACUMULA en 3 líneas sobre 3 planos (47.8–51.8); WEEP/LAUGH/FULL LIFE en bold"
+  },
+  {
+   "t": 52.6,
+   "fx": "pop",
+   "detail": "'negative' serif en contorno/azul claro, 'My' y 'dial' diminutos"
+  },
+  {
+   "t": 55.33,
+   "fx": "gris→blanco",
+   "detail": "'assumed' serif grande gris→blanco 55.33–55.47"
+  },
+  {
+   "t": 58.0,
+   "fx": "pop",
+   "detail": "'doesn't.' en sans bold (excepción: palabra emocional en sans)"
+  },
+  {
+   "t": 80.13,
+   "fx": "escala",
+   "detail": "'sell' aparece diminuto y en el frame siguiente salta a serif grande (promoción de palabra)"
+  },
+  {
+   "t": 81.3,
+   "fx": "blur-in",
+   "detail": "'Feeling' serif azul gigante permanentemente desenfocado detrás del orbe (texto como fondo)"
+  },
+  {
+   "t": 86.0,
+   "fx": "escala",
+   "detail": "push-in del bloque 'They're not the same project.' 1.0→1.3 en 3 fr justo antes del corte"
+  },
+  {
+   "t": 98.27,
+   "fx": "tracking",
+   "detail": "bloque 'knowing your…' se desliza hacia abajo-izquierda para dejar sitio a 'make the correct changes'"
+  },
+  {
+   "t": 101.0,
+   "fx": "máscara",
+   "detail": "'You can't' serif blanca con relleno violeta donde cruza la luz (modo de fusión)"
+  },
+  {
+   "t": 106.33,
+   "fx": "gris→blanco",
+   "detail": "'Comment' entra a ~30 % de opacidad y llega a blanco en 2 fr; '“PANAS”' se añade a la derecha"
+  }
+ ],
+ "camera": [
+  {
+   "t": 9.1,
+   "move": "zoom-out",
+   "scale_or_dir": "ojo 1.15→1.0",
+   "dur_s": 0.35
+  },
+  {
+   "t": 15.47,
+   "move": "slide",
+   "scale_or_dir": "hoja entra girada desde arriba-derecha, rot ~25°→0°",
+   "dur_s": 0.1
+  },
+  {
+   "t": 15.93,
+   "move": "pan",
+   "scale_or_dir": "paper a pantalla completa se desplaza hacia la izquierda",
+   "dur_s": 0.55
+  },
+  {
+   "t": 16.53,
+   "move": "push-in lento",
+   "scale_or_dir": "hoja deriva hacia arriba ~3 %",
+   "dur_s": 2.5
+  },
+  {
+   "t": 26.2,
+   "move": "zoom-out",
+   "scale_or_dir": "tarjeta de vídeo 0.95→1.0 (scale-up de entrada)",
+   "dur_s": 0.3
+  },
+  {
+   "t": 28.13,
+   "move": "punch-in",
+   "scale_or_dir": "punto 'Happiness' 0.6→1.15→1.0 (overshoot)",
+   "dur_s": 0.2
+  },
+  {
+   "t": 33.0,
+   "move": "push-in lento",
+   "scale_or_dir": "tarjetas inclinadas 2.5D con deriva diagonal",
+   "dur_s": 2.4
+  },
+  {
+   "t": 40.2,
+   "move": "pan",
+   "scale_or_dir": "arco rota en sentido horario ~60° como aguja de dial",
+   "dur_s": 0.8
+  },
+  {
+   "t": 42.0,
+   "move": "slide",
+   "scale_or_dir": "arco sale en curva S hacia abajo y vuelve desde arriba",
+   "dur_s": 0.6
+  },
+  {
+   "t": 43.87,
+   "move": "punch-in",
+   "scale_or_dir": "ráfaga: tarjeta pequeña→tarjeta grande→a sangre (0.13 s)",
+   "dur_s": 0.13
+  },
+  {
+   "t": 46.53,
+   "move": "slide",
+   "scale_or_dir": "tarjetas de grabados entran desde la derecha",
+   "dur_s": 0.3
+  },
+  {
+   "t": 52.27,
+   "move": "punch-in",
+   "scale_or_dir": "cerebro 0.3→1.0 en 2 fr",
+   "dur_s": 0.07
+  },
+  {
+   "t": 58.87,
+   "move": "slide",
+   "scale_or_dir": "meditador sube desde fuera de cuadro (abajo) al centro",
+   "dur_s": 0.33
+  },
+  {
+   "t": 62.73,
+   "move": "slide",
+   "scale_or_dir": "tarjeta foto desde la izquierda",
+   "dur_s": 0.07
+  },
+  {
+   "t": 70.0,
+   "move": "zoom-out",
+   "scale_or_dir": "barra slider se encoge dentro del cerebro con órbita",
+   "dur_s": 0.4
+  },
+  {
+   "t": 81.27,
+   "move": "punch-in",
+   "scale_or_dir": "orbe 0.4→1.2→1.0 con glow creciente",
+   "dur_s": 0.27
+  },
+  {
+   "t": 83.0,
+   "move": "zoom-out",
+   "scale_or_dir": "orbe + anillo 1.0→0.55",
+   "dur_s": 1.0
+  },
+  {
+   "t": 86.0,
+   "move": "punch-in",
+   "scale_or_dir": "texto + cerebro 1.0→1.3",
+   "dur_s": 0.13
+  },
+  {
+   "t": 86.2,
+   "move": "push-in lento",
+   "scale_or_dir": "cabeza de resonancia 1.0→1.08",
+   "dur_s": 3.0
+  },
+  {
+   "t": 89.67,
+   "move": "pan",
+   "scale_or_dir": "arco entra en S desde abajo-derecha y barre desde arriba en sentido horario",
+   "dur_s": 1.2
+  },
+  {
+   "t": 91.47,
+   "move": "pan",
+   "scale_or_dir": "círculo con ticks rota lentamente (~10°/s)",
+   "dur_s": 3.5
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   15,
+   14,
+   5,
+   16,
+   17,
+   12,
+   8,
+   13,
+   13,
+   7,
+   10
+  ],
+  "cuts_per_10s": [
+   9,
+   11,
+   3,
+   4,
+   8,
+   5,
+   2,
+   4,
+   5,
+   3,
+   4
+  ],
+  "avg_hold_text_s": 1.1,
+  "notes": "~58 cortes reales (+6 en la ráfaga de 43.8 s). Eventos = cortes + entradas de elementos/palabra grande. Picos: 0–20 s (hook + evidencia, ~1 evento cada 0.7 s) y 30–50 s (ráfaga ancients). Valle 20–30 s (matriz quieta 7 s) y 60–70 s (collage). Cada palabra grande dura 0.6–1.5 s; diminutas se escriben a 0.1–0.25 s/palabra. Offset típico texto↔ASR: −0.2…+0.3 s (mediana ≈+0.1); en 86–91 s el texto va +0.5…+1.2 s detrás del ASR. Beats de azul vacío de 0.13–0.4 s antes de frases-matiz (6.33, 57.67, 61.33, 72.67, 104.2)."
+ },
+ "typography": "Sistema de 2 tamaños: palabra clave en serif Didone/transicional de alto contraste (tipo Playfair Display Bold, ligeramente condensada) a ~6–9 % del alto; relleno en sans grotesca (tipo Inter/SF) diminuta 1.2–2 % del alto, pegada arriba-izq. o abajo-der. de la clave. Minúsculas siempre salvo la cita bíblica (MAYÚSCULAS sans con bold en WEEP/LAUGH/FULL LIFE) y SADNESS. Sobre b-roll a veces la clave es sans bold (more, you have, was wrong, doesn't, industry). Color: blanco sobre azul/b-roll, negro sobre blanco; AZUL para la palabra-concepto en fondos blancos (Positive emotions, survival, eliminate). 1 palabra grande por pantalla, 1–4 diminutas. Posición centro o tercio superior (25–45 %).",
+ "textures": "Dither/halftone de píxel grueso en la cabeza (1.5–2.9 s, fuerte); grano de película y viñeta suave en todo el b-roll; datamosh de macrobloques (13.27–13.47); papel envejecido + parpadeo de sobreexposición en grabados (33–35.4); glow/bloom azul radial (meditador 59–61, orbe 81–84, MRI 86–89); degradado radial navy (46–47.8, 68.3–72.6); line-art 1 px blueprint con cotas (9.5–12.5); fondos planos azules sin textura.",
+ "distinct": [
+  "Objeto-metáfora recurrente (el dial) en 6 formas: punto+halo (28 s), arco-aguja (40 s, 90 s), slider (68 s), órbita (70 s), orbe (81 s), círculo con ticks (91 s, 98 s)",
+  "Pantallas de azul plano VACÍO de 0.13–1.4 s con texto de 8 px como respiración antes de cada matiz (6.3, 57.7, 61.3, 72.7, 104.2)",
+  "Efectos que ejecutan el verbo: wipe que 'separa' el cerebro (10.9 s), 'SADNESS' escondido detrás (29.8 s), fade-to-white en 'eliminate' (89.2 s)",
+  "Cadena de evidencia documental: archivo B/N con datamosh → timeline 1988 con fotos recortadas → paper real volando y a pantalla completa → título '“PANAS”' que vuelve en el CTA",
+  "Ráfaga staccato de 6 obras antiguas a 2 frames (43.8–44.33) que termina reducida a tarjeta, y cita bíblica acumulativa en mayúsculas sobre 3 b-rolls"
+ ]
+}

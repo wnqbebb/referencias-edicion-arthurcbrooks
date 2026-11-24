@@ -1,0 +1,512 @@
+{
+ "video": "v18",
+ "triggers": [
+  {
+   "t_word": 0.0,
+   "word": "Puedes",
+   "element": "imagen fija simbólica: figura humana azul sólido en trono de piedra sobre montañas de monedas y coches (B/N); arranca con zoom-out rápido",
+   "category": "imagery_characters",
+   "offset_s": 0.0,
+   "why": "metáfora (ídolos: dinero/fama/poder)"
+  },
+  {
+   "t_word": 1.18,
+   "word": "dinero",
+   "element": "captions diminutos 'PUEDES TENER TODO' etc. sobre la imagen sostenida 6.7 s",
+   "category": "imagery_characters",
+   "offset_s": 0.0,
+   "why": "la imagen ya contiene el dinero; el texto no compite"
+  },
+  {
+   "t_word": 5.66,
+   "word": "ídolos,",
+   "element": "'SON ÍDOLOS' diminuto mientras la figura sigue en el trono",
+   "category": "imagery_characters",
+   "offset_s": 0.82,
+   "why": "literal (ídolo en trono)"
+  },
+  {
+   "t_word": 6.48,
+   "word": "si",
+   "element": "corte a perfil extremo de Brooks 6.68; 'SI' diminuto",
+   "category": "captions_text",
+   "offset_s": 0.2,
+   "why": "la tesis la dice la cara"
+  },
+  {
+   "t_word": 7.32,
+   "word": "amor",
+   "element": "'SI NO TIENES' + 'EL AMOR' blanco heavy + 'NO VALE NADA' AZUL apilado",
+   "category": "captions_text",
+   "offset_s": 0.9,
+   "why": "remate del hook en color"
+  },
+  {
+   "t_word": 8.5,
+   "word": "¿Cómo",
+   "element": "corte a perfil del presentador 8.44; '¿CÓMO SER FELICES?'",
+   "category": "captions_text",
+   "offset_s": -0.06,
+   "why": "pregunta → contraplano"
+  },
+  {
+   "t_word": 9.5,
+   "word": "Es",
+   "element": "tinte azul 9.4 + flash blanco 9.48–9.52 → b-roll niña en hombros del padre lanzando avión de papel al atardecer",
+   "category": "broll_text",
+   "offset_s": 0.06,
+   "why": "emoción ('misterio de la vida')"
+  },
+  {
+   "t_word": 11.5,
+   "word": "toda",
+   "element": "siluetas en la orilla de noche con grano verdoso; 'ES EL MISTERIO DE TODA' escrito letra a letra",
+   "category": "broll_text",
+   "offset_s": -0.06,
+   "why": "emoción"
+  },
+  {
+   "t_word": 13.58,
+   "word": "destino,",
+   "element": "pareja riendo en manta (plano inclinado) 13.48; 'LA FELICIDAD' blanco + 'NO ES UN DESTINO' azul letra a letra",
+   "category": "broll_text",
+   "offset_s": -0.1,
+   "why": "contraste blanco/azul"
+  },
+  {
+   "t_word": 15.6,
+   "word": "Puedes",
+   "element": "siluetas de pareja corriendo de la mano al atardecer violeta 15.56; texto anterior sale con smear horizontal azul 15.36–15.52",
+   "category": "broll_text",
+   "offset_s": -0.04,
+   "why": "emoción (dirección = caminar)"
+  },
+  {
+   "t_word": 19.32,
+   "word": "tendrás",
+   "element": "tinte azul 19.2 + flash blanco 19.28–19.32 → Brooks plano medio en la mesa; 'TENDRÁS UNA VIDA...'",
+   "category": "captions_text",
+   "offset_s": 0.04,
+   "why": "vuelta a la cara para la conclusión"
+  },
+  {
+   "t_word": 20.16,
+   "word": "vida...",
+   "element": "negro absoluto con solo la marca de agua 20.76–22.12 (1.36 s)",
+   "category": "captions_text",
+   "offset_s": 0.6,
+   "why": "pausa dramática (frase en suspenso)"
+  },
+  {
+   "t_word": 22.06,
+   "word": "¿Cómo",
+   "element": "presentador primer plano 22.12; '¿CÓMO SON LAS PERSONAS MÁS FELICES?' apilado, 'MÁS FELICES?' azul",
+   "category": "captions_text",
+   "offset_s": 0.06,
+   "why": "nueva pregunta tras el negro"
+  },
+  {
+   "t_word": 23.86,
+   "word": "Puedes",
+   "element": "whip-pan con smear del texto azul 23.84–23.92 a Brooks perfil",
+   "category": "captions_text",
+   "offset_s": -0.02,
+   "why": "respuesta → speaker"
+  },
+  {
+   "t_word": 30.86,
+   "word": "la",
+   "element": "plano general del set 30.76 (personas abajo, listones arriba); 'LA ÚNICA COSA QUE IMPORTA SON LOS HÁBITOS' (HÁBITOS azul)",
+   "category": "captions_text",
+   "offset_s": -0.1,
+   "why": "espacio negativo para la tesis"
+  },
+  {
+   "t_word": 33.38,
+   "word": "Las",
+   "element": "Brooks muy desenfocado al fondo 33.44; 'LAS 4' azul letra a letra 33.48–33.64 → 'COSAS' azul + 'MÁS' blanco enorme + 'IMPORTANTES'",
+   "category": "text_centric",
+   "offset_s": 0.06,
+   "why": "cliffhanger (lista que no se completa)"
+  },
+  {
+   "t_word": 36.66,
+   "word": "¿Por",
+   "element": "tinte azul 36.44 + flash blanco 36.52–36.56 → presentador; '¿P' letra a letra",
+   "category": "captions_text",
+   "offset_s": -0.14,
+   "why": "cambio de tema"
+  },
+  {
+   "t_word": 37.68,
+   "word": "tan",
+   "element": "'¿POR QUÉ NOS SENTIMOS' + 'TAN' azul gigante + 'VACÍOS?' azul",
+   "category": "captions_text",
+   "offset_s": 0.3,
+   "why": "énfasis emocional"
+  },
+  {
+   "t_word": 40.28,
+   "word": "La",
+   "element": "whip-pan 40.08–40.16 a Brooks perfil",
+   "category": "captions_text",
+   "offset_s": -0.2,
+   "why": "respuesta → speaker"
+  },
+  {
+   "t_word": 43.9,
+   "word": "La",
+   "element": "corte a plano medio Brooks 43.84",
+   "category": "captions_text",
+   "offset_s": -0.06,
+   "why": ""
+  },
+  {
+   "t_word": 47.4,
+   "word": "pero",
+   "element": "punch-in a plano más cerrado 47.4 en 'PERO NO LO ES'",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "énfasis del giro"
+  },
+  {
+   "t_word": 48.14,
+   "word": "¿La",
+   "element": "corte al presentador 48.16",
+   "category": "captions_text",
+   "offset_s": 0.02,
+   "why": "pregunta → contraplano"
+  },
+  {
+   "t_word": 50.16,
+   "word": "Sí,",
+   "element": "whip-pan 50.08–50.16 a primerísimo plano de Brooks 'SÍ REQUIERE'",
+   "category": "captions_text",
+   "offset_s": -0.08,
+   "why": "respuesta rotunda = plano más cerrado"
+  },
+  {
+   "t_word": 51.46,
+   "word": "porque",
+   "element": "corte a plano medio 51.48",
+   "category": "captions_text",
+   "offset_s": 0.02,
+   "why": ""
+  },
+  {
+   "t_word": 55.72,
+   "word": "tiempo.",
+   "element": "punch-in a primerísimo plano 55.56 en 'EL TIEMPO'",
+   "category": "captions_text",
+   "offset_s": -0.16,
+   "why": "énfasis de la palabra-respuesta"
+  },
+  {
+   "t_word": 56.0,
+   "word": "¿Estás",
+   "element": "tinte azul 56.16 + flash blanco 56.24–56.28 → Brooks plano medio todavía teñido de azul 56.32",
+   "category": "captions_text",
+   "offset_s": 0.16,
+   "why": "cambio de tema (pregunta con humor)"
+  },
+  {
+   "t_word": 62.66,
+   "word": "sufrimiento",
+   "element": "corte a primerísimo plano de perfil 62.56 'EL SUFRIMIENTO TE VA A ENCONTRAR'",
+   "category": "captions_text",
+   "offset_s": -0.1,
+   "why": "remate = plano cerrado"
+  },
+  {
+   "t_word": 63.94,
+   "word": "encontrar.",
+   "element": "fondo blanco y logo 'Aladetres.' que se ensambla desde el icono pixel 64.44",
+   "category": "title_cta",
+   "offset_s": 0.5,
+   "why": "outro de marca"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 0.12,
+   "from": "figura azul cercana",
+   "to": "figura azul más abierta",
+   "type": "zoom-blur",
+   "frames": 3,
+   "detail": "arranque con zoom-out rápido escalonado sobre la imagen fija"
+  },
+  {
+   "t": 6.68,
+   "from": "imagen trono",
+   "to": "Brooks perfil extremo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 8.44,
+   "from": "Brooks",
+   "to": "presentador",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 9.4,
+   "from": "presentador",
+   "to": "b-roll niña en hombros",
+   "type": "flash blanco",
+   "frames": 4,
+   "detail": "tinte azul 2 fr + blanco 2 fr"
+  },
+  {
+   "t": 11.44,
+   "from": "niña",
+   "to": "siluetas orilla",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 13.48,
+   "from": "orilla",
+   "to": "pareja en manta",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 15.56,
+   "from": "pareja",
+   "to": "siluetas atardecer",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "el caption sale con smear horizontal 4 fr antes"
+  },
+  {
+   "t": 19.2,
+   "from": "atardecer",
+   "to": "Brooks plano medio",
+   "type": "flash blanco",
+   "frames": 4,
+   "detail": "tinte azul 2 fr + blanco 2 fr"
+  },
+  {
+   "t": 20.76,
+   "from": "Brooks",
+   "to": "negro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "negro con marca de agua 1.36 s"
+  },
+  {
+   "t": 22.12,
+   "from": "negro",
+   "to": "presentador",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 23.84,
+   "from": "presentador",
+   "to": "Brooks perfil",
+   "type": "whip-pan",
+   "frames": 3,
+   "detail": "smear del caption azul"
+  },
+  {
+   "t": 30.76,
+   "from": "Brooks perfil",
+   "to": "plano general set",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 33.44,
+   "from": "plano general",
+   "to": "Brooks desenfocado",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "fondo para tipografía gigante"
+  },
+  {
+   "t": 36.44,
+   "from": "Brooks desenfocado",
+   "to": "presentador",
+   "type": "flash blanco",
+   "frames": 4,
+   "detail": "tinte azul 2 fr + blanco 2 fr"
+  },
+  {
+   "t": 40.08,
+   "from": "presentador",
+   "to": "Brooks perfil",
+   "type": "whip-pan",
+   "frames": 3,
+   "detail": ""
+  },
+  {
+   "t": 43.84,
+   "from": "Brooks CU",
+   "to": "Brooks medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 47.4,
+   "from": "Brooks medio",
+   "to": "Brooks medio-cerrado",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "punch-in"
+  },
+  {
+   "t": 48.16,
+   "from": "Brooks",
+   "to": "presentador",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 50.08,
+   "from": "presentador",
+   "to": "Brooks primerísimo plano",
+   "type": "whip-pan",
+   "frames": 3,
+   "detail": ""
+  },
+  {
+   "t": 51.48,
+   "from": "Brooks CU",
+   "to": "Brooks medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 55.56,
+   "from": "Brooks medio",
+   "to": "Brooks primerísimo plano",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "punch-in"
+  },
+  {
+   "t": 56.16,
+   "from": "Brooks CU",
+   "to": "Brooks medio teñido azul",
+   "type": "flash blanco",
+   "frames": 4,
+   "detail": "tinte azul 2 fr + blanco 2 fr; el tinte azul sigue 2 fr después del blanco"
+  },
+  {
+   "t": 62.56,
+   "from": "Brooks medio",
+   "to": "Brooks primerísimo plano perfil",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 64.44,
+   "from": "Brooks",
+   "to": "blanco + logo",
+   "type": "crossfade",
+   "frames": 8,
+   "detail": "fade a blanco"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.2,
+   "fx": "pop",
+   "detail": "captions de relleno diminutos MAYÚSCULAS blancas (~1.5 % alto) a 60 % de altura durante todo el clip"
+  },
+  {
+   "t": 8.24,
+   "fx": "escala",
+   "detail": "bloque apilado 4 líneas: 'SI NO TIENES' pequeño / 'EL AMOR' heavy blanco / 'NO VALE' + 'NADA' azul heavy"
+  },
+  {
+   "t": 11.6,
+   "fx": "write-on por palabra",
+   "detail": "letra a letra (1 letra/fr) en los bloques grandes: 'DE TO'→'TODA', 'L'→'LAS 4'"
+  },
+  {
+   "t": 15.36,
+   "fx": "tracking",
+   "detail": "salida del texto con smear/motion-blur horizontal azul 4 fr"
+  },
+  {
+   "t": 33.48,
+   "fx": "escala",
+   "detail": "tipografía gigante a ancho completo sobre fondo desenfocado: 'LAS 4' / 'COSAS' azul, 'MÁS' blanco enorme, 'IMPORTANTES' pequeño"
+  },
+  {
+   "t": 37.7,
+   "fx": "pop",
+   "detail": "'TAN' azul gigante entre 'NOS SENTIMOS' y 'VACÍOS?'"
+  }
+ ],
+ "camera": [
+  {
+   "t": 0.0,
+   "move": "zoom-out",
+   "scale_or_dir": "imagen fija 1.6→1.0 en ~0.4 s y luego drift lento",
+   "dur_s": 0.4
+  },
+  {
+   "t": 33.44,
+   "move": "rack-focus",
+   "scale_or_dir": "Brooks fuera de foco total para la tipografía",
+   "dur_s": 3.1
+  },
+  {
+   "t": 47.4,
+   "move": "punch-in",
+   "scale_or_dir": "medio→medio-cerrado ~1.2x",
+   "dur_s": 0.0
+  },
+  {
+   "t": 55.56,
+   "move": "punch-in",
+   "scale_or_dir": "medio→primerísimo plano ~1.8x",
+   "dur_s": 0.0
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   5,
+   7,
+   4,
+   5,
+   4,
+   6,
+   3
+  ],
+  "cuts_per_10s": [
+   4,
+   5,
+   2,
+   4,
+   3,
+   4,
+   2
+  ],
+  "avg_hold_text_s": 1.0,
+  "notes": "24 cortes en 67 s. Hook = imagen fija sostenida 6.7 s (lo contrario del resto de Arthur). Bloque b-roll 9.5–19.3 (4 planos ~2.5 s). 20.76–22.12 negro de 1.36 s como pausa dramática. Diálogo: whip-pan en cada respuesta, tinte+flash en cada cambio de tema, punch-in en las palabras-respuesta ('PERO NO LO ES', 'EL TIEMPO')."
+ },
+ "typography": "Sans heavy/black MAYÚSCULAS blanca con sombra (tipo Montserrat Black); relleno diminuto 2–4 palabras a ~60 % de altura; bloques apilados de 3–4 líneas para tesis y preguntas con la palabra clave en AZUL #1F3BFF heavy (NO VALE NADA, MÁS FELICES?, LAS 4, TAN VACÍOS?, HÁBITOS); letra a letra. Sin itálicas ni serif. Marca de agua pixel del canal abajo-centro.",
+ "textures": "Imagen del hook en B/N con figura azul plana (contraste gráfico máximo); b-roll de stock con grano verdoso (11.4–13.5) y gradación cálida/violeta; tinte azul translúcido antes de cada flash blanco; smear horizontal en whip-pans y salidas de texto; negro puro 1.36 s.",
+ "distinct": [
+  "Hook con UNA imagen fija simbólica (figura azul en trono de dinero) sostenida 6.7 s con captions diminutos",
+  "Negro absoluto de 1.36 s tras 'tendrás una vida...' (20.76–22.12) como silencio dramático",
+  "Cliffhanger tipográfico 'LAS 4 COSAS MÁS IMPORTANTES' a ancho completo sobre speaker desenfocado (33.44–36.44) sin dar la lista",
+  "Punch-ins a primerísimo plano exactamente en la palabra-respuesta ('EL TIEMPO' 55.56, 'SÍ REQUIERE' 50.16)",
+  "El tinte azul persiste 2 fr DESPUÉS del flash blanco al entrar al plano (56.32)"
+ ]
+}

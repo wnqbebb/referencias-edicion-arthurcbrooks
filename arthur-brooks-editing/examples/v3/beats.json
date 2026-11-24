@@ -1,0 +1,785 @@
+{
+ "title": "V3 · Documental (violeta)",
+ "beats": [
+  {
+   "id": "b01",
+   "start": 0.0,
+   "end": 3.18,
+   "script": "Este Black Friday no saques la ropa que no se te vende.",
+   "seen": "Abre en su cara y corta a fotos impresas sobre papel (v01).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Collage de saldos",
+     "cats": "Imágenes + texto",
+     "desc": "Fotos de la blusa -50 % y la caja SEPT sobre papel; «lo que no se vende».",
+     "ref": "V01-A02",
+     "type": "paper_collage",
+     "props": {
+      "images": [
+       "media/assets/A04.png",
+       "media/assets/A02.png"
+      ],
+      "labels": [
+       {
+        "small": "no saques",
+        "word": "lo que no se vende"
+       }
+      ]
+     },
+     "start": 1.9,
+     "end": 3.18
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    },
+    {
+     "title": "Cita",
+     "cats": "Texto centrado",
+     "desc": "«lo que no / se vende.»",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "white",
+      "small": "no saques",
+      "big": "lo que no se vende.",
+      "t": 2.36
+     },
+     "start": 1.9,
+     "end": 3.18
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "start": 3.18,
+   "end": 8.6,
+   "script": "Ya sé que es lo primero que todas pensamos. Por fin salgo de esas blusas que tengo guardadas desde septiembre.",
+   "seen": "Recuerdo / pasado → foto de archivo con aro de resaltado (v01 0:24).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Foto de archivo SEPT",
+     "cats": "Foto de archivo",
+     "desc": "La caja SEPT a sangre con aro y scanlines; «desde septiembre».",
+     "ref": "V01-A10",
+     "type": "archival_photo",
+     "props": {
+      "media": "media/assets/A02.png",
+      "bw": false,
+      "ring": {
+       "x": 0.5,
+       "y": 0.45,
+       "r": 210
+      },
+      "scanlines": true
+     },
+     "start": 5.32,
+     "end": 8.6
+    },
+    {
+     "title": "Línea de tiempo SEPT → NOV",
+     "cats": "Línea de tiempo",
+     "desc": "Septiembre → Black Friday.",
+     "ref": "V01-A13",
+     "type": "timeline",
+     "props": {
+      "milestones": [
+       {
+        "label": "Septiembre",
+        "age": "guardadas"
+       },
+       {
+        "label": "Black Friday",
+        "age": "por fin"
+       }
+      ],
+      "active": 1
+     },
+     "start": 5.32,
+     "end": 8.6
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "start": 8.6,
+   "end": 13.2,
+   "script": "Te explico por qué te puede salir caro. Ese viernes tu clienta ve cien ofertas en una hora.",
+   "seen": "Escena cotidiana → tarjeta de video redondeada sobre negro (v01 0:45), destello dorado al entrar.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Tarjeta de video",
+     "cats": "B-roll · Cut-away",
+     "desc": "El celular con ofertas dentro de una tarjeta redondeada.",
+     "ref": "V01-A15",
+     "type": "video_card",
+     "props": {
+      "media": "media/assets/A06.mp4",
+      "size": "tall"
+     },
+     "start": 10.78,
+     "end": 13.2,
+     "enter": "light_leak"
+    },
+    {
+     "title": "B-roll a sangre",
+     "cats": "B-roll + texto",
+     "desc": "«cien ofertas / en una hora.»",
+     "ref": "V01-A03",
+     "type": "j_broll",
+     "props": {
+      "media": [
+       "media/assets/A06.mp4"
+      ],
+      "small": "tu clienta ve",
+      "big": "cien ofertas",
+      "t": 11.86
+     },
+     "start": 10.78,
+     "end": 13.2
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "start": 13.2,
+   "end": 18.7,
+   "script": "Y no es una clienta cualquiera. Sabe de telas, compara, se acuerda de qué tienda le vendió algo que se descoció.",
+   "seen": "Presenta a una persona → ilustración central rugosa en el color de marca (principio 7, V10-A08).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Ilustración de la clienta",
+     "cats": "Ilustración central + texto",
+     "desc": "La clienta revisando la costura, recortada y pintada en violeta rugoso sobre papel; «sabe de / telas, / compara.»",
+     "ref": "V10-A08",
+     "type": "j_illus",
+     "props": {
+      "media": "media/assets/A03_cut.png",
+      "small": "sabe de",
+      "big": "telas,",
+      "after": "compara, se acuerda.",
+      "t": 15.28
+     },
+     "start": 14.82,
+     "end": 18.7
+    },
+    {
+     "title": "Collage de pruebas",
+     "cats": "Imágenes + texto",
+     "desc": "Clienta, macro de seda y blusa.",
+     "ref": "V01-A02",
+     "type": "paper_collage",
+     "props": {
+      "images": [
+       "media/assets/A03.png",
+       "media/assets/A09.png",
+       "media/assets/A01.png"
+      ],
+      "labels": [
+       {
+        "small": "sabe de",
+        "word": "telas"
+       },
+       {
+        "small": "y",
+        "word": "compara"
+       }
+      ]
+     },
+     "start": 14.82,
+     "end": 18.7
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "start": 18.7,
+   "end": 24.72,
+   "script": "Si lo primero que ve de tu tienda es la blusa que nadie quiso, con un 50 % encima, piensa, ¡ah, saldos!",
+   "seen": "Imagen negativa → foto de archivo con aro; el pensamiento interior → cita con comillas (V08).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Saldo + «¡Ah, saldos!»",
+     "cats": "Foto de archivo → Texto centrado",
+     "desc": "La blusa -50 % con aro y luego cita violeta con comillas.",
+     "ref": "V01-A10",
+     "type": "archival_photo",
+     "props": {
+      "media": "media/assets/A04.png",
+      "bw": false,
+      "ring": {
+       "x": 0.62,
+       "y": 0.4,
+       "r": 170
+      },
+      "scanlines": false
+     },
+     "start": 21.6,
+     "end": 23.36,
+     "then": {
+      "type": "j_quote",
+      "start": 23.36,
+      "end": 24.72,
+      "props": {
+       "bg": "accent",
+       "small": "piensa,",
+       "big": "¡Ah, saldos!",
+       "t": 23.82
+      }
+     }
+    },
+    {
+     "title": "B-roll + texto",
+     "cats": "B-roll + texto",
+     "desc": "La blusa de saldo a sangre; «50 % encima».",
+     "ref": "V01-A24",
+     "type": "j_broll",
+     "props": {
+      "media": [
+       "media/assets/A04.png"
+      ],
+      "small": "con un",
+      "big": "50 % encima,",
+      "sans": true,
+      "t": 21.86
+     },
+     "start": 21.6,
+     "end": 24.72
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "start": 24.72,
+   "end": 27.62,
+   "script": "Sigue de largo. Y se queda con esa imagen de tu tienda por meses.",
+   "seen": "Consecuencia emocional → cara.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    },
+    {
+     "title": "Cita",
+     "cats": "Texto centrado",
+     "desc": "«por meses.»",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "white",
+      "small": "se queda con esa imagen",
+      "big": "por meses.",
+      "t": 26.96
+     }
+    },
+    {
+     "title": "Línea",
+     "cats": "Línea + texto",
+     "desc": "Línea que se aleja: «sigue de largo».",
+     "ref": "V10-A11",
+     "type": "j_line",
+     "props": {
+      "bg": "white",
+      "shape": "arc",
+      "stops": [
+       {
+        "big": "sigue de largo.",
+        "t": 24.72
+       },
+       {
+        "small": "se queda con esa imagen",
+        "big": "por meses.",
+        "t": 26.96
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "start": 27.62,
+   "end": 30.48,
+   "script": "Las boutiques que mejor venden en temporada hacen lo contrario.",
+   "seen": "Cambio de capítulo → destello dorado + b-roll con texto fijo.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Boutique + seda",
+     "cats": "B-roll + texto",
+     "desc": "La boutique con la blusa hero y el macro de seda; «hacen / lo contrario.»",
+     "ref": "V01-A03",
+     "type": "j_broll",
+     "props": {
+      "media": [
+       "media/assets/A05.mp4",
+       "media/assets/A09.png"
+      ],
+      "cuts": [
+       27.62,
+       29.3
+      ],
+      "small": "las que mejor venden hacen",
+      "big": "lo contrario.",
+      "t": 29.82
+     },
+     "enter": "light_leak"
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    },
+    {
+     "title": "Cita",
+     "cats": "Texto centrado",
+     "desc": "«lo contrario.»",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "accent",
+      "small": "hacen",
+      "big": "lo contrario.",
+      "t": 29.82
+     }
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "start": 30.48,
+   "end": 37.46,
+   "script": "Muestran sus prendas ganadoras, las que ya se vendieron bien, las que más te preguntan, las que siempre se te agotan en talla M y solo un poquito de cosas nuevas.",
+   "seen": "Enumeración de 3 → línea de tiempo que avanza un hito por palabra con fotos que caen (v01 timeline).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Línea de tiempo con fotos",
+     "cats": "Línea de tiempo",
+     "desc": "Ya vendidas → Más preguntadas → Agotadas en M, con blusa, flat lay y etiqueta M.",
+     "ref": "V01-A13",
+     "type": "timeline",
+     "props": {
+      "milestones": [
+       {
+        "label": "Ya vendidas",
+        "age": "probadas"
+       },
+       {
+        "label": "Más preguntadas",
+        "age": "en DM"
+       },
+       {
+        "label": "Agotadas en M",
+        "age": "siempre"
+       }
+      ],
+      "active": 2,
+      "images": [
+       "media/assets/A01.png",
+       "media/assets/A08.png",
+       "media/assets/A07.png"
+      ]
+     },
+     "end": 36.78
+    },
+    {
+     "title": "Zigzag con fotos",
+     "cats": "Línea + ilustraciones",
+     "desc": "Línea violeta que baja por las 3.",
+     "ref": "V10-A37",
+     "type": "j_line",
+     "props": {
+      "bg": "white",
+      "shape": "zigzag",
+      "stops": [
+       {
+        "small": "las que ya se",
+        "big": "vendieron,",
+        "t": 32.64,
+        "img": "media/assets/A01.png"
+       },
+       {
+        "small": "las que más te",
+        "big": "preguntan,",
+        "t": 33.92,
+        "img": "media/assets/A08.png"
+       },
+       {
+        "small": "las que se agotan en",
+        "big": "talla M",
+        "sans": true,
+        "t": 35.74,
+        "img": "media/assets/A07.png"
+       }
+      ]
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "start": 37.46,
+   "end": 42.46,
+   "script": "Tus ganadoras ya pasaron la prueba más difícil. Una mujer exigente sacó la plata y pagó por ellas.",
+   "seen": "Un objeto protagonista → objeto + texto con revelado rugoso (principio 9).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "La blusa ganadora",
+     "cats": "Objeto + texto",
+     "desc": "La blusa recortada a color sobre papel; «tus / ganadoras».",
+     "ref": "V01-A37",
+     "type": "j_illus",
+     "props": {
+      "media": "media/assets/A01_cut.png",
+      "keep_color": true,
+      "small": "tus",
+      "big": "ganadoras",
+      "after": "ya pasaron la prueba.",
+      "t": 37.92
+     },
+     "start": 37.84,
+     "end": 40.04
+    },
+    {
+     "title": "Collage",
+     "cats": "Imágenes + texto",
+     "desc": "Foto de la blusa sobre papel.",
+     "ref": "V01-A04",
+     "type": "paper_collage",
+     "props": {
+      "images": [
+       "media/assets/A01.png"
+      ],
+      "labels": [
+       {
+        "small": "tus",
+        "word": "ganadoras"
+       }
+      ]
+     },
+     "start": 37.84,
+     "end": 40.04
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "start": 42.46,
+   "end": 45.24,
+   "script": "Ponerlas de primeras no es arriesgar, es apostarle a lo seguro",
+   "seen": "Tesis → cita con comillas sobre papel rugoso.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Cita violeta",
+     "cats": "Texto centrado",
+     "desc": "«no es arriesgar, es apostarle / a lo seguro.»",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "accent",
+      "small": "no es arriesgar, es apostarle",
+      "big": "a lo seguro.",
+      "t": 44.62
+     }
+    },
+    {
+     "title": "Cita blanca",
+     "cats": "Texto centrado",
+     "desc": "",
+     "ref": "V10-A59",
+     "type": "j_quote",
+     "props": {
+      "bg": "white",
+      "small": "no es arriesgar, es apostarle",
+      "big": "a lo seguro.",
+      "t": 44.62
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "start": 45.24,
+   "end": 49.78,
+   "script": "el día que más gente mira. Y de paso tu tienda se ve como lo que es. Una tienda con buen gusto.",
+   "seen": "Cierre emocional → cara.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    },
+    {
+     "title": "Cita",
+     "cats": "Texto centrado",
+     "desc": "«con buen gusto.»",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "white",
+      "small": "una tienda",
+      "big": "con buen gusto.",
+      "t": 49.28
+     }
+    },
+    {
+     "title": "Boutique",
+     "cats": "B-roll + texto",
+     "desc": "",
+     "ref": "V01-A03",
+     "type": "j_broll",
+     "props": {
+      "media": [
+       "media/assets/A05.mp4"
+      ],
+      "small": "una tienda",
+      "big": "con buen gusto.",
+      "t": 49.28
+     }
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "start": 49.78,
+   "end": 53.98,
+   "script": "Lo que no se mueve no lo botes, trabaja el otro día con otra foto y otra historia.",
+   "seen": "Antes / después en el tiempo → timeline sobre el A-roll a la cintura (v01 0:51).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Timeline sobre A-roll",
+     "cats": "Línea de tiempo",
+     "desc": "Black Friday → Otro día, sobre ella.",
+     "ref": "V01-A16",
+     "type": "timeline",
+     "props": {
+      "milestones": [
+       {
+        "label": "Black Friday",
+        "age": "tus ganadoras"
+       },
+       {
+        "label": "Otro día",
+        "age": "otra foto, otra historia"
+       }
+      ],
+      "active": 1,
+      "over_aroll": true,
+      "y": 1240
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    },
+    {
+     "title": "Línea",
+     "cats": "Línea + texto",
+     "desc": "",
+     "ref": "V10-A11",
+     "type": "j_line",
+     "props": {
+      "bg": "white",
+      "shape": "down",
+      "stops": [
+       {
+        "small": "no lo",
+        "big": "botes,",
+        "t": 51.02
+       },
+       {
+        "small": "otro día, otra",
+        "big": "historia.",
+        "t": 53.36
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "start": 53.98,
+   "end": 57.38,
+   "script": "Hoy escoge tus cinco prendas ganadoras. Esas son tu Black Friday.",
+   "seen": "Cierre del capítulo → tarjeta de título con la foto (v01 0:01), destello dorado.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Tarjeta «5 ganadoras»",
+     "cats": "Título · CTA",
+     "desc": "Flat lay de las 5 con «Hoy escoge tus / 5 ganadoras.»",
+     "ref": "V01-A01",
+     "type": "name_card",
+     "props": {
+      "kicker": "Hoy escoge tus",
+      "name": "5 ganadoras.",
+      "media": "media/assets/A08.png"
+     },
+     "enter": "light_leak"
+    },
+    {
+     "title": "Cita",
+     "cats": "Texto centrado",
+     "desc": "",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "accent",
+      "small": "hoy escoge tus",
+      "big": "5 ganadoras.",
+      "t": 54.6
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "start": 57.38,
+   "end": 60.28,
+   "script": "Comenta ganadora y te hago un anuncio de muestra con una de ellas,",
+   "seen": "CTA → pantalla de acento.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Palabra GANADORA",
+     "cats": "Título · CTA",
+     "desc": "Violeta, «comenta / GANADORA».",
+     "ref": "V10-A59",
+     "type": "arthur_text",
+     "props": {
+      "bg": "accent",
+      "lines": [
+       {
+        "t": "comenta",
+        "size": "s"
+       },
+       {
+        "t": "GANADORA",
+        "size": "l",
+        "px": 150,
+        "sans": true
+       }
+      ]
+     },
+     "enter": "flash_white"
+    },
+    {
+     "title": "Cita",
+     "cats": "Texto centrado",
+     "desc": "",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "accent",
+      "small": "comenta",
+      "big": "GANADORA",
+      "sans": true,
+      "t": 57.68
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  }
+ ]
+}

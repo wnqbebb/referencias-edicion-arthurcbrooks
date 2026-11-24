@@ -1,0 +1,20 @@
+[
+ {
+  "t": 3.135,
+  "dur": 0.14,
+  "kind": "pop",
+  "gain_db": 7.2,
+  "to_cut": 0.8,
+  "word": "speak,",
+  "to_word": -0.09
+ },
+ {
+  "t": 23.603,
+  "dur": 0.15,
+  "kind": "pop",
+  "gain_db": 5.8,
+  "to_cut": -0.43,
+  "word": "old,",
+  "to_word": -0.06
+ }
+]

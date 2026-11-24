@@ -1,0 +1,107 @@
+{
+ "video": "v15",
+ "duration_s": 53.19,
+ "fps": 24,
+ "triggers": [
+  {
+   "t_word": 0.0,
+   "word": "I",
+   "element": "Split permanente: invitado en plano medio arriba (~68 %), plano general de los tres abajo (~32 %); caption en caja granate",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "hook; el prado verde detrás = el tema"
+  },
+  {
+   "t_word": 5.62,
+   "word": "nature.",
+   "element": "Caption 'from nature.' (sin énfasis visual)",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "tesis solo en caption"
+  },
+  {
+   "t_word": 19.9,
+   "word": "100",
+   "element": "Caption '100 million people' — sin gráfico ni escala",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "dato solo en caption"
+  },
+  {
+   "t_word": 25.88,
+   "word": "this,",
+   "element": "El invitado señala alrededor con amplios gestos; la cámara reencuadra (25.1-26.1); caption 'about this.'",
+   "category": "aroll_plain",
+   "offset_s": 0.0,
+   "why": "deíctico: 'esto' = el entorno siempre visible"
+  },
+  {
+   "t_word": 27.96,
+   "word": "postage",
+   "element": "Caption 'just a little postage / stamp of green space.'",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "metáfora solo verbal"
+  },
+  {
+   "t_word": 50.82,
+   "word": "access.",
+   "element": "Corte seco (51.67) a end card negro 'The Fire Pit' (llama animada) + 'United by Nature'",
+   "category": "title_cta",
+   "offset_s": 0.85,
+   "why": "marca de serie"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 51.67,
+   "from": "split",
+   "to": "end card negro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "única transición del clip; llama en loop"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.0,
+   "fx": "pop",
+   "detail": "caption sans bold pequeña blanca en caja granate #7A2232, 2-5 palabras, cambio seco por frase (~1.1 s/bloque), centrada en la costura del split (~65 % de alto)"
+  }
+ ],
+ "camera": [
+  {
+   "t": 25.1,
+   "move": "push-in lento",
+   "scale_or_dir": "reencuadre real de cámara (más cerrado y vuelve)",
+   "dur_s": 1.0
+  },
+  {
+   "t": 51.67,
+   "move": "shake",
+   "scale_or_dir": "llama del logo parpadea en loop",
+   "dur_s": 1.5
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   3,
+   1,
+   3,
+   0,
+   0,
+   3
+  ],
+  "avg_hold_text_s": 1.1,
+  "notes": "Sin cortes; cambios de caption cada ~1.1 s (mediana 1.04 s) en el arranque de cada frase. Ritmo visual = gestos del hablante + humo del brasero."
+ },
+ "typography": "Idéntica a v14: sans bold pequeña blanca, caja granate #7A2232 ajustada, una línea de 2-5 palabras, en la costura del split. Sin destacados.",
+ "textures": "Ninguna: luz natural de mediodía, prado verde-amarillo sobreexpuesto de fondo, humo del brasero en el panel inferior.",
+ "distinct": [
+  "Cero cortes en 51.7 s: un solo plano por panel; es la plantilla de serie en su forma mínima.",
+  "Habla el invitado, no Brooks: el clip funciona como 'voz de apoyo' del canal.",
+  "El deíctico 'not talking about this' (25.9 s) solo funciona porque el entorno está en pantalla todo el tiempo.",
+  "Datos ('100 million', '10 minute walk') solo en caption, sin gráfico: el vídeo más plano de la serie.",
+  "End card idéntico a v14 (reconocimiento de serie)."
+ ]
+}

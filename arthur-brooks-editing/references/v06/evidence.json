@@ -1,0 +1,2495 @@
+{
+  "video": "v06.mp4",
+  "duration": 54.69,
+  "derived": {
+    "shots": 35,
+    "avg_shot_len": 1.56,
+    "cuts_per_min": 38.4,
+    "hook_shots_first_3s": 7,
+    "high_motion_shots": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      10,
+      11,
+      12,
+      13,
+      15,
+      16,
+      17,
+      18,
+      20,
+      22,
+      23,
+      24,
+      26,
+      27,
+      30,
+      31,
+      33
+    ]
+  },
+  "method": "ffmpeg scene>0.32 + keyframes 5/plano + paleta cuantizada + energía de movimiento",
+  "words": [
+    {
+      "w": "Here's",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "w": "how",
+      "start": 0.26,
+      "end": 0.36
+    },
+    {
+      "w": "you",
+      "start": 0.36,
+      "end": 0.44
+    },
+    {
+      "w": "fix",
+      "start": 0.44,
+      "end": 0.64
+    },
+    {
+      "w": "every",
+      "start": 0.64,
+      "end": 0.86
+    },
+    {
+      "w": "marriage,",
+      "start": 0.86,
+      "end": 1.16
+    },
+    {
+      "w": "you",
+      "start": 1.26,
+      "end": 1.32
+    },
+    {
+      "w": "do",
+      "start": 1.32,
+      "end": 1.46
+    },
+    {
+      "w": "four",
+      "start": 1.46,
+      "end": 1.7
+    },
+    {
+      "w": "things.",
+      "start": 1.7,
+      "end": 2.04
+    },
+    {
+      "w": "Number",
+      "start": 2.34,
+      "end": 2.46
+    },
+    {
+      "w": "one,",
+      "start": 2.46,
+      "end": 2.7
+    },
+    {
+      "w": "you",
+      "start": 2.8,
+      "end": 2.84
+    },
+    {
+      "w": "have",
+      "start": 2.84,
+      "end": 2.98
+    },
+    {
+      "w": "more",
+      "start": 2.98,
+      "end": 3.12
+    },
+    {
+      "w": "fun",
+      "start": 3.12,
+      "end": 3.46
+    },
+    {
+      "w": "together",
+      "start": 3.46,
+      "end": 3.86
+    },
+    {
+      "w": "as",
+      "start": 3.86,
+      "end": 4.14
+    },
+    {
+      "w": "opposed",
+      "start": 4.14,
+      "end": 4.28
+    },
+    {
+      "w": "to",
+      "start": 4.28,
+      "end": 4.44
+    },
+    {
+      "w": "rehearsing",
+      "start": 4.44,
+      "end": 4.84
+    },
+    {
+      "w": "grievance.",
+      "start": 4.84,
+      "end": 5.3
+    },
+    {
+      "w": "More",
+      "start": 5.7,
+      "end": 5.84
+    },
+    {
+      "w": "fun,",
+      "start": 5.84,
+      "end": 6.32
+    },
+    {
+      "w": "less",
+      "start": 6.38,
+      "end": 6.58
+    },
+    {
+      "w": "grievance.",
+      "start": 6.58,
+      "end": 7.14
+    },
+    {
+      "w": "Therapy",
+      "start": 7.5,
+      "end": 8.02
+    },
+    {
+      "w": "is",
+      "start": 8.02,
+      "end": 8.1
+    },
+    {
+      "w": "like",
+      "start": 8.1,
+      "end": 8.24
+    },
+    {
+      "w": "grievance,",
+      "start": 8.24,
+      "end": 8.92
+    },
+    {
+      "w": "grievance,",
+      "start": 9.0,
+      "end": 9.3
+    },
+    {
+      "w": "grievance.",
+      "start": 9.42,
+      "end": 9.7
+    },
+    {
+      "w": "Have",
+      "start": 9.8,
+      "end": 10.06
+    },
+    {
+      "w": "more",
+      "start": 10.06,
+      "end": 10.44
+    },
+    {
+      "w": "fun",
+      "start": 10.44,
+      "end": 10.96
+    },
+    {
+      "w": "together.",
+      "start": 10.96,
+      "end": 11.34
+    },
+    {
+      "w": "Second",
+      "start": 11.64,
+      "end": 11.98
+    },
+    {
+      "w": "is",
+      "start": 11.98,
+      "end": 12.22
+    },
+    {
+      "w": "pray",
+      "start": 12.22,
+      "end": 12.4
+    },
+    {
+      "w": "together.",
+      "start": 12.4,
+      "end": 12.68
+    },
+    {
+      "w": "If",
+      "start": 13.14,
+      "end": 13.26
+    },
+    {
+      "w": "you",
+      "start": 13.26,
+      "end": 13.38
+    },
+    {
+      "w": "get",
+      "start": 13.38,
+      "end": 13.54
+    },
+    {
+      "w": "married,",
+      "start": 13.54,
+      "end": 13.84
+    },
+    {
+      "w": "the",
+      "start": 13.98,
+      "end": 14.1
+    },
+    {
+      "w": "goal",
+      "start": 14.1,
+      "end": 14.44
+    },
+    {
+      "w": "is",
+      "start": 14.44,
+      "end": 14.7
+    },
+    {
+      "w": "to",
+      "start": 14.7,
+      "end": 14.82
+    },
+    {
+      "w": "fuse",
+      "start": 14.82,
+      "end": 15.1
+    },
+    {
+      "w": "your",
+      "start": 15.1,
+      "end": 15.32
+    },
+    {
+      "w": "right",
+      "start": 15.32,
+      "end": 15.48
+    },
+    {
+      "w": "hemisphere.",
+      "start": 15.48,
+      "end": 15.78
+    },
+    {
+      "w": "The",
+      "start": 16.14,
+      "end": 16.36
+    },
+    {
+      "w": "best",
+      "start": 16.36,
+      "end": 16.54
+    },
+    {
+      "w": "way",
+      "start": 16.54,
+      "end": 16.7
+    },
+    {
+      "w": "to",
+      "start": 16.7,
+      "end": 16.84
+    },
+    {
+      "w": "do",
+      "start": 16.84,
+      "end": 17.02
+    },
+    {
+      "w": "that",
+      "start": 17.02,
+      "end": 17.2
+    },
+    {
+      "w": "is",
+      "start": 17.2,
+      "end": 17.32
+    },
+    {
+      "w": "by",
+      "start": 17.32,
+      "end": 17.44
+    },
+    {
+      "w": "meditating",
+      "start": 17.44,
+      "end": 17.8
+    },
+    {
+      "w": "together,",
+      "start": 17.8,
+      "end": 18.22
+    },
+    {
+      "w": "is",
+      "start": 18.5,
+      "end": 18.68
+    },
+    {
+      "w": "by",
+      "start": 18.68,
+      "end": 18.9
+    },
+    {
+      "w": "praying",
+      "start": 18.9,
+      "end": 19.18
+    },
+    {
+      "w": "together,",
+      "start": 19.18,
+      "end": 19.56
+    },
+    {
+      "w": "is",
+      "start": 19.82,
+      "end": 19.9
+    },
+    {
+      "w": "by",
+      "start": 19.9,
+      "end": 20.04
+    },
+    {
+      "w": "doing",
+      "start": 20.04,
+      "end": 20.22
+    },
+    {
+      "w": "right",
+      "start": 20.22,
+      "end": 20.48
+    },
+    {
+      "w": "hemisphere",
+      "start": 20.48,
+      "end": 20.76
+    },
+    {
+      "w": "activity",
+      "start": 20.76,
+      "end": 21.3
+    },
+    {
+      "w": "together.",
+      "start": 21.3,
+      "end": 21.72
+    },
+    {
+      "w": "The",
+      "start": 22.0,
+      "end": 22.12
+    },
+    {
+      "w": "third",
+      "start": 22.12,
+      "end": 22.44
+    },
+    {
+      "w": "protocol",
+      "start": 22.44,
+      "end": 23.06
+    },
+    {
+      "w": "is",
+      "start": 23.06,
+      "end": 23.6
+    },
+    {
+      "w": "to",
+      "start": 23.6,
+      "end": 23.78
+    },
+    {
+      "w": "make",
+      "start": 23.78,
+      "end": 24.06
+    },
+    {
+      "w": "eye",
+      "start": 24.06,
+      "end": 24.32
+    },
+    {
+      "w": "contact",
+      "start": 24.32,
+      "end": 24.6
+    },
+    {
+      "w": "whenever",
+      "start": 24.6,
+      "end": 25.04
+    },
+    {
+      "w": "you",
+      "start": 25.04,
+      "end": 25.26
+    },
+    {
+      "w": "talk.",
+      "start": 25.26,
+      "end": 25.52
+    },
+    {
+      "w": "Never",
+      "start": 26.1,
+      "end": 26.58
+    },
+    {
+      "w": "be",
+      "start": 26.58,
+      "end": 26.96
+    },
+    {
+      "w": "talking",
+      "start": 26.96,
+      "end": 27.26
+    },
+    {
+      "w": "without",
+      "start": 27.26,
+      "end": 27.7
+    },
+    {
+      "w": "making",
+      "start": 27.7,
+      "end": 28.02
+    },
+    {
+      "w": "eye",
+      "start": 28.02,
+      "end": 28.24
+    },
+    {
+      "w": "contact.",
+      "start": 28.24,
+      "end": 28.48
+    },
+    {
+      "w": "Way",
+      "start": 28.48,
+      "end": 29.12
+    },
+    {
+      "w": "more",
+      "start": 29.12,
+      "end": 29.34
+    },
+    {
+      "w": "important",
+      "start": 29.34,
+      "end": 29.68
+    },
+    {
+      "w": "for",
+      "start": 29.68,
+      "end": 29.86
+    },
+    {
+      "w": "your",
+      "start": 29.86,
+      "end": 29.96
+    },
+    {
+      "w": "wife",
+      "start": 29.96,
+      "end": 30.14
+    },
+    {
+      "w": "than",
+      "start": 30.14,
+      "end": 30.3
+    },
+    {
+      "w": "his",
+      "start": 30.3,
+      "end": 30.44
+    },
+    {
+      "w": "for",
+      "start": 30.44,
+      "end": 30.58
+    },
+    {
+      "w": "you.",
+      "start": 30.58,
+      "end": 30.82
+    },
+    {
+      "w": "Way",
+      "start": 31.34,
+      "end": 31.52
+    },
+    {
+      "w": "more",
+      "start": 31.52,
+      "end": 31.74
+    },
+    {
+      "w": "important",
+      "start": 31.74,
+      "end": 32.02
+    },
+    {
+      "w": "because",
+      "start": 32.02,
+      "end": 32.18
+    },
+    {
+      "w": "she",
+      "start": 32.18,
+      "end": 32.34
+    },
+    {
+      "w": "gets",
+      "start": 32.34,
+      "end": 32.52
+    },
+    {
+      "w": "three",
+      "start": 32.52,
+      "end": 32.84
+    },
+    {
+      "w": "times",
+      "start": 32.84,
+      "end": 33.14
+    },
+    {
+      "w": "as",
+      "start": 33.14,
+      "end": 33.24
+    },
+    {
+      "w": "much",
+      "start": 33.24,
+      "end": 33.42
+    },
+    {
+      "w": "oxytocin,",
+      "start": 33.42,
+      "end": 34.1
+    },
+    {
+      "w": "which",
+      "start": 34.14,
+      "end": 34.32
+    },
+    {
+      "w": "means",
+      "start": 34.32,
+      "end": 34.72
+    },
+    {
+      "w": "she's",
+      "start": 34.72,
+      "end": 35.4
+    },
+    {
+      "w": "better",
+      "start": 35.4,
+      "end": 35.54
+    },
+    {
+      "w": "at",
+      "start": 35.54,
+      "end": 35.7
+    },
+    {
+      "w": "bonding,",
+      "start": 35.7,
+      "end": 35.98
+    },
+    {
+      "w": "but",
+      "start": 36.1,
+      "end": 36.2
+    },
+    {
+      "w": "it",
+      "start": 36.2,
+      "end": 36.28
+    },
+    {
+      "w": "also",
+      "start": 36.28,
+      "end": 36.6
+    },
+    {
+      "w": "means",
+      "start": 36.6,
+      "end": 36.86
+    },
+    {
+      "w": "that",
+      "start": 36.86,
+      "end": 37.1
+    },
+    {
+      "w": "she's",
+      "start": 37.1,
+      "end": 37.42
+    },
+    {
+      "w": "better",
+      "start": 37.42,
+      "end": 37.66
+    },
+    {
+      "w": "at",
+      "start": 37.66,
+      "end": 37.8
+    },
+    {
+      "w": "starving",
+      "start": 37.8,
+      "end": 38.26
+    },
+    {
+      "w": "when",
+      "start": 38.26,
+      "end": 38.8
+    },
+    {
+      "w": "she's",
+      "start": 38.8,
+      "end": 39.02
+    },
+    {
+      "w": "not",
+      "start": 39.02,
+      "end": 39.14
+    },
+    {
+      "w": "getting",
+      "start": 39.14,
+      "end": 39.36
+    },
+    {
+      "w": "enough",
+      "start": 39.36,
+      "end": 39.56
+    },
+    {
+      "w": "oxytocin.",
+      "start": 39.56,
+      "end": 40.22
+    },
+    {
+      "w": "And",
+      "start": 40.32,
+      "end": 40.32
+    },
+    {
+      "w": "last",
+      "start": 40.32,
+      "end": 40.56
+    },
+    {
+      "w": "but",
+      "start": 40.56,
+      "end": 40.72
+    },
+    {
+      "w": "not",
+      "start": 40.72,
+      "end": 40.82
+    },
+    {
+      "w": "least",
+      "start": 40.82,
+      "end": 41.12
+    },
+    {
+      "w": "is",
+      "start": 41.12,
+      "end": 41.48
+    },
+    {
+      "w": "remember",
+      "start": 41.48,
+      "end": 41.76
+    },
+    {
+      "w": "ABT,",
+      "start": 41.76,
+      "end": 42.42
+    },
+    {
+      "w": "always",
+      "start": 42.58,
+      "end": 42.72
+    },
+    {
+      "w": "be",
+      "start": 42.72,
+      "end": 42.9
+    },
+    {
+      "w": "touching,",
+      "start": 42.9,
+      "end": 43.16
+    },
+    {
+      "w": "always",
+      "start": 43.48,
+      "end": 43.6
+    },
+    {
+      "w": "be",
+      "start": 43.6,
+      "end": 43.76
+    },
+    {
+      "w": "touching,",
+      "start": 43.76,
+      "end": 44.02
+    },
+    {
+      "w": "always",
+      "start": 44.32,
+      "end": 44.48
+    },
+    {
+      "w": "be",
+      "start": 44.48,
+      "end": 44.66
+    },
+    {
+      "w": "touching.",
+      "start": 44.66,
+      "end": 44.9
+    },
+    {
+      "w": "More",
+      "start": 45.06,
+      "end": 45.16
+    },
+    {
+      "w": "important",
+      "start": 45.16,
+      "end": 45.38
+    },
+    {
+      "w": "for",
+      "start": 45.38,
+      "end": 45.54
+    },
+    {
+      "w": "men",
+      "start": 45.54,
+      "end": 45.7
+    },
+    {
+      "w": "than",
+      "start": 45.7,
+      "end": 45.8
+    },
+    {
+      "w": "for",
+      "start": 45.8,
+      "end": 45.94
+    },
+    {
+      "w": "women,",
+      "start": 45.94,
+      "end": 46.2
+    },
+    {
+      "w": "as",
+      "start": 46.66,
+      "end": 46.76
+    },
+    {
+      "w": "a",
+      "start": 46.76,
+      "end": 46.8
+    },
+    {
+      "w": "matter",
+      "start": 46.8,
+      "end": 46.92
+    },
+    {
+      "w": "of",
+      "start": 46.92,
+      "end": 47.06
+    },
+    {
+      "w": "fact.",
+      "start": 47.06,
+      "end": 47.32
+    },
+    {
+      "w": "That's",
+      "start": 47.62,
+      "end": 47.82
+    },
+    {
+      "w": "why",
+      "start": 47.82,
+      "end": 47.96
+    },
+    {
+      "w": "when",
+      "start": 47.96,
+      "end": 48.12
+    },
+    {
+      "w": "you're",
+      "start": 48.12,
+      "end": 48.3
+    },
+    {
+      "w": "with",
+      "start": 48.3,
+      "end": 48.42
+    },
+    {
+      "w": "your",
+      "start": 48.42,
+      "end": 48.54
+    },
+    {
+      "w": "beloved",
+      "start": 48.54,
+      "end": 48.8
+    },
+    {
+      "w": "and",
+      "start": 48.8,
+      "end": 49.02
+    },
+    {
+      "w": "she",
+      "start": 49.02,
+      "end": 49.16
+    },
+    {
+      "w": "hooks",
+      "start": 49.16,
+      "end": 49.42
+    },
+    {
+      "w": "her",
+      "start": 49.42,
+      "end": 49.58
+    },
+    {
+      "w": "arm",
+      "start": 49.58,
+      "end": 49.88
+    },
+    {
+      "w": "into",
+      "start": 49.88,
+      "end": 50.18
+    },
+    {
+      "w": "your",
+      "start": 50.18,
+      "end": 50.36
+    },
+    {
+      "w": "arm",
+      "start": 50.36,
+      "end": 50.54
+    },
+    {
+      "w": "while",
+      "start": 50.54,
+      "end": 50.66
+    },
+    {
+      "w": "you're",
+      "start": 50.66,
+      "end": 50.76
+    },
+    {
+      "w": "walking",
+      "start": 50.76,
+      "end": 50.94
+    },
+    {
+      "w": "down",
+      "start": 50.94,
+      "end": 51.1
+    },
+    {
+      "w": "the",
+      "start": 51.1,
+      "end": 51.2
+    },
+    {
+      "w": "street,",
+      "start": 51.2,
+      "end": 51.4
+    },
+    {
+      "w": "you're",
+      "start": 51.54,
+      "end": 51.64
+    },
+    {
+      "w": "like,",
+      "start": 51.64,
+      "end": 51.78
+    },
+    {
+      "w": "I'm",
+      "start": 52.2,
+      "end": 52.76
+    },
+    {
+      "w": "big",
+      "start": 52.76,
+      "end": 52.98
+    },
+    {
+      "w": "and",
+      "start": 52.98,
+      "end": 53.12
+    },
+    {
+      "w": "strong.",
+      "start": 53.12,
+      "end": 53.46
+    },
+    {
+      "w": "Why?",
+      "start": 53.92,
+      "end": 54.24
+    }
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 0.467,
+      "length": 0.467,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#D0C7CB",
+            "share": 0.175
+          },
+          {
+            "hex": "#8D4F27",
+            "share": 0.067
+          },
+          {
+            "hex": "#B6ABB0",
+            "share": 0.062
+          },
+          {
+            "hex": "#75472D",
+            "share": 0.053
+          },
+          {
+            "hex": "#8F584A",
+            "share": 0.04
+          }
+        ],
+        "motion_energy": 29.98,
+        "script": "Here's how you fix"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 1,
+      "start": 0.467,
+      "end": 0.667,
+      "length": 0.2,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#4C2C0D",
+            "share": 0.199
+          },
+          {
+            "hex": "#2C1409",
+            "share": 0.185
+          },
+          {
+            "hex": "#170B08",
+            "share": 0.073
+          },
+          {
+            "hex": "#37270E",
+            "share": 0.048
+          },
+          {
+            "hex": "#6C532E",
+            "share": 0.047
+          }
+        ],
+        "motion_energy": 15.38,
+        "script": "every"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 2,
+      "start": 0.667,
+      "end": 0.833,
+      "length": 0.167,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#2F2516",
+            "share": 0.206
+          },
+          {
+            "hex": "#6E5227",
+            "share": 0.112
+          },
+          {
+            "hex": "#8E6B34",
+            "share": 0.104
+          },
+          {
+            "hex": "#AE8C52",
+            "share": 0.087
+          },
+          {
+            "hex": "#4D3619",
+            "share": 0.066
+          }
+        ],
+        "motion_energy": 11.18,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 3,
+      "start": 0.833,
+      "end": 0.967,
+      "length": 0.133,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#4E3824",
+            "share": 0.195
+          },
+          {
+            "hex": "#6D4F2B",
+            "share": 0.157
+          },
+          {
+            "hex": "#54442A",
+            "share": 0.118
+          },
+          {
+            "hex": "#30312C",
+            "share": 0.077
+          },
+          {
+            "hex": "#4A301C",
+            "share": 0.064
+          }
+        ],
+        "motion_energy": 12.37,
+        "script": "marriage,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 4,
+      "start": 0.967,
+      "end": 1.1,
+      "length": 0.133,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#131111",
+            "share": 0.209
+          },
+          {
+            "hex": "#312A2B",
+            "share": 0.088
+          },
+          {
+            "hex": "#4C3730",
+            "share": 0.064
+          },
+          {
+            "hex": "#261817",
+            "share": 0.061
+          },
+          {
+            "hex": "#6D4B33",
+            "share": 0.045
+          }
+        ],
+        "motion_energy": 13.92,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 5,
+      "start": 1.1,
+      "end": 1.2,
+      "length": 0.1,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#4F4A37",
+            "share": 0.082
+          },
+          {
+            "hex": "#322F29",
+            "share": 0.081
+          },
+          {
+            "hex": "#D0AEAD",
+            "share": 0.064
+          },
+          {
+            "hex": "#6F684F",
+            "share": 0.05
+          },
+          {
+            "hex": "#B1938D",
+            "share": 0.05
+          }
+        ],
+        "motion_energy": 26.85,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 6,
+      "start": 1.2,
+      "end": 4.0,
+      "length": 2.8,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#6B5031",
+            "share": 0.137
+          },
+          {
+            "hex": "#746A4F",
+            "share": 0.075
+          },
+          {
+            "hex": "#8A744D",
+            "share": 0.072
+          },
+          {
+            "hex": "#564831",
+            "share": 0.07
+          },
+          {
+            "hex": "#4C3627",
+            "share": 0.069
+          }
+        ],
+        "motion_energy": 21.09,
+        "script": "you do four things. Number one, you have more fun together as"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 7,
+      "start": 4.0,
+      "end": 5.367,
+      "length": 1.367,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#D0C7CB",
+            "share": 0.154
+          },
+          {
+            "hex": "#B7AAAF",
+            "share": 0.06
+          },
+          {
+            "hex": "#8E5026",
+            "share": 0.055
+          },
+          {
+            "hex": "#8C4A1A",
+            "share": 0.055
+          },
+          {
+            "hex": "#76472C",
+            "share": 0.04
+          }
+        ],
+        "motion_energy": 8.78,
+        "script": "opposed to rehearsing grievance."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 8,
+      "start": 5.367,
+      "end": 6.8,
+      "length": 1.433,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#32471A",
+            "share": 0.199
+          },
+          {
+            "hex": "#CDAF76",
+            "share": 0.177
+          },
+          {
+            "hex": "#B0996C",
+            "share": 0.103
+          },
+          {
+            "hex": "#F5C96F",
+            "share": 0.093
+          },
+          {
+            "hex": "#BAA274",
+            "share": 0.051
+          }
+        ],
+        "motion_energy": 1.57,
+        "script": "More fun, less grievance."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 9,
+      "start": 6.8,
+      "end": 7.633,
+      "length": 0.833,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#EFD088",
+            "share": 0.126
+          },
+          {
+            "hex": "#878C76",
+            "share": 0.114
+          },
+          {
+            "hex": "#313624",
+            "share": 0.106
+          },
+          {
+            "hex": "#D4C490",
+            "share": 0.101
+          },
+          {
+            "hex": "#C5BC90",
+            "share": 0.068
+          }
+        ],
+        "motion_energy": 0.54,
+        "script": "Therapy"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 10,
+      "start": 7.633,
+      "end": 9.7,
+      "length": 2.067,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#D0C7CB",
+            "share": 0.091
+          },
+          {
+            "hex": "#B6ABAF",
+            "share": 0.067
+          },
+          {
+            "hex": "#8D4A1A",
+            "share": 0.064
+          },
+          {
+            "hex": "#8F5128",
+            "share": 0.055
+          },
+          {
+            "hex": "#75472C",
+            "share": 0.044
+          }
+        ],
+        "motion_energy": 19.99,
+        "script": "is like grievance, grievance, grievance."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 11,
+      "start": 9.7,
+      "end": 11.567,
+      "length": 1.867,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#686458",
+            "share": 0.291
+          },
+          {
+            "hex": "#58564B",
+            "share": 0.207
+          },
+          {
+            "hex": "#181714",
+            "share": 0.093
+          },
+          {
+            "hex": "#362F28",
+            "share": 0.092
+          },
+          {
+            "hex": "#49352D",
+            "share": 0.088
+          }
+        ],
+        "motion_energy": 12.78,
+        "script": "Have more fun together."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 12,
+      "start": 11.567,
+      "end": 13.033,
+      "length": 1.467,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#B28C4F",
+            "share": 0.175
+          },
+          {
+            "hex": "#906A33",
+            "share": 0.158
+          },
+          {
+            "hex": "#705027",
+            "share": 0.142
+          },
+          {
+            "hex": "#4D3619",
+            "share": 0.083
+          },
+          {
+            "hex": "#322715",
+            "share": 0.07
+          }
+        ],
+        "motion_energy": 18.84,
+        "script": "Second is pray together."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 13,
+      "start": 13.033,
+      "end": 16.133,
+      "length": 3.1,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#D0C6CB",
+            "share": 0.168
+          },
+          {
+            "hex": "#8E5027",
+            "share": 0.062
+          },
+          {
+            "hex": "#75472C",
+            "share": 0.051
+          },
+          {
+            "hex": "#B7ABB0",
+            "share": 0.049
+          },
+          {
+            "hex": "#8C726E",
+            "share": 0.045
+          }
+        ],
+        "motion_energy": 15.69,
+        "script": "If you get married, the goal is to fuse your right hemisphere."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 14,
+      "start": 16.133,
+      "end": 17.433,
+      "length": 1.3,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#72462D",
+            "share": 0.128
+          },
+          {
+            "hex": "#0E0B0C",
+            "share": 0.107
+          },
+          {
+            "hex": "#302B2E",
+            "share": 0.074
+          },
+          {
+            "hex": "#523429",
+            "share": 0.069
+          },
+          {
+            "hex": "#4C2918",
+            "share": 0.063
+          }
+        ],
+        "motion_energy": 2.15,
+        "script": "The best way to do that is by"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 15,
+      "start": 17.433,
+      "end": 18.467,
+      "length": 1.033,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#6E5029",
+            "share": 0.144
+          },
+          {
+            "hex": "#4A311D",
+            "share": 0.072
+          },
+          {
+            "hex": "#36271B",
+            "share": 0.068
+          },
+          {
+            "hex": "#8F692F",
+            "share": 0.068
+          },
+          {
+            "hex": "#4F3622",
+            "share": 0.067
+          }
+        ],
+        "motion_energy": 24.28,
+        "script": "meditating together,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 16,
+      "start": 18.467,
+      "end": 18.867,
+      "length": 0.4,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#CFC6CB",
+            "share": 0.111
+          },
+          {
+            "hex": "#8D4B1A",
+            "share": 0.081
+          },
+          {
+            "hex": "#B7ACB1",
+            "share": 0.07
+          },
+          {
+            "hex": "#8F5125",
+            "share": 0.061
+          },
+          {
+            "hex": "#8C726F",
+            "share": 0.038
+          }
+        ],
+        "motion_energy": 20.16,
+        "script": "is by"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 17,
+      "start": 18.867,
+      "end": 19.767,
+      "length": 0.9,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#6F522C",
+            "share": 0.178
+          },
+          {
+            "hex": "#37291B",
+            "share": 0.128
+          },
+          {
+            "hex": "#49321C",
+            "share": 0.12
+          },
+          {
+            "hex": "#4C3822",
+            "share": 0.107
+          },
+          {
+            "hex": "#584427",
+            "share": 0.064
+          }
+        ],
+        "motion_energy": 18.89,
+        "script": "praying together,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 18,
+      "start": 19.767,
+      "end": 20.267,
+      "length": 0.5,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#CFC6CB",
+            "share": 0.128
+          },
+          {
+            "hex": "#8D4B1A",
+            "share": 0.073
+          },
+          {
+            "hex": "#B7ABB0",
+            "share": 0.066
+          },
+          {
+            "hex": "#8F5126",
+            "share": 0.06
+          },
+          {
+            "hex": "#8C7370",
+            "share": 0.039
+          }
+        ],
+        "motion_energy": 21.99,
+        "script": "is by doing right"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 19,
+      "start": 20.267,
+      "end": 21.933,
+      "length": 1.667,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#352F2E",
+            "share": 0.298
+          },
+          {
+            "hex": "#0B0B10",
+            "share": 0.106
+          },
+          {
+            "hex": "#8C7368",
+            "share": 0.076
+          },
+          {
+            "hex": "#423A39",
+            "share": 0.051
+          },
+          {
+            "hex": "#AD724E",
+            "share": 0.049
+          }
+        ],
+        "motion_energy": 11.27,
+        "script": "hemisphere activity together."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 20,
+      "start": 21.933,
+      "end": 24.767,
+      "length": 2.833,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#11100E",
+            "share": 0.207
+          },
+          {
+            "hex": "#CECAB2",
+            "share": 0.097
+          },
+          {
+            "hex": "#B1B6A7",
+            "share": 0.073
+          },
+          {
+            "hex": "#524A2B",
+            "share": 0.065
+          },
+          {
+            "hex": "#AEAF93",
+            "share": 0.05
+          }
+        ],
+        "motion_energy": 19.67,
+        "script": "The third protocol is to make eye contact whenever"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 21,
+      "start": 24.767,
+      "end": 26.0,
+      "length": 1.233,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#CFC7CB",
+            "share": 0.136
+          },
+          {
+            "hex": "#8D4B1A",
+            "share": 0.073
+          },
+          {
+            "hex": "#8F5125",
+            "share": 0.063
+          },
+          {
+            "hex": "#B7ABAF",
+            "share": 0.057
+          },
+          {
+            "hex": "#8C726E",
+            "share": 0.04
+          }
+        ],
+        "motion_energy": 3.53,
+        "script": "you talk."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 22,
+      "start": 26.0,
+      "end": 28.733,
+      "length": 2.733,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0E0B09",
+            "share": 0.329
+          },
+          {
+            "hex": "#4D3625",
+            "share": 0.129
+          },
+          {
+            "hex": "#362618",
+            "share": 0.078
+          },
+          {
+            "hex": "#452D1B",
+            "share": 0.067
+          },
+          {
+            "hex": "#27190F",
+            "share": 0.067
+          }
+        ],
+        "motion_energy": 18.61,
+        "script": "Never be talking without making eye contact. Way"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 23,
+      "start": 28.733,
+      "end": 35.133,
+      "length": 6.4,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#D0C7CB",
+            "share": 0.15
+          },
+          {
+            "hex": "#8D5026",
+            "share": 0.067
+          },
+          {
+            "hex": "#B6AAAF",
+            "share": 0.053
+          },
+          {
+            "hex": "#76472C",
+            "share": 0.048
+          },
+          {
+            "hex": "#8D736E",
+            "share": 0.041
+          }
+        ],
+        "motion_energy": 25.24,
+        "script": "more important for your wife than his for you. Way more important because she gets three times as much oxytocin, which means she's"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 24,
+      "start": 35.133,
+      "end": 38.333,
+      "length": 3.2,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#090806",
+            "share": 0.611
+          },
+          {
+            "hex": "#502D19",
+            "share": 0.101
+          },
+          {
+            "hex": "#2C190E",
+            "share": 0.046
+          },
+          {
+            "hex": "#31352A",
+            "share": 0.036
+          },
+          {
+            "hex": "#362316",
+            "share": 0.036
+          }
+        ],
+        "motion_energy": 28.44,
+        "script": "better at bonding, but it also means that she's better at starving when"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 25,
+      "start": 38.333,
+      "end": 40.167,
+      "length": 1.833,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#72462D",
+            "share": 0.129
+          },
+          {
+            "hex": "#0F0C0D",
+            "share": 0.123
+          },
+          {
+            "hex": "#302B2E",
+            "share": 0.082
+          },
+          {
+            "hex": "#52352A",
+            "share": 0.076
+          },
+          {
+            "hex": "#4C2917",
+            "share": 0.062
+          }
+        ],
+        "motion_energy": 5.47,
+        "script": "she's not getting enough oxytocin."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 26,
+      "start": 40.167,
+      "end": 42.467,
+      "length": 2.3,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#504B34",
+            "share": 0.198
+          },
+          {
+            "hex": "#736C51",
+            "share": 0.129
+          },
+          {
+            "hex": "#CCB48F",
+            "share": 0.095
+          },
+          {
+            "hex": "#8B866A",
+            "share": 0.078
+          },
+          {
+            "hex": "#373124",
+            "share": 0.063
+          }
+        ],
+        "motion_energy": 21.33,
+        "script": "And last but not least is remember ABT,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 27,
+      "start": 42.467,
+      "end": 43.367,
+      "length": 0.9,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#CFC6CA",
+            "share": 0.144
+          },
+          {
+            "hex": "#8D4A1A",
+            "share": 0.061
+          },
+          {
+            "hex": "#B6AAAF",
+            "share": 0.055
+          },
+          {
+            "hex": "#8E5027",
+            "share": 0.055
+          },
+          {
+            "hex": "#8D574A",
+            "share": 0.042
+          }
+        ],
+        "motion_energy": 13.14,
+        "script": "always be touching,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 28,
+      "start": 43.367,
+      "end": 44.267,
+      "length": 0.9,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#90A8D9",
+            "share": 0.3
+          },
+          {
+            "hex": "#94AEE5",
+            "share": 0.225
+          },
+          {
+            "hex": "#7595CE",
+            "share": 0.119
+          },
+          {
+            "hex": "#2B2C33",
+            "share": 0.078
+          },
+          {
+            "hex": "#070915",
+            "share": 0.069
+          }
+        ],
+        "motion_energy": 1.44,
+        "script": "always be touching,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 29,
+      "start": 44.267,
+      "end": 45.133,
+      "length": 0.867,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#160C15",
+            "share": 0.112
+          },
+          {
+            "hex": "#8D726F",
+            "share": 0.093
+          },
+          {
+            "hex": "#F07038",
+            "share": 0.093
+          },
+          {
+            "hex": "#AE6C4B",
+            "share": 0.087
+          },
+          {
+            "hex": "#AF8579",
+            "share": 0.051
+          }
+        ],
+        "motion_energy": 2.17,
+        "script": "always be touching. More"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 30,
+      "start": 45.133,
+      "end": 48.267,
+      "length": 3.133,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#CFC6CB",
+            "share": 0.155
+          },
+          {
+            "hex": "#8E5026",
+            "share": 0.061
+          },
+          {
+            "hex": "#8D4A1A",
+            "share": 0.06
+          },
+          {
+            "hex": "#8C7370",
+            "share": 0.046
+          },
+          {
+            "hex": "#75472D",
+            "share": 0.044
+          }
+        ],
+        "motion_energy": 13.16,
+        "script": "important for men than for women, as a matter of fact. That's why when you're"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 31,
+      "start": 48.267,
+      "end": 50.533,
+      "length": 2.267,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#120F04",
+            "share": 0.211
+          },
+          {
+            "hex": "#B6C5CE",
+            "share": 0.124
+          },
+          {
+            "hex": "#2E260F",
+            "share": 0.095
+          },
+          {
+            "hex": "#AEB5B4",
+            "share": 0.062
+          },
+          {
+            "hex": "#93A8AF",
+            "share": 0.059
+          }
+        ],
+        "motion_energy": 24.54,
+        "script": "with your beloved and she hooks her arm into your arm"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 32,
+      "start": 50.533,
+      "end": 52.5,
+      "length": 1.967,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#07070B",
+            "share": 0.572
+          },
+          {
+            "hex": "#161827",
+            "share": 0.164
+          },
+          {
+            "hex": "#2A2834",
+            "share": 0.099
+          },
+          {
+            "hex": "#323348",
+            "share": 0.052
+          },
+          {
+            "hex": "#4A4952",
+            "share": 0.015
+          }
+        ],
+        "motion_energy": 3.62,
+        "script": "while you're walking down the street, you're like, I'm"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 33,
+      "start": 52.5,
+      "end": 53.733,
+      "length": 1.233,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#D1C8CC",
+            "share": 0.135
+          },
+          {
+            "hex": "#B6ABAF",
+            "share": 0.075
+          },
+          {
+            "hex": "#8C4F26",
+            "share": 0.059
+          },
+          {
+            "hex": "#8D746F",
+            "share": 0.047
+          },
+          {
+            "hex": "#958A8D",
+            "share": 0.044
+          }
+        ],
+        "motion_energy": 13.05,
+        "script": "big and strong."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 34,
+      "start": 53.733,
+      "end": 54.692,
+      "length": 0.958,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0D0B0E",
+            "share": 0.163
+          },
+          {
+            "hex": "#2D282D",
+            "share": 0.102
+          },
+          {
+            "hex": "#534D52",
+            "share": 0.097
+          },
+          {
+            "hex": "#6E696F",
+            "share": 0.088
+          },
+          {
+            "hex": "#D48C4C",
+            "share": 0.071
+          }
+        ],
+        "motion_energy": 6.54,
+        "script": "Why?"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    }
+  ]
+}

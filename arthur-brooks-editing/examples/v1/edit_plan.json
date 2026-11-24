@@ -1,0 +1,394 @@
+{
+ "version": 1,
+ "style": "arthur-talking-minimal",
+ "hook": {
+  "speaker": true,
+  "text": "No le bajes el precio",
+  "visual": "fullscreen_text"
+ },
+ "scenes": [
+  {
+   "id": "b01a",
+   "type": "aroll",
+   "start": 1.72,
+   "end": 2.9,
+   "props": {
+    "zoom": 1.25
+   }
+  },
+  {
+   "id": "b02a",
+   "type": "j_broll",
+   "start": 4.74,
+   "end": 7.42,
+   "props": {
+    "media": [
+     "media/assets/A04.mp4",
+     "media/assets/A05.mp4"
+    ],
+    "cuts": [
+     4.74,
+     6.1
+    ],
+    "small": "todas las tiendas bajan",
+    "big": "al mismo tiempo.",
+    "t": 6.5
+   },
+   "in": "wipe"
+  },
+  {
+   "id": "b03a",
+   "type": "arthur_icons",
+   "start": 7.42,
+   "end": 10.06,
+   "props": {
+    "bg": "white",
+    "icons": [
+     "tag",
+     "tag",
+     "tag"
+    ],
+    "lines": [
+     {
+      "t": "20 descuentos",
+      "size": "l"
+     },
+     {
+      "t": "iguales",
+      "size": "s"
+     }
+    ]
+   },
+   "out": "glitch_blocks"
+  },
+  {
+   "id": "b04a",
+   "type": "aroll",
+   "start": 10.06,
+   "end": 11.2,
+   "props": {
+    "zoom": 1.3
+   }
+  },
+  {
+   "id": "b05a",
+   "type": "j_painting",
+   "start": 11.2,
+   "end": 14.16,
+   "props": {
+    "media": "media/assets/P01.png",
+    "small": "donde la ropa se ve",
+    "big": "bonita",
+    "t": 13.02,
+    "text_pos": "bottom"
+   }
+  },
+  {
+   "id": "b07a",
+   "type": "j_graph",
+   "start": 16.28,
+   "end": 21.06,
+   "props": {
+    "y_label": "GANANCIA",
+    "x_label": "TIEMPO",
+    "points": [
+     {
+      "x": 0,
+      "y": 0.8,
+      "t": 16.4
+     },
+     {
+      "x": 0.2,
+      "y": 0.55,
+      "t": 17.34,
+      "label": "bajas el precio"
+     },
+     {
+      "x": 0.42,
+      "y": 0.55,
+      "t": 18.38
+     },
+     {
+      "x": 0.66,
+      "y": 0.3,
+      "t": 20.02,
+      "label": "vendes poco"
+     },
+     {
+      "x": 0.9,
+      "y": 0.08,
+      "t": 20.82,
+      "label": "ganas menos"
+     }
+    ],
+    "small": "pierdes",
+    "big": "dos veces.",
+    "sans": true,
+    "text_t": 18.66
+   },
+   "in": "wipe"
+  },
+  {
+   "id": "b08a",
+   "type": "j_half",
+   "start": 21.06,
+   "end": 24.06,
+   "props": {
+    "ring": [
+     "ENERO",
+     "SIN PLATA",
+     "PARA SURTIR"
+    ],
+    "small": "y en enero",
+    "big": "sin plata.",
+    "t": 22.72
+   },
+   "out": "glitch_blocks"
+  },
+  {
+   "id": "b09a",
+   "type": "aroll",
+   "start": 24.06,
+   "end": 26.06,
+   "props": {
+    "zoom": 1.28
+   }
+  },
+  {
+   "id": "b10a",
+   "type": "j_line",
+   "start": 26.06,
+   "end": 30.9,
+   "props": {
+    "bg": "white",
+    "shape": "zigzag",
+    "stops": [
+     {
+      "small": "la prenda",
+      "big": "puesta,",
+      "t": 27.74,
+      "img": "media/assets/A02.png"
+     },
+     {
+      "big": "completa,",
+      "sans": true,
+      "t": 28.3,
+      "img": "media/assets/A01.png"
+     },
+     {
+      "small": "con",
+      "big": "buena luz",
+      "t": 29.06,
+      "img": "media/assets/A03f.png"
+     },
+     {
+      "small": "y una regla que",
+      "big": "no se negocia.",
+      "sans": true,
+      "t": 30.44
+     }
+    ]
+   },
+   "in": "wipe"
+  },
+  {
+   "id": "b11a",
+   "type": "j_quote",
+   "start": 31.4,
+   "end": 34.6,
+   "props": {
+    "bg": "accent",
+    "small": "la foto tiene que ser de tu",
+    "big": "prenda real.",
+    "after": "mismo color, mismo corte.",
+    "t": 32.5
+   },
+   "in": "invert_sandwich"
+  },
+  {
+   "id": "b13a",
+   "type": "arthur_text",
+   "start": 37.14,
+   "end": 39.7,
+   "props": {
+    "bg": "accent",
+    "lines": [
+     {
+      "t": "comenta",
+      "size": "s"
+     },
+     {
+      "t": "BLACK",
+      "size": "l",
+      "px": 200,
+      "sans": true
+     }
+    ]
+   },
+   "in": "glitch_blocks"
+  },
+  {
+   "id": "b14a",
+   "type": "j_illus",
+   "start": 39.7,
+   "end": 42.66,
+   "props": {
+    "media": "media/assets/A02_cut.png",
+    "small": "un anuncio gratis con",
+    "big": "tu foto real.",
+    "t": 41.8
+   }
+  }
+ ],
+ "captions": {
+  "enabled": true,
+  "special_words": [
+   "precio",
+   "raro",
+   "iguales",
+   "bonita",
+   "confianza",
+   "dos",
+   "enero",
+   "quieto",
+   "real",
+   "gratis"
+  ]
+ },
+ "music": {
+  "file": "/home/user/viral-edit-system/assets/music_lib/tag/piano/02.mp3",
+  "volume": 0.16
+ },
+ "assets": [
+  {
+   "id": "A01",
+   "name": "blusa-hero",
+   "kind": "product",
+   "ar": "4:5",
+   "is_ref": true,
+   "use_in": [
+    "s07 «Completa»"
+   ],
+   "subject": "Blusa hero: la prenda real del video (referencia de consistencia)",
+   "prompt": "Product photo of a deep wine-red (#5A0F21 to #9E1C3A) satin wrap blouse with long sleeves on a slim wooden hanger, hanging against a warm off-white (#F7F3F2) plaster wall, soft directional window light from the left, gentle fabric folds and realistic satin sheen, small visible stitching at the cuffs, minimalist boutique aesthetic, centered, generous negative space above the hanger. shot on a full-frame camera with a 50mm lens, true-to-life fabric texture, accurate color, subtle natural shadows, real-world imperfections in the fabric, e-commerce boutique photography, not CGI",
+   "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch",
+   "note": "Si tienes foto real de la blusa que vende, úsala como referencia de este prompt: la consistencia parte de aquí.",
+   "file": "A01.png",
+   "res": "1536×1920"
+  },
+  {
+   "id": "A02",
+   "name": "modelo-ugc-blusa",
+   "kind": "model",
+   "ar": "9:16",
+   "refs": [
+    "A01"
+   ],
+   "use_in": [
+    "s07 «Puesta»",
+    "s10 órbita final"
+   ],
+   "subject": "Modelo UGC con la blusa puesta, look completo",
+   "prompt": "Vertical UGC photo of a 28-year-old Latina woman with dark wavy shoulder-length hair wearing the exact wine-red satin wrap blouse from the reference image, tucked into high-waisted black tailored trousers, small gold hoop earrings, standing in a small bright boutique next to a window, relaxed natural pose with one hand in her pocket, looking slightly off camera, full body visible from head to knees, face in the upper third, plain warm wall behind her. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+   "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch",
+   "file": "A02.png",
+   "res": "1080×1920"
+  },
+  {
+   "id": "A03",
+   "name": "buena-luz",
+   "kind": "video",
+   "ar": "9:16",
+   "duration": "5 s",
+   "refs": [
+    "A02"
+   ],
+   "use_in": [
+    "s07 «Buena luz»"
+   ],
+   "subject": "La misma modelo girando junto a la ventana (buena luz)",
+   "prompt": "Image-to-video from the reference image: the same woman in the wine-red satin blouse slowly turns a quarter towards a large window, soft golden afternoon light sweeps across the satin and shows its sheen, she smooths the front of the blouse with one hand, gentle handheld camera with a subtle push-in. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+   "motion": "Push-in lento 5 %, giro de ¼ de la modelo, la luz recorre la tela. Sin cortes, sin cámara lenta.",
+   "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch, morphing fabric, flickering, face distortion, sudden camera jumps, slow motion, text overlays",
+   "file": "A03.mp4",
+   "res": "1080×1920"
+  },
+  {
+   "id": "A04",
+   "name": "tiendas-descuento",
+   "kind": "video",
+   "ar": "9:16",
+   "duration": "5 s",
+   "use_in": [
+    "s02 «todas bajan los precios»"
+   ],
+   "subject": "Pasillo de centro comercial: todas las vitrinas con el mismo -30 %",
+   "prompt": "Vertical handheld video walking past several clothing store windows in a shopping mall at night, every window shows the same generic red 'SALE -30%' sign, blurred shoppers crossing the frame, warm mall lighting, slight motion blur, realistic documentary feel. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+   "motion": "Travelling lateral de izquierda a derecha a paso de persona; las vitrinas pasan una tras otra.",
+   "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch, morphing fabric, flickering, face distortion, sudden camera jumps, slow motion, text overlays",
+   "stock": "shopping mall sale (Pixabay, ya descargado como respaldo)",
+   "file": "A04.mp4",
+   "res": "1080×1920"
+  },
+  {
+   "id": "A05",
+   "name": "carteles-iguales",
+   "kind": "video",
+   "ar": "9:16",
+   "duration": "4 s",
+   "use_in": [
+    "s02 segunda toma"
+   ],
+   "subject": "Primer plano de carteles de descuento idénticos",
+   "prompt": "Vertical close-up video, slow rack focus across a row of identical red paper 'BLACK FRIDAY -30%' signs taped to shop glass, reflections of the mall lights on the glass, shallow depth of field, moody evening light. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+   "motion": "Rack focus del cartel 1 al cartel 3, cámara casi fija.",
+   "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch, morphing fabric, flickering, face distortion, sudden camera jumps, slow motion, text overlays",
+   "file": "A05.mp4",
+   "res": "1080×1920"
+  },
+  {
+   "id": "P01",
+   "name": "pintura-tienda",
+   "kind": "painting",
+   "ar": "4:5",
+   "use_in": [
+    "s04 «donde la ropa se ve bonita»"
+   ],
+   "subject": "Pintura clásica de dominio público: una tienda de ropa elegante",
+   "prompt": "PRIMERA OPCIÓN (dominio público, no generar): James Tissot, «The Shop Girl» (La demoiselle de magasin), 1883–85, Art Gallery of Ontario. Descárgala de Wikimedia Commons en la máxima resolución y recórtala 4:5 centrada en la dependienta. ALTERNATIVA generada: Oil painting in the style of late 19th-century French realism, an elegant Parisian boutique interior with a young woman in a fitted wine-red dress holding fabric ribbons, warm window light, visible brush strokes and canvas texture, muted palette with deep wine (#5A0F21) accents, museum reproduction look.",
+   "negative": "modern clothing, photographic look, text, frame, watermark, oversaturated",
+   "file": "P01.png",
+   "res": "1536×1920"
+  },
+  {
+   "id": "A06",
+   "name": "papel-vino",
+   "kind": "texture",
+   "ar": "1:1",
+   "use_in": [
+    "fondos de todas las escenas minimal"
+   ],
+   "subject": "Papel rugoso de la marca",
+   "prompt": "Seamless high-resolution scan of off-white (#F7F3F2) cotton rag paper, visible fibers and fine grain, very soft uneven lighting, faint warm tint, no folds, flat scan, tileable.",
+   "negative": "text, objects, shadows, wrinkles, strong color, vignette",
+   "file": "A06.png",
+   "res": "1920×1920"
+  }
+ ],
+ "palette": {
+  "vibrant_bright": "#9E1C3A",
+  "vibrant_dark": "#5A0F21",
+  "dull_white": "#F7F3F2",
+  "dull_black": "#120A0C"
+ },
+ "fallbacks": {
+  "A01": "media/stills/pixabay_shopping-mall-sale_2.jpg",
+  "A02": "media/stills/pixabay_woman-fitting-room_2.jpg",
+  "A04": "media/broll/pixabay_shopping-mall-sale_0.mp4",
+  "A03": "media/broll/pixabay_woman-fitting-room_1.mp4",
+  "A05": "media/broll/pixabay_shopping-mall-sale_1.mp4"
+ },
+ "textures": {
+  "paper": "media/assets/A06.png"
+ }
+}

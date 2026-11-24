@@ -1,0 +1,30 @@
+{
+  "cues": [
+    {
+      "t": 18.44,
+      "sfx": "whoosh_soft",
+      "scene": "b06a",
+      "gain": 0.55
+    },
+    {
+      "t": 32.82,
+      "sfx": "draw",
+      "scene": "b10a",
+      "gain": 0.55
+    },
+    {
+      "t": 37.26,
+      "sfx": "whoosh_soft",
+      "scene": "b11a",
+      "gain": 0.55
+    },
+    {
+      "t": 42.34,
+      "sfx": "hit",
+      "scene": "b12a",
+      "gain": 0.55
+    }
+  ],
+  "music": "/home/user/viral-edit-system/assets/music_lib/tag/lo-fi/02.mp3",
+  "mood": "piano cinematográfico / cuerdas suaves"
+}

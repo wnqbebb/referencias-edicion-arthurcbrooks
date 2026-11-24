@@ -1,0 +1,108 @@
+{
+ "triggers": [
+  {
+   "t_word": 0.0,
+   "word": "What",
+   "element": "titular 'QUALITIES OF / THE HAPPIEST / PEOPLE' sobre split horizontal (speaker en 3/4 arriba, plano general con entrevistadora abajo), visible desde el frame 0",
+   "category": "title_cta",
+   "offset_s": 0.0,
+   "why": "la pregunta del host se convierte en titular"
+  },
+  {
+   "t_word": 3.48,
+   "word": "There",
+   "element": "corte a A-roll cámara A (3/4 lateral, plano medio) + empiezan los captions",
+   "category": "captions_text",
+   "offset_s": -0.11,
+   "why": "cambio de tema: empieza la respuesta"
+  },
+  {
+   "t_word": 3.8,
+   "word": "four",
+   "element": "caption 'There are four' (sin destacar la cifra)",
+   "category": "captions_text",
+   "offset_s": -0.4,
+   "why": "dato (sin gráfico)"
+  },
+  {
+   "t_word": 19.18,
+   "word": "These",
+   "element": "corte a cámara B (frontal, más cerrada) al empezar el punto 3 (friends)",
+   "category": "captions_text",
+   "offset_s": -0.13,
+   "why": "cambio de tema: punto 3 de 4"
+  },
+  {
+   "t_word": 46.52,
+   "word": "faith,",
+   "element": "caption 'faith, family,' y luego 'friends,' (resumen sin gráfico)",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "resumen de la lista"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 3.37,
+   "from": "split titular",
+   "to": "aroll cam A (3/4)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "4 frames antes de 'There'; el titular desaparece con el corte"
+  },
+  {
+   "t": 19.05,
+   "from": "aroll cam A",
+   "to": "aroll cam B (frontal, ~1.2x más cerrado)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "único cambio de cámara de los 51 s de respuesta; cae en 'These are people who have real friends'"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.0,
+   "fx": "pop",
+   "detail": "titular estático sin animación: 3 líneas grande / pequeña ancha / grande, centrado en la línea de división del split"
+  },
+  {
+   "t": 3.4,
+   "fx": "write-on por palabra",
+   "detail": "captions de 1–3 palabras que se REEMPLAZAN en seco (sin fade ni pop) en cuanto empieza la primera palabra del bloque; no se acumulan"
+  },
+  {
+   "t": 3.4,
+   "fx": "tracking",
+   "detail": "posición fija: centrado a ~62% de la altura, sobre el pecho/manos; sombra suave, sin caja"
+  }
+ ],
+ "camera": [
+  {
+   "t": 19.05,
+   "move": "punch-in",
+   "scale_or_dir": "cam A→cam B (~1.2x, más frontal)",
+   "dur_s": 0.0
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   3,
+   1,
+   0,
+   0,
+   1,
+   0
+  ],
+  "avg_hold_text_s": 0.6,
+  "notes": "Edición casi nula: 2 cortes en 54 s (3.37 y 19.05) y planos de 15.7 s y 35.3 s. Todo el ritmo lo ponen los captions (un bloque cada ~0.5–0.8 s). NOTA: el breakdown previo hablaba de punch-ins en 6.9/11.2/23.3/31/34/47.7/50.5; el análisis por diferencia de píxeles y fotogramas confirma que NO existen."
+ },
+ "typography": "Titular: sans condensada extra-bold en MAYÚSCULAS (tipo Anton/Bebas Neue), blanco, 3 líneas: 'QUALITIES OF' grande, 'THE HAPPIEST' en sans extendida bold más pequeña, 'PEOPLE' la más grande; interlineado muy apretado. Captions: sans bold (Inter/Helvetica Bold) blanca, ~3% del alto, minúsculas con puntuación original, 1–3 palabras por bloque, sin palabra destacada ni color.",
+ "textures": "Ninguna añadida. Bokeh natural de las botellas del bar, rojo de cortinas y ámbar de lámparas. Sin grano, viñeta ni overlays.",
+ "distinct": [
+  "Solo 2 cortes en 54 s: es el 'podcast clip' más austero de la serie",
+  "Split horizontal con el titular en la línea de división (speaker arriba, plano general abajo)",
+  "Captions que se reemplazan en seco, sin animación ni palabra destacada",
+  "El único cambio de cámara se guarda para el punto 3 de 4 (19.05)",
+  "Ni b-roll ni gráficos: la lista de 4 (faith/family/friends/work) no se visualiza"
+ ]
+}

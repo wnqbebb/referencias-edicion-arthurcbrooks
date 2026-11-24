@@ -1,0 +1,792 @@
+{
+ "video": "v11",
+ "duration_s": 90.17,
+ "fps": 23.976,
+ "triggers": [
+  {
+   "t_word": 0.7,
+   "word": "emptiness,",
+   "element": "Light leak dorado-blanco quema el A-roll (0.73-0.93) y descubre un macro extremo de ojo con piel cálida",
+   "category": "broll_text",
+   "offset_s": 0.03,
+   "why": "metáfora: 'vacío' = mirada íntima; abstracción → cuerpo"
+  },
+  {
+   "t_word": 1.54,
+   "word": "isolation,",
+   "element": "Corte (1.71) a mujer joven con capucha sola de noche en la calle",
+   "category": "broll_text",
+   "offset_s": 0.17,
+   "why": "literal"
+  },
+  {
+   "t_word": 2.42,
+   "word": "loneliness,",
+   "element": "Corte (2.50) a cara de chica iluminada en verde por el móvil",
+   "category": "broll_text",
+   "offset_s": 0.08,
+   "why": "metáfora: soledad = pantalla"
+  },
+  {
+   "t_word": 3.1,
+   "word": "lack",
+   "element": "Corte (3.25) a macro de dedo tocando teclado/pantalla en burdeos-violeta",
+   "category": "broll_text",
+   "offset_s": 0.15,
+   "why": "metáfora (conexión digital vacía)"
+  },
+  {
+   "t_word": 3.44,
+   "word": "meaning.",
+   "element": "Light leak ámbar sobre el macro (3.43) que llega a blanco (3.88)",
+   "category": "broll_text",
+   "offset_s": -0.01,
+   "why": "énfasis + cierre de la enumeración"
+  },
+  {
+   "t_word": 4.12,
+   "word": "This",
+   "element": "Fr. Dave (entrevistador) primer plano tras el blanco (3.95)",
+   "category": "aroll_plain",
+   "offset_s": -0.17,
+   "why": "cambio de hablante"
+  },
+  {
+   "t_word": 5.66,
+   "word": "are",
+   "element": "'are  they  even' sans fina blanca con tracking ancho, alineada a la izquierda sobre el pecho (6.03)",
+   "category": "captions_text",
+   "offset_s": 0.37,
+   "why": "setup tipográfico"
+  },
+  {
+   "t_word": 6.64,
+   "word": "aware?",
+   "element": "'AWARE' serif alto contraste mayúsculas con degradado dorado-melocotón gigante + '???' debajo (6.23)",
+   "category": "captions_text",
+   "offset_s": -0.41,
+   "why": "énfasis: la pregunta del vídeo convertida en titular"
+  },
+  {
+   "t_word": 6.64,
+   "word": "aware?",
+   "element": "Light leak ámbar-dorado a pantalla completa (6.78-7.30) con 'AWARE ???' fantasma encima",
+   "category": "captions_text",
+   "offset_s": 0.14,
+   "why": "cierre de capítulo (hook)"
+  },
+  {
+   "t_word": 8.66,
+   "word": "Do",
+   "element": "Negro total con crédito diminuto 'Join Fr. Dave Pivonka, TOR' (fade-in 7.5-7.7) y caption 'Do young people' (9.0)",
+   "category": "title_cta",
+   "offset_s": 0.34,
+   "why": "créditos de cine sobre la voz"
+  },
+  {
+   "t_word": 9.54,
+   "word": "understand",
+   "element": "Light leak/flash dorado-blanco (9.68) → Brooks plano medio 3/4 (9.81)",
+   "category": "aroll_plain",
+   "offset_s": 0.14,
+   "why": "cambio de hablante"
+  },
+  {
+   "t_word": 12.86,
+   "word": "And",
+   "element": "Corte (12.80) a cámara 2 más cerrada sobre Brooks",
+   "category": "aroll_plain",
+   "offset_s": -0.06,
+   "why": "énfasis (punch-in por cambio de cámara)"
+  },
+  {
+   "t_word": 15.64,
+   "word": "do",
+   "element": "Corte (15.52) a plano general horizontal 16:9 de los dos, en franja central con relleno blur arriba/abajo",
+   "category": "aroll_plain",
+   "offset_s": -0.12,
+   "why": "contexto (la pregunta se 'escenifica' en la conversación)"
+  },
+  {
+   "t_word": 17.1,
+   "word": "meaningless?",
+   "element": "'MEANINGLESS?' serif dorada mayúsculas tracking ancho bajo el caption (17.45); cruza el corte de 18.18 y se funde (18.3)",
+   "category": "captions_text",
+   "offset_s": 0.35,
+   "why": "énfasis: palabra de la pregunta"
+  },
+  {
+   "t_word": 18.08,
+   "word": "And",
+   "element": "Corte (18.18) a primer plano cerrado de Brooks; 'and then they say:' serif pequeña blanca a la izquierda (18.4)",
+   "category": "captions_text",
+   "offset_s": 0.1,
+   "why": "setup"
+  },
+  {
+   "t_word": 19.78,
+   "word": "yeah.",
+   "element": "'Yeah…' serif dorada gigante (20.2) debajo de 'and then they say:'",
+   "category": "captions_text",
+   "offset_s": 0.42,
+   "why": "payoff tipográfico tras una pausa"
+  },
+  {
+   "t_word": 19.78,
+   "word": "yeah.",
+   "element": "Light leak: flash blanco (20.55) + marrón-rojizo; 'Yeah…' sigue fantasma y se funde a negro (21.08)",
+   "category": "captions_text",
+   "offset_s": 0.77,
+   "why": "pausa dramática / cierre de capítulo"
+  },
+  {
+   "t_word": 22.64,
+   "word": "I've",
+   "element": "Negro con crédito 'in conversation with Arthur Brooks' (fade-in 21.2-21.7) + caption 'I've been giving' (22.75)",
+   "category": "title_cta",
+   "offset_s": 0.11,
+   "why": "crédito de cine"
+  },
+  {
+   "t_word": 23.78,
+   "word": "test",
+   "element": "Leak marrón → flash blanco 2 frames (23.67-23.73) → Brooks plano medio (23.78)",
+   "category": "aroll_plain",
+   "offset_s": 0.0,
+   "why": "nuevo capítulo (el test)"
+  },
+  {
+   "t_word": 28.94,
+   "word": "The",
+   "element": "Zoom-blur vertical + glitch tipo código de barras (29.0-29.38) hacia tarjeta de papel 'The Meaning Exam'",
+   "category": "text_centric",
+   "offset_s": 0.06,
+   "why": "cambio a modo 'documento'"
+  },
+  {
+   "t_word": 29.96,
+   "word": "why",
+   "element": "'1. Why are you alive?' se escribe letra a letra (29.9-30.6) en serif fina",
+   "category": "text_centric",
+   "offset_s": -0.06,
+   "why": "literal: la pregunta del examen"
+  },
+  {
+   "t_word": 31.34,
+   "word": "second",
+   "element": "'2. For what would you give your life?' write-on (31.5-33.3)",
+   "category": "text_centric",
+   "offset_s": 0.16,
+   "why": "literal"
+  },
+  {
+   "t_word": 33.92,
+   "word": "Traditionally,",
+   "element": "Glitch/zoom-blur inverso de vuelta a Brooks (33.93-34.36)",
+   "category": "aroll_plain",
+   "offset_s": 0.01,
+   "why": "vuelta al A-roll"
+  },
+  {
+   "t_word": 34.56,
+   "word": "85",
+   "element": "'85% PASS' sans bold mayúsculas blanca con sombra, typewriter (34.80-35.25) a la izquierda a ~40 % de alto",
+   "category": "graph_stats",
+   "offset_s": 0.24,
+   "why": "dato positivo = blanco"
+  },
+  {
+   "t_word": 36.36,
+   "word": "15",
+   "element": "'15% FAIL' rojo oscuro #8E1B1B typewriter (36.58-36.85) desplazado a la derecha y debajo",
+   "category": "graph_stats",
+   "offset_s": 0.22,
+   "why": "dato negativo = rojo"
+  },
+  {
+   "t_word": 37.94,
+   "word": "And",
+   "element": "Los datos se borran carácter a carácter desde la izquierda (37.88-38.15)",
+   "category": "graph_stats",
+   "offset_s": -0.06,
+   "why": "transición de dato (backspace)"
+  },
+  {
+   "t_word": 39.58,
+   "word": "Now",
+   "element": "Corte (39.54) a primer plano cerrado + '50% FAIL' rojo typewriter sobre el pecho (39.61-39.94)",
+   "category": "graph_stats",
+   "offset_s": -0.04,
+   "why": "dato peor con punch-in"
+  },
+  {
+   "t_word": 41.64,
+   "word": "It's",
+   "element": "Corte (41.54) a plano general 16:9 con blur-fill",
+   "category": "aroll_plain",
+   "offset_s": -0.1,
+   "why": "respiro tras el dato"
+  },
+  {
+   "t_word": 44.16,
+   "word": "Clinical",
+   "element": "Corte (44.09) a Brooks plano medio (otro ángulo)",
+   "category": "aroll_plain",
+   "offset_s": -0.07,
+   "why": "enumeración de datos solo en caption"
+  },
+  {
+   "t_word": 48.58,
+   "word": "What",
+   "element": "Corte (48.47) a primer plano muy cerrado; 'What' serif blanca grande a la izquierda (48.60)",
+   "category": "captions_text",
+   "offset_s": 0.02,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 48.72,
+   "word": "happened?",
+   "element": "'Happened?' serif debajo (48.99); a 49.26 el fondo cae a negro con aberración cromática y el texto se desenfoca hasta 50.3",
+   "category": "captions_text",
+   "offset_s": 0.27,
+   "why": "cliffhanger: pregunta que queda en el aire"
+  },
+  {
+   "t_word": 50.68,
+   "word": "greatest,",
+   "element": "Caption 'greatest,' sobre negro → light leak naranja→blanco (50.88-51.05) → Fr. Dave con tinte cálido que se normaliza (51.28)",
+   "category": "aroll_plain",
+   "offset_s": 0.2,
+   "why": "cambio de hablante + tesis"
+  },
+  {
+   "t_word": 55.62,
+   "word": "So",
+   "element": "Corte (55.76) a Fr. Dave desde otro ángulo (estantería de libros)",
+   "category": "aroll_plain",
+   "offset_s": 0.14,
+   "why": "variedad de cámara"
+  },
+  {
+   "t_word": 61.14,
+   "word": "If",
+   "element": "Corte (60.94) a Brooks plano medio",
+   "category": "aroll_plain",
+   "offset_s": -0.2,
+   "why": "cambio de hablante"
+  },
+  {
+   "t_word": 68.24,
+   "word": "You",
+   "element": "Corte (67.86) a primer plano cerrado; 'You will' sans blanca (67.99) → 'avoid the' (68.5)",
+   "category": "captions_text",
+   "offset_s": -0.25,
+   "why": "setup pull-quote"
+  },
+  {
+   "t_word": 69.28,
+   "word": "meaning",
+   "element": "'Meaning' serif dorada grande (68.95)",
+   "category": "captions_text",
+   "offset_s": -0.33,
+   "why": "payoff"
+  },
+  {
+   "t_word": 69.68,
+   "word": "life.",
+   "element": "'of your' sans + 'Life' serif dorada (69.2); el fondo se desenfoca y oscurece a negro (69.38-69.6) dejando solo la cita",
+   "category": "text_centric",
+   "offset_s": -0.48,
+   "why": "pull-quote aislado"
+  },
+  {
+   "t_word": 72.4,
+   "word": "I",
+   "element": "Título de serie 'IN FOCUS' blur-in sobre humo oscuro (70.95-71.15) + 'THE MEANING OF YOUR LIFE' diminuto",
+   "category": "title_cta",
+   "offset_s": -1.45,
+   "why": "marca de serie (entra en el silencio antes de la voz)"
+  },
+  {
+   "t_word": 77.36,
+   "word": "crisis",
+   "element": "Leak marrón (77.05) + flash blanco (77.18) → plano general 16:9; CTA 'AVAILABLE ON / FAITH & REASON / faithandreason.com' blur-in (77.5-77.75)",
+   "category": "title_cta",
+   "offset_s": -0.11,
+   "why": "CTA overlay"
+  },
+  {
+   "t_word": 80.26,
+   "word": "that's",
+   "element": "Corte (80.25) a Brooks plano medio; el overlay CTA cruza el corte",
+   "category": "title_cta",
+   "offset_s": -0.01,
+   "why": "CTA persistente"
+  },
+  {
+   "t_word": 81.64,
+   "word": "evangelization.",
+   "element": "CTA se funde (82.5-82.64) y corte a negro (82.71)",
+   "category": "title_cta",
+   "offset_s": 0.86,
+   "why": "fin del contenido"
+  },
+  {
+   "t_word": 88.64,
+   "word": "Thank",
+   "element": "Logo Franciscan University fade-in desde negro vía gris (84.23-84.6) y fade a negro (89.68-90.0)",
+   "category": "title_cta",
+   "offset_s": -4.41,
+   "why": "firma institucional (el logo entra 4 s antes del 'Thank you')"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 0.73,
+   "from": "A-roll Brooks",
+   "to": "macro ojo",
+   "type": "flash amarillo",
+   "frames": 6,
+   "detail": "light leak ámbar→blanco puro (0.80-0.87) y el ojo emerge del blanco con tinte dorado"
+  },
+  {
+   "t": 1.71,
+   "from": "macro ojo",
+   "to": "mujer capucha",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "(en 1.13 hay un pulso de leak dentro del mismo plano)"
+  },
+  {
+   "t": 2.5,
+   "from": "mujer capucha",
+   "to": "chica móvil verde",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 3.25,
+   "from": "chica móvil",
+   "to": "macro dedo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 3.43,
+   "from": "macro dedo",
+   "to": "Fr. Dave primer plano",
+   "type": "flash amarillo",
+   "frames": 13,
+   "detail": "leak ámbar (3.43) → blanco (3.88) → primer plano (3.95)"
+  },
+  {
+   "t": 6.78,
+   "from": "Fr. Dave + AWARE",
+   "to": "negro (crédito)",
+   "type": "flash amarillo",
+   "frames": 14,
+   "detail": "leak naranja→dorado→blanco (7.18-7.23) → negro 7.37; el crédito entra con fade 0.2 s"
+  },
+  {
+   "t": 9.68,
+   "from": "negro crédito",
+   "to": "Brooks plano medio",
+   "type": "flash amarillo",
+   "frames": 3,
+   "detail": "flash dorado-blanco corto con el caption 'understand' encima"
+  },
+  {
+   "t": 12.8,
+   "from": "Brooks medio",
+   "to": "Brooks cerrado (cám. 2)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "punch-in por cambio de cámara"
+  },
+  {
+   "t": 15.52,
+   "from": "Brooks cerrado",
+   "to": "plano general 16:9 + blur-fill",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 18.18,
+   "from": "plano general",
+   "to": "primer plano Brooks",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "'MEANINGLESS?' cruza el corte y se funde"
+  },
+  {
+   "t": 20.52,
+   "from": "primer plano + Yeah…",
+   "to": "negro (crédito)",
+   "type": "flash blanco",
+   "frames": 14,
+   "detail": "blanco (20.55) → leak marrón-rojizo → negro 21.08; 'Yeah…' fantasma encima"
+  },
+  {
+   "t": 23.53,
+   "from": "negro crédito",
+   "to": "Brooks plano medio",
+   "type": "flash blanco",
+   "frames": 6,
+   "detail": "leak marrón (23.53) → blanco 2 frames con caption gris (23.67-23.73)"
+  },
+  {
+   "t": 29.0,
+   "from": "Brooks",
+   "to": "tarjeta papel 'The Meaning Exam'",
+   "type": "glitch",
+   "frames": 9,
+   "detail": "zoom-blur vertical + franjas tipo código de barras; el papel sube desde abajo"
+  },
+  {
+   "t": 33.93,
+   "from": "tarjeta papel",
+   "to": "Brooks",
+   "type": "glitch",
+   "frames": 10,
+   "detail": "misma transición invertida (barcode + blur), caption 'Traditionally,' encima"
+  },
+  {
+   "t": 39.54,
+   "from": "Brooks medio",
+   "to": "Brooks primer plano",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "punch-in de cámara para el dato peor"
+  },
+  {
+   "t": 41.54,
+   "from": "primer plano",
+   "to": "plano general blur-fill",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 44.09,
+   "from": "plano general",
+   "to": "Brooks medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 48.47,
+   "from": "Brooks medio",
+   "to": "primer plano muy cerrado",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "punch-in en 'What happened?'"
+  },
+  {
+   "t": 49.26,
+   "from": "primer plano + texto",
+   "to": "negro + texto",
+   "type": "crossfade",
+   "frames": 24,
+   "detail": "el fondo cae a negro de golpe y el texto queda con aberración cromática desenfocándose ~1 s"
+  },
+  {
+   "t": 50.88,
+   "from": "negro + caption",
+   "to": "Fr. Dave",
+   "type": "flash amarillo",
+   "frames": 5,
+   "detail": "leak naranja→blanco (51.01) → plano cálido que vuelve al grade normal en 0.2 s"
+  },
+  {
+   "t": 55.76,
+   "from": "Fr. Dave ángulo 1",
+   "to": "Fr. Dave ángulo 2",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 60.94,
+   "from": "Fr. Dave",
+   "to": "Brooks medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 67.86,
+   "from": "Brooks medio",
+   "to": "Brooks primer plano",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "punch-in para el pull-quote"
+  },
+  {
+   "t": 69.38,
+   "from": "primer plano + cita",
+   "to": "negro + cita",
+   "type": "crossfade",
+   "frames": 6,
+   "detail": "fondo con blur + fade a negro; la cita queda"
+  },
+  {
+   "t": 70.0,
+   "from": "cita sobre negro",
+   "to": "IN FOCUS",
+   "type": "crossfade",
+   "frames": 23,
+   "detail": "la cita sale línea a línea con blur (70.0-70.35), negro 0.6 s, título entra con blur-in (70.95)"
+  },
+  {
+   "t": 77.05,
+   "from": "IN FOCUS",
+   "to": "plano general + CTA",
+   "type": "flash blanco",
+   "frames": 5,
+   "detail": "leak marrón (77.05) → 1 frame blanco (77.18) → plano general"
+  },
+  {
+   "t": 80.25,
+   "from": "plano general",
+   "to": "Brooks medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "CTA overlay persiste"
+  },
+  {
+   "t": 82.64,
+   "from": "Brooks",
+   "to": "negro",
+   "type": "crossfade",
+   "frames": 2,
+   "detail": "fade rápido a negro"
+  },
+  {
+   "t": 84.23,
+   "from": "negro",
+   "to": "logo",
+   "type": "crossfade",
+   "frames": 9,
+   "detail": "fade desde negro pasando por gris al blanco del logo"
+  },
+  {
+   "t": 89.68,
+   "from": "logo",
+   "to": "negro",
+   "type": "crossfade",
+   "frames": 8,
+   "detail": "fade a negro final"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.0,
+   "fx": "blur-in",
+   "detail": "captions base: sans geométrica fina minúscula blanca a ~63 % de alto, 2-3 palabras, cambian por frase con fade corto"
+  },
+  {
+   "t": 6.03,
+   "fx": "tracking",
+   "detail": "'are  they  even' sans fina con tracking muy abierto, palabras separadas"
+  },
+  {
+   "t": 6.23,
+   "fx": "escala",
+   "detail": "'AWARE' serif dorada 4-5× el caption + '???' (bloque aparte, no recolorea el caption)"
+  },
+  {
+   "t": 7.5,
+   "fx": "blur-in",
+   "detail": "crédito 'Join Fr. Dave Pivonka, TOR' serif diminuta gris sobre negro, fade 0.2 s"
+  },
+  {
+   "t": 17.45,
+   "fx": "tracking",
+   "detail": "'MEANINGLESS?' serif dorada mayúsculas aparece con fade y tracking ancho bajo el caption"
+  },
+  {
+   "t": 18.4,
+   "fx": "write-on por palabra",
+   "detail": "'and then they say:' serif pequeña a la izquierda"
+  },
+  {
+   "t": 20.2,
+   "fx": "escala",
+   "detail": "'Yeah…' serif dorada gigante — setup pequeño / payoff enorme"
+  },
+  {
+   "t": 20.6,
+   "fx": "máscara",
+   "detail": "'Yeah…' queda fantasma dentro del leak y se funde a negro"
+  },
+  {
+   "t": 29.9,
+   "fx": "write-on por palabra",
+   "detail": "lista del examen letra a letra (máquina de escribir suave) en serif fina gris oscura sobre papel"
+  },
+  {
+   "t": 34.8,
+   "fx": "write-on por palabra",
+   "detail": "'85% PASS' typewriter carácter a carácter ~0.1 s/carácter"
+  },
+  {
+   "t": 36.58,
+   "fx": "write-on por palabra",
+   "detail": "'15% FAIL' rojo typewriter"
+  },
+  {
+   "t": 37.88,
+   "fx": "máscara",
+   "detail": "borrado tipo backspace de ambos datos desde la izquierda"
+  },
+  {
+   "t": 39.61,
+   "fx": "write-on por palabra",
+   "detail": "'50% FAIL' rojo typewriter en el punch-in"
+  },
+  {
+   "t": 48.6,
+   "fx": "pop",
+   "detail": "'What' serif blanca grande; 'Happened?' entra 0.4 s después debajo"
+  },
+  {
+   "t": 49.26,
+   "fx": "blur-in",
+   "detail": "aberración cromática RGB + desenfoque progresivo del texto al caer el fondo a negro (salida)"
+  },
+  {
+   "t": 67.99,
+   "fx": "write-on por palabra",
+   "detail": "'You will' → 'You will avoid the' sans blanca a la izquierda, luego 'Meaning' y 'of your Life' serif dorada"
+  },
+  {
+   "t": 70.0,
+   "fx": "blur-in",
+   "detail": "la cita sale palabra/línea a línea con blur (salida)"
+  },
+  {
+   "t": 70.95,
+   "fx": "blur-in",
+   "detail": "'IN FOCUS' serif fina con anillo alrededor de la O, blur→nítido 0.2 s"
+  },
+  {
+   "t": 77.5,
+   "fx": "blur-in",
+   "detail": "CTA 'AVAILABLE ON' (tracking muy abierto) / 'FAITH & REASON' sans bold / URL diminuta, blur-in 0.25 s"
+  },
+  {
+   "t": 82.5,
+   "fx": "blur-in",
+   "detail": "CTA sale con fade/blur"
+  }
+ ],
+ "camera": [
+  {
+   "t": 0.93,
+   "move": "push-in lento",
+   "scale_or_dir": "macro ojo 1.0→1.05",
+   "dur_s": 0.7
+  },
+  {
+   "t": 12.8,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.35 (cambio de cámara)",
+   "dur_s": 0.0
+  },
+  {
+   "t": 15.52,
+   "move": "zoom-out",
+   "scale_or_dir": "16:9 en franja central + blur-fill",
+   "dur_s": 0.0
+  },
+  {
+   "t": 18.18,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.5 (primer plano)",
+   "dur_s": 0.0
+  },
+  {
+   "t": 29.0,
+   "move": "slide",
+   "scale_or_dir": "tarjeta sube de abajo con motion blur vertical",
+   "dur_s": 0.38
+  },
+  {
+   "t": 39.54,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.5",
+   "dur_s": 0.0
+  },
+  {
+   "t": 41.54,
+   "move": "zoom-out",
+   "scale_or_dir": "16:9 + blur-fill",
+   "dur_s": 0.0
+  },
+  {
+   "t": 48.47,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.6",
+   "dur_s": 0.0
+  },
+  {
+   "t": 48.6,
+   "move": "push-in lento",
+   "scale_or_dir": "1.0→1.05",
+   "dur_s": 0.66
+  },
+  {
+   "t": 51.1,
+   "move": "push-in lento",
+   "scale_or_dir": "Fr. Dave 1.0→1.03",
+   "dur_s": 4.0
+  },
+  {
+   "t": 67.86,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.4",
+   "dur_s": 0.0
+  },
+  {
+   "t": 69.38,
+   "move": "rack-focus",
+   "scale_or_dir": "fondo a blur total + oscurecer",
+   "dur_s": 0.22
+  },
+  {
+   "t": 77.25,
+   "move": "zoom-out",
+   "scale_or_dir": "16:9 + blur-fill",
+   "dur_s": 0.0
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   23,
+   12,
+   13,
+   13,
+   13,
+   5,
+   10,
+   8,
+   8,
+   0
+  ],
+  "avg_hold_text_s": 1.0,
+  "notes": "Hook ultra-rápido (5 planos en 4 s, 0.5-0.8 s c/u, 1 b-roll por palabra abstracta); después A-roll de 2.5-6 s con cortes de cámara en cada cambio de idea; tarjetas/créditos 1.5-4 s. Los cortes de cámara caen 0.05-0.2 s ANTES de la primera palabra de la frase; los bloques serif dorados llegan 0.2-0.4 s después del caption base. Final lento: pull-quote → negro → título → CTA → logo (20 s sin b-roll)."
+ },
+ "typography": "Caption base: sans geométrica fina (tipo Outfit/Jost Light), minúsculas, blanca, 2-3 palabras, centrada a ~63 % de alto, sombra suave, sin caja; sobre blanco pasa a gris con contorno. Bloque de énfasis APARTE del caption (máx. 1 por frase clave): serif alto contraste ligera (tipo Playfair/Cormorant) con degradado dorado-melocotón #F5D3A8→#E39A5C, 4-5× el caption ('AWARE', 'MEANINGLESS?', 'Yeah…', 'Meaning', 'Life'); setup en sans/serif pequeña blanca alineada a la izquierda + payoff dorado gigante. Mayúsculas solo en AWARE/MEANINGLESS?. Datos: sans bold MAYÚSCULAS con sombra, blanco = pasa, rojo oscuro #8E1B1B = falla, typewriter. 'What / Happened?' serif blanca grande. Créditos de cine en serif minúscula diminuta gris sobre negro. Título de serie 'IN FOCUS' serif fina espaciada; CTA 'FAITH & REASON' sans bold con tracking amplio en 'AVAILABLE ON'.",
+ "textures": "Light leaks/film burn dorado-ámbar-marrón en cada cambio de capítulo o hablante (0.73, 1.13 pulso, 3.43, 6.78, 9.68, 20.52, 23.53, 50.88, 77.05); grano fino constante y viñeta suave; papel beige con motas y glow naranja-brasa en el borde inferior en la tarjeta del examen; humo oscuro bajo 'IN FOCUS'; relleno blur del mismo plano en los planos 16:9; aberración cromática en 'What Happened?'; glitch tipo código de barras en la entrada/salida de la tarjeta de papel.",
+ "distinct": [
+  "Gramática de cine documental: créditos sobre negro ('Join Fr. Dave Pivonka, TOR' 7.4 s, 'in conversation with Arthur Brooks' 21.1 s) a modo de títulos de apertura en mitad del clip.",
+  "El light leak dorado es la 'puntuación' del vídeo: separa hook, créditos, capítulos y cambios de hablante; los cortes internos de un mismo hablante son secos.",
+  "Setup pequeño / payoff serif dorado gigante sincronizado con la palabra: 'are they even' → 'AWARE ???', 'and then they say:' → 'Yeah…', 'You will avoid the' → 'Meaning of your Life'.",
+  "Datos tecleados y borrados (typewriter + backspace) con código de color blanco/rojo y el dato peor en punch-in (85/15 → 50 % FAIL).",
+  "Glitch barcode + zoom-blur exclusivo para entrar/salir del 'documento' (tarjeta de papel 'The Meaning Exam'): el material de prueba tiene su propia transición."
+ ]
+}

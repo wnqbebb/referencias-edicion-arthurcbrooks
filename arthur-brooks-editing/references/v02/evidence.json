@@ -1,0 +1,1104 @@
+{
+  "video": "v02.mp4",
+  "duration": 41.36,
+  "derived": {
+    "shots": 6,
+    "avg_shot_len": 6.89,
+    "cuts_per_min": 8.7,
+    "hook_shots_first_3s": 2,
+    "high_motion_shots": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "method": "ffmpeg scene>0.32 + keyframes 5/plano + paleta cuantizada + energía de movimiento",
+  "words": [
+    {
+      "w": "Do",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "w": "you",
+      "start": 0.18,
+      "end": 0.24
+    },
+    {
+      "w": "have",
+      "start": 0.24,
+      "end": 0.32
+    },
+    {
+      "w": "any",
+      "start": 0.32,
+      "end": 0.42
+    },
+    {
+      "w": "recommendations",
+      "start": 0.42,
+      "end": 0.84
+    },
+    {
+      "w": "for",
+      "start": 0.84,
+      "end": 1.1
+    },
+    {
+      "w": "parents",
+      "start": 1.1,
+      "end": 1.38
+    },
+    {
+      "w": "out",
+      "start": 1.38,
+      "end": 1.58
+    },
+    {
+      "w": "there",
+      "start": 1.58,
+      "end": 1.74
+    },
+    {
+      "w": "that",
+      "start": 1.74,
+      "end": 1.9
+    },
+    {
+      "w": "are",
+      "start": 1.9,
+      "end": 1.98
+    },
+    {
+      "w": "trying",
+      "start": 1.98,
+      "end": 2.3
+    },
+    {
+      "w": "to",
+      "start": 2.3,
+      "end": 2.44
+    },
+    {
+      "w": "raise",
+      "start": 2.44,
+      "end": 2.7
+    },
+    {
+      "w": "conscious",
+      "start": 2.7,
+      "end": 3.4
+    },
+    {
+      "w": "kids",
+      "start": 3.4,
+      "end": 3.82
+    },
+    {
+      "w": "that",
+      "start": 3.82,
+      "end": 4.1
+    },
+    {
+      "w": "are",
+      "start": 4.1,
+      "end": 4.2
+    },
+    {
+      "w": "not",
+      "start": 4.2,
+      "end": 4.38
+    },
+    {
+      "w": "addicted",
+      "start": 4.38,
+      "end": 4.72
+    },
+    {
+      "w": "to",
+      "start": 4.72,
+      "end": 5.02
+    },
+    {
+      "w": "technologies?",
+      "start": 5.02,
+      "end": 5.6
+    },
+    {
+      "w": "They",
+      "start": 5.98,
+      "end": 6.2
+    },
+    {
+      "w": "don't",
+      "start": 6.2,
+      "end": 6.3
+    },
+    {
+      "w": "care",
+      "start": 6.3,
+      "end": 6.48
+    },
+    {
+      "w": "what",
+      "start": 6.48,
+      "end": 6.6
+    },
+    {
+      "w": "you",
+      "start": 6.6,
+      "end": 6.7
+    },
+    {
+      "w": "say.",
+      "start": 6.7,
+      "end": 6.86
+    },
+    {
+      "w": "They're",
+      "start": 7.12,
+      "end": 7.42
+    },
+    {
+      "w": "not",
+      "start": 7.42,
+      "end": 7.64
+    },
+    {
+      "w": "going",
+      "start": 7.64,
+      "end": 7.84
+    },
+    {
+      "w": "to",
+      "start": 7.84,
+      "end": 7.94
+    },
+    {
+      "w": "listen.",
+      "start": 7.94,
+      "end": 8.16
+    },
+    {
+      "w": "You",
+      "start": 8.42,
+      "end": 8.58
+    },
+    {
+      "w": "have",
+      "start": 8.58,
+      "end": 8.82
+    },
+    {
+      "w": "to",
+      "start": 8.82,
+      "end": 8.96
+    },
+    {
+      "w": "model",
+      "start": 8.96,
+      "end": 9.36
+    },
+    {
+      "w": "exactly",
+      "start": 9.36,
+      "end": 9.82
+    },
+    {
+      "w": "what",
+      "start": 9.82,
+      "end": 10.04
+    },
+    {
+      "w": "you",
+      "start": 10.04,
+      "end": 10.16
+    },
+    {
+      "w": "want",
+      "start": 10.16,
+      "end": 10.32
+    },
+    {
+      "w": "to",
+      "start": 10.32,
+      "end": 10.44
+    },
+    {
+      "w": "see.",
+      "start": 10.44,
+      "end": 10.6
+    },
+    {
+      "w": "If",
+      "start": 10.98,
+      "end": 11.12
+    },
+    {
+      "w": "you",
+      "start": 11.12,
+      "end": 11.34
+    },
+    {
+      "w": "don't",
+      "start": 11.34,
+      "end": 11.62
+    },
+    {
+      "w": "want",
+      "start": 11.62,
+      "end": 11.8
+    },
+    {
+      "w": "your",
+      "start": 11.8,
+      "end": 11.96
+    },
+    {
+      "w": "kids",
+      "start": 11.96,
+      "end": 12.24
+    },
+    {
+      "w": "to",
+      "start": 12.24,
+      "end": 12.42
+    },
+    {
+      "w": "be",
+      "start": 12.42,
+      "end": 12.54
+    },
+    {
+      "w": "screwing",
+      "start": 12.54,
+      "end": 12.96
+    },
+    {
+      "w": "around",
+      "start": 12.96,
+      "end": 13.12
+    },
+    {
+      "w": "with",
+      "start": 13.12,
+      "end": 13.26
+    },
+    {
+      "w": "their",
+      "start": 13.26,
+      "end": 13.36
+    },
+    {
+      "w": "phones",
+      "start": 13.36,
+      "end": 13.68
+    },
+    {
+      "w": "at",
+      "start": 13.68,
+      "end": 14.08
+    },
+    {
+      "w": "dinner,",
+      "start": 14.08,
+      "end": 14.34
+    },
+    {
+      "w": "you",
+      "start": 14.48,
+      "end": 14.72
+    },
+    {
+      "w": "put",
+      "start": 14.72,
+      "end": 14.92
+    },
+    {
+      "w": "your",
+      "start": 14.92,
+      "end": 15.02
+    },
+    {
+      "w": "phone",
+      "start": 15.02,
+      "end": 15.24
+    },
+    {
+      "w": "away",
+      "start": 15.24,
+      "end": 15.48
+    },
+    {
+      "w": "and",
+      "start": 15.48,
+      "end": 15.7
+    },
+    {
+      "w": "you're",
+      "start": 15.7,
+      "end": 15.84
+    },
+    {
+      "w": "not",
+      "start": 15.84,
+      "end": 16.0
+    },
+    {
+      "w": "looking",
+      "start": 16.0,
+      "end": 16.26
+    },
+    {
+      "w": "at",
+      "start": 16.26,
+      "end": 16.42
+    },
+    {
+      "w": "it",
+      "start": 16.42,
+      "end": 16.52
+    },
+    {
+      "w": "and",
+      "start": 16.52,
+      "end": 16.58
+    },
+    {
+      "w": "you're",
+      "start": 16.58,
+      "end": 16.68
+    },
+    {
+      "w": "having",
+      "start": 16.68,
+      "end": 16.82
+    },
+    {
+      "w": "a",
+      "start": 16.82,
+      "end": 16.96
+    },
+    {
+      "w": "conversation",
+      "start": 16.96,
+      "end": 17.34
+    },
+    {
+      "w": "with",
+      "start": 17.34,
+      "end": 17.74
+    },
+    {
+      "w": "them",
+      "start": 17.74,
+      "end": 17.84
+    },
+    {
+      "w": "at",
+      "start": 17.84,
+      "end": 17.96
+    },
+    {
+      "w": "dinner.",
+      "start": 17.96,
+      "end": 18.14
+    },
+    {
+      "w": "And",
+      "start": 18.26,
+      "end": 18.46
+    },
+    {
+      "w": "it",
+      "start": 18.46,
+      "end": 18.56
+    },
+    {
+      "w": "won't",
+      "start": 18.56,
+      "end": 18.86
+    },
+    {
+      "w": "work",
+      "start": 18.86,
+      "end": 19.2
+    },
+    {
+      "w": "right",
+      "start": 19.2,
+      "end": 19.36
+    },
+    {
+      "w": "away,",
+      "start": 19.36,
+      "end": 19.66
+    },
+    {
+      "w": "but",
+      "start": 19.66,
+      "end": 20.04
+    },
+    {
+      "w": "that",
+      "start": 20.04,
+      "end": 20.18
+    },
+    {
+      "w": "model",
+      "start": 20.18,
+      "end": 20.44
+    },
+    {
+      "w": "really",
+      "start": 20.44,
+      "end": 20.64
+    },
+    {
+      "w": "works.",
+      "start": 20.64,
+      "end": 20.86
+    },
+    {
+      "w": "If",
+      "start": 20.98,
+      "end": 21.04
+    },
+    {
+      "w": "you",
+      "start": 21.04,
+      "end": 21.18
+    },
+    {
+      "w": "want",
+      "start": 21.18,
+      "end": 21.48
+    },
+    {
+      "w": "your",
+      "start": 21.48,
+      "end": 21.64
+    },
+    {
+      "w": "kids",
+      "start": 21.64,
+      "end": 21.84
+    },
+    {
+      "w": "to",
+      "start": 21.84,
+      "end": 22.0
+    },
+    {
+      "w": "practice",
+      "start": 22.0,
+      "end": 22.24
+    },
+    {
+      "w": "the",
+      "start": 22.24,
+      "end": 22.48
+    },
+    {
+      "w": "faith,",
+      "start": 22.48,
+      "end": 22.68
+    },
+    {
+      "w": "you",
+      "start": 22.88,
+      "end": 23.0
+    },
+    {
+      "w": "must",
+      "start": 23.0,
+      "end": 23.18
+    },
+    {
+      "w": "practice",
+      "start": 23.18,
+      "end": 23.52
+    },
+    {
+      "w": "the",
+      "start": 23.52,
+      "end": 23.74
+    },
+    {
+      "w": "faith.",
+      "start": 23.74,
+      "end": 23.9
+    },
+    {
+      "w": "If",
+      "start": 24.24,
+      "end": 24.38
+    },
+    {
+      "w": "you",
+      "start": 24.38,
+      "end": 24.48
+    },
+    {
+      "w": "don't",
+      "start": 24.48,
+      "end": 24.76
+    },
+    {
+      "w": "want",
+      "start": 24.76,
+      "end": 24.96
+    },
+    {
+      "w": "your",
+      "start": 24.96,
+      "end": 25.06
+    },
+    {
+      "w": "kids",
+      "start": 25.06,
+      "end": 25.26
+    },
+    {
+      "w": "to",
+      "start": 25.26,
+      "end": 25.44
+    },
+    {
+      "w": "drink,",
+      "start": 25.44,
+      "end": 25.66
+    },
+    {
+      "w": "you",
+      "start": 25.8,
+      "end": 25.9
+    },
+    {
+      "w": "shouldn't",
+      "start": 25.9,
+      "end": 26.34
+    },
+    {
+      "w": "drink.",
+      "start": 26.34,
+      "end": 26.62
+    },
+    {
+      "w": "If",
+      "start": 26.62,
+      "end": 26.92
+    },
+    {
+      "w": "you",
+      "start": 26.92,
+      "end": 27.1
+    },
+    {
+      "w": "don't",
+      "start": 27.1,
+      "end": 27.38
+    },
+    {
+      "w": "want",
+      "start": 27.38,
+      "end": 27.52
+    },
+    {
+      "w": "your",
+      "start": 27.52,
+      "end": 27.64
+    },
+    {
+      "w": "kids",
+      "start": 27.64,
+      "end": 27.88
+    },
+    {
+      "w": "to",
+      "start": 27.88,
+      "end": 28.06
+    },
+    {
+      "w": "be",
+      "start": 28.06,
+      "end": 28.16
+    },
+    {
+      "w": "abusive,",
+      "start": 28.16,
+      "end": 28.7
+    },
+    {
+      "w": "yelling",
+      "start": 29.1,
+      "end": 29.3
+    },
+    {
+      "w": "taunts",
+      "start": 29.3,
+      "end": 30.02
+    },
+    {
+      "w": "out",
+      "start": 30.02,
+      "end": 30.2
+    },
+    {
+      "w": "the",
+      "start": 30.2,
+      "end": 30.42
+    },
+    {
+      "w": "car",
+      "start": 30.42,
+      "end": 30.74
+    },
+    {
+      "w": "window",
+      "start": 30.74,
+      "end": 31.08
+    },
+    {
+      "w": "in",
+      "start": 31.08,
+      "end": 31.24
+    },
+    {
+      "w": "traffic,",
+      "start": 31.24,
+      "end": 31.58
+    },
+    {
+      "w": "you",
+      "start": 31.86,
+      "end": 31.96
+    },
+    {
+      "w": "better",
+      "start": 31.96,
+      "end": 32.26
+    },
+    {
+      "w": "never",
+      "start": 32.26,
+      "end": 32.52
+    },
+    {
+      "w": "do",
+      "start": 32.52,
+      "end": 32.78
+    },
+    {
+      "w": "that.",
+      "start": 32.78,
+      "end": 33.02
+    },
+    {
+      "w": "You",
+      "start": 33.22,
+      "end": 33.3
+    },
+    {
+      "w": "better",
+      "start": 33.3,
+      "end": 33.52
+    },
+    {
+      "w": "live",
+      "start": 33.52,
+      "end": 33.98
+    },
+    {
+      "w": "thinking,",
+      "start": 33.98,
+      "end": 34.74
+    },
+    {
+      "w": "I'm",
+      "start": 35.04,
+      "end": 35.28
+    },
+    {
+      "w": "going",
+      "start": 35.28,
+      "end": 35.38
+    },
+    {
+      "w": "to",
+      "start": 35.38,
+      "end": 35.52
+    },
+    {
+      "w": "live",
+      "start": 35.52,
+      "end": 35.86
+    },
+    {
+      "w": "as",
+      "start": 35.86,
+      "end": 36.26
+    },
+    {
+      "w": "if",
+      "start": 36.26,
+      "end": 36.64
+    },
+    {
+      "w": "I",
+      "start": 36.64,
+      "end": 37.04
+    },
+    {
+      "w": "were",
+      "start": 37.04,
+      "end": 37.18
+    },
+    {
+      "w": "the",
+      "start": 37.18,
+      "end": 37.32
+    },
+    {
+      "w": "man",
+      "start": 37.32,
+      "end": 37.64
+    },
+    {
+      "w": "I",
+      "start": 37.64,
+      "end": 37.86
+    },
+    {
+      "w": "want",
+      "start": 37.86,
+      "end": 38.12
+    },
+    {
+      "w": "my",
+      "start": 38.12,
+      "end": 38.36
+    },
+    {
+      "w": "son",
+      "start": 38.36,
+      "end": 38.68
+    },
+    {
+      "w": "to",
+      "start": 38.68,
+      "end": 38.9
+    },
+    {
+      "w": "be.",
+      "start": 38.9,
+      "end": 39.1
+    },
+    {
+      "w": "That's",
+      "start": 39.32,
+      "end": 39.64
+    },
+    {
+      "w": "how",
+      "start": 39.64,
+      "end": 39.74
+    },
+    {
+      "w": "you",
+      "start": 39.74,
+      "end": 39.84
+    },
+    {
+      "w": "live",
+      "start": 39.84,
+      "end": 40.08
+    },
+    {
+      "w": "and",
+      "start": 40.08,
+      "end": 40.36
+    },
+    {
+      "w": "that's",
+      "start": 40.36,
+      "end": 40.7
+    },
+    {
+      "w": "what",
+      "start": 40.7,
+      "end": 40.78
+    },
+    {
+      "w": "really",
+      "start": 40.78,
+      "end": 40.94
+    },
+    {
+      "w": "matters.",
+      "start": 40.94,
+      "end": 41.16
+    }
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.917,
+      "length": 2.917,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#131112",
+            "share": 0.551
+          },
+          {
+            "hex": "#2A272A",
+            "share": 0.14
+          },
+          {
+            "hex": "#221D1B",
+            "share": 0.051
+          },
+          {
+            "hex": "#23201E",
+            "share": 0.029
+          },
+          {
+            "hex": "#AE786A",
+            "share": 0.024
+          }
+        ],
+        "motion_energy": 3.84,
+        "script": "Do you have any recommendations for parents out there that are trying to raise conscious"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 1,
+      "start": 2.917,
+      "end": 5.917,
+      "length": 3.0,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#151416",
+            "share": 0.323
+          },
+          {
+            "hex": "#2A282C",
+            "share": 0.239
+          },
+          {
+            "hex": "#231C19",
+            "share": 0.048
+          },
+          {
+            "hex": "#1C1C22",
+            "share": 0.036
+          },
+          {
+            "hex": "#CB9689",
+            "share": 0.027
+          }
+        ],
+        "motion_energy": 10.55,
+        "script": "kids that are not addicted to technologies?"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.917,
+      "end": 8.417,
+      "length": 2.5,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#110E10",
+            "share": 0.653
+          },
+          {
+            "hex": "#2D292B",
+            "share": 0.06
+          },
+          {
+            "hex": "#ECB6AA",
+            "share": 0.027
+          },
+          {
+            "hex": "#CE8976",
+            "share": 0.022
+          },
+          {
+            "hex": "#D19688",
+            "share": 0.019
+          }
+        ],
+        "motion_energy": 14.74,
+        "script": "They don't care what you say. They're not going to listen."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.417,
+      "end": 25.292,
+      "length": 16.875,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#110E0F",
+            "share": 0.674
+          },
+          {
+            "hex": "#2D2A2C",
+            "share": 0.06
+          },
+          {
+            "hex": "#EBB6AB",
+            "share": 0.024
+          },
+          {
+            "hex": "#F6C4B8",
+            "share": 0.017
+          },
+          {
+            "hex": "#271916",
+            "share": 0.017
+          }
+        ],
+        "motion_energy": 31.55,
+        "script": "You have to model exactly what you want to see. If you don't want your kids to be screwing around with their phones at dinner, you put your phone away and you're not looking at it and you're having a conversation with them at dinner. And it won't work right away, but that model really works. If you want your kids to practice the faith, you must practice the faith. If you don't want your kids to"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 4,
+      "start": 25.292,
+      "end": 33.083,
+      "length": 7.792,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#110E10",
+            "share": 0.637
+          },
+          {
+            "hex": "#2B282B",
+            "share": 0.052
+          },
+          {
+            "hex": "#D19788",
+            "share": 0.028
+          },
+          {
+            "hex": "#CD8976",
+            "share": 0.026
+          },
+          {
+            "hex": "#291814",
+            "share": 0.022
+          }
+        ],
+        "motion_energy": 19.56,
+        "script": "drink, you shouldn't drink. If you don't want your kids to be abusive, yelling taunts out the car window in traffic, you better never do that."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 5,
+      "start": 33.083,
+      "end": 41.363,
+      "length": 8.28,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#120F11",
+            "share": 0.645
+          },
+          {
+            "hex": "#2B282B",
+            "share": 0.057
+          },
+          {
+            "hex": "#D2988A",
+            "share": 0.024
+          },
+          {
+            "hex": "#CD8975",
+            "share": 0.023
+          },
+          {
+            "hex": "#EAB5AA",
+            "share": 0.022
+          }
+        ],
+        "motion_energy": 21.95,
+        "script": "You better live thinking, I'm going to live as if I were the man I want my son to be. That's how you live and that's what really matters."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    }
+  ]
+}

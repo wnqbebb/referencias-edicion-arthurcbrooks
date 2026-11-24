@@ -1,0 +1,152 @@
+[
+ {
+  "id": "v13_s01", "start": 0.0, "end": 3.9, "category": "captions_text",
+  "script": "Pets do experience emotions. You're just saying it's a little bit different than humans.",
+  "what": "Presentadora (pelo negro, top oscuro) en plano medio corto con micro de podcast, fondo de cortina azul iluminada; logo 'CULTURE APOTHECARY with Alex Clark' arriba a la derecha.",
+  "design": "Captions sans condensada bold MAYÚSCULAS (tipo Bebas/Oswald/Anton), blanca, 2 líneas de 2–3 palabras, centrada a ~63–66 % de altura, ~6 % del alto por línea. Logo serif blanca pequeña arriba-derecha (~8 % ancho). Fondo cortina azul #1E2E9A con luz violeta.",
+  "effects": "Sombra negra dura/difusa bajo el caption para legibilidad; grade saturado de estudio (azules y piel cálida).",
+  "animation": "Caption cambia por bloques de frase (corte seco, sin animación de entrada visible). Plano fijo.",
+  "why": "Hook: afirmación polémica dicha por la presentadora + caption grande que se lee sin sonido.",
+  "quality": 3, "best_t": 0.0
+ },
+ {
+  "id": "v13_s02", "start": 3.9, "end": 5.9, "category": "captions_text",
+  "script": "Their limbic system is different than ours,",
+  "what": "Brooks en plano medio, camisa negra, micro delante, cortina azul detrás, mirando a la presentadora.",
+  "design": "Caption condensada bold MAYÚSCULAS blanca ~63 %; logo arriba-derecha.",
+  "effects": "Sombra bajo caption, grade de estudio azul.",
+  "animation": "Corte seco al experto.",
+  "why": "La respuesta experta = cara del experto.",
+  "quality": 2, "best_t": 4.5
+ },
+ {
+  "id": "v13_s03", "start": 5.9, "end": 7.3, "category": "captions_text",
+  "script": "but not that different.",
+  "what": "Punch-in: primer plano cerrado de Brooks (cara llena el tercio superior).",
+  "design": "Caption igual a ~63 %.",
+  "effects": "Igual.",
+  "animation": "Zoom digital/jump-in ~1.4× en corte seco.",
+  "why": "El punch-in enfatiza el matiz 'pero no tan diferente' (remate).",
+  "quality": 3, "best_t": 6.0
+ },
+ {
+  "id": "v13_s04", "start": 7.3, "end": 13.3, "category": "captions_text",
+  "script": "Neuropeptide in the brain called oxytocin. Of course, you know it. It functions as a hormone. It's called the love molecule for a reason.",
+  "what": "Brooks plano medio desde un ángulo más lateral, gesticulando, sonriendo.",
+  "design": "Caption condensada bold MAYÚSCULAS blanca ~63 % ('BRAIN CALLED OXYTOCIN,', 'MOLECULE FOR A REASON').",
+  "effects": "Grade de estudio.",
+  "animation": "Plano largo (~6 s); captions por bloques de 2–4 palabras.",
+  "why": "Explicación del concepto (oxitocina); no hay gráfico: el editor confía en el A-roll y el caption.",
+  "quality": 2, "best_t": 9.0
+ },
+ {
+  "id": "v13_s05", "start": 13.3, "end": 17.6, "category": "broll_text",
+  "script": "And so when you're with your husband and you're looking at each other in the eyes, and by the way, you're newly married, congratulations.",
+  "what": "Stock: pareja joven, mujer rubia inclinada sobre un hombre tumbado que la mira, ambos sonriendo, fondo de piedra cálida.",
+  "design": "Caption condensada bold MAYÚSCULAS blanca ~65 % ('WITH YOUR HUSBAND', 'EACH OTHER IN THE EYES,').",
+  "effects": "Stock luminoso cálido; logo de la marca se mantiene arriba.",
+  "animation": "Corte seco; plano estable ~4 s.",
+  "why": "Ejemplo concreto ('mirarse a los ojos con tu marido') → se muestra literalmente.",
+  "quality": 3, "best_t": 15.0
+ },
+ {
+  "id": "v13_s06", "start": 17.6, "end": 19.0, "category": "captions_text",
+  "script": "Thank you. Don't stop eye contact.",
+  "what": "Brooks plano medio, serio, mirando a la presentadora.",
+  "design": "Caption 'DON'T STOP EYE CONTACT' ~65 %.",
+  "effects": "Grade de estudio.",
+  "animation": "Corte seco.",
+  "why": "Consejo directo = vuelve a la cara para darle autoridad.",
+  "quality": 2, "best_t": 18.0
+ },
+ {
+  "id": "v13_s07", "start": 19.0, "end": 25.0, "category": "captions_text",
+  "script": "Five minutes before you go to sleep at night while you're lying in bed staring to each other's eyes for five minutes,",
+  "what": "Presentadora en primerísimo primer plano (cámara lateral cerrada), sonriendo y escuchando, mano cerca de la cara.",
+  "design": "Caption condensada bold MAYÚSCULAS blanca ~65 %.",
+  "effects": "Fondo muy desenfocado, piel cálida.",
+  "animation": "Corte; ligera deriva de cámara.",
+  "why": "Plano de reacción (escucha) mientras Brooks da la instrucción: conexión emocional y respiro.",
+  "quality": 3, "best_t": 21.0
+ },
+ {
+  "id": "v13_s08", "start": 25.0, "end": 26.6, "category": "captions_text",
+  "script": "it saves marriages.",
+  "what": "Brooks primer plano cerrado (punch-in), de perfil 3/4.",
+  "design": "Caption 'IT SAVES MARRIAGES' ~65 %.",
+  "effects": "Igual.",
+  "animation": "Punch-in en corte.",
+  "why": "Remate fuerte = plano más cerrado.",
+  "quality": 3, "best_t": 25.5
+ },
+ {
+  "id": "v13_s09", "start": 26.6, "end": 31.2, "category": "captions_text",
+  "script": "This oxytocin that we have, we're not the only species who have it.",
+  "what": "Brooks plano medio, gesticula con ambas manos.",
+  "design": "Caption ~65 %.",
+  "effects": "Igual.",
+  "animation": "Plano fijo.",
+  "why": "Transición al tema de las mascotas.",
+  "quality": 2, "best_t": 28.5
+ },
+ {
+  "id": "v13_s10", "start": 31.2, "end": 38.4, "category": "captions_text",
+  "script": "It links you to other people with intense bonds of love that makes you feel this kinship. Your dog has it too.",
+  "what": "Brooks plano medio, gesticulando; leve cambio de encuadre.",
+  "design": "Caption ~65 % ('INTENSE BONDS OF LOVE', 'YOUR DOG HAS IT TOO').",
+  "effects": "Igual.",
+  "animation": "Plano fijo largo.",
+  "why": "Prepara el giro 'tu perro también'.",
+  "quality": 2, "best_t": 37.5
+ },
+ {
+  "id": "v13_s11", "start": 38.4, "end": 41.6, "category": "broll_text",
+  "script": "And so when you stare into your dog's eyes and touch your dog,",
+  "what": "Stock: cocker spaniel dorado mirando a cámara mientras un hombre lo acaricia y le sostiene la pata.",
+  "design": "Caption condensada bold MAYÚSCULAS blanca ~65 %.",
+  "effects": "Stock cálido, poca profundidad de campo.",
+  "animation": "Corte seco; sale con fundido cruzado (~0.4 s) hacia Brooks.",
+  "why": "Muestra literal de 'mirar a tu perro a los ojos': emoción y ternura.",
+  "quality": 3, "best_t": 39.0
+ },
+ {
+  "id": "v13_s12", "start": 41.6, "end": 45.4, "category": "captions_text",
+  "script": "your dog's blood oxytocin levels go up by 56%. Wow.",
+  "what": "Brooks plano medio (entra con fundido del perro, tinte azulado), dice el dato.",
+  "design": "Caption 'OXYTOCIN LEVELS GO UP BY 56%' en el mismo estilo (sin gráfico aparte); 'WOW' de la presentadora en una sola línea.",
+  "effects": "Fundido cruzado, grade de estudio.",
+  "animation": "Dissolve ~0.4 s.",
+  "why": "El dato se deja en el caption: el formato es crudo y no añade gráficos (oportunidad perdida de graph_stats).",
+  "quality": 2, "best_t": 43.5
+ },
+ {
+  "id": "v13_s13", "start": 45.4, "end": 47.9, "category": "captions_text",
+  "script": "Your cats go up by 12%.",
+  "what": "Brooks plano medio sonriendo con picardía.",
+  "design": "Caption 'CATS GO UP BY 12%'.",
+  "effects": "Igual.",
+  "animation": "Plano fijo.",
+  "why": "Setup del chiste sobre los gatos.",
+  "quality": 2, "best_t": 46.5
+ },
+ {
+  "id": "v13_s14", "start": 47.9, "end": 52.2, "category": "broll_text",
+  "script": "Yeah, so they really don't like us. They're like, eh, I can do without a human. They tolerate us.",
+  "what": "Stock: gato ragdoll/siamés con cara de desgana mientras una mano le rasca la barbilla; entorna los ojos.",
+  "design": "Caption condensada bold MAYÚSCULAS blanca ~65 % ('SO THEY REALLY DON'T LIKE US', 'THEY TOLERATE US').",
+  "effects": "Fondo granate desenfocado.",
+  "animation": "Corte seco; el gato cierra los ojos (timing cómico).",
+  "why": "Humor: la expresión del gato 'actúa' el chiste; el b-roll ilustra literalmente la broma.",
+  "quality": 4, "best_t": 48.0
+ },
+ {
+  "id": "v13_s15", "start": 52.2, "end": 57.35, "category": "captions_text",
+  "script": "You know, the dog actually loves you. The cat kind of tolerates you, which is, once again, social science tells you what you already knew.",
+  "what": "Brooks plano medio, mano en la barbilla, gesto irónico.",
+  "design": "Caption ~65 % ('THE DOG ACTUALLY LOVES YOU', 'SOCIAL SCIENCE TELLS').",
+  "effects": "Grade de estudio.",
+  "animation": "Plano fijo; termina en seco sin end card.",
+  "why": "Cierre con remate y la frase-sentencia del experto en cara.",
+  "quality": 2, "best_t": 55.5
+ }
+]

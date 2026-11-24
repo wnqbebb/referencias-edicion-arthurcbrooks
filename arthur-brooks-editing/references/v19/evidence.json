@@ -1,0 +1,4168 @@
+{
+  "video": "v19.mp4",
+  "duration": 110.11,
+  "derived": {
+    "shots": 59,
+    "avg_shot_len": 1.87,
+    "cuts_per_min": 32.2,
+    "hook_shots_first_3s": 2,
+    "high_motion_shots": [
+      0,
+      1,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      15,
+      16,
+      18,
+      19,
+      25,
+      26,
+      27,
+      28,
+      30,
+      31,
+      33,
+      35,
+      38,
+      40,
+      41,
+      42,
+      45,
+      46,
+      49,
+      52
+    ]
+  },
+  "method": "ffmpeg scene>0.32 + keyframes 5/plano + paleta cuantizada + energía de movimiento",
+  "words": [
+    {
+      "w": "Most",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "w": "people",
+      "start": 0.32,
+      "end": 0.6
+    },
+    {
+      "w": "assume",
+      "start": 0.6,
+      "end": 1.08
+    },
+    {
+      "w": "that",
+      "start": 1.08,
+      "end": 1.28
+    },
+    {
+      "w": "happiness",
+      "start": 1.28,
+      "end": 1.68
+    },
+    {
+      "w": "and",
+      "start": 1.68,
+      "end": 1.94
+    },
+    {
+      "w": "unhappiness",
+      "start": 1.94,
+      "end": 2.66
+    },
+    {
+      "w": "are",
+      "start": 2.66,
+      "end": 2.98
+    },
+    {
+      "w": "opposites.",
+      "start": 2.98,
+      "end": 3.78
+    },
+    {
+      "w": "If",
+      "start": 4.02,
+      "end": 4.14
+    },
+    {
+      "w": "you",
+      "start": 4.14,
+      "end": 4.24
+    },
+    {
+      "w": "have",
+      "start": 4.24,
+      "end": 4.36
+    },
+    {
+      "w": "more",
+      "start": 4.36,
+      "end": 4.58
+    },
+    {
+      "w": "of",
+      "start": 4.58,
+      "end": 4.72
+    },
+    {
+      "w": "one,",
+      "start": 4.72,
+      "end": 4.9
+    },
+    {
+      "w": "you",
+      "start": 5.04,
+      "end": 5.1
+    },
+    {
+      "w": "have",
+      "start": 5.1,
+      "end": 5.3
+    },
+    {
+      "w": "less",
+      "start": 5.3,
+      "end": 5.62
+    },
+    {
+      "w": "of",
+      "start": 5.62,
+      "end": 5.8
+    },
+    {
+      "w": "the",
+      "start": 5.8,
+      "end": 5.92
+    },
+    {
+      "w": "other.",
+      "start": 5.92,
+      "end": 6.1
+    },
+    {
+      "w": "It's",
+      "start": 6.42,
+      "end": 6.56
+    },
+    {
+      "w": "on",
+      "start": 6.56,
+      "end": 6.66
+    },
+    {
+      "w": "a",
+      "start": 6.66,
+      "end": 6.8
+    },
+    {
+      "w": "dial,",
+      "start": 6.8,
+      "end": 7.18
+    },
+    {
+      "w": "basically.",
+      "start": 7.36,
+      "end": 7.7
+    },
+    {
+      "w": "But",
+      "start": 8.18,
+      "end": 8.28
+    },
+    {
+      "w": "that's",
+      "start": 8.28,
+      "end": 8.54
+    },
+    {
+      "w": "wrong.",
+      "start": 8.54,
+      "end": 8.88
+    },
+    {
+      "w": "In",
+      "start": 9.26,
+      "end": 9.32
+    },
+    {
+      "w": "truth,",
+      "start": 9.32,
+      "end": 9.56
+    },
+    {
+      "w": "happiness",
+      "start": 9.72,
+      "end": 10.02
+    },
+    {
+      "w": "and",
+      "start": 10.02,
+      "end": 10.3
+    },
+    {
+      "w": "unhappiness",
+      "start": 10.3,
+      "end": 10.88
+    },
+    {
+      "w": "are",
+      "start": 10.88,
+      "end": 11.14
+    },
+    {
+      "w": "separate",
+      "start": 11.14,
+      "end": 11.5
+    },
+    {
+      "w": "systems.",
+      "start": 11.5,
+      "end": 12.0
+    },
+    {
+      "w": "Researchers",
+      "start": 12.42,
+      "end": 12.8
+    },
+    {
+      "w": "confirmed",
+      "start": 12.8,
+      "end": 13.4
+    },
+    {
+      "w": "this",
+      "start": 13.4,
+      "end": 13.74
+    },
+    {
+      "w": "in",
+      "start": 13.74,
+      "end": 13.88
+    },
+    {
+      "w": "1988",
+      "start": 13.88,
+      "end": 14.48
+    },
+    {
+      "w": "with",
+      "start": 14.48,
+      "end": 14.84
+    },
+    {
+      "w": "a",
+      "start": 14.84,
+      "end": 14.92
+    },
+    {
+      "w": "tool",
+      "start": 14.92,
+      "end": 15.12
+    },
+    {
+      "w": "called",
+      "start": 15.12,
+      "end": 15.42
+    },
+    {
+      "w": "PANIS,",
+      "start": 15.42,
+      "end": 16.0
+    },
+    {
+      "w": "the",
+      "start": 16.22,
+      "end": 16.34
+    },
+    {
+      "w": "Positive",
+      "start": 16.34,
+      "end": 16.8
+    },
+    {
+      "w": "and",
+      "start": 16.8,
+      "end": 17.32
+    },
+    {
+      "w": "Negative",
+      "start": 17.32,
+      "end": 17.64
+    },
+    {
+      "w": "Affect",
+      "start": 17.64,
+      "end": 18.18
+    },
+    {
+      "w": "Schedule.",
+      "start": 18.18,
+      "end": 18.94
+    },
+    {
+      "w": "You",
+      "start": 19.28,
+      "end": 19.38
+    },
+    {
+      "w": "get",
+      "start": 19.38,
+      "end": 19.52
+    },
+    {
+      "w": "two",
+      "start": 19.52,
+      "end": 19.84
+    },
+    {
+      "w": "independent",
+      "start": 19.84,
+      "end": 20.32
+    },
+    {
+      "w": "scores.",
+      "start": 20.32,
+      "end": 20.9
+    },
+    {
+      "w": "Your",
+      "start": 21.42,
+      "end": 21.48
+    },
+    {
+      "w": "positive",
+      "start": 21.48,
+      "end": 21.88
+    },
+    {
+      "w": "affect",
+      "start": 21.88,
+      "end": 22.28
+    },
+    {
+      "w": "and",
+      "start": 22.28,
+      "end": 22.68
+    },
+    {
+      "w": "your",
+      "start": 22.68,
+      "end": 22.78
+    },
+    {
+      "w": "negative",
+      "start": 22.78,
+      "end": 23.0
+    },
+    {
+      "w": "affect.",
+      "start": 23.0,
+      "end": 23.32
+    },
+    {
+      "w": "You",
+      "start": 23.58,
+      "end": 23.64
+    },
+    {
+      "w": "can",
+      "start": 23.64,
+      "end": 23.8
+    },
+    {
+      "w": "run",
+      "start": 23.8,
+      "end": 23.98
+    },
+    {
+      "w": "high",
+      "start": 23.98,
+      "end": 24.28
+    },
+    {
+      "w": "on",
+      "start": 24.28,
+      "end": 24.44
+    },
+    {
+      "w": "both.",
+      "start": 24.44,
+      "end": 24.64
+    },
+    {
+      "w": "You",
+      "start": 24.88,
+      "end": 24.94
+    },
+    {
+      "w": "can",
+      "start": 24.94,
+      "end": 25.08
+    },
+    {
+      "w": "run",
+      "start": 25.08,
+      "end": 25.3
+    },
+    {
+      "w": "low",
+      "start": 25.3,
+      "end": 25.64
+    },
+    {
+      "w": "on",
+      "start": 25.64,
+      "end": 25.84
+    },
+    {
+      "w": "both.",
+      "start": 25.84,
+      "end": 26.04
+    },
+    {
+      "w": "Most",
+      "start": 26.26,
+      "end": 26.48
+    },
+    {
+      "w": "people",
+      "start": 26.48,
+      "end": 26.74
+    },
+    {
+      "w": "have",
+      "start": 26.74,
+      "end": 26.94
+    },
+    {
+      "w": "spent",
+      "start": 26.94,
+      "end": 27.08
+    },
+    {
+      "w": "their",
+      "start": 27.08,
+      "end": 27.28
+    },
+    {
+      "w": "entire",
+      "start": 27.28,
+      "end": 27.68
+    },
+    {
+      "w": "lives",
+      "start": 27.68,
+      "end": 28.08
+    },
+    {
+      "w": "trying",
+      "start": 28.08,
+      "end": 28.34
+    },
+    {
+      "w": "to",
+      "start": 28.34,
+      "end": 28.48
+    },
+    {
+      "w": "manage",
+      "start": 28.48,
+      "end": 28.74
+    },
+    {
+      "w": "one",
+      "start": 28.74,
+      "end": 29.04
+    },
+    {
+      "w": "dial.",
+      "start": 29.04,
+      "end": 29.4
+    },
+    {
+      "w": "They",
+      "start": 29.4,
+      "end": 29.76
+    },
+    {
+      "w": "didn't",
+      "start": 29.76,
+      "end": 30.02
+    },
+    {
+      "w": "know",
+      "start": 30.02,
+      "end": 30.18
+    },
+    {
+      "w": "they",
+      "start": 30.18,
+      "end": 30.34
+    },
+    {
+      "w": "had",
+      "start": 30.34,
+      "end": 30.72
+    },
+    {
+      "w": "and",
+      "start": 30.72,
+      "end": 31.28
+    },
+    {
+      "w": "completely",
+      "start": 31.28,
+      "end": 31.84
+    },
+    {
+      "w": "ignoring",
+      "start": 31.84,
+      "end": 32.36
+    },
+    {
+      "w": "the",
+      "start": 32.36,
+      "end": 32.66
+    },
+    {
+      "w": "other.",
+      "start": 32.66,
+      "end": 32.86
+    },
+    {
+      "w": "Mother",
+      "start": 33.12,
+      "end": 33.22
+    },
+    {
+      "w": "Nature",
+      "start": 33.22,
+      "end": 33.54
+    },
+    {
+      "w": "built",
+      "start": 33.54,
+      "end": 33.88
+    },
+    {
+      "w": "it",
+      "start": 33.88,
+      "end": 34.02
+    },
+    {
+      "w": "this",
+      "start": 34.02,
+      "end": 34.18
+    },
+    {
+      "w": "way",
+      "start": 34.18,
+      "end": 34.4
+    },
+    {
+      "w": "on",
+      "start": 34.4,
+      "end": 34.66
+    },
+    {
+      "w": "purpose.",
+      "start": 34.66,
+      "end": 35.0
+    },
+    {
+      "w": "Negative",
+      "start": 35.48,
+      "end": 35.7
+    },
+    {
+      "w": "emotions",
+      "start": 35.7,
+      "end": 36.12
+    },
+    {
+      "w": "are",
+      "start": 36.12,
+      "end": 36.44
+    },
+    {
+      "w": "a",
+      "start": 36.44,
+      "end": 36.58
+    },
+    {
+      "w": "survival",
+      "start": 36.58,
+      "end": 37.08
+    },
+    {
+      "w": "system.",
+      "start": 37.08,
+      "end": 37.64
+    },
+    {
+      "w": "They",
+      "start": 37.94,
+      "end": 37.98
+    },
+    {
+      "w": "keep",
+      "start": 37.98,
+      "end": 38.16
+    },
+    {
+      "w": "you",
+      "start": 38.16,
+      "end": 38.36
+    },
+    {
+      "w": "scanning",
+      "start": 38.36,
+      "end": 38.92
+    },
+    {
+      "w": "for",
+      "start": 38.92,
+      "end": 39.2
+    },
+    {
+      "w": "threats.",
+      "start": 39.2,
+      "end": 39.52
+    },
+    {
+      "w": "Positive",
+      "start": 39.76,
+      "end": 40.12
+    },
+    {
+      "w": "emotions",
+      "start": 40.12,
+      "end": 40.58
+    },
+    {
+      "w": "push",
+      "start": 40.58,
+      "end": 41.02
+    },
+    {
+      "w": "you",
+      "start": 41.02,
+      "end": 41.2
+    },
+    {
+      "w": "toward",
+      "start": 41.2,
+      "end": 41.46
+    },
+    {
+      "w": "opportunity.",
+      "start": 41.46,
+      "end": 42.04
+    },
+    {
+      "w": "Those",
+      "start": 42.44,
+      "end": 42.56
+    },
+    {
+      "w": "are",
+      "start": 42.56,
+      "end": 42.7
+    },
+    {
+      "w": "two",
+      "start": 42.7,
+      "end": 42.84
+    },
+    {
+      "w": "different",
+      "start": 42.84,
+      "end": 43.06
+    },
+    {
+      "w": "systems.",
+      "start": 43.06,
+      "end": 43.42
+    },
+    {
+      "w": "The",
+      "start": 43.8,
+      "end": 43.86
+    },
+    {
+      "w": "ancients",
+      "start": 43.86,
+      "end": 44.52
+    },
+    {
+      "w": "understood",
+      "start": 44.52,
+      "end": 44.8
+    },
+    {
+      "w": "this",
+      "start": 44.8,
+      "end": 45.34
+    },
+    {
+      "w": "intuitively.",
+      "start": 45.34,
+      "end": 45.84
+    },
+    {
+      "w": "Ecclesiastes",
+      "start": 46.64,
+      "end": 47.16
+    },
+    {
+      "w": "speaks",
+      "start": 47.16,
+      "end": 47.6
+    },
+    {
+      "w": "of",
+      "start": 47.6,
+      "end": 47.84
+    },
+    {
+      "w": "a",
+      "start": 47.84,
+      "end": 47.98
+    },
+    {
+      "w": "time",
+      "start": 47.98,
+      "end": 48.2
+    },
+    {
+      "w": "to",
+      "start": 48.2,
+      "end": 48.4
+    },
+    {
+      "w": "weep",
+      "start": 48.4,
+      "end": 48.92
+    },
+    {
+      "w": "and",
+      "start": 48.92,
+      "end": 49.1
+    },
+    {
+      "w": "a",
+      "start": 49.1,
+      "end": 49.2
+    },
+    {
+      "w": "time",
+      "start": 49.2,
+      "end": 49.4
+    },
+    {
+      "w": "to",
+      "start": 49.4,
+      "end": 49.6
+    },
+    {
+      "w": "laugh,",
+      "start": 49.6,
+      "end": 49.92
+    },
+    {
+      "w": "both",
+      "start": 50.08,
+      "end": 50.28
+    },
+    {
+      "w": "belonging",
+      "start": 50.28,
+      "end": 50.74
+    },
+    {
+      "w": "to",
+      "start": 50.74,
+      "end": 51.06
+    },
+    {
+      "w": "a",
+      "start": 51.06,
+      "end": 51.22
+    },
+    {
+      "w": "full",
+      "start": 51.22,
+      "end": 51.4
+    },
+    {
+      "w": "life.",
+      "start": 51.4,
+      "end": 51.76
+    },
+    {
+      "w": "My",
+      "start": 52.1,
+      "end": 52.34
+    },
+    {
+      "w": "negative",
+      "start": 52.34,
+      "end": 52.8
+    },
+    {
+      "w": "dial",
+      "start": 52.8,
+      "end": 53.28
+    },
+    {
+      "w": "runs",
+      "start": 53.28,
+      "end": 53.86
+    },
+    {
+      "w": "pretty",
+      "start": 53.86,
+      "end": 54.24
+    },
+    {
+      "w": "hot.",
+      "start": 54.24,
+      "end": 54.68
+    },
+    {
+      "w": "For",
+      "start": 54.84,
+      "end": 54.96
+    },
+    {
+      "w": "years,",
+      "start": 54.96,
+      "end": 55.28
+    },
+    {
+      "w": "I",
+      "start": 55.46,
+      "end": 55.52
+    },
+    {
+      "w": "assumed",
+      "start": 55.52,
+      "end": 55.86
+    },
+    {
+      "w": "that",
+      "start": 55.86,
+      "end": 56.1
+    },
+    {
+      "w": "meant",
+      "start": 56.1,
+      "end": 56.32
+    },
+    {
+      "w": "something",
+      "start": 56.32,
+      "end": 56.56
+    },
+    {
+      "w": "was",
+      "start": 56.56,
+      "end": 56.78
+    },
+    {
+      "w": "wrong",
+      "start": 56.78,
+      "end": 56.98
+    },
+    {
+      "w": "with",
+      "start": 56.98,
+      "end": 57.18
+    },
+    {
+      "w": "me,",
+      "start": 57.18,
+      "end": 57.36
+    },
+    {
+      "w": "but",
+      "start": 57.48,
+      "end": 57.7
+    },
+    {
+      "w": "it",
+      "start": 57.7,
+      "end": 57.84
+    },
+    {
+      "w": "doesn't.",
+      "start": 57.84,
+      "end": 58.22
+    },
+    {
+      "w": "It",
+      "start": 58.22,
+      "end": 58.48
+    },
+    {
+      "w": "means",
+      "start": 58.48,
+      "end": 58.66
+    },
+    {
+      "w": "I",
+      "start": 58.66,
+      "end": 58.84
+    },
+    {
+      "w": "have",
+      "start": 58.84,
+      "end": 58.94
+    },
+    {
+      "w": "a",
+      "start": 58.94,
+      "end": 59.04
+    },
+    {
+      "w": "specific",
+      "start": 59.04,
+      "end": 59.42
+    },
+    {
+      "w": "setting",
+      "start": 59.42,
+      "end": 59.92
+    },
+    {
+      "w": "and",
+      "start": 59.92,
+      "end": 60.34
+    },
+    {
+      "w": "it's",
+      "start": 60.34,
+      "end": 60.46
+    },
+    {
+      "w": "not",
+      "start": 60.46,
+      "end": 60.6
+    },
+    {
+      "w": "a",
+      "start": 60.6,
+      "end": 60.74
+    },
+    {
+      "w": "malfunction.",
+      "start": 60.74,
+      "end": 60.96
+    },
+    {
+      "w": "And",
+      "start": 61.68,
+      "end": 61.74
+    },
+    {
+      "w": "knowing",
+      "start": 61.74,
+      "end": 61.92
+    },
+    {
+      "w": "that",
+      "start": 61.92,
+      "end": 62.32
+    },
+    {
+      "w": "changed",
+      "start": 62.32,
+      "end": 62.78
+    },
+    {
+      "w": "what",
+      "start": 62.78,
+      "end": 63.08
+    },
+    {
+      "w": "I",
+      "start": 63.08,
+      "end": 63.18
+    },
+    {
+      "w": "was",
+      "start": 63.18,
+      "end": 63.3
+    },
+    {
+      "w": "actually",
+      "start": 63.3,
+      "end": 63.62
+    },
+    {
+      "w": "working",
+      "start": 63.62,
+      "end": 63.96
+    },
+    {
+      "w": "on",
+      "start": 63.96,
+      "end": 64.3
+    },
+    {
+      "w": "day",
+      "start": 64.3,
+      "end": 64.68
+    },
+    {
+      "w": "to",
+      "start": 64.68,
+      "end": 64.86
+    },
+    {
+      "w": "day.",
+      "start": 64.86,
+      "end": 65.08
+    },
+    {
+      "w": "I",
+      "start": 65.42,
+      "end": 65.56
+    },
+    {
+      "w": "stopped",
+      "start": 65.56,
+      "end": 65.82
+    },
+    {
+      "w": "trying",
+      "start": 65.82,
+      "end": 66.18
+    },
+    {
+      "w": "to",
+      "start": 66.18,
+      "end": 66.34
+    },
+    {
+      "w": "manufacture",
+      "start": 66.34,
+      "end": 66.88
+    },
+    {
+      "w": "cheerfulness",
+      "start": 66.88,
+      "end": 67.72
+    },
+    {
+      "w": "and",
+      "start": 67.72,
+      "end": 68.4
+    },
+    {
+      "w": "I",
+      "start": 68.4,
+      "end": 68.48
+    },
+    {
+      "w": "started",
+      "start": 68.48,
+      "end": 68.8
+    },
+    {
+      "w": "managing",
+      "start": 68.8,
+      "end": 69.24
+    },
+    {
+      "w": "the",
+      "start": 69.24,
+      "end": 69.52
+    },
+    {
+      "w": "negative",
+      "start": 69.52,
+      "end": 69.78
+    },
+    {
+      "w": "dial",
+      "start": 69.78,
+      "end": 70.18
+    },
+    {
+      "w": "through",
+      "start": 70.18,
+      "end": 70.52
+    },
+    {
+      "w": "sleep,",
+      "start": 70.52,
+      "end": 70.86
+    },
+    {
+      "w": "exercise,",
+      "start": 71.1,
+      "end": 71.56
+    },
+    {
+      "w": "and",
+      "start": 72.1,
+      "end": 72.18
+    },
+    {
+      "w": "food.",
+      "start": 72.18,
+      "end": 72.6
+    },
+    {
+      "w": "Not",
+      "start": 72.78,
+      "end": 73.0
+    },
+    {
+      "w": "turning",
+      "start": 73.0,
+      "end": 73.3
+    },
+    {
+      "w": "it",
+      "start": 73.3,
+      "end": 73.44
+    },
+    {
+      "w": "to",
+      "start": 73.44,
+      "end": 73.58
+    },
+    {
+      "w": "zero,",
+      "start": 73.58,
+      "end": 73.9
+    },
+    {
+      "w": "but",
+      "start": 74.26,
+      "end": 74.84
+    },
+    {
+      "w": "managing",
+      "start": 74.84,
+      "end": 75.26
+    },
+    {
+      "w": "it.",
+      "start": 75.26,
+      "end": 75.54
+    },
+    {
+      "w": "That's",
+      "start": 75.7,
+      "end": 75.94
+    },
+    {
+      "w": "the",
+      "start": 75.94,
+      "end": 76.04
+    },
+    {
+      "w": "unglamorous",
+      "start": 76.04,
+      "end": 76.94
+    },
+    {
+      "w": "machinery",
+      "start": 76.94,
+      "end": 77.62
+    },
+    {
+      "w": "of",
+      "start": 77.62,
+      "end": 78.22
+    },
+    {
+      "w": "a",
+      "start": 78.22,
+      "end": 78.34
+    },
+    {
+      "w": "good",
+      "start": 78.34,
+      "end": 78.44
+    },
+    {
+      "w": "life.",
+      "start": 78.44,
+      "end": 78.78
+    },
+    {
+      "w": "The",
+      "start": 78.94,
+      "end": 79.06
+    },
+    {
+      "w": "wellness",
+      "start": 79.06,
+      "end": 79.34
+    },
+    {
+      "w": "industry",
+      "start": 79.34,
+      "end": 79.92
+    },
+    {
+      "w": "will",
+      "start": 79.92,
+      "end": 80.12
+    },
+    {
+      "w": "sell",
+      "start": 80.12,
+      "end": 80.38
+    },
+    {
+      "w": "you",
+      "start": 80.38,
+      "end": 80.54
+    },
+    {
+      "w": "the",
+      "start": 80.54,
+      "end": 80.7
+    },
+    {
+      "w": "idea",
+      "start": 80.7,
+      "end": 81.14
+    },
+    {
+      "w": "that",
+      "start": 81.14,
+      "end": 81.34
+    },
+    {
+      "w": "feeling",
+      "start": 81.34,
+      "end": 81.64
+    },
+    {
+      "w": "better",
+      "start": 81.64,
+      "end": 82.06
+    },
+    {
+      "w": "and",
+      "start": 82.06,
+      "end": 82.3
+    },
+    {
+      "w": "feeling",
+      "start": 82.3,
+      "end": 82.56
+    },
+    {
+      "w": "less",
+      "start": 82.56,
+      "end": 82.86
+    },
+    {
+      "w": "bad",
+      "start": 82.86,
+      "end": 83.2
+    },
+    {
+      "w": "are",
+      "start": 83.2,
+      "end": 83.4
+    },
+    {
+      "w": "the",
+      "start": 83.4,
+      "end": 83.5
+    },
+    {
+      "w": "same",
+      "start": 83.5,
+      "end": 83.72
+    },
+    {
+      "w": "project.",
+      "start": 83.72,
+      "end": 84.18
+    },
+    {
+      "w": "They're",
+      "start": 84.36,
+      "end": 84.46
+    },
+    {
+      "w": "not",
+      "start": 84.46,
+      "end": 84.64
+    },
+    {
+      "w": "the",
+      "start": 84.64,
+      "end": 84.86
+    },
+    {
+      "w": "same",
+      "start": 84.86,
+      "end": 85.06
+    },
+    {
+      "w": "project.",
+      "start": 85.06,
+      "end": 85.52
+    },
+    {
+      "w": "And",
+      "start": 85.52,
+      "end": 86.02
+    },
+    {
+      "w": "if",
+      "start": 86.02,
+      "end": 86.14
+    },
+    {
+      "w": "you",
+      "start": 86.14,
+      "end": 86.2
+    },
+    {
+      "w": "try",
+      "start": 86.2,
+      "end": 86.36
+    },
+    {
+      "w": "to",
+      "start": 86.36,
+      "end": 86.48
+    },
+    {
+      "w": "eliminate",
+      "start": 86.48,
+      "end": 87.1
+    },
+    {
+      "w": "your",
+      "start": 87.1,
+      "end": 87.44
+    },
+    {
+      "w": "unhappiness",
+      "start": 87.44,
+      "end": 88.06
+    },
+    {
+      "w": "entirely,",
+      "start": 88.06,
+      "end": 88.48
+    },
+    {
+      "w": "you",
+      "start": 89.02,
+      "end": 89.08
+    },
+    {
+      "w": "will",
+      "start": 89.08,
+      "end": 89.26
+    },
+    {
+      "w": "eliminate",
+      "start": 89.26,
+      "end": 89.82
+    },
+    {
+      "w": "your",
+      "start": 89.82,
+      "end": 90.32
+    },
+    {
+      "w": "happiness",
+      "start": 90.32,
+      "end": 90.8
+    },
+    {
+      "w": "with",
+      "start": 90.8,
+      "end": 91.12
+    },
+    {
+      "w": "it.",
+      "start": 91.12,
+      "end": 91.26
+    },
+    {
+      "w": "So",
+      "start": 91.42,
+      "end": 91.54
+    },
+    {
+      "w": "the",
+      "start": 91.54,
+      "end": 91.66
+    },
+    {
+      "w": "first",
+      "start": 91.66,
+      "end": 91.88
+    },
+    {
+      "w": "step",
+      "start": 91.88,
+      "end": 92.18
+    },
+    {
+      "w": "is",
+      "start": 92.18,
+      "end": 92.4
+    },
+    {
+      "w": "knowing",
+      "start": 92.4,
+      "end": 92.6
+    },
+    {
+      "w": "your",
+      "start": 92.6,
+      "end": 92.82
+    },
+    {
+      "w": "positive",
+      "start": 92.82,
+      "end": 93.32
+    },
+    {
+      "w": "and",
+      "start": 93.32,
+      "end": 93.64
+    },
+    {
+      "w": "negative",
+      "start": 93.64,
+      "end": 93.9
+    },
+    {
+      "w": "affect",
+      "start": 93.9,
+      "end": 94.26
+    },
+    {
+      "w": "numbers.",
+      "start": 94.26,
+      "end": 94.76
+    },
+    {
+      "w": "Not",
+      "start": 95.04,
+      "end": 95.28
+    },
+    {
+      "w": "to",
+      "start": 95.28,
+      "end": 95.46
+    },
+    {
+      "w": "fix",
+      "start": 95.46,
+      "end": 95.68
+    },
+    {
+      "w": "them,",
+      "start": 95.68,
+      "end": 95.96
+    },
+    {
+      "w": "to",
+      "start": 96.26,
+      "end": 96.46
+    },
+    {
+      "w": "understand",
+      "start": 96.46,
+      "end": 96.86
+    },
+    {
+      "w": "what",
+      "start": 96.86,
+      "end": 97.4
+    },
+    {
+      "w": "you're",
+      "start": 97.4,
+      "end": 97.66
+    },
+    {
+      "w": "exactly",
+      "start": 97.66,
+      "end": 98.16
+    },
+    {
+      "w": "working",
+      "start": 98.16,
+      "end": 98.5
+    },
+    {
+      "w": "with,",
+      "start": 98.5,
+      "end": 98.88
+    },
+    {
+      "w": "and",
+      "start": 99.0,
+      "end": 99.2
+    },
+    {
+      "w": "to",
+      "start": 99.2,
+      "end": 99.42
+    },
+    {
+      "w": "make",
+      "start": 99.42,
+      "end": 99.62
+    },
+    {
+      "w": "the",
+      "start": 99.62,
+      "end": 99.9
+    },
+    {
+      "w": "correct",
+      "start": 99.9,
+      "end": 100.2
+    },
+    {
+      "w": "changes.",
+      "start": 100.2,
+      "end": 100.58
+    },
+    {
+      "w": "You",
+      "start": 101.1,
+      "end": 101.22
+    },
+    {
+      "w": "can't",
+      "start": 101.22,
+      "end": 101.52
+    },
+    {
+      "w": "be",
+      "start": 101.52,
+      "end": 101.6
+    },
+    {
+      "w": "happy,",
+      "start": 101.6,
+      "end": 101.94
+    },
+    {
+      "w": "but",
+      "start": 102.26,
+      "end": 102.36
+    },
+    {
+      "w": "you",
+      "start": 102.36,
+      "end": 102.46
+    },
+    {
+      "w": "can",
+      "start": 102.46,
+      "end": 102.64
+    },
+    {
+      "w": "be",
+      "start": 102.64,
+      "end": 102.9
+    },
+    {
+      "w": "happier,",
+      "start": 102.9,
+      "end": 103.52
+    },
+    {
+      "w": "but",
+      "start": 104.18,
+      "end": 104.38
+    },
+    {
+      "w": "not",
+      "start": 104.38,
+      "end": 104.62
+    },
+    {
+      "w": "by",
+      "start": 104.62,
+      "end": 104.92
+    },
+    {
+      "w": "turning",
+      "start": 104.92,
+      "end": 105.2
+    },
+    {
+      "w": "the",
+      "start": 105.2,
+      "end": 105.38
+    },
+    {
+      "w": "wrong",
+      "start": 105.38,
+      "end": 105.54
+    },
+    {
+      "w": "dial.",
+      "start": 105.54,
+      "end": 105.86
+    }
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.933,
+      "length": 2.933,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#090B1A",
+            "share": 0.315
+          },
+          {
+            "hex": "#0120E4",
+            "share": 0.164
+          },
+          {
+            "hex": "#040C2E",
+            "share": 0.069
+          },
+          {
+            "hex": "#001ECE",
+            "share": 0.068
+          },
+          {
+            "hex": "#001BB0",
+            "share": 0.051
+          }
+        ],
+        "motion_energy": 22.32,
+        "script": "Most people assume that happiness and unhappiness are"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 1,
+      "start": 2.933,
+      "end": 3.1,
+      "length": 0.167,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#2F3968",
+            "share": 0.202
+          },
+          {
+            "hex": "#615E6D",
+            "share": 0.176
+          },
+          {
+            "hex": "#515169",
+            "share": 0.154
+          },
+          {
+            "hex": "#6C6872",
+            "share": 0.057
+          },
+          {
+            "hex": "#B1A8A9",
+            "share": 0.057
+          }
+        ],
+        "motion_energy": 18.04,
+        "script": "opposites."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.1,
+      "end": 4.1,
+      "length": 1.0,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#747172",
+            "share": 0.374
+          },
+          {
+            "hex": "#312819",
+            "share": 0.315
+          },
+          {
+            "hex": "#4A3623",
+            "share": 0.122
+          },
+          {
+            "hex": "#45311D",
+            "share": 0.048
+          },
+          {
+            "hex": "#362C22",
+            "share": 0.038
+          }
+        ],
+        "motion_energy": 2.12,
+        "script": "If"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.1,
+      "end": 5.1,
+      "length": 1.0,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#292727",
+            "share": 0.701
+          },
+          {
+            "hex": "#221D20",
+            "share": 0.095
+          },
+          {
+            "hex": "#1D181B",
+            "share": 0.08
+          },
+          {
+            "hex": "#201A1E",
+            "share": 0.078
+          },
+          {
+            "hex": "#534C47",
+            "share": 0.013
+          }
+        ],
+        "motion_energy": 3.46,
+        "script": "you have more of one, you"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.1,
+      "end": 6.333,
+      "length": 1.233,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#302927",
+            "share": 0.334
+          },
+          {
+            "hex": "#6E5A4C",
+            "share": 0.213
+          },
+          {
+            "hex": "#525250",
+            "share": 0.154
+          },
+          {
+            "hex": "#756151",
+            "share": 0.103
+          },
+          {
+            "hex": "#463A35",
+            "share": 0.056
+          }
+        ],
+        "motion_energy": 2.48,
+        "script": "have less of the other."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.333,
+      "end": 8.0,
+      "length": 1.667,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0981F1",
+            "share": 0.94
+          },
+          {
+            "hex": "#087EEF",
+            "share": 0.057
+          },
+          {
+            "hex": "#2C94EA",
+            "share": 0.001
+          },
+          {
+            "hex": "#4FA6E8",
+            "share": 0.001
+          },
+          {
+            "hex": "#85C4E2",
+            "share": 0.0
+          }
+        ],
+        "motion_energy": 0.89,
+        "script": "It's on a dial, basically."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.0,
+      "end": 9.1,
+      "length": 1.1,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F9F6FA",
+            "share": 0.983
+          },
+          {
+            "hex": "#CFCDD1",
+            "share": 0.009
+          },
+          {
+            "hex": "#B7B4B8",
+            "share": 0.004
+          },
+          {
+            "hex": "#8F8D90",
+            "share": 0.001
+          },
+          {
+            "hex": "#C0BEC1",
+            "share": 0.001
+          }
+        ],
+        "motion_energy": 0.86,
+        "script": "But that's wrong."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 7,
+      "start": 9.1,
+      "end": 9.267,
+      "length": 0.167,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#342D31",
+            "share": 0.479
+          },
+          {
+            "hex": "#4D484C",
+            "share": 0.206
+          },
+          {
+            "hex": "#130D10",
+            "share": 0.114
+          },
+          {
+            "hex": "#433D41",
+            "share": 0.049
+          },
+          {
+            "hex": "#403A3D",
+            "share": 0.041
+          }
+        ],
+        "motion_energy": 18.69,
+        "script": "In"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 8,
+      "start": 9.267,
+      "end": 9.5,
+      "length": 0.233,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#332C30",
+            "share": 0.272
+          },
+          {
+            "hex": "#544E51",
+            "share": 0.252
+          },
+          {
+            "hex": "#0F080C",
+            "share": 0.153
+          },
+          {
+            "hex": "#6A6669",
+            "share": 0.149
+          },
+          {
+            "hex": "#635D61",
+            "share": 0.041
+          }
+        ],
+        "motion_energy": 25.78,
+        "script": "truth,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 9,
+      "start": 9.5,
+      "end": 12.5,
+      "length": 3.0,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0C54F9",
+            "share": 0.658
+          },
+          {
+            "hex": "#FAF8FB",
+            "share": 0.241
+          },
+          {
+            "hex": "#2E6EEB",
+            "share": 0.042
+          },
+          {
+            "hex": "#729CE6",
+            "share": 0.01
+          },
+          {
+            "hex": "#BACCF2",
+            "share": 0.01
+          }
+        ],
+        "motion_energy": 18.8,
+        "script": "happiness and unhappiness are separate systems. Researchers"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 10,
+      "start": 12.5,
+      "end": 13.0,
+      "length": 0.5,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#726E71",
+            "share": 0.375
+          },
+          {
+            "hex": "#534E52",
+            "share": 0.162
+          },
+          {
+            "hex": "#332E31",
+            "share": 0.102
+          },
+          {
+            "hex": "#8F8A8E",
+            "share": 0.1
+          },
+          {
+            "hex": "#171115",
+            "share": 0.077
+          }
+        ],
+        "motion_energy": 16.0,
+        "script": "confirmed"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 11,
+      "start": 13.0,
+      "end": 13.267,
+      "length": 0.267,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#706B6E",
+            "share": 0.46
+          },
+          {
+            "hex": "#524D50",
+            "share": 0.207
+          },
+          {
+            "hex": "#322D30",
+            "share": 0.114
+          },
+          {
+            "hex": "#171216",
+            "share": 0.089
+          },
+          {
+            "hex": "#635D61",
+            "share": 0.035
+          }
+        ],
+        "motion_energy": 15.14,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 12,
+      "start": 13.267,
+      "end": 13.433,
+      "length": 0.167,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#8F8A8E",
+            "share": 0.194
+          },
+          {
+            "hex": "#524D51",
+            "share": 0.185
+          },
+          {
+            "hex": "#716C70",
+            "share": 0.177
+          },
+          {
+            "hex": "#322D31",
+            "share": 0.147
+          },
+          {
+            "hex": "#171115",
+            "share": 0.075
+          }
+        ],
+        "motion_energy": 16.53,
+        "script": "this"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 13,
+      "start": 13.433,
+      "end": 13.767,
+      "length": 0.333,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#6F6A6D",
+            "share": 0.348
+          },
+          {
+            "hex": "#524C50",
+            "share": 0.191
+          },
+          {
+            "hex": "#161114",
+            "share": 0.155
+          },
+          {
+            "hex": "#312C2F",
+            "share": 0.141
+          },
+          {
+            "hex": "#635D61",
+            "share": 0.037
+          }
+        ],
+        "motion_energy": 52.45,
+        "script": "in"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 14,
+      "start": 13.767,
+      "end": 15.167,
+      "length": 1.4,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F9F6FA",
+            "share": 0.87
+          },
+          {
+            "hex": "#140F10",
+            "share": 0.018
+          },
+          {
+            "hex": "#8D8F95",
+            "share": 0.015
+          },
+          {
+            "hex": "#726E71",
+            "share": 0.012
+          },
+          {
+            "hex": "#A8D5C6",
+            "share": 0.01
+          }
+        ],
+        "motion_energy": 11.12,
+        "script": "1988 with a tool called"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 15,
+      "start": 15.167,
+      "end": 15.267,
+      "length": 0.1,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#C5DBF9",
+            "share": 0.804
+          },
+          {
+            "hex": "#B6CEF6",
+            "share": 0.027
+          },
+          {
+            "hex": "#6E8CC8",
+            "share": 0.022
+          },
+          {
+            "hex": "#152764",
+            "share": 0.018
+          },
+          {
+            "hex": "#576CAB",
+            "share": 0.014
+          }
+        ],
+        "motion_energy": 14.46,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 16,
+      "start": 15.267,
+      "end": 15.433,
+      "length": 0.167,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#3A7AF9",
+            "share": 0.388
+          },
+          {
+            "hex": "#427DF9",
+            "share": 0.367
+          },
+          {
+            "hex": "#4180FB",
+            "share": 0.193
+          },
+          {
+            "hex": "#134DE7",
+            "share": 0.035
+          },
+          {
+            "hex": "#245BEF",
+            "share": 0.011
+          }
+        ],
+        "motion_energy": 18.28,
+        "script": "PANIS,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 17,
+      "start": 15.433,
+      "end": 15.5,
+      "length": 0.067,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0E5BFA",
+            "share": 0.834
+          },
+          {
+            "hex": "#F7F5F8",
+            "share": 0.134
+          },
+          {
+            "hex": "#D5D3D6",
+            "share": 0.014
+          },
+          {
+            "hex": "#2F70E9",
+            "share": 0.008
+          },
+          {
+            "hex": "#8CAEF2",
+            "share": 0.003
+          }
+        ],
+        "motion_energy": 11.42,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 18,
+      "start": 15.5,
+      "end": 15.933,
+      "length": 0.433,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0C59FA",
+            "share": 0.826
+          },
+          {
+            "hex": "#F8F5F9",
+            "share": 0.141
+          },
+          {
+            "hex": "#D4D2D6",
+            "share": 0.015
+          },
+          {
+            "hex": "#AFC7F4",
+            "share": 0.005
+          },
+          {
+            "hex": "#79A4ED",
+            "share": 0.004
+          }
+        ],
+        "motion_energy": 37.15,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 19,
+      "start": 15.933,
+      "end": 16.5,
+      "length": 0.567,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F9F6FA",
+            "share": 0.835
+          },
+          {
+            "hex": "#AFADB0",
+            "share": 0.048
+          },
+          {
+            "hex": "#D0CED1",
+            "share": 0.044
+          },
+          {
+            "hex": "#918E92",
+            "share": 0.04
+          },
+          {
+            "hex": "#737174",
+            "share": 0.011
+          }
+        ],
+        "motion_energy": 40.2,
+        "script": "the Positive"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 20,
+      "start": 16.5,
+      "end": 19.1,
+      "length": 2.6,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0957F9",
+            "share": 0.76
+          },
+          {
+            "hex": "#F8F6F9",
+            "share": 0.177
+          },
+          {
+            "hex": "#D5D3D6",
+            "share": 0.018
+          },
+          {
+            "hex": "#92B4EF",
+            "share": 0.008
+          },
+          {
+            "hex": "#B1C8EB",
+            "share": 0.007
+          }
+        ],
+        "motion_energy": 4.36,
+        "script": "and Negative Affect Schedule."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 21,
+      "start": 19.1,
+      "end": 26.167,
+      "length": 7.067,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F9F6FA",
+            "share": 0.904
+          },
+          {
+            "hex": "#0A57F8",
+            "share": 0.059
+          },
+          {
+            "hex": "#1962F2",
+            "share": 0.013
+          },
+          {
+            "hex": "#2369EE",
+            "share": 0.008
+          },
+          {
+            "hex": "#9EBCE5",
+            "share": 0.003
+          }
+        ],
+        "motion_energy": 3.69,
+        "script": "You get two independent scores. Your positive affect and your negative affect. You can run high on both. You can run low on both."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 22,
+      "start": 26.167,
+      "end": 27.1,
+      "length": 0.933,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0A0408",
+            "share": 0.67
+          },
+          {
+            "hex": "#727273",
+            "share": 0.176
+          },
+          {
+            "hex": "#857773",
+            "share": 0.042
+          },
+          {
+            "hex": "#4B5052",
+            "share": 0.036
+          },
+          {
+            "hex": "#948A8A",
+            "share": 0.026
+          }
+        ],
+        "motion_energy": 10.13,
+        "script": "Most people have spent their"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 23,
+      "start": 27.1,
+      "end": 28.1,
+      "length": 1.0,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#AEB3AC",
+            "share": 0.223
+          },
+          {
+            "hex": "#899493",
+            "share": 0.213
+          },
+          {
+            "hex": "#788586",
+            "share": 0.145
+          },
+          {
+            "hex": "#99A5A3",
+            "share": 0.074
+          },
+          {
+            "hex": "#C3C4BA",
+            "share": 0.052
+          }
+        ],
+        "motion_energy": 2.4,
+        "script": "entire lives trying"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 24,
+      "start": 28.1,
+      "end": 33.0,
+      "length": 4.9,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F9F6FA",
+            "share": 0.898
+          },
+          {
+            "hex": "#C6D3F7",
+            "share": 0.056
+          },
+          {
+            "hex": "#BBCBF7",
+            "share": 0.014
+          },
+          {
+            "hex": "#0133EC",
+            "share": 0.009
+          },
+          {
+            "hex": "#8FAAED",
+            "share": 0.003
+          }
+        ],
+        "motion_energy": 3.41,
+        "script": "to manage one dial. They didn't know they had and completely ignoring the other."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 25,
+      "start": 33.0,
+      "end": 35.433,
+      "length": 2.433,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#322B2B",
+            "share": 0.222
+          },
+          {
+            "hex": "#564B45",
+            "share": 0.094
+          },
+          {
+            "hex": "#887669",
+            "share": 0.083
+          },
+          {
+            "hex": "#443A36",
+            "share": 0.082
+          },
+          {
+            "hex": "#675950",
+            "share": 0.082
+          }
+        ],
+        "motion_energy": 24.07,
+        "script": "Mother Nature built it this way on purpose."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 26,
+      "start": 35.433,
+      "end": 35.5,
+      "length": 0.067,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#24211E",
+            "share": 0.676
+          },
+          {
+            "hex": "#282827",
+            "share": 0.212
+          },
+          {
+            "hex": "#4D4D49",
+            "share": 0.064
+          },
+          {
+            "hex": "#1D2224",
+            "share": 0.03
+          },
+          {
+            "hex": "#43423D",
+            "share": 0.004
+          }
+        ],
+        "motion_energy": 13.13,
+        "script": "Negative"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 27,
+      "start": 35.5,
+      "end": 36.767,
+      "length": 1.267,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#272422",
+            "share": 0.413
+          },
+          {
+            "hex": "#24211E",
+            "share": 0.381
+          },
+          {
+            "hex": "#4C4E50",
+            "share": 0.068
+          },
+          {
+            "hex": "#706E6E",
+            "share": 0.032
+          },
+          {
+            "hex": "#3C454A",
+            "share": 0.013
+          }
+        ],
+        "motion_energy": 15.51,
+        "script": "emotions are a survival"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 28,
+      "start": 36.767,
+      "end": 43.767,
+      "length": 7.0,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#FAF7FA",
+            "share": 0.956
+          },
+          {
+            "hex": "#1781F9",
+            "share": 0.025
+          },
+          {
+            "hex": "#107DF8",
+            "share": 0.005
+          },
+          {
+            "hex": "#AED1F1",
+            "share": 0.003
+          },
+          {
+            "hex": "#6FAEED",
+            "share": 0.002
+          }
+        ],
+        "motion_energy": 22.56,
+        "script": "system. They keep you scanning for threats. Positive emotions push you toward opportunity. Those are two different systems."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 29,
+      "start": 43.767,
+      "end": 43.833,
+      "length": 0.067,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F9F7F5",
+            "share": 0.246
+          },
+          {
+            "hex": "#B0B0B0",
+            "share": 0.071
+          },
+          {
+            "hex": "#FAF4D0",
+            "share": 0.07
+          },
+          {
+            "hex": "#C9CCD4",
+            "share": 0.044
+          },
+          {
+            "hex": "#F9EDB1",
+            "share": 0.042
+          }
+        ],
+        "motion_energy": 11.24,
+        "script": "The"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 30,
+      "start": 43.833,
+      "end": 44.0,
+      "length": 0.167,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#CCC9CD",
+            "share": 0.407
+          },
+          {
+            "hex": "#B2AFB3",
+            "share": 0.221
+          },
+          {
+            "hex": "#908C8F",
+            "share": 0.075
+          },
+          {
+            "hex": "#747071",
+            "share": 0.063
+          },
+          {
+            "hex": "#514738",
+            "share": 0.036
+          }
+        ],
+        "motion_energy": 23.13,
+        "script": "ancients"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 31,
+      "start": 44.0,
+      "end": 44.167,
+      "length": 0.167,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#B2ACAA",
+            "share": 0.089
+          },
+          {
+            "hex": "#978671",
+            "share": 0.084
+          },
+          {
+            "hex": "#8C7869",
+            "share": 0.078
+          },
+          {
+            "hex": "#69584D",
+            "share": 0.073
+          },
+          {
+            "hex": "#A7978D",
+            "share": 0.073
+          }
+        ],
+        "motion_energy": 13.49,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 32,
+      "start": 44.167,
+      "end": 44.333,
+      "length": 0.167,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#A99671",
+            "share": 0.125
+          },
+          {
+            "hex": "#914F28",
+            "share": 0.107
+          },
+          {
+            "hex": "#8C7451",
+            "share": 0.09
+          },
+          {
+            "hex": "#B6A686",
+            "share": 0.066
+          },
+          {
+            "hex": "#6F4F32",
+            "share": 0.053
+          }
+        ],
+        "motion_energy": 11.27,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 33,
+      "start": 44.333,
+      "end": 44.833,
+      "length": 0.5,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#B7A692",
+            "share": 0.143
+          },
+          {
+            "hex": "#8D6F51",
+            "share": 0.126
+          },
+          {
+            "hex": "#A89073",
+            "share": 0.117
+          },
+          {
+            "hex": "#AC9A86",
+            "share": 0.077
+          },
+          {
+            "hex": "#6E4F33",
+            "share": 0.076
+          }
+        ],
+        "motion_energy": 31.63,
+        "script": "understood this"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 34,
+      "start": 44.833,
+      "end": 46.167,
+      "length": 1.333,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#FAF7FA",
+            "share": 0.769
+          },
+          {
+            "hex": "#CEB190",
+            "share": 0.031
+          },
+          {
+            "hex": "#B09170",
+            "share": 0.022
+          },
+          {
+            "hex": "#E8CDB2",
+            "share": 0.014
+          },
+          {
+            "hex": "#92714D",
+            "share": 0.011
+          }
+        ],
+        "motion_energy": 4.1,
+        "script": "intuitively."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 35,
+      "start": 46.167,
+      "end": 47.833,
+      "length": 1.667,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#13192C",
+            "share": 0.314
+          },
+          {
+            "hex": "#15254F",
+            "share": 0.194
+          },
+          {
+            "hex": "#162E6D",
+            "share": 0.16
+          },
+          {
+            "hex": "#12141C",
+            "share": 0.069
+          },
+          {
+            "hex": "#B2AEB1",
+            "share": 0.058
+          }
+        ],
+        "motion_energy": 13.91,
+        "script": "Ecclesiastes speaks of"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 36,
+      "start": 47.833,
+      "end": 48.767,
+      "length": 0.933,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#6B696D",
+            "share": 0.39
+          },
+          {
+            "hex": "#535054",
+            "share": 0.206
+          },
+          {
+            "hex": "#171519",
+            "share": 0.162
+          },
+          {
+            "hex": "#302E32",
+            "share": 0.135
+          },
+          {
+            "hex": "#605E62",
+            "share": 0.034
+          }
+        ],
+        "motion_energy": 8.23,
+        "script": "a time to weep"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 37,
+      "start": 48.767,
+      "end": 50.333,
+      "length": 1.567,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#191A1D",
+            "share": 0.332
+          },
+          {
+            "hex": "#777372",
+            "share": 0.21
+          },
+          {
+            "hex": "#827C7B",
+            "share": 0.204
+          },
+          {
+            "hex": "#2B2728",
+            "share": 0.142
+          },
+          {
+            "hex": "#1D1D20",
+            "share": 0.045
+          }
+        ],
+        "motion_energy": 5.33,
+        "script": "and a time to laugh, both belonging"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 38,
+      "start": 50.333,
+      "end": 54.933,
+      "length": 4.6,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#1369F7",
+            "share": 0.93
+          },
+          {
+            "hex": "#FAF7FA",
+            "share": 0.01
+          },
+          {
+            "hex": "#2778F6",
+            "share": 0.009
+          },
+          {
+            "hex": "#8F8C90",
+            "share": 0.009
+          },
+          {
+            "hex": "#6F6C6F",
+            "share": 0.008
+          }
+        ],
+        "motion_energy": 19.48,
+        "script": "to a full life. My negative dial runs pretty hot. For"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 39,
+      "start": 54.933,
+      "end": 56.267,
+      "length": 1.333,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#1C191C",
+            "share": 0.182
+          },
+          {
+            "hex": "#291B1A",
+            "share": 0.097
+          },
+          {
+            "hex": "#2E2A2A",
+            "share": 0.096
+          },
+          {
+            "hex": "#8F724F",
+            "share": 0.09
+          },
+          {
+            "hex": "#704C32",
+            "share": 0.086
+          }
+        ],
+        "motion_energy": 6.66,
+        "script": "years, I assumed that meant"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 40,
+      "start": 56.267,
+      "end": 58.667,
+      "length": 2.4,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#525A66",
+            "share": 0.371
+          },
+          {
+            "hex": "#18161A",
+            "share": 0.226
+          },
+          {
+            "hex": "#59636F",
+            "share": 0.18
+          },
+          {
+            "hex": "#676E75",
+            "share": 0.124
+          },
+          {
+            "hex": "#4C515A",
+            "share": 0.036
+          }
+        ],
+        "motion_energy": 12.23,
+        "script": "something was wrong with me, but it doesn't. It means I"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 41,
+      "start": 58.667,
+      "end": 61.333,
+      "length": 2.667,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F6F5FA",
+            "share": 0.55
+          },
+          {
+            "hex": "#B3C9FA",
+            "share": 0.097
+          },
+          {
+            "hex": "#C9D9FA",
+            "share": 0.077
+          },
+          {
+            "hex": "#D8E4FA",
+            "share": 0.067
+          },
+          {
+            "hex": "#363436",
+            "share": 0.056
+          }
+        ],
+        "motion_energy": 16.39,
+        "script": "have a specific setting and it's not a malfunction."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 42,
+      "start": 61.333,
+      "end": 68.333,
+      "length": 7.0,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0E57F8",
+            "share": 0.692
+          },
+          {
+            "hex": "#CDCDCC",
+            "share": 0.033
+          },
+          {
+            "hex": "#B3B2AE",
+            "share": 0.029
+          },
+          {
+            "hex": "#514E4F",
+            "share": 0.028
+          },
+          {
+            "hex": "#716E6D",
+            "share": 0.025
+          }
+        ],
+        "motion_energy": 17.29,
+        "script": "And knowing that changed what I was actually working on day to day. I stopped trying to manufacture cheerfulness and"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 43,
+      "start": 68.333,
+      "end": 72.667,
+      "length": 4.333,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#13192D",
+            "share": 0.311
+          },
+          {
+            "hex": "#13244F",
+            "share": 0.229
+          },
+          {
+            "hex": "#131419",
+            "share": 0.188
+          },
+          {
+            "hex": "#142D6E",
+            "share": 0.161
+          },
+          {
+            "hex": "#153585",
+            "share": 0.038
+          }
+        ],
+        "motion_energy": 5.56,
+        "script": "I started managing the negative dial through sleep, exercise, and food."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 44,
+      "start": 72.667,
+      "end": 75.667,
+      "length": 3.0,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#126AF9",
+            "share": 0.976
+          },
+          {
+            "hex": "#2977F1",
+            "share": 0.004
+          },
+          {
+            "hex": "#F4F8F7",
+            "share": 0.004
+          },
+          {
+            "hex": "#4D8EEC",
+            "share": 0.003
+          },
+          {
+            "hex": "#B0CCF0",
+            "share": 0.002
+          }
+        ],
+        "motion_energy": 5.71,
+        "script": "Not turning it to zero, but managing it."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 45,
+      "start": 75.667,
+      "end": 76.433,
+      "length": 0.767,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#322523",
+            "share": 0.307
+          },
+          {
+            "hex": "#4D352F",
+            "share": 0.131
+          },
+          {
+            "hex": "#947065",
+            "share": 0.095
+          },
+          {
+            "hex": "#AE8572",
+            "share": 0.073
+          },
+          {
+            "hex": "#74554F",
+            "share": 0.066
+          }
+        ],
+        "motion_energy": 21.51,
+        "script": "That's the unglamorous"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 46,
+      "start": 76.433,
+      "end": 79.1,
+      "length": 2.667,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#6D6A6E",
+            "share": 0.323
+          },
+          {
+            "hex": "#535054",
+            "share": 0.283
+          },
+          {
+            "hex": "#302E31",
+            "share": 0.188
+          },
+          {
+            "hex": "#908E91",
+            "share": 0.054
+          },
+          {
+            "hex": "#605E61",
+            "share": 0.045
+          }
+        ],
+        "motion_energy": 24.04,
+        "script": "machinery of a good life. The wellness"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 47,
+      "start": 79.1,
+      "end": 80.0,
+      "length": 0.9,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#333032",
+            "share": 0.2
+          },
+          {
+            "hex": "#4E4E4B",
+            "share": 0.15
+          },
+          {
+            "hex": "#375051",
+            "share": 0.074
+          },
+          {
+            "hex": "#4C6C6B",
+            "share": 0.073
+          },
+          {
+            "hex": "#FAF6F5",
+            "share": 0.039
+          }
+        ],
+        "motion_energy": 3.03,
+        "script": "industry will"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 48,
+      "start": 80.0,
+      "end": 81.267,
+      "length": 1.267,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#1269F8",
+            "share": 0.98
+          },
+          {
+            "hex": "#F4F7F7",
+            "share": 0.003
+          },
+          {
+            "hex": "#8DB5EC",
+            "share": 0.003
+          },
+          {
+            "hex": "#2C78F0",
+            "share": 0.003
+          },
+          {
+            "hex": "#4E8DEB",
+            "share": 0.002
+          }
+        ],
+        "motion_energy": 0.86,
+        "script": "sell you the idea that"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 49,
+      "start": 81.267,
+      "end": 86.167,
+      "length": 4.9,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#131115",
+            "share": 0.878
+          },
+          {
+            "hex": "#14182A",
+            "share": 0.038
+          },
+          {
+            "hex": "#2A2A2D",
+            "share": 0.019
+          },
+          {
+            "hex": "#14234F",
+            "share": 0.013
+          },
+          {
+            "hex": "#142C6E",
+            "share": 0.009
+          }
+        ],
+        "motion_energy": 24.3,
+        "script": "feeling better and feeling less bad are the same project. They're not the same project. And if you"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 50,
+      "start": 86.167,
+      "end": 89.267,
+      "length": 3.1,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#131116",
+            "share": 0.349
+          },
+          {
+            "hex": "#13182B",
+            "share": 0.232
+          },
+          {
+            "hex": "#2A3350",
+            "share": 0.068
+          },
+          {
+            "hex": "#2B2A30",
+            "share": 0.067
+          },
+          {
+            "hex": "#354674",
+            "share": 0.067
+          }
+        ],
+        "motion_energy": 9.16,
+        "script": "try to eliminate your unhappiness entirely, you will eliminate"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 51,
+      "start": 89.267,
+      "end": 89.333,
+      "length": 0.067,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#98969A",
+            "share": 0.488
+          },
+          {
+            "hex": "#A5A6B3",
+            "share": 0.225
+          },
+          {
+            "hex": "#9A9AA4",
+            "share": 0.152
+          },
+          {
+            "hex": "#AAAFC3",
+            "share": 0.077
+          },
+          {
+            "hex": "#9DA2B5",
+            "share": 0.033
+          }
+        ],
+        "motion_energy": 11.63,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 52,
+      "start": 89.333,
+      "end": 91.433,
+      "length": 2.1,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#FAF7FA",
+            "share": 0.951
+          },
+          {
+            "hex": "#116DFB",
+            "share": 0.035
+          },
+          {
+            "hex": "#5294F2",
+            "share": 0.003
+          },
+          {
+            "hex": "#AFCBF3",
+            "share": 0.002
+          },
+          {
+            "hex": "#2A7AF4",
+            "share": 0.002
+          }
+        ],
+        "motion_energy": 13.66,
+        "script": "your happiness with it. So"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 53,
+      "start": 91.433,
+      "end": 95.0,
+      "length": 3.567,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#126AFA",
+            "share": 0.954
+          },
+          {
+            "hex": "#2978F2",
+            "share": 0.013
+          },
+          {
+            "hex": "#3984EE",
+            "share": 0.011
+          },
+          {
+            "hex": "#4C8EEE",
+            "share": 0.008
+          },
+          {
+            "hex": "#72A5EA",
+            "share": 0.003
+          }
+        ],
+        "motion_energy": 1.92,
+        "script": "the first step is knowing your positive and negative affect numbers."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 54,
+      "start": 95.0,
+      "end": 98.0,
+      "length": 3.0,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#332E31",
+            "share": 0.586
+          },
+          {
+            "hex": "#4E484B",
+            "share": 0.11
+          },
+          {
+            "hex": "#443938",
+            "share": 0.095
+          },
+          {
+            "hex": "#3B3B43",
+            "share": 0.038
+          },
+          {
+            "hex": "#6A534E",
+            "share": 0.034
+          }
+        ],
+        "motion_energy": 10.06,
+        "script": "Not to fix them, to understand what you're exactly"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 55,
+      "start": 98.0,
+      "end": 100.833,
+      "length": 2.833,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#126AFA",
+            "share": 0.956
+          },
+          {
+            "hex": "#2A78F2",
+            "share": 0.017
+          },
+          {
+            "hex": "#3781F0",
+            "share": 0.007
+          },
+          {
+            "hex": "#5090EB",
+            "share": 0.006
+          },
+          {
+            "hex": "#8CB6E8",
+            "share": 0.003
+          }
+        ],
+        "motion_energy": 2.67,
+        "script": "working with, and to make the correct changes."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 56,
+      "start": 100.833,
+      "end": 103.267,
+      "length": 2.434,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#2A2828",
+            "share": 0.315
+          },
+          {
+            "hex": "#534B31",
+            "share": 0.106
+          },
+          {
+            "hex": "#D0CDAE",
+            "share": 0.065
+          },
+          {
+            "hex": "#706948",
+            "share": 0.062
+          },
+          {
+            "hex": "#F8F7F0",
+            "share": 0.048
+          }
+        ],
+        "motion_energy": 11.25,
+        "script": "You can't be happy, but you can be happier,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 57,
+      "start": 103.267,
+      "end": 104.167,
+      "length": 0.9,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#37274E",
+            "share": 0.079
+          },
+          {
+            "hex": "#342729",
+            "share": 0.056
+          },
+          {
+            "hex": "#291A43",
+            "share": 0.05
+          },
+          {
+            "hex": "#4E3965",
+            "share": 0.048
+          },
+          {
+            "hex": "#473354",
+            "share": 0.048
+          }
+        ],
+        "motion_energy": 7.89,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 58,
+      "start": 104.167,
+      "end": 110.106,
+      "length": 5.939,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0044EC",
+            "share": 0.974
+          },
+          {
+            "hex": "#2E67E4",
+            "share": 0.003
+          },
+          {
+            "hex": "#003DED",
+            "share": 0.003
+          },
+          {
+            "hex": "#6B93E4",
+            "share": 0.002
+          },
+          {
+            "hex": "#94B1E5",
+            "share": 0.002
+          }
+        ],
+        "motion_energy": 7.75,
+        "script": "but not by turning the wrong dial."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "edit-studio",
+  "description": "Video editing in code (Python + ffmpeg): music edits from a track and footage in a style named in plain words (fresh versions on request), composite edits (a talk clip cut by spoken words into a music edit), remakes from a reference, named effects measured from example clips, a library of 268 editing moves and 15 genres, captions and subtitles, translation and voiceover, missing shots or a whole video generated with Higgsfield.",
+  "author": {
+    "name": "Arseniy"
+  },
+  "keywords": [
+    "video",
+    "editing",
+    "montage",
+    "reels",
+    "subtitles",
+    "higgsfield",
+    "ffmpeg"
+  ],
+  "version": "0.3.0"
+}

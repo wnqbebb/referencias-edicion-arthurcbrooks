@@ -1,0 +1,2280 @@
+{
+  "video": "v05.mp4",
+  "duration": 99.63,
+  "derived": {
+    "shots": 11,
+    "avg_shot_len": 9.06,
+    "cuts_per_min": 6.6,
+    "hook_shots_first_3s": 2,
+    "high_motion_shots": [
+      0,
+      1,
+      3,
+      7,
+      9
+    ]
+  },
+  "method": "ffmpeg scene>0.32 + keyframes 5/plano + paleta cuantizada + energía de movimiento",
+  "words": [
+    {
+      "w": "Women",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "w": "are",
+      "start": 0.3,
+      "end": 0.82
+    },
+    {
+      "w": "magnetized",
+      "start": 0.82,
+      "end": 1.8
+    },
+    {
+      "w": "to",
+      "start": 1.8,
+      "end": 1.98
+    },
+    {
+      "w": "dark",
+      "start": 1.98,
+      "end": 2.14
+    },
+    {
+      "w": "triads.",
+      "start": 2.14,
+      "end": 2.58
+    },
+    {
+      "w": "There's",
+      "start": 2.72,
+      "end": 2.96
+    },
+    {
+      "w": "a",
+      "start": 2.96,
+      "end": 3.04
+    },
+    {
+      "w": "category",
+      "start": 3.04,
+      "end": 3.38
+    },
+    {
+      "w": "of",
+      "start": 3.38,
+      "end": 3.54
+    },
+    {
+      "w": "men",
+      "start": 3.54,
+      "end": 3.82
+    },
+    {
+      "w": "that's",
+      "start": 3.82,
+      "end": 4.24
+    },
+    {
+      "w": "really",
+      "start": 4.24,
+      "end": 4.54
+    },
+    {
+      "w": "good",
+      "start": 4.54,
+      "end": 4.8
+    },
+    {
+      "w": "at",
+      "start": 4.8,
+      "end": 5.02
+    },
+    {
+      "w": "looking",
+      "start": 5.02,
+      "end": 5.4
+    },
+    {
+      "w": "like",
+      "start": 5.4,
+      "end": 5.74
+    },
+    {
+      "w": "they're",
+      "start": 5.74,
+      "end": 5.94
+    },
+    {
+      "w": "falling",
+      "start": 5.94,
+      "end": 6.18
+    },
+    {
+      "w": "in",
+      "start": 6.18,
+      "end": 6.34
+    },
+    {
+      "w": "love",
+      "start": 6.34,
+      "end": 6.6
+    },
+    {
+      "w": "when",
+      "start": 6.6,
+      "end": 6.82
+    },
+    {
+      "w": "they're",
+      "start": 6.82,
+      "end": 6.98
+    },
+    {
+      "w": "actually",
+      "start": 6.98,
+      "end": 7.3
+    },
+    {
+      "w": "not.",
+      "start": 7.3,
+      "end": 7.68
+    },
+    {
+      "w": "The",
+      "start": 7.98,
+      "end": 8.04
+    },
+    {
+      "w": "dark",
+      "start": 8.04,
+      "end": 8.22
+    },
+    {
+      "w": "triad",
+      "start": 8.22,
+      "end": 8.54
+    },
+    {
+      "w": "is",
+      "start": 8.54,
+      "end": 8.66
+    },
+    {
+      "w": "a",
+      "start": 8.66,
+      "end": 8.78
+    },
+    {
+      "w": "combination",
+      "start": 8.78,
+      "end": 9.26
+    },
+    {
+      "w": "of",
+      "start": 9.26,
+      "end": 9.56
+    },
+    {
+      "w": "three",
+      "start": 9.56,
+      "end": 9.76
+    },
+    {
+      "w": "personality",
+      "start": 9.76,
+      "end": 10.22
+    },
+    {
+      "w": "characteristics.",
+      "start": 10.22,
+      "end": 10.64
+    },
+    {
+      "w": "Narcissism,",
+      "start": 11.42,
+      "end": 11.82
+    },
+    {
+      "w": "it's",
+      "start": 12.12,
+      "end": 12.12
+    },
+    {
+      "w": "all",
+      "start": 12.12,
+      "end": 12.2
+    },
+    {
+      "w": "about",
+      "start": 12.2,
+      "end": 12.36
+    },
+    {
+      "w": "me.",
+      "start": 12.36,
+      "end": 12.5
+    },
+    {
+      "w": "Machiavellianism,",
+      "start": 13.4,
+      "end": 13.8
+    },
+    {
+      "w": "which",
+      "start": 14.02,
+      "end": 14.16
+    },
+    {
+      "w": "is",
+      "start": 14.16,
+      "end": 14.28
+    },
+    {
+      "w": "I'm",
+      "start": 14.28,
+      "end": 14.4
+    },
+    {
+      "w": "willing",
+      "start": 14.4,
+      "end": 14.54
+    },
+    {
+      "w": "to",
+      "start": 14.54,
+      "end": 14.74
+    },
+    {
+      "w": "hurt",
+      "start": 14.74,
+      "end": 14.94
+    },
+    {
+      "w": "you",
+      "start": 14.94,
+      "end": 15.26
+    },
+    {
+      "w": "to",
+      "start": 15.26,
+      "end": 15.56
+    },
+    {
+      "w": "serve",
+      "start": 15.56,
+      "end": 15.78
+    },
+    {
+      "w": "my",
+      "start": 15.78,
+      "end": 16.02
+    },
+    {
+      "w": "ends.",
+      "start": 16.02,
+      "end": 16.3
+    },
+    {
+      "w": "And",
+      "start": 16.54,
+      "end": 16.62
+    },
+    {
+      "w": "psychopathy,",
+      "start": 16.62,
+      "end": 17.24
+    },
+    {
+      "w": "psychopathic",
+      "start": 17.42,
+      "end": 17.88
+    },
+    {
+      "w": "traits,",
+      "start": 17.88,
+      "end": 18.08
+    },
+    {
+      "w": "which",
+      "start": 18.22,
+      "end": 18.32
+    },
+    {
+      "w": "is",
+      "start": 18.32,
+      "end": 18.52
+    },
+    {
+      "w": "if",
+      "start": 18.52,
+      "end": 18.82
+    },
+    {
+      "w": "I",
+      "start": 18.82,
+      "end": 18.92
+    },
+    {
+      "w": "hurt",
+      "start": 18.92,
+      "end": 19.12
+    },
+    {
+      "w": "you,",
+      "start": 19.12,
+      "end": 19.3
+    },
+    {
+      "w": "I",
+      "start": 19.44,
+      "end": 19.52
+    },
+    {
+      "w": "don't",
+      "start": 19.52,
+      "end": 19.66
+    },
+    {
+      "w": "feel",
+      "start": 19.66,
+      "end": 19.82
+    },
+    {
+      "w": "remorse",
+      "start": 19.82,
+      "end": 20.16
+    },
+    {
+      "w": "or",
+      "start": 20.16,
+      "end": 20.3
+    },
+    {
+      "w": "empathy",
+      "start": 20.3,
+      "end": 20.5
+    },
+    {
+      "w": "for",
+      "start": 20.5,
+      "end": 20.78
+    },
+    {
+      "w": "you",
+      "start": 20.78,
+      "end": 20.94
+    },
+    {
+      "w": "at",
+      "start": 20.94,
+      "end": 21.04
+    },
+    {
+      "w": "all.",
+      "start": 21.04,
+      "end": 21.2
+    },
+    {
+      "w": "Those",
+      "start": 21.36,
+      "end": 21.52
+    },
+    {
+      "w": "are",
+      "start": 21.52,
+      "end": 21.66
+    },
+    {
+      "w": "the",
+      "start": 21.66,
+      "end": 21.76
+    },
+    {
+      "w": "three",
+      "start": 21.76,
+      "end": 21.94
+    },
+    {
+      "w": "traits.",
+      "start": 21.94,
+      "end": 22.24
+    },
+    {
+      "w": "And",
+      "start": 22.34,
+      "end": 22.38
+    },
+    {
+      "w": "when",
+      "start": 22.38,
+      "end": 22.48
+    },
+    {
+      "w": "it's",
+      "start": 22.48,
+      "end": 22.6
+    },
+    {
+      "w": "all",
+      "start": 22.6,
+      "end": 22.78
+    },
+    {
+      "w": "about",
+      "start": 22.78,
+      "end": 22.98
+    },
+    {
+      "w": "me,",
+      "start": 22.98,
+      "end": 23.2
+    },
+    {
+      "w": "I'm",
+      "start": 23.36,
+      "end": 23.46
+    },
+    {
+      "w": "willing",
+      "start": 23.46,
+      "end": 23.6
+    },
+    {
+      "w": "to",
+      "start": 23.6,
+      "end": 23.72
+    },
+    {
+      "w": "hurt",
+      "start": 23.72,
+      "end": 23.88
+    },
+    {
+      "w": "you",
+      "start": 23.88,
+      "end": 24.1
+    },
+    {
+      "w": "and",
+      "start": 24.1,
+      "end": 24.24
+    },
+    {
+      "w": "I",
+      "start": 24.24,
+      "end": 24.36
+    },
+    {
+      "w": "don't",
+      "start": 24.36,
+      "end": 24.46
+    },
+    {
+      "w": "care.",
+      "start": 24.46,
+      "end": 24.7
+    },
+    {
+      "w": "That's",
+      "start": 25.16,
+      "end": 25.36
+    },
+    {
+      "w": "super",
+      "start": 25.36,
+      "end": 25.66
+    },
+    {
+      "w": "dangerous.",
+      "start": 25.66,
+      "end": 25.92
+    },
+    {
+      "w": "People",
+      "start": 26.34,
+      "end": 26.56
+    },
+    {
+      "w": "who",
+      "start": 26.56,
+      "end": 26.86
+    },
+    {
+      "w": "do",
+      "start": 26.86,
+      "end": 27.24
+    },
+    {
+      "w": "fulfill",
+      "start": 27.24,
+      "end": 27.54
+    },
+    {
+      "w": "these",
+      "start": 27.54,
+      "end": 27.76
+    },
+    {
+      "w": "characteristics",
+      "start": 27.76,
+      "end": 28.38
+    },
+    {
+      "w": "are",
+      "start": 28.38,
+      "end": 28.8
+    },
+    {
+      "w": "one",
+      "start": 28.8,
+      "end": 29.08
+    },
+    {
+      "w": "in",
+      "start": 29.08,
+      "end": 29.24
+    },
+    {
+      "w": "14",
+      "start": 29.24,
+      "end": 29.7
+    },
+    {
+      "w": "is",
+      "start": 29.7,
+      "end": 30.36
+    },
+    {
+      "w": "7",
+      "start": 30.36,
+      "end": 30.62
+    },
+    {
+      "w": "%",
+      "start": 30.62,
+      "end": 30.84
+    },
+    {
+      "w": "of",
+      "start": 30.84,
+      "end": 31.0
+    },
+    {
+      "w": "the",
+      "start": 31.0,
+      "end": 31.06
+    },
+    {
+      "w": "population.",
+      "start": 31.06,
+      "end": 31.48
+    },
+    {
+      "w": "It's",
+      "start": 31.72,
+      "end": 32.0
+    },
+    {
+      "w": "a",
+      "start": 32.0,
+      "end": 32.1
+    },
+    {
+      "w": "lot.",
+      "start": 32.1,
+      "end": 32.52
+    },
+    {
+      "w": "That",
+      "start": 32.62,
+      "end": 32.76
+    },
+    {
+      "w": "would",
+      "start": 32.76,
+      "end": 32.84
+    },
+    {
+      "w": "say",
+      "start": 32.84,
+      "end": 32.94
+    },
+    {
+      "w": "that's",
+      "start": 32.94,
+      "end": 33.14
+    },
+    {
+      "w": "a",
+      "start": 33.14,
+      "end": 33.2
+    },
+    {
+      "w": "lot.",
+      "start": 33.2,
+      "end": 33.36
+    },
+    {
+      "w": "That's",
+      "start": 33.46,
+      "end": 33.62
+    },
+    {
+      "w": "a",
+      "start": 33.62,
+      "end": 33.7
+    },
+    {
+      "w": "lot.",
+      "start": 33.7,
+      "end": 33.94
+    },
+    {
+      "w": "Everybody",
+      "start": 34.08,
+      "end": 34.34
+    },
+    {
+      "w": "who's",
+      "start": 34.34,
+      "end": 35.02
+    },
+    {
+      "w": "listening",
+      "start": 35.02,
+      "end": 35.36
+    },
+    {
+      "w": "to",
+      "start": 35.36,
+      "end": 35.5
+    },
+    {
+      "w": "us",
+      "start": 35.5,
+      "end": 35.64
+    },
+    {
+      "w": "right",
+      "start": 35.64,
+      "end": 35.8
+    },
+    {
+      "w": "now",
+      "start": 35.8,
+      "end": 36.0
+    },
+    {
+      "w": "or",
+      "start": 36.0,
+      "end": 36.1
+    },
+    {
+      "w": "watching",
+      "start": 36.1,
+      "end": 36.36
+    },
+    {
+      "w": "us",
+      "start": 36.36,
+      "end": 36.56
+    },
+    {
+      "w": "right",
+      "start": 36.56,
+      "end": 36.72
+    },
+    {
+      "w": "now",
+      "start": 36.72,
+      "end": 36.9
+    },
+    {
+      "w": "has",
+      "start": 36.9,
+      "end": 37.1
+    },
+    {
+      "w": "encountered",
+      "start": 37.1,
+      "end": 37.58
+    },
+    {
+      "w": "a",
+      "start": 37.58,
+      "end": 37.78
+    },
+    {
+      "w": "dark",
+      "start": 37.78,
+      "end": 37.94
+    },
+    {
+      "w": "triad.",
+      "start": 37.94,
+      "end": 38.32
+    },
+    {
+      "w": "And",
+      "start": 38.44,
+      "end": 38.48
+    },
+    {
+      "w": "that",
+      "start": 38.48,
+      "end": 38.58
+    },
+    {
+      "w": "was",
+      "start": 38.58,
+      "end": 38.68
+    },
+    {
+      "w": "a",
+      "start": 38.68,
+      "end": 38.86
+    },
+    {
+      "w": "weird",
+      "start": 38.86,
+      "end": 39.46
+    },
+    {
+      "w": "thing",
+      "start": 39.46,
+      "end": 39.74
+    },
+    {
+      "w": "where",
+      "start": 39.74,
+      "end": 39.9
+    },
+    {
+      "w": "somebody",
+      "start": 39.9,
+      "end": 40.12
+    },
+    {
+      "w": "became",
+      "start": 40.12,
+      "end": 40.4
+    },
+    {
+      "w": "a",
+      "start": 40.4,
+      "end": 40.62
+    },
+    {
+      "w": "friend",
+      "start": 40.62,
+      "end": 41.06
+    },
+    {
+      "w": "a",
+      "start": 41.06,
+      "end": 41.26
+    },
+    {
+      "w": "little",
+      "start": 41.26,
+      "end": 41.38
+    },
+    {
+      "w": "too",
+      "start": 41.38,
+      "end": 41.6
+    },
+    {
+      "w": "fast",
+      "start": 41.6,
+      "end": 42.02
+    },
+    {
+      "w": "and",
+      "start": 42.54,
+      "end": 42.76
+    },
+    {
+      "w": "then",
+      "start": 42.76,
+      "end": 42.88
+    },
+    {
+      "w": "betrayed",
+      "start": 42.88,
+      "end": 43.18
+    },
+    {
+      "w": "you.",
+      "start": 43.18,
+      "end": 43.52
+    },
+    {
+      "w": "It's",
+      "start": 43.72,
+      "end": 43.94
+    },
+    {
+      "w": "a",
+      "start": 43.94,
+      "end": 44.02
+    },
+    {
+      "w": "boyfriend",
+      "start": 44.02,
+      "end": 44.44
+    },
+    {
+      "w": "that",
+      "start": 44.44,
+      "end": 44.92
+    },
+    {
+      "w": "acted",
+      "start": 44.92,
+      "end": 45.44
+    },
+    {
+      "w": "like",
+      "start": 45.44,
+      "end": 45.66
+    },
+    {
+      "w": "he",
+      "start": 45.66,
+      "end": 45.76
+    },
+    {
+      "w": "was,",
+      "start": 45.76,
+      "end": 45.9
+    },
+    {
+      "w": "like",
+      "start": 45.98,
+      "end": 46.2
+    },
+    {
+      "w": "a",
+      "start": 46.2,
+      "end": 46.38
+    },
+    {
+      "w": "love",
+      "start": 46.38,
+      "end": 46.56
+    },
+    {
+      "w": "bomb",
+      "start": 46.56,
+      "end": 46.84
+    },
+    {
+      "w": "to",
+      "start": 46.84,
+      "end": 47.04
+    },
+    {
+      "w": "you",
+      "start": 47.04,
+      "end": 47.14
+    },
+    {
+      "w": "like",
+      "start": 47.14,
+      "end": 47.26
+    },
+    {
+      "w": "crazy.",
+      "start": 47.26,
+      "end": 47.74
+    },
+    {
+      "w": "And",
+      "start": 48.2,
+      "end": 48.4
+    },
+    {
+      "w": "then",
+      "start": 48.4,
+      "end": 48.52
+    },
+    {
+      "w": "he",
+      "start": 48.52,
+      "end": 48.62
+    },
+    {
+      "w": "emptied",
+      "start": 48.62,
+      "end": 48.92
+    },
+    {
+      "w": "your",
+      "start": 48.92,
+      "end": 49.08
+    },
+    {
+      "w": "bank",
+      "start": 49.08,
+      "end": 49.3
+    },
+    {
+      "w": "account",
+      "start": 49.3,
+      "end": 49.52
+    },
+    {
+      "w": "and",
+      "start": 49.52,
+      "end": 49.74
+    },
+    {
+      "w": "used",
+      "start": 49.74,
+      "end": 50.0
+    },
+    {
+      "w": "you",
+      "start": 50.0,
+      "end": 50.14
+    },
+    {
+      "w": "and",
+      "start": 50.14,
+      "end": 50.26
+    },
+    {
+      "w": "abandoned",
+      "start": 50.26,
+      "end": 50.6
+    },
+    {
+      "w": "you.",
+      "start": 50.6,
+      "end": 50.92
+    },
+    {
+      "w": "Or",
+      "start": 50.98,
+      "end": 51.42
+    },
+    {
+      "w": "if",
+      "start": 51.42,
+      "end": 51.66
+    },
+    {
+      "w": "you",
+      "start": 51.66,
+      "end": 51.74
+    },
+    {
+      "w": "had",
+      "start": 51.74,
+      "end": 51.86
+    },
+    {
+      "w": "the",
+      "start": 51.86,
+      "end": 51.94
+    },
+    {
+      "w": "bad",
+      "start": 51.94,
+      "end": 52.18
+    },
+    {
+      "w": "luck",
+      "start": 52.18,
+      "end": 52.38
+    },
+    {
+      "w": "of",
+      "start": 52.38,
+      "end": 52.5
+    },
+    {
+      "w": "actually",
+      "start": 52.5,
+      "end": 52.7
+    },
+    {
+      "w": "marrying",
+      "start": 52.7,
+      "end": 53.06
+    },
+    {
+      "w": "that",
+      "start": 53.06,
+      "end": 53.34
+    },
+    {
+      "w": "guy,",
+      "start": 53.34,
+      "end": 53.6
+    },
+    {
+      "w": "he",
+      "start": 53.6,
+      "end": 53.82
+    },
+    {
+      "w": "cheated",
+      "start": 53.82,
+      "end": 54.08
+    },
+    {
+      "w": "on",
+      "start": 54.08,
+      "end": 54.3
+    },
+    {
+      "w": "you",
+      "start": 54.3,
+      "end": 54.46
+    },
+    {
+      "w": "over",
+      "start": 54.46,
+      "end": 55.12
+    },
+    {
+      "w": "and",
+      "start": 55.12,
+      "end": 55.4
+    },
+    {
+      "w": "over",
+      "start": 55.4,
+      "end": 55.7
+    },
+    {
+      "w": "and",
+      "start": 55.7,
+      "end": 55.98
+    },
+    {
+      "w": "over",
+      "start": 55.98,
+      "end": 56.26
+    },
+    {
+      "w": "again.",
+      "start": 56.26,
+      "end": 56.64
+    },
+    {
+      "w": "Or",
+      "start": 56.64,
+      "end": 56.96
+    },
+    {
+      "w": "you",
+      "start": 56.96,
+      "end": 57.08
+    },
+    {
+      "w": "worked",
+      "start": 57.08,
+      "end": 57.3
+    },
+    {
+      "w": "for",
+      "start": 57.3,
+      "end": 57.48
+    },
+    {
+      "w": "one",
+      "start": 57.48,
+      "end": 57.76
+    },
+    {
+      "w": "who",
+      "start": 57.76,
+      "end": 58.38
+    },
+    {
+      "w": "was",
+      "start": 58.38,
+      "end": 59.0
+    },
+    {
+      "w": "very",
+      "start": 59.0,
+      "end": 59.22
+    },
+    {
+      "w": "abusive",
+      "start": 59.22,
+      "end": 59.56
+    },
+    {
+      "w": "and",
+      "start": 59.56,
+      "end": 59.74
+    },
+    {
+      "w": "exploitative",
+      "start": 59.74,
+      "end": 60.32
+    },
+    {
+      "w": "and",
+      "start": 60.32,
+      "end": 61.12
+    },
+    {
+      "w": "took",
+      "start": 61.12,
+      "end": 61.78
+    },
+    {
+      "w": "credit",
+      "start": 61.78,
+      "end": 61.98
+    },
+    {
+      "w": "for",
+      "start": 61.98,
+      "end": 62.12
+    },
+    {
+      "w": "your",
+      "start": 62.12,
+      "end": 62.22
+    },
+    {
+      "w": "work.",
+      "start": 62.22,
+      "end": 62.52
+    },
+    {
+      "w": "That",
+      "start": 62.92,
+      "end": 63.2
+    },
+    {
+      "w": "kind",
+      "start": 63.2,
+      "end": 63.48
+    },
+    {
+      "w": "of",
+      "start": 63.48,
+      "end": 63.56
+    },
+    {
+      "w": "thing",
+      "start": 63.56,
+      "end": 63.74
+    },
+    {
+      "w": "is",
+      "start": 63.74,
+      "end": 63.88
+    },
+    {
+      "w": "actually",
+      "start": 63.88,
+      "end": 64.14
+    },
+    {
+      "w": "what",
+      "start": 64.14,
+      "end": 64.3
+    },
+    {
+      "w": "they",
+      "start": 64.3,
+      "end": 64.44
+    },
+    {
+      "w": "do",
+      "start": 64.44,
+      "end": 64.56
+    },
+    {
+      "w": "all",
+      "start": 64.56,
+      "end": 64.74
+    },
+    {
+      "w": "the",
+      "start": 64.74,
+      "end": 64.82
+    },
+    {
+      "w": "time.",
+      "start": 64.82,
+      "end": 65.16
+    },
+    {
+      "w": "When",
+      "start": 65.48,
+      "end": 65.7
+    },
+    {
+      "w": "I",
+      "start": 65.7,
+      "end": 65.82
+    },
+    {
+      "w": "came",
+      "start": 65.82,
+      "end": 65.98
+    },
+    {
+      "w": "across",
+      "start": 65.98,
+      "end": 66.38
+    },
+    {
+      "w": "that",
+      "start": 66.38,
+      "end": 67.04
+    },
+    {
+      "w": "body",
+      "start": 67.04,
+      "end": 67.32
+    },
+    {
+      "w": "of",
+      "start": 67.32,
+      "end": 67.46
+    },
+    {
+      "w": "work",
+      "start": 67.46,
+      "end": 68.18
+    },
+    {
+      "w": "of",
+      "start": 68.18,
+      "end": 68.46
+    },
+    {
+      "w": "yours,",
+      "start": 68.46,
+      "end": 68.64
+    },
+    {
+      "w": "I",
+      "start": 69.5,
+      "end": 69.64
+    },
+    {
+      "w": "had",
+      "start": 69.64,
+      "end": 69.86
+    },
+    {
+      "w": "to",
+      "start": 69.86,
+      "end": 70.04
+    },
+    {
+      "w": "go",
+      "start": 70.04,
+      "end": 71.66
+    },
+    {
+      "w": "for",
+      "start": 71.66,
+      "end": 71.82
+    },
+    {
+      "w": "a",
+      "start": 71.82,
+      "end": 71.96
+    },
+    {
+      "w": "walk",
+      "start": 71.96,
+      "end": 72.12
+    },
+    {
+      "w": "of",
+      "start": 72.12,
+      "end": 72.28
+    },
+    {
+      "w": "like,",
+      "start": 72.28,
+      "end": 72.44
+    },
+    {
+      "w": "I",
+      "start": 72.54,
+      "end": 72.64
+    },
+    {
+      "w": "wanna",
+      "start": 72.64,
+      "end": 72.8
+    },
+    {
+      "w": "make",
+      "start": 72.8,
+      "end": 73.02
+    },
+    {
+      "w": "sure",
+      "start": 73.02,
+      "end": 73.32
+    },
+    {
+      "w": "that",
+      "start": 73.32,
+      "end": 73.64
+    },
+    {
+      "w": "I'm",
+      "start": 73.64,
+      "end": 74.52
+    },
+    {
+      "w": "doing",
+      "start": 74.52,
+      "end": 74.72
+    },
+    {
+      "w": "everything.",
+      "start": 74.72,
+      "end": 75.26
+    },
+    {
+      "w": "If",
+      "start": 75.48,
+      "end": 75.48
+    },
+    {
+      "w": "you're",
+      "start": 75.48,
+      "end": 75.62
+    },
+    {
+      "w": "worried",
+      "start": 75.62,
+      "end": 75.92
+    },
+    {
+      "w": "about",
+      "start": 75.92,
+      "end": 76.16
+    },
+    {
+      "w": "it,",
+      "start": 76.16,
+      "end": 76.28
+    },
+    {
+      "w": "you're",
+      "start": 76.3,
+      "end": 76.38
+    },
+    {
+      "w": "not.",
+      "start": 76.38,
+      "end": 76.62
+    },
+    {
+      "w": "Okay,",
+      "start": 76.76,
+      "end": 77.02
+    },
+    {
+      "w": "all",
+      "start": 77.44,
+      "end": 77.62
+    },
+    {
+      "w": "right,",
+      "start": 77.62,
+      "end": 77.82
+    },
+    {
+      "w": "good.",
+      "start": 77.84,
+      "end": 77.98
+    },
+    {
+      "w": "No,",
+      "start": 78.04,
+      "end": 78.22
+    },
+    {
+      "w": "there's",
+      "start": 78.28,
+      "end": 78.38
+    },
+    {
+      "w": "a",
+      "start": 78.38,
+      "end": 78.54
+    },
+    {
+      "w": "test",
+      "start": 78.54,
+      "end": 78.68
+    },
+    {
+      "w": "on",
+      "start": 78.68,
+      "end": 78.84
+    },
+    {
+      "w": "my",
+      "start": 78.84,
+      "end": 78.94
+    },
+    {
+      "w": "website,",
+      "start": 78.94,
+      "end": 79.26
+    },
+    {
+      "w": "by",
+      "start": 79.38,
+      "end": 79.46
+    },
+    {
+      "w": "the",
+      "start": 79.46,
+      "end": 79.5
+    },
+    {
+      "w": "way.",
+      "start": 79.5,
+      "end": 79.68
+    },
+    {
+      "w": "I've",
+      "start": 79.92,
+      "end": 80.16
+    },
+    {
+      "w": "got",
+      "start": 80.16,
+      "end": 80.26
+    },
+    {
+      "w": "a",
+      "start": 80.26,
+      "end": 80.32
+    },
+    {
+      "w": "whole",
+      "start": 80.32,
+      "end": 80.42
+    },
+    {
+      "w": "battery",
+      "start": 80.42,
+      "end": 80.88
+    },
+    {
+      "w": "of",
+      "start": 80.88,
+      "end": 81.1
+    },
+    {
+      "w": "tests",
+      "start": 81.1,
+      "end": 81.5
+    },
+    {
+      "w": "that",
+      "start": 81.5,
+      "end": 81.74
+    },
+    {
+      "w": "people",
+      "start": 81.74,
+      "end": 81.94
+    },
+    {
+      "w": "can",
+      "start": 81.94,
+      "end": 82.12
+    },
+    {
+      "w": "actually",
+      "start": 82.12,
+      "end": 82.38
+    },
+    {
+      "w": "take",
+      "start": 82.38,
+      "end": 82.72
+    },
+    {
+      "w": "about",
+      "start": 82.72,
+      "end": 83.0
+    },
+    {
+      "w": "their",
+      "start": 83.0,
+      "end": 83.38
+    },
+    {
+      "w": "affect",
+      "start": 83.38,
+      "end": 83.72
+    },
+    {
+      "w": "profile",
+      "start": 83.72,
+      "end": 84.36
+    },
+    {
+      "w": "and",
+      "start": 84.36,
+      "end": 84.5
+    },
+    {
+      "w": "their",
+      "start": 84.5,
+      "end": 84.58
+    },
+    {
+      "w": "general",
+      "start": 84.58,
+      "end": 84.78
+    },
+    {
+      "w": "happiness",
+      "start": 84.78,
+      "end": 85.12
+    },
+    {
+      "w": "level.",
+      "start": 85.12,
+      "end": 85.56
+    },
+    {
+      "w": "Let's",
+      "start": 85.94,
+      "end": 86.2
+    },
+    {
+      "w": "call",
+      "start": 86.2,
+      "end": 86.32
+    },
+    {
+      "w": "the",
+      "start": 86.32,
+      "end": 86.42
+    },
+    {
+      "w": "happiness",
+      "start": 86.42,
+      "end": 86.68
+    },
+    {
+      "w": "scale.",
+      "start": 86.68,
+      "end": 87.06
+    },
+    {
+      "w": "But",
+      "start": 87.22,
+      "end": 87.22
+    },
+    {
+      "w": "I",
+      "start": 87.22,
+      "end": 87.34
+    },
+    {
+      "w": "also",
+      "start": 87.34,
+      "end": 87.48
+    },
+    {
+      "w": "have",
+      "start": 87.48,
+      "end": 87.92
+    },
+    {
+      "w": "a...",
+      "start": 87.92,
+      "end": 88.06
+    },
+    {
+      "w": "Okay,",
+      "start": 88.06,
+      "end": 88.06
+    },
+    {
+      "w": "I'm",
+      "start": 88.06,
+      "end": 88.06
+    },
+    {
+      "w": "telling",
+      "start": 88.06,
+      "end": 88.1
+    },
+    {
+      "w": "what's",
+      "start": 88.1,
+      "end": 88.36
+    },
+    {
+      "w": "your",
+      "start": 88.36,
+      "end": 88.36
+    },
+    {
+      "w": "website?",
+      "start": 88.36,
+      "end": 88.64
+    },
+    {
+      "w": "arthurbricks",
+      "start": 89.12,
+      "end": 89.64
+    },
+    {
+      "w": ".com",
+      "start": 89.64,
+      "end": 89.94
+    },
+    {
+      "w": "Perfect,",
+      "start": 89.94,
+      "end": 90.3
+    },
+    {
+      "w": "all",
+      "start": 90.48,
+      "end": 90.52
+    },
+    {
+      "w": "right.",
+      "start": 90.52,
+      "end": 90.52
+    },
+    {
+      "w": "Yeah,",
+      "start": 90.52,
+      "end": 90.62
+    },
+    {
+      "w": "and",
+      "start": 90.72,
+      "end": 91.06
+    },
+    {
+      "w": "people",
+      "start": 91.06,
+      "end": 91.88
+    },
+    {
+      "w": "can",
+      "start": 91.88,
+      "end": 92.06
+    },
+    {
+      "w": "go",
+      "start": 92.06,
+      "end": 92.18
+    },
+    {
+      "w": "there",
+      "start": 92.18,
+      "end": 92.36
+    },
+    {
+      "w": "and",
+      "start": 92.36,
+      "end": 92.44
+    },
+    {
+      "w": "take",
+      "start": 92.44,
+      "end": 92.56
+    },
+    {
+      "w": "a",
+      "start": 92.56,
+      "end": 92.64
+    },
+    {
+      "w": "test",
+      "start": 92.64,
+      "end": 92.8
+    },
+    {
+      "w": "and",
+      "start": 92.8,
+      "end": 92.96
+    },
+    {
+      "w": "see",
+      "start": 92.96,
+      "end": 93.22
+    },
+    {
+      "w": "their",
+      "start": 93.22,
+      "end": 93.56
+    },
+    {
+      "w": "dark",
+      "start": 93.56,
+      "end": 93.86
+    },
+    {
+      "w": "triad",
+      "start": 93.86,
+      "end": 94.14
+    },
+    {
+      "w": "characteristics",
+      "start": 94.14,
+      "end": 94.66
+    },
+    {
+      "w": "or",
+      "start": 94.66,
+      "end": 95.26
+    },
+    {
+      "w": "the",
+      "start": 95.26,
+      "end": 95.98
+    },
+    {
+      "w": "person",
+      "start": 95.98,
+      "end": 96.22
+    },
+    {
+      "w": "they're",
+      "start": 96.22,
+      "end": 96.42
+    },
+    {
+      "w": "dating,",
+      "start": 96.42,
+      "end": 96.78
+    },
+    {
+      "w": "which",
+      "start": 97.24,
+      "end": 97.72
+    },
+    {
+      "w": "is",
+      "start": 97.72,
+      "end": 97.88
+    },
+    {
+      "w": "really",
+      "start": 97.88,
+      "end": 98.06
+    },
+    {
+      "w": "important,",
+      "start": 98.06,
+      "end": 98.44
+    },
+    {
+      "w": "especially",
+      "start": 98.48,
+      "end": 98.74
+    },
+    {
+      "w": "for",
+      "start": 98.74,
+      "end": 99.02
+    },
+    {
+      "w": "women.",
+      "start": 99.02,
+      "end": 99.32
+    }
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 0.375,
+      "length": 0.375,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#09090A",
+            "share": 0.244
+          },
+          {
+            "hex": "#342D2C",
+            "share": 0.112
+          },
+          {
+            "hex": "#4E4C4B",
+            "share": 0.083
+          },
+          {
+            "hex": "#4B352E",
+            "share": 0.081
+          },
+          {
+            "hex": "#2C1816",
+            "share": 0.064
+          }
+        ],
+        "motion_energy": 16.4,
+        "script": "Women are"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 1,
+      "start": 0.375,
+      "end": 7.925,
+      "length": 7.549,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0D0D0F",
+            "share": 0.317
+          },
+          {
+            "hex": "#311510",
+            "share": 0.138
+          },
+          {
+            "hex": "#4D332F",
+            "share": 0.093
+          },
+          {
+            "hex": "#6E4E4A",
+            "share": 0.07
+          },
+          {
+            "hex": "#6F6F74",
+            "share": 0.046
+          }
+        ],
+        "motion_energy": 13.35,
+        "script": "magnetized to dark triads. There's a category of men that's really good at looking like they're falling in love when they're actually not."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.925,
+      "end": 12.679,
+      "length": 4.755,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0A090B",
+            "share": 0.238
+          },
+          {
+            "hex": "#342D2C",
+            "share": 0.108
+          },
+          {
+            "hex": "#4D4B4B",
+            "share": 0.085
+          },
+          {
+            "hex": "#4B352E",
+            "share": 0.083
+          },
+          {
+            "hex": "#2C1817",
+            "share": 0.065
+          }
+        ],
+        "motion_energy": 3.53,
+        "script": "The dark triad is a combination of three personality characteristics. Narcissism, it's all about me."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.679,
+      "end": 33.116,
+      "length": 20.437,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0D0C0E",
+            "share": 0.319
+          },
+          {
+            "hex": "#301610",
+            "share": 0.134
+          },
+          {
+            "hex": "#4D332F",
+            "share": 0.078
+          },
+          {
+            "hex": "#716F73",
+            "share": 0.063
+          },
+          {
+            "hex": "#8D8B8D",
+            "share": 0.054
+          }
+        ],
+        "motion_energy": 20.4,
+        "script": "Machiavellianism, which is I'm willing to hurt you to serve my ends. And psychopathy, psychopathic traits, which is if I hurt you, I don't feel remorse or empathy for you at all. Those are the three traits. And when it's all about me, I'm willing to hurt you and I don't care. That's super dangerous. People who do fulfill these characteristics are one in 14 is 7 % of the population. It's a lot. That would say that's"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 4,
+      "start": 33.116,
+      "end": 44.294,
+      "length": 11.178,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0A090B",
+            "share": 0.251
+          },
+          {
+            "hex": "#342D2D",
+            "share": 0.116
+          },
+          {
+            "hex": "#4D4C4C",
+            "share": 0.082
+          },
+          {
+            "hex": "#4C352E",
+            "share": 0.08
+          },
+          {
+            "hex": "#2B1817",
+            "share": 0.061
+          }
+        ],
+        "motion_energy": 2.75,
+        "script": "a lot. That's a lot. Everybody who's listening to us right now or watching us right now has encountered a dark triad. And that was a weird thing where somebody became a friend a little too fast and then betrayed you. It's a boyfriend"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 5,
+      "start": 44.294,
+      "end": 56.849,
+      "length": 12.554,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0D0D0F",
+            "share": 0.364
+          },
+          {
+            "hex": "#311610",
+            "share": 0.122
+          },
+          {
+            "hex": "#4C322E",
+            "share": 0.07
+          },
+          {
+            "hex": "#717073",
+            "share": 0.058
+          },
+          {
+            "hex": "#8C8B8D",
+            "share": 0.057
+          }
+        ],
+        "motion_energy": 9.44,
+        "script": "that acted like he was, like a love bomb to you like crazy. And then he emptied your bank account and used you and abandoned you. Or if you had the bad luck of actually marrying that guy, he cheated on you over and over and over again. Or"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 6,
+      "start": 56.849,
+      "end": 62.896,
+      "length": 6.048,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#09090B",
+            "share": 0.255
+          },
+          {
+            "hex": "#342D2D",
+            "share": 0.114
+          },
+          {
+            "hex": "#4D4B4B",
+            "share": 0.084
+          },
+          {
+            "hex": "#4C352E",
+            "share": 0.077
+          },
+          {
+            "hex": "#2B1817",
+            "share": 0.06
+          }
+        ],
+        "motion_energy": 2.35,
+        "script": "you worked for one who was very abusive and exploitative and took credit for your work."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 7,
+      "start": 62.896,
+      "end": 75.325,
+      "length": 12.429,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0B0B0D",
+            "share": 0.407
+          },
+          {
+            "hex": "#352E26",
+            "share": 0.217
+          },
+          {
+            "hex": "#513329",
+            "share": 0.077
+          },
+          {
+            "hex": "#291812",
+            "share": 0.063
+          },
+          {
+            "hex": "#522E1B",
+            "share": 0.059
+          }
+        ],
+        "motion_energy": 15.88,
+        "script": "That kind of thing is actually what they do all the time. When I came across that body of work of yours, I had to go for a walk of like, I wanna make sure that I'm doing everything."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 8,
+      "start": 75.325,
+      "end": 85.919,
+      "length": 10.594,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#09090B",
+            "share": 0.236
+          },
+          {
+            "hex": "#332D2C",
+            "share": 0.101
+          },
+          {
+            "hex": "#4F4C4C",
+            "share": 0.083
+          },
+          {
+            "hex": "#4B352E",
+            "share": 0.082
+          },
+          {
+            "hex": "#2C1816",
+            "share": 0.061
+          }
+        ],
+        "motion_energy": 3.41,
+        "script": "If you're worried about it, you're not. Okay, all right, good. No, there's a test on my website, by the way. I've got a whole battery of tests that people can actually take about their affect profile and their general happiness level."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 9,
+      "start": 85.919,
+      "end": 88.422,
+      "length": 2.502,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0E0D10",
+            "share": 0.399
+          },
+          {
+            "hex": "#2F1511",
+            "share": 0.086
+          },
+          {
+            "hex": "#4C322E",
+            "share": 0.077
+          },
+          {
+            "hex": "#8D8C8D",
+            "share": 0.058
+          },
+          {
+            "hex": "#706F73",
+            "share": 0.056
+          }
+        ],
+        "motion_energy": 13.77,
+        "script": "Let's call the happiness scale. But I also have a... Okay, I'm telling what's your website?"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 10,
+      "start": 88.422,
+      "end": 99.634,
+      "length": 11.212,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0A090B",
+            "share": 0.238
+          },
+          {
+            "hex": "#332D2C",
+            "share": 0.107
+          },
+          {
+            "hex": "#4E4C4C",
+            "share": 0.082
+          },
+          {
+            "hex": "#4B352E",
+            "share": 0.081
+          },
+          {
+            "hex": "#2C1816",
+            "share": 0.06
+          }
+        ],
+        "motion_energy": 2.65,
+        "script": "arthurbricks .com Perfect, all right. Yeah, and people can go there and take a test and see their dark triad characteristics or the person they're dating, which is really important, especially for women."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    }
+  ]
+}

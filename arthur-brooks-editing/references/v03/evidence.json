@@ -1,0 +1,58 @@
+{
+  "video": "v03.mp4",
+  "duration": 12.88,
+  "derived": {
+    "shots": 1,
+    "avg_shot_len": 12.88,
+    "cuts_per_min": 4.7,
+    "hook_shots_first_3s": 1,
+    "high_motion_shots": []
+  },
+  "method": "ffmpeg scene>0.32 + keyframes 5/plano + paleta cuantizada + energía de movimiento",
+  "words": [],
+  "shots": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 12.884,
+      "length": 12.884,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#162059",
+            "share": 0.398
+          },
+          {
+            "hex": "#121C4E",
+            "share": 0.247
+          },
+          {
+            "hex": "#192665",
+            "share": 0.226
+          },
+          {
+            "hex": "#2A346C",
+            "share": 0.025
+          },
+          {
+            "hex": "#4B5687",
+            "share": 0.013
+          }
+        ],
+        "motion_energy": 4.15,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "podcast-premium",
+  "name": "Podcast Premium Clips",
+  "description": "Clips de podcast multi-cámara: pregunta del entrevistador como hook, lower-third del invitado, paleta de 4 tonos extraída del A-roll, texturas tela/halftone/papel.",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "fonts": {
+    "sans": {
+      "family": "Inter",
+      "weight": 300
+    },
+    "sans_bold": {
+      "family": "Inter",
+      "weight": 800
+    },
+    "special": {
+      "family": "Playfair Display",
+      "weight": 700,
+      "style": "normal"
+    }
+  },
+  "palette": {
+    "mode": "from_footage",
+    "fallback_accent": "#2563EB",
+    "roles": {
+      "primary": "dull_black",
+      "secondary": "dull_white",
+      "accent": "vibrant_bright",
+      "accent_dark": "vibrant_dark"
+    },
+    "ratio": [
+      60,
+      30,
+      10
+    ]
+  },
+  "background": {
+    "fullscreen": "primary",
+    "grid": false,
+    "grid_opacity": 0
+  },
+  "texture": {
+    "kind": "halftone",
+    "opacity": 0.14
+  },
+  "shapes": {
+    "radius": 10,
+    "stroke": 2,
+    "edge": "sharp"
+  },
+  "captions": {
+    "zone": "center_low",
+    "max_words": 4,
+    "special_per_phrase": [
+      1,
+      1
+    ],
+    "base_size": 68,
+    "special_scale": 1.9,
+    "layout": "special_center_fill_gaps",
+    "color": "#FFFFFF",
+    "special_color": "dull_white",
+    "backdrop": {
+      "type": "gradient_bottom",
+      "blur": 0,
+      "darkness": 0.55
+    },
+    "animation": "pop_blur_fade",
+    "center_y": 0.6,
+    "_min_px": {
+      "small": 42,
+      "special": 100,
+      "_doc": "Tamaños mínimos legibles en móvil (1080 de ancho). El validador rechaza menos."
+    }
+  },
+  "speaker": {
+    "eyes_line": "upper_third",
+    "nose_x": "center"
+  },
+  "motion": {
+    "enter_ms": 260,
+    "exit_ms": 180,
+    "easing": [
+      0.2,
+      0.9,
+      0.2,
+      1
+    ],
+    "pop_from_scale": 0.86,
+    "blur_from_px": 10,
+    "stagger_ms": 60,
+    "feel": "punchy"
+  },
+  "pacing": {
+    "hook_window_s": 3.0,
+    "max_aroll_streak_s": 6.0,
+    "min_scene_s": 0.7,
+    "target_animation_share": 0.35
+  },
+  "scenes_allowed": [
+    "aroll",
+    "lower_third",
+    "fullscreen_text",
+    "two_object",
+    "bar_graph",
+    "line_graph",
+    "broll_text",
+    "quote",
+    "notification",
+    "counter_ring"
+  ],
+  "sfx": {
+    "aroll": null,
+    "lower_third": "pop",
+    "fullscreen_text": "whoosh",
+    "two_object": "whoosh",
+    "bar_graph": "riser",
+    "line_graph": "riser",
+    "broll_text": "whoosh",
+    "quote": "hit",
+    "notification": "notify",
+    "counter_ring": "tick",
+    "caption_special": "click"
+  },
+  "music": {
+    "mood": "tensión documental / piano + pulso",
+    "ducking_db": -18
+  },
+  "safe_zone": {
+    "_doc": "Zona segura Reels/TikTok/Shorts (fracción del alto/ancho). Fuera de aquí la UI de la app tapa el contenido.",
+    "top": 0.14,
+    "bottom": 0.26,
+    "left": 0.07,
+    "right": 0.15
+  },
+  "broll_grade": {
+    "contrast": 1.08,
+    "saturate": 0.85,
+    "brightness": 0.98,
+    "tint": "accent_dark",
+    "tint_opacity": 0.18,
+    "grain": 0.1,
+    "texture": "cloth",
+    "_doc": "Look de marca para B-ROLL/imágenes (stock o generadas): nunca sobre la piel del A-roll. Tinte del acento oscuro en soft-light + grano + textura."
+  }
+}

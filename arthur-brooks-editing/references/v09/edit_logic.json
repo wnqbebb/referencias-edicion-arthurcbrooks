@@ -1,0 +1,232 @@
+{
+ "triggers": [
+  {
+   "t_word": 0.0,
+   "word": "What",
+   "element": "titular 'HOW TO / FIND YOUR / CALLING' sobre plano de la entrevistadora mientras pregunta",
+   "category": "title_cta",
+   "offset_s": 0.0,
+   "why": "la pregunta del host = el título"
+  },
+  {
+   "t_word": 3.14,
+   "word": "Calling",
+   "element": "corte a plano medio de Arthur; primer caption",
+   "category": "captions_text",
+   "offset_s": -0.07,
+   "why": "empieza la respuesta (definición)"
+  },
+  {
+   "t_word": 4.78,
+   "word": "what",
+   "element": "caption con comilla curva de apertura '“What I'm'",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "definición dicha como cita"
+  },
+  {
+   "t_word": 6.02,
+   "word": "I",
+   "element": "punch-in digital a primer plano (~1.3x)",
+   "category": "captions_text",
+   "offset_s": 0.02,
+   "why": "giro personal (creencia religiosa)"
+  },
+  {
+   "t_word": 9.04,
+   "word": "Something",
+   "element": "punch-out a plano medio",
+   "category": "captions_text",
+   "offset_s": 0.04,
+   "why": "cambio de idea (anécdota)"
+  },
+  {
+   "t_word": 12.02,
+   "word": "Make",
+   "element": "punch-in a primer plano + caption con comillas '“make your will / my will ”'",
+   "category": "captions_text",
+   "offset_s": -0.14,
+   "why": "cita textual de la oración"
+  },
+  {
+   "t_word": 13.3,
+   "word": "I've",
+   "element": "punch-out a plano medio; se mantiene 11 s (anécdota del Camino)",
+   "category": "captions_text",
+   "offset_s": -0.02,
+   "why": "cambio de tema: historia"
+  },
+  {
+   "t_word": 24.36,
+   "word": "We",
+   "element": "punch-in a primer plano (14.5 s)",
+   "category": "captions_text",
+   "offset_s": -0.04,
+   "why": "tesis: 'we are an ambulatory species'"
+  },
+  {
+   "t_word": 38.96,
+   "word": "Did",
+   "element": "punch-out a plano medio",
+   "category": "captions_text",
+   "offset_s": -0.15,
+   "why": "vuelta a la anécdota (2021)"
+  },
+  {
+   "t_word": 47.48,
+   "word": "what",
+   "element": "punch-in a primer plano para el consejo final; el caption 'what I' aparece con el corte",
+   "category": "captions_text",
+   "offset_s": 0.43,
+   "why": "acción final: 'Just do something'"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 3.07,
+   "from": "entrevistadora + titular",
+   "to": "aroll plano medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "el titular sale con el corte"
+  },
+  {
+   "t": 6.04,
+   "from": "plano medio",
+   "to": "primer plano",
+   "type": "punch-in (jump-zoom)",
+   "frames": 0,
+   "detail": "misma cámara, recorte ~1.3x"
+  },
+  {
+   "t": 9.08,
+   "from": "primer plano",
+   "to": "plano medio",
+   "type": "punch-in (jump-zoom)",
+   "frames": 0,
+   "detail": "punch-out"
+  },
+  {
+   "t": 11.88,
+   "from": "plano medio",
+   "to": "primer plano",
+   "type": "punch-in (jump-zoom)",
+   "frames": 0,
+   "detail": "en la cita 'Make your will my will'"
+  },
+  {
+   "t": 13.28,
+   "from": "primer plano",
+   "to": "plano medio",
+   "type": "punch-in (jump-zoom)",
+   "frames": 0,
+   "detail": "punch-out; plano de 11 s"
+  },
+  {
+   "t": 24.32,
+   "from": "plano medio",
+   "to": "primer plano",
+   "type": "punch-in (jump-zoom)",
+   "frames": 0,
+   "detail": "plano de 14.5 s"
+  },
+  {
+   "t": 38.81,
+   "from": "primer plano",
+   "to": "plano medio",
+   "type": "punch-in (jump-zoom)",
+   "frames": 0,
+   "detail": "punch-out"
+  },
+  {
+   "t": 47.91,
+   "from": "plano medio",
+   "to": "primer plano",
+   "type": "punch-in (jump-zoom)",
+   "frames": 0,
+   "detail": "último encuadre, hasta el final seco"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.0,
+   "fx": "pop",
+   "detail": "titular estático: 'HOW TO' grande / 'FIND YOUR' más pequeña / 'CALLING' grande, sobre el pecho de la entrevistadora"
+  },
+  {
+   "t": 3.1,
+   "fx": "write-on por palabra",
+   "detail": "bloques de 1–3 palabras que se reemplazan en seco con la primera palabra del bloque; sin acumulación"
+  },
+  {
+   "t": 4.8,
+   "fx": "tracking",
+   "detail": "comillas curvas sueltas: abre '“What I'm' y cierra 'to do ”' con un espacio antes de la comilla; igual en 'my will ”' (13.0)"
+  }
+ ],
+ "camera": [
+  {
+   "t": 6.04,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.3",
+   "dur_s": 0.0
+  },
+  {
+   "t": 9.08,
+   "move": "zoom-out",
+   "scale_or_dir": "1.3→1.0",
+   "dur_s": 0.0
+  },
+  {
+   "t": 11.88,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.3",
+   "dur_s": 0.0
+  },
+  {
+   "t": 13.28,
+   "move": "zoom-out",
+   "scale_or_dir": "1.3→1.0",
+   "dur_s": 0.0
+  },
+  {
+   "t": 24.32,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.3",
+   "dur_s": 0.0
+  },
+  {
+   "t": 38.81,
+   "move": "zoom-out",
+   "scale_or_dir": "1.3→1.0",
+   "dur_s": 0.0
+  },
+  {
+   "t": 47.91,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.3",
+   "dur_s": 0.0
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   5,
+   2,
+   1,
+   1,
+   1,
+   0
+  ],
+  "avg_hold_text_s": 0.6,
+  "notes": "8 cortes en 53 s; planos de 1.4 s a 14.5 s. Alterna plano medio / primer plano siempre al empezar una frase nueva (corte −0.15…+0.04 s respecto a la 1ª palabra). Planos largos en la anécdota (13.3–24.3) y en la tesis (24.3–38.8). NOTA: el breakdown previo situaba punch-outs en 26.4 y 32.2; no existen (el primer plano dura de 24.32 a 38.81)."
+ },
+ "typography": "Titular: sans condensada extra-bold MAYÚSCULAS blanca (tipo Anton/Bebas), 3 líneas grande / pequeña / grande, igual que v07. Captions: sans bold (Inter/Helvetica Bold) blanca, pequeña (~3–4% del alto), centrada a ~56% de la altura, 1–3 palabras, sin destacados; comillas curvas solo en citas.",
+ "textures": "Ninguna añadida: cortinas azul saturado, polo negro y mesa de madera. Sin grano ni viñeta.",
+ "distinct": [
+  "Alternancia estricta plano medio ↔ primer plano (8 punch-ins digitales), siempre en el arranque de una frase",
+  "Primer plano = cita, creencia o tesis; plano medio = anécdota",
+  "Comillas curvas en los captions de cita, con un espacio antes de la de cierre",
+  "Titular sobre la entrevistadora (no sobre el speaker)",
+  "Cero gráficos y cero b-roll: el encuadre es el único recurso"
+ ]
+}

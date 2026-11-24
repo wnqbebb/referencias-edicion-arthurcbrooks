@@ -1,0 +1,3757 @@
+{
+  "video": "v12.mp4",
+  "duration": 91.32,
+  "derived": {
+    "shots": 51,
+    "avg_shot_len": 1.79,
+    "cuts_per_min": 33.5,
+    "hook_shots_first_3s": 2,
+    "high_motion_shots": [
+      0,
+      7,
+      10,
+      12,
+      13,
+      14,
+      16,
+      18,
+      22,
+      24,
+      25,
+      26,
+      29,
+      30,
+      33,
+      35,
+      36,
+      38,
+      40,
+      42,
+      44,
+      50
+    ]
+  },
+  "method": "ffmpeg scene>0.32 + keyframes 5/plano + paleta cuantizada + energía de movimiento",
+  "words": [
+    {
+      "w": "You",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "w": "can't",
+      "start": 0.28,
+      "end": 0.58
+    },
+    {
+      "w": "solve",
+      "start": 0.58,
+      "end": 0.82
+    },
+    {
+      "w": "a",
+      "start": 0.82,
+      "end": 1.02
+    },
+    {
+      "w": "meaning",
+      "start": 1.02,
+      "end": 1.3
+    },
+    {
+      "w": "problem",
+      "start": 1.3,
+      "end": 1.86
+    },
+    {
+      "w": "with",
+      "start": 1.86,
+      "end": 2.3
+    },
+    {
+      "w": "just",
+      "start": 2.3,
+      "end": 2.54
+    },
+    {
+      "w": "another",
+      "start": 2.54,
+      "end": 2.84
+    },
+    {
+      "w": "achievement.",
+      "start": 2.84,
+      "end": 3.38
+    },
+    {
+      "w": "I",
+      "start": 3.62,
+      "end": 3.7
+    },
+    {
+      "w": "see",
+      "start": 3.7,
+      "end": 3.88
+    },
+    {
+      "w": "this",
+      "start": 3.88,
+      "end": 4.06
+    },
+    {
+      "w": "mistake",
+      "start": 4.06,
+      "end": 4.38
+    },
+    {
+      "w": "all",
+      "start": 4.38,
+      "end": 4.68
+    },
+    {
+      "w": "the",
+      "start": 4.68,
+      "end": 4.82
+    },
+    {
+      "w": "time",
+      "start": 4.82,
+      "end": 5.1
+    },
+    {
+      "w": "in",
+      "start": 5.1,
+      "end": 5.26
+    },
+    {
+      "w": "people",
+      "start": 5.26,
+      "end": 5.6
+    },
+    {
+      "w": "who",
+      "start": 5.6,
+      "end": 6.2
+    },
+    {
+      "w": "have",
+      "start": 6.2,
+      "end": 6.34
+    },
+    {
+      "w": "worked",
+      "start": 6.34,
+      "end": 6.58
+    },
+    {
+      "w": "very",
+      "start": 6.58,
+      "end": 6.92
+    },
+    {
+      "w": "hard",
+      "start": 6.92,
+      "end": 7.24
+    },
+    {
+      "w": "to",
+      "start": 7.24,
+      "end": 7.4
+    },
+    {
+      "w": "build",
+      "start": 7.4,
+      "end": 7.52
+    },
+    {
+      "w": "good",
+      "start": 7.52,
+      "end": 7.74
+    },
+    {
+      "w": "lives.",
+      "start": 7.74,
+      "end": 8.22
+    },
+    {
+      "w": "Maybe",
+      "start": 8.5,
+      "end": 8.66
+    },
+    {
+      "w": "that's",
+      "start": 8.66,
+      "end": 8.92
+    },
+    {
+      "w": "you.",
+      "start": 8.92,
+      "end": 9.1
+    },
+    {
+      "w": "You",
+      "start": 9.4,
+      "end": 9.52
+    },
+    {
+      "w": "built",
+      "start": 9.52,
+      "end": 9.7
+    },
+    {
+      "w": "the",
+      "start": 9.7,
+      "end": 9.84
+    },
+    {
+      "w": "career.",
+      "start": 9.84,
+      "end": 10.18
+    },
+    {
+      "w": "You",
+      "start": 10.7,
+      "end": 10.78
+    },
+    {
+      "w": "raised",
+      "start": 10.78,
+      "end": 10.94
+    },
+    {
+      "w": "the",
+      "start": 10.94,
+      "end": 11.06
+    },
+    {
+      "w": "family.",
+      "start": 11.06,
+      "end": 11.4
+    },
+    {
+      "w": "You",
+      "start": 11.8,
+      "end": 11.92
+    },
+    {
+      "w": "hit",
+      "start": 11.92,
+      "end": 12.04
+    },
+    {
+      "w": "many",
+      "start": 12.04,
+      "end": 12.34
+    },
+    {
+      "w": "of",
+      "start": 12.34,
+      "end": 12.46
+    },
+    {
+      "w": "the",
+      "start": 12.46,
+      "end": 12.54
+    },
+    {
+      "w": "goals",
+      "start": 12.54,
+      "end": 12.76
+    },
+    {
+      "w": "that",
+      "start": 12.76,
+      "end": 12.94
+    },
+    {
+      "w": "you",
+      "start": 12.94,
+      "end": 13.02
+    },
+    {
+      "w": "set",
+      "start": 13.02,
+      "end": 13.22
+    },
+    {
+      "w": "for",
+      "start": 13.22,
+      "end": 13.38
+    },
+    {
+      "w": "yourself.",
+      "start": 13.38,
+      "end": 13.74
+    },
+    {
+      "w": "But",
+      "start": 14.0,
+      "end": 14.12
+    },
+    {
+      "w": "then,",
+      "start": 14.12,
+      "end": 14.4
+    },
+    {
+      "w": "at",
+      "start": 14.7,
+      "end": 14.84
+    },
+    {
+      "w": "a",
+      "start": 14.84,
+      "end": 14.94
+    },
+    {
+      "w": "certain",
+      "start": 14.94,
+      "end": 15.14
+    },
+    {
+      "w": "point,",
+      "start": 15.14,
+      "end": 15.48
+    },
+    {
+      "w": "the",
+      "start": 15.8,
+      "end": 15.94
+    },
+    {
+      "w": "questions,",
+      "start": 15.94,
+      "end": 16.26
+    },
+    {
+      "w": "well,",
+      "start": 16.8,
+      "end": 16.92
+    },
+    {
+      "w": "they",
+      "start": 17.0,
+      "end": 17.08
+    },
+    {
+      "w": "start",
+      "start": 17.08,
+      "end": 17.22
+    },
+    {
+      "w": "to",
+      "start": 17.22,
+      "end": 17.4
+    },
+    {
+      "w": "change.",
+      "start": 17.4,
+      "end": 17.74
+    },
+    {
+      "w": "What",
+      "start": 18.04,
+      "end": 18.22
+    },
+    {
+      "w": "comes",
+      "start": 18.22,
+      "end": 18.44
+    },
+    {
+      "w": "next?",
+      "start": 18.44,
+      "end": 18.88
+    },
+    {
+      "w": "What",
+      "start": 19.16,
+      "end": 19.32
+    },
+    {
+      "w": "do",
+      "start": 19.32,
+      "end": 19.4
+    },
+    {
+      "w": "I",
+      "start": 19.4,
+      "end": 19.48
+    },
+    {
+      "w": "want",
+      "start": 19.48,
+      "end": 19.62
+    },
+    {
+      "w": "to",
+      "start": 19.62,
+      "end": 19.74
+    },
+    {
+      "w": "do",
+      "start": 19.74,
+      "end": 19.96
+    },
+    {
+      "w": "now?",
+      "start": 19.96,
+      "end": 20.72
+    },
+    {
+      "w": "And",
+      "start": 21.0,
+      "end": 21.02
+    },
+    {
+      "w": "what",
+      "start": 21.02,
+      "end": 21.3
+    },
+    {
+      "w": "do",
+      "start": 21.3,
+      "end": 21.4
+    },
+    {
+      "w": "I",
+      "start": 21.4,
+      "end": 21.52
+    },
+    {
+      "w": "want",
+      "start": 21.52,
+      "end": 21.64
+    },
+    {
+      "w": "my",
+      "start": 21.64,
+      "end": 21.78
+    },
+    {
+      "w": "life",
+      "start": 21.78,
+      "end": 22.02
+    },
+    {
+      "w": "to",
+      "start": 22.02,
+      "end": 22.18
+    },
+    {
+      "w": "be",
+      "start": 22.18,
+      "end": 22.3
+    },
+    {
+      "w": "about",
+      "start": 22.3,
+      "end": 22.58
+    },
+    {
+      "w": "right",
+      "start": 22.58,
+      "end": 23.1
+    },
+    {
+      "w": "now?",
+      "start": 23.1,
+      "end": 23.36
+    },
+    {
+      "w": "What",
+      "start": 23.6,
+      "end": 23.76
+    },
+    {
+      "w": "do",
+      "start": 23.76,
+      "end": 23.84
+    },
+    {
+      "w": "I",
+      "start": 23.84,
+      "end": 23.94
+    },
+    {
+      "w": "want",
+      "start": 23.94,
+      "end": 24.08
+    },
+    {
+      "w": "to",
+      "start": 24.08,
+      "end": 24.2
+    },
+    {
+      "w": "be",
+      "start": 24.2,
+      "end": 24.44
+    },
+    {
+      "w": "remembered",
+      "start": 24.44,
+      "end": 24.98
+    },
+    {
+      "w": "for?",
+      "start": 24.98,
+      "end": 25.46
+    },
+    {
+      "w": "What",
+      "start": 25.7,
+      "end": 25.9
+    },
+    {
+      "w": "is",
+      "start": 25.9,
+      "end": 26.04
+    },
+    {
+      "w": "all",
+      "start": 26.04,
+      "end": 26.22
+    },
+    {
+      "w": "this",
+      "start": 26.22,
+      "end": 26.4
+    },
+    {
+      "w": "actually",
+      "start": 26.4,
+      "end": 26.82
+    },
+    {
+      "w": "for?",
+      "start": 26.82,
+      "end": 27.22
+    },
+    {
+      "w": "Those",
+      "start": 27.22,
+      "end": 27.7
+    },
+    {
+      "w": "are",
+      "start": 27.7,
+      "end": 27.92
+    },
+    {
+      "w": "basically",
+      "start": 27.92,
+      "end": 28.54
+    },
+    {
+      "w": "questions",
+      "start": 28.54,
+      "end": 28.94
+    },
+    {
+      "w": "of",
+      "start": 28.94,
+      "end": 29.28
+    },
+    {
+      "w": "meaning.",
+      "start": 29.28,
+      "end": 29.54
+    },
+    {
+      "w": "The",
+      "start": 29.86,
+      "end": 29.9
+    },
+    {
+      "w": "science",
+      "start": 29.9,
+      "end": 30.14
+    },
+    {
+      "w": "tells",
+      "start": 30.14,
+      "end": 30.48
+    },
+    {
+      "w": "us",
+      "start": 30.48,
+      "end": 30.78
+    },
+    {
+      "w": "that",
+      "start": 30.78,
+      "end": 31.04
+    },
+    {
+      "w": "meaning",
+      "start": 31.04,
+      "end": 31.36
+    },
+    {
+      "w": "has",
+      "start": 31.36,
+      "end": 31.74
+    },
+    {
+      "w": "three",
+      "start": 31.74,
+      "end": 32.24
+    },
+    {
+      "w": "parts.",
+      "start": 32.24,
+      "end": 32.84
+    },
+    {
+      "w": "Coherence,",
+      "start": 33.18,
+      "end": 33.72
+    },
+    {
+      "w": "purpose,",
+      "start": 33.98,
+      "end": 34.52
+    },
+    {
+      "w": "and",
+      "start": 35.14,
+      "end": 35.24
+    },
+    {
+      "w": "significance.",
+      "start": 35.24,
+      "end": 35.76
+    },
+    {
+      "w": "Coherence",
+      "start": 36.36,
+      "end": 36.8
+    },
+    {
+      "w": "is",
+      "start": 36.8,
+      "end": 36.96
+    },
+    {
+      "w": "understanding",
+      "start": 36.96,
+      "end": 37.44
+    },
+    {
+      "w": "why",
+      "start": 37.44,
+      "end": 37.86
+    },
+    {
+      "w": "your",
+      "start": 37.86,
+      "end": 38.0
+    },
+    {
+      "w": "life",
+      "start": 38.0,
+      "end": 38.28
+    },
+    {
+      "w": "is",
+      "start": 38.28,
+      "end": 38.44
+    },
+    {
+      "w": "unfolding",
+      "start": 38.44,
+      "end": 38.82
+    },
+    {
+      "w": "the",
+      "start": 38.82,
+      "end": 39.08
+    },
+    {
+      "w": "way",
+      "start": 39.08,
+      "end": 39.2
+    },
+    {
+      "w": "that",
+      "start": 39.2,
+      "end": 39.34
+    },
+    {
+      "w": "it",
+      "start": 39.34,
+      "end": 39.5
+    },
+    {
+      "w": "is.",
+      "start": 39.5,
+      "end": 39.74
+    },
+    {
+      "w": "Purpose",
+      "start": 39.94,
+      "end": 40.3
+    },
+    {
+      "w": "is",
+      "start": 40.3,
+      "end": 40.58
+    },
+    {
+      "w": "knowing",
+      "start": 40.58,
+      "end": 40.86
+    },
+    {
+      "w": "what",
+      "start": 40.86,
+      "end": 41.32
+    },
+    {
+      "w": "your",
+      "start": 41.32,
+      "end": 41.46
+    },
+    {
+      "w": "life",
+      "start": 41.46,
+      "end": 41.72
+    },
+    {
+      "w": "is",
+      "start": 41.72,
+      "end": 41.88
+    },
+    {
+      "w": "pointed",
+      "start": 41.88,
+      "end": 42.24
+    },
+    {
+      "w": "toward,",
+      "start": 42.24,
+      "end": 42.72
+    },
+    {
+      "w": "and",
+      "start": 43.08,
+      "end": 43.18
+    },
+    {
+      "w": "significance",
+      "start": 43.18,
+      "end": 43.58
+    },
+    {
+      "w": "is",
+      "start": 43.58,
+      "end": 44.0
+    },
+    {
+      "w": "knowing",
+      "start": 44.0,
+      "end": 44.2
+    },
+    {
+      "w": "why",
+      "start": 44.2,
+      "end": 44.66
+    },
+    {
+      "w": "your",
+      "start": 44.66,
+      "end": 44.76
+    },
+    {
+      "w": "life",
+      "start": 44.76,
+      "end": 44.96
+    },
+    {
+      "w": "matters,",
+      "start": 44.96,
+      "end": 45.4
+    },
+    {
+      "w": "and",
+      "start": 45.64,
+      "end": 45.84
+    },
+    {
+      "w": "to",
+      "start": 45.84,
+      "end": 45.96
+    },
+    {
+      "w": "whom.",
+      "start": 45.96,
+      "end": 46.12
+    },
+    {
+      "w": "You",
+      "start": 46.36,
+      "end": 46.46
+    },
+    {
+      "w": "can",
+      "start": 46.46,
+      "end": 46.6
+    },
+    {
+      "w": "understand",
+      "start": 46.6,
+      "end": 47.06
+    },
+    {
+      "w": "these",
+      "start": 47.06,
+      "end": 47.38
+    },
+    {
+      "w": "ideas",
+      "start": 47.38,
+      "end": 47.66
+    },
+    {
+      "w": "intellectually",
+      "start": 47.66,
+      "end": 48.0
+    },
+    {
+      "w": "pretty",
+      "start": 48.0,
+      "end": 48.66
+    },
+    {
+      "w": "quickly,",
+      "start": 48.66,
+      "end": 49.06
+    },
+    {
+      "w": "but",
+      "start": 49.3,
+      "end": 49.48
+    },
+    {
+      "w": "understanding",
+      "start": 49.48,
+      "end": 49.9
+    },
+    {
+      "w": "them",
+      "start": 49.9,
+      "end": 50.3
+    },
+    {
+      "w": "and",
+      "start": 50.3,
+      "end": 50.5
+    },
+    {
+      "w": "actually",
+      "start": 50.5,
+      "end": 50.92
+    },
+    {
+      "w": "building",
+      "start": 50.92,
+      "end": 51.22
+    },
+    {
+      "w": "your",
+      "start": 51.22,
+      "end": 51.42
+    },
+    {
+      "w": "life",
+      "start": 51.42,
+      "end": 51.62
+    },
+    {
+      "w": "around",
+      "start": 51.62,
+      "end": 51.92
+    },
+    {
+      "w": "them,",
+      "start": 51.92,
+      "end": 52.16
+    },
+    {
+      "w": "well,",
+      "start": 52.36,
+      "end": 52.5
+    },
+    {
+      "w": "those",
+      "start": 52.52,
+      "end": 52.62
+    },
+    {
+      "w": "are",
+      "start": 52.62,
+      "end": 52.72
+    },
+    {
+      "w": "two",
+      "start": 52.72,
+      "end": 52.86
+    },
+    {
+      "w": "different",
+      "start": 52.86,
+      "end": 53.08
+    },
+    {
+      "w": "things.",
+      "start": 53.08,
+      "end": 53.4
+    },
+    {
+      "w": "Sometimes,",
+      "start": 53.74,
+      "end": 54.24
+    },
+    {
+      "w": "to",
+      "start": 54.52,
+      "end": 54.7
+    },
+    {
+      "w": "do",
+      "start": 54.7,
+      "end": 54.82
+    },
+    {
+      "w": "that",
+      "start": 54.82,
+      "end": 54.96
+    },
+    {
+      "w": "work",
+      "start": 54.96,
+      "end": 55.16
+    },
+    {
+      "w": "well,",
+      "start": 55.16,
+      "end": 55.48
+    },
+    {
+      "w": "you",
+      "start": 55.48,
+      "end": 55.88
+    },
+    {
+      "w": "need",
+      "start": 55.88,
+      "end": 56.04
+    },
+    {
+      "w": "to",
+      "start": 56.04,
+      "end": 56.18
+    },
+    {
+      "w": "step",
+      "start": 56.18,
+      "end": 56.36
+    },
+    {
+      "w": "outside",
+      "start": 56.36,
+      "end": 56.84
+    },
+    {
+      "w": "the",
+      "start": 56.84,
+      "end": 57.08
+    },
+    {
+      "w": "routines",
+      "start": 57.08,
+      "end": 57.56
+    },
+    {
+      "w": "and",
+      "start": 57.56,
+      "end": 57.76
+    },
+    {
+      "w": "demands",
+      "start": 57.76,
+      "end": 58.08
+    },
+    {
+      "w": "of",
+      "start": 58.08,
+      "end": 58.28
+    },
+    {
+      "w": "everyday",
+      "start": 58.28,
+      "end": 58.54
+    },
+    {
+      "w": "life",
+      "start": 58.54,
+      "end": 59.0
+    },
+    {
+      "w": "long",
+      "start": 59.0,
+      "end": 59.28
+    },
+    {
+      "w": "enough",
+      "start": 59.28,
+      "end": 59.52
+    },
+    {
+      "w": "to",
+      "start": 59.52,
+      "end": 59.8
+    },
+    {
+      "w": "really",
+      "start": 59.8,
+      "end": 60.16
+    },
+    {
+      "w": "think.",
+      "start": 60.16,
+      "end": 60.54
+    },
+    {
+      "w": "Well,",
+      "start": 60.88,
+      "end": 61.0
+    },
+    {
+      "w": "that's",
+      "start": 61.3,
+      "end": 61.64
+    },
+    {
+      "w": "the",
+      "start": 61.64,
+      "end": 61.76
+    },
+    {
+      "w": "idea",
+      "start": 61.76,
+      "end": 62.04
+    },
+    {
+      "w": "behind",
+      "start": 62.04,
+      "end": 62.4
+    },
+    {
+      "w": "the",
+      "start": 62.4,
+      "end": 62.64
+    },
+    {
+      "w": "meaning",
+      "start": 62.64,
+      "end": 62.76
+    },
+    {
+      "w": "of",
+      "start": 62.76,
+      "end": 62.94
+    },
+    {
+      "w": "your",
+      "start": 62.94,
+      "end": 63.04
+    },
+    {
+      "w": "life",
+      "start": 63.04,
+      "end": 63.28
+    },
+    {
+      "w": "retreat",
+      "start": 63.28,
+      "end": 63.64
+    },
+    {
+      "w": "at",
+      "start": 63.64,
+      "end": 63.94
+    },
+    {
+      "w": "MEA.",
+      "start": 63.94,
+      "end": 64.54
+    },
+    {
+      "w": "For",
+      "start": 64.78,
+      "end": 64.92
+    },
+    {
+      "w": "five",
+      "start": 64.92,
+      "end": 65.28
+    },
+    {
+      "w": "days",
+      "start": 65.28,
+      "end": 65.5
+    },
+    {
+      "w": "in",
+      "start": 65.5,
+      "end": 65.72
+    },
+    {
+      "w": "Santa",
+      "start": 65.72,
+      "end": 65.92
+    },
+    {
+      "w": "Fe,",
+      "start": 65.92,
+      "end": 66.22
+    },
+    {
+      "w": "you'll",
+      "start": 66.54,
+      "end": 66.68
+    },
+    {
+      "w": "have",
+      "start": 66.68,
+      "end": 66.8
+    },
+    {
+      "w": "the",
+      "start": 66.8,
+      "end": 66.92
+    },
+    {
+      "w": "space",
+      "start": 66.92,
+      "end": 67.2
+    },
+    {
+      "w": "to",
+      "start": 67.2,
+      "end": 67.42
+    },
+    {
+      "w": "work",
+      "start": 67.42,
+      "end": 67.72
+    },
+    {
+      "w": "through",
+      "start": 67.72,
+      "end": 67.96
+    },
+    {
+      "w": "these",
+      "start": 67.96,
+      "end": 68.14
+    },
+    {
+      "w": "questions",
+      "start": 68.14,
+      "end": 68.58
+    },
+    {
+      "w": "in",
+      "start": 68.58,
+      "end": 68.78
+    },
+    {
+      "w": "a",
+      "start": 68.78,
+      "end": 68.9
+    },
+    {
+      "w": "small",
+      "start": 68.9,
+      "end": 69.14
+    },
+    {
+      "w": "group,",
+      "start": 69.14,
+      "end": 69.52
+    },
+    {
+      "w": "using",
+      "start": 69.66,
+      "end": 69.88
+    },
+    {
+      "w": "the",
+      "start": 69.88,
+      "end": 70.1
+    },
+    {
+      "w": "same",
+      "start": 70.1,
+      "end": 70.4
+    },
+    {
+      "w": "frameworks",
+      "start": 70.4,
+      "end": 70.94
+    },
+    {
+      "w": "that",
+      "start": 70.94,
+      "end": 71.24
+    },
+    {
+      "w": "I",
+      "start": 71.24,
+      "end": 71.36
+    },
+    {
+      "w": "use",
+      "start": 71.36,
+      "end": 71.54
+    },
+    {
+      "w": "in",
+      "start": 71.54,
+      "end": 71.68
+    },
+    {
+      "w": "my",
+      "start": 71.68,
+      "end": 71.86
+    },
+    {
+      "w": "work",
+      "start": 71.86,
+      "end": 72.18
+    },
+    {
+      "w": "on",
+      "start": 72.18,
+      "end": 72.38
+    },
+    {
+      "w": "meaning,",
+      "start": 72.38,
+      "end": 72.82
+    },
+    {
+      "w": "purpose,",
+      "start": 73.12,
+      "end": 73.36
+    },
+    {
+      "w": "and",
+      "start": 73.68,
+      "end": 73.8
+    },
+    {
+      "w": "happiness.",
+      "start": 73.8,
+      "end": 74.18
+    },
+    {
+      "w": "You'll",
+      "start": 74.48,
+      "end": 74.68
+    },
+    {
+      "w": "have",
+      "start": 74.68,
+      "end": 74.78
+    },
+    {
+      "w": "time",
+      "start": 74.78,
+      "end": 75.02
+    },
+    {
+      "w": "to",
+      "start": 75.02,
+      "end": 75.22
+    },
+    {
+      "w": "look",
+      "start": 75.22,
+      "end": 75.36
+    },
+    {
+      "w": "carefully",
+      "start": 75.36,
+      "end": 75.82
+    },
+    {
+      "w": "at",
+      "start": 75.82,
+      "end": 76.0
+    },
+    {
+      "w": "the",
+      "start": 76.0,
+      "end": 76.06
+    },
+    {
+      "w": "life",
+      "start": 76.06,
+      "end": 76.24
+    },
+    {
+      "w": "you've",
+      "start": 76.24,
+      "end": 76.5
+    },
+    {
+      "w": "built.",
+      "start": 76.5,
+      "end": 76.74
+    },
+    {
+      "w": "Think",
+      "start": 76.98,
+      "end": 77.14
+    },
+    {
+      "w": "about",
+      "start": 77.14,
+      "end": 77.38
+    },
+    {
+      "w": "the",
+      "start": 77.38,
+      "end": 77.66
+    },
+    {
+      "w": "next",
+      "start": 77.66,
+      "end": 77.94
+    },
+    {
+      "w": "chapter,",
+      "start": 77.94,
+      "end": 78.5
+    },
+    {
+      "w": "what",
+      "start": 78.8,
+      "end": 78.88
+    },
+    {
+      "w": "it's",
+      "start": 78.88,
+      "end": 79.06
+    },
+    {
+      "w": "asking",
+      "start": 79.06,
+      "end": 79.44
+    },
+    {
+      "w": "of",
+      "start": 79.44,
+      "end": 79.68
+    },
+    {
+      "w": "you,",
+      "start": 79.68,
+      "end": 79.82
+    },
+    {
+      "w": "and",
+      "start": 79.98,
+      "end": 80.12
+    },
+    {
+      "w": "consider",
+      "start": 80.12,
+      "end": 80.5
+    },
+    {
+      "w": "how",
+      "start": 80.5,
+      "end": 80.74
+    },
+    {
+      "w": "you",
+      "start": 80.74,
+      "end": 80.94
+    },
+    {
+      "w": "want",
+      "start": 80.94,
+      "end": 81.18
+    },
+    {
+      "w": "to",
+      "start": 81.18,
+      "end": 81.3
+    },
+    {
+      "w": "live",
+      "start": 81.3,
+      "end": 81.42
+    },
+    {
+      "w": "it.",
+      "start": 81.42,
+      "end": 81.58
+    },
+    {
+      "w": "If",
+      "start": 81.7,
+      "end": 81.84
+    },
+    {
+      "w": "you've",
+      "start": 81.84,
+      "end": 82.04
+    },
+    {
+      "w": "built",
+      "start": 82.04,
+      "end": 82.22
+    },
+    {
+      "w": "a",
+      "start": 82.22,
+      "end": 82.36
+    },
+    {
+      "w": "good",
+      "start": 82.36,
+      "end": 82.52
+    },
+    {
+      "w": "life",
+      "start": 82.52,
+      "end": 82.82
+    },
+    {
+      "w": "and",
+      "start": 82.82,
+      "end": 83.04
+    },
+    {
+      "w": "find",
+      "start": 83.04,
+      "end": 83.24
+    },
+    {
+      "w": "yourself",
+      "start": 83.24,
+      "end": 83.52
+    },
+    {
+      "w": "wondering",
+      "start": 83.52,
+      "end": 83.88
+    },
+    {
+      "w": "what",
+      "start": 83.88,
+      "end": 84.14
+    },
+    {
+      "w": "comes",
+      "start": 84.14,
+      "end": 84.4
+    },
+    {
+      "w": "next,",
+      "start": 84.4,
+      "end": 84.72
+    },
+    {
+      "w": "I",
+      "start": 84.72,
+      "end": 85.1
+    },
+    {
+      "w": "hope",
+      "start": 85.1,
+      "end": 85.24
+    },
+    {
+      "w": "you'll",
+      "start": 85.24,
+      "end": 85.4
+    },
+    {
+      "w": "take",
+      "start": 85.4,
+      "end": 85.52
+    },
+    {
+      "w": "a",
+      "start": 85.52,
+      "end": 85.62
+    },
+    {
+      "w": "look.",
+      "start": 85.62,
+      "end": 85.76
+    },
+    {
+      "w": "You",
+      "start": 85.96,
+      "end": 86.0
+    },
+    {
+      "w": "can",
+      "start": 86.0,
+      "end": 86.16
+    },
+    {
+      "w": "learn",
+      "start": 86.16,
+      "end": 86.3
+    },
+    {
+      "w": "more",
+      "start": 86.3,
+      "end": 86.62
+    },
+    {
+      "w": "about",
+      "start": 86.62,
+      "end": 86.88
+    },
+    {
+      "w": "the",
+      "start": 86.88,
+      "end": 87.12
+    },
+    {
+      "w": "upcoming",
+      "start": 87.12,
+      "end": 87.52
+    },
+    {
+      "w": "retreats",
+      "start": 87.52,
+      "end": 88.28
+    },
+    {
+      "w": "at",
+      "start": 88.28,
+      "end": 88.44
+    },
+    {
+      "w": "retreats",
+      "start": 88.44,
+      "end": 89.4
+    },
+    {
+      "w": ".Arthurbrooks",
+      "start": 89.4,
+      "end": 90.46
+    },
+    {
+      "w": ".com.",
+      "start": 90.46,
+      "end": 91.1
+    }
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.002,
+      "length": 2.002,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F9F8FB",
+            "share": 0.517
+          },
+          {
+            "hex": "#4887F6",
+            "share": 0.227
+          },
+          {
+            "hex": "#8EB6F0",
+            "share": 0.045
+          },
+          {
+            "hex": "#3B7DF6",
+            "share": 0.044
+          },
+          {
+            "hex": "#AECBF1",
+            "share": 0.044
+          }
+        ],
+        "motion_energy": 12.95,
+        "script": "You can't solve a meaning problem with"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 1,
+      "start": 2.002,
+      "end": 3.67,
+      "length": 1.668,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#1954F7",
+            "share": 0.958
+          },
+          {
+            "hex": "#2B6AF8",
+            "share": 0.027
+          },
+          {
+            "hex": "#225DF5",
+            "share": 0.004
+          },
+          {
+            "hex": "#7194E7",
+            "share": 0.004
+          },
+          {
+            "hex": "#8FACE7",
+            "share": 0.003
+          }
+        ],
+        "motion_energy": 1.35,
+        "script": "just another achievement. I"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.67,
+      "end": 4.605,
+      "length": 0.934,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0D0B0C",
+            "share": 0.323
+          },
+          {
+            "hex": "#2C1409",
+            "share": 0.088
+          },
+          {
+            "hex": "#8D744C",
+            "share": 0.06
+          },
+          {
+            "hex": "#6E4F30",
+            "share": 0.05
+          },
+          {
+            "hex": "#2F2E28",
+            "share": 0.049
+          }
+        ],
+        "motion_energy": 6.82,
+        "script": "see this mistake all"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.605,
+      "end": 5.606,
+      "length": 1.001,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#150F13",
+            "share": 0.328
+          },
+          {
+            "hex": "#69151D",
+            "share": 0.227
+          },
+          {
+            "hex": "#781720",
+            "share": 0.221
+          },
+          {
+            "hex": "#521419",
+            "share": 0.166
+          },
+          {
+            "hex": "#301216",
+            "share": 0.023
+          }
+        ],
+        "motion_energy": 1.39,
+        "script": "the time in people who"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.606,
+      "end": 6.44,
+      "length": 0.834,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0D0A08",
+            "share": 0.294
+          },
+          {
+            "hex": "#8D6827",
+            "share": 0.194
+          },
+          {
+            "hex": "#6F5723",
+            "share": 0.124
+          },
+          {
+            "hex": "#2E2814",
+            "share": 0.093
+          },
+          {
+            "hex": "#AD7228",
+            "share": 0.068
+          }
+        ],
+        "motion_energy": 0.9,
+        "script": "have worked"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.44,
+      "end": 7.441,
+      "length": 1.001,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#050809",
+            "share": 0.726
+          },
+          {
+            "hex": "#263433",
+            "share": 0.095
+          },
+          {
+            "hex": "#1A2928",
+            "share": 0.061
+          },
+          {
+            "hex": "#314A49",
+            "share": 0.033
+          },
+          {
+            "hex": "#4D5150",
+            "share": 0.011
+          }
+        ],
+        "motion_energy": 4.61,
+        "script": "very hard to build"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 6,
+      "start": 7.441,
+      "end": 8.442,
+      "length": 1.001,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#000001",
+            "share": 0.677
+          },
+          {
+            "hex": "#6B7775",
+            "share": 0.07
+          },
+          {
+            "hex": "#91968C",
+            "share": 0.067
+          },
+          {
+            "hex": "#788786",
+            "share": 0.039
+          },
+          {
+            "hex": "#A9A491",
+            "share": 0.031
+          }
+        ],
+        "motion_energy": 7.64,
+        "script": "good lives."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 7,
+      "start": 8.442,
+      "end": 9.943,
+      "length": 1.502,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F9F7FB",
+            "share": 0.408
+          },
+          {
+            "hex": "#3B81F8",
+            "share": 0.27
+          },
+          {
+            "hex": "#337BF7",
+            "share": 0.183
+          },
+          {
+            "hex": "#4589F7",
+            "share": 0.061
+          },
+          {
+            "hex": "#AFCEF2",
+            "share": 0.014
+          }
+        ],
+        "motion_energy": 22.49,
+        "script": "Maybe that's you. You built the career."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 8,
+      "start": 9.943,
+      "end": 10.01,
+      "length": 0.067,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#184EF9",
+            "share": 0.57
+          },
+          {
+            "hex": "#FBF9F9",
+            "share": 0.209
+          },
+          {
+            "hex": "#1A1819",
+            "share": 0.174
+          },
+          {
+            "hex": "#2357F4",
+            "share": 0.007
+          },
+          {
+            "hex": "#6C8FF0",
+            "share": 0.004
+          }
+        ],
+        "motion_energy": 9.73,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 9,
+      "start": 10.01,
+      "end": 14.114,
+      "length": 4.104,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#1950F7",
+            "share": 0.905
+          },
+          {
+            "hex": "#2559F2",
+            "share": 0.017
+          },
+          {
+            "hex": "#3567F0",
+            "share": 0.014
+          },
+          {
+            "hex": "#F5F6F7",
+            "share": 0.012
+          },
+          {
+            "hex": "#4A76EC",
+            "share": 0.009
+          }
+        ],
+        "motion_energy": 9.33,
+        "script": "You raised the family. You hit many of the goals that you set for yourself. But"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 10,
+      "start": 14.114,
+      "end": 14.948,
+      "length": 0.834,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#FBF9F9",
+            "share": 0.992
+          },
+          {
+            "hex": "#B2C7EA",
+            "share": 0.002
+          },
+          {
+            "hex": "#8DACEC",
+            "share": 0.001
+          },
+          {
+            "hex": "#6A93EC",
+            "share": 0.001
+          },
+          {
+            "hex": "#336CE7",
+            "share": 0.001
+          }
+        ],
+        "motion_energy": 51.0,
+        "script": "then, at a certain"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 11,
+      "start": 14.948,
+      "end": 15.849,
+      "length": 0.901,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#29241B",
+            "share": 0.264
+          },
+          {
+            "hex": "#323026",
+            "share": 0.228
+          },
+          {
+            "hex": "#161614",
+            "share": 0.162
+          },
+          {
+            "hex": "#231D17",
+            "share": 0.074
+          },
+          {
+            "hex": "#666751",
+            "share": 0.064
+          }
+        ],
+        "motion_energy": 3.4,
+        "script": "point, the"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 12,
+      "start": 15.849,
+      "end": 18.585,
+      "length": 2.736,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#FAF8F9",
+            "share": 0.672
+          },
+          {
+            "hex": "#0952F8",
+            "share": 0.206
+          },
+          {
+            "hex": "#CCD5EA",
+            "share": 0.024
+          },
+          {
+            "hex": "#2849E5",
+            "share": 0.018
+          },
+          {
+            "hex": "#B6C7E8",
+            "share": 0.012
+          }
+        ],
+        "motion_energy": 14.48,
+        "script": "questions, well, they start to change. What comes next?"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 13,
+      "start": 18.585,
+      "end": 18.852,
+      "length": 0.267,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0B070B",
+            "share": 0.628
+          },
+          {
+            "hex": "#322C30",
+            "share": 0.149
+          },
+          {
+            "hex": "#4F494D",
+            "share": 0.05
+          },
+          {
+            "hex": "#FAF6F9",
+            "share": 0.042
+          },
+          {
+            "hex": "#231D20",
+            "share": 0.018
+          }
+        ],
+        "motion_energy": 17.83,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 14,
+      "start": 18.852,
+      "end": 28.428,
+      "length": 9.576,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#100B0E",
+            "share": 0.888
+          },
+          {
+            "hex": "#0D50F1",
+            "share": 0.02
+          },
+          {
+            "hex": "#352F32",
+            "share": 0.013
+          },
+          {
+            "hex": "#F6F3F7",
+            "share": 0.009
+          },
+          {
+            "hex": "#514B4E",
+            "share": 0.007
+          }
+        ],
+        "motion_energy": 25.29,
+        "script": "What do I want to do now? And what do I want my life to be about right now? What do I want to be remembered for? What is all this actually for? Those are basically"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 15,
+      "start": 28.428,
+      "end": 37.337,
+      "length": 8.909,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#FAF7FB",
+            "share": 0.966
+          },
+          {
+            "hex": "#568BF6",
+            "share": 0.027
+          },
+          {
+            "hex": "#8AACF3",
+            "share": 0.004
+          },
+          {
+            "hex": "#6A97EE",
+            "share": 0.001
+          },
+          {
+            "hex": "#B2C8F1",
+            "share": 0.001
+          }
+        ],
+        "motion_energy": 4.38,
+        "script": "questions of meaning. The science tells us that meaning has three parts. Coherence, purpose, and significance. Coherence is understanding"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 16,
+      "start": 37.337,
+      "end": 37.671,
+      "length": 0.334,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#52452C",
+            "share": 0.39
+          },
+          {
+            "hex": "#483A25",
+            "share": 0.164
+          },
+          {
+            "hex": "#695639",
+            "share": 0.092
+          },
+          {
+            "hex": "#4F2B16",
+            "share": 0.069
+          },
+          {
+            "hex": "#2F180B",
+            "share": 0.057
+          }
+        ],
+        "motion_energy": 13.9,
+        "script": "why"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 17,
+      "start": 37.671,
+      "end": 38.772,
+      "length": 1.101,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#110E12",
+            "share": 0.839
+          },
+          {
+            "hex": "#2D2B2E",
+            "share": 0.074
+          },
+          {
+            "hex": "#4E4B4F",
+            "share": 0.032
+          },
+          {
+            "hex": "#716F72",
+            "share": 0.016
+          },
+          {
+            "hex": "#201E21",
+            "share": 0.013
+          }
+        ],
+        "motion_energy": 1.76,
+        "script": "your life is unfolding"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 18,
+      "start": 38.772,
+      "end": 40.774,
+      "length": 2.002,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#4C4A4D",
+            "share": 0.363
+          },
+          {
+            "hex": "#353336",
+            "share": 0.321
+          },
+          {
+            "hex": "#6D6A6E",
+            "share": 0.166
+          },
+          {
+            "hex": "#413E42",
+            "share": 0.098
+          },
+          {
+            "hex": "#3E3C40",
+            "share": 0.037
+          }
+        ],
+        "motion_energy": 13.21,
+        "script": "the way that it is. Purpose is knowing"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 19,
+      "start": 40.774,
+      "end": 43.277,
+      "length": 2.503,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0B080C",
+            "share": 0.962
+          },
+          {
+            "hex": "#2E2C2E",
+            "share": 0.012
+          },
+          {
+            "hex": "#4E4C4E",
+            "share": 0.006
+          },
+          {
+            "hex": "#6D6A6D",
+            "share": 0.006
+          },
+          {
+            "hex": "#ACAAAD",
+            "share": 0.005
+          }
+        ],
+        "motion_energy": 9.69,
+        "script": "what your life is pointed toward, and significance"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 20,
+      "start": 43.277,
+      "end": 44.178,
+      "length": 0.901,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#FBF9FA",
+            "share": 0.984
+          },
+          {
+            "hex": "#90AEED",
+            "share": 0.003
+          },
+          {
+            "hex": "#B0C5EE",
+            "share": 0.003
+          },
+          {
+            "hex": "#6F96EC",
+            "share": 0.001
+          },
+          {
+            "hex": "#5785EA",
+            "share": 0.001
+          }
+        ],
+        "motion_energy": 0.41,
+        "script": "is knowing"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 21,
+      "start": 44.178,
+      "end": 45.445,
+      "length": 1.268,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#06090C",
+            "share": 0.326
+          },
+          {
+            "hex": "#8D8D90",
+            "share": 0.241
+          },
+          {
+            "hex": "#394F67",
+            "share": 0.085
+          },
+          {
+            "hex": "#48596F",
+            "share": 0.068
+          },
+          {
+            "hex": "#7A858F",
+            "share": 0.066
+          }
+        ],
+        "motion_energy": 6.22,
+        "script": "why your life matters,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 22,
+      "start": 45.445,
+      "end": 46.179,
+      "length": 0.734,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#696865",
+            "share": 0.281
+          },
+          {
+            "hex": "#332410",
+            "share": 0.21
+          },
+          {
+            "hex": "#161309",
+            "share": 0.192
+          },
+          {
+            "hex": "#251C0B",
+            "share": 0.151
+          },
+          {
+            "hex": "#5B6467",
+            "share": 0.059
+          }
+        ],
+        "motion_energy": 48.5,
+        "script": "and to whom."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 23,
+      "start": 46.179,
+      "end": 50.35,
+      "length": 4.171,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#FAF8FA",
+            "share": 0.87
+          },
+          {
+            "hex": "#90AFEB",
+            "share": 0.023
+          },
+          {
+            "hex": "#C9D7F2",
+            "share": 0.019
+          },
+          {
+            "hex": "#B2C8EF",
+            "share": 0.019
+          },
+          {
+            "hex": "#6D95E9",
+            "share": 0.018
+          }
+        ],
+        "motion_energy": 10.49,
+        "script": "You can understand these ideas intellectually pretty quickly, but understanding them and"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 24,
+      "start": 50.35,
+      "end": 51.084,
+      "length": 0.734,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#83908C",
+            "share": 0.468
+          },
+          {
+            "hex": "#7D8C8B",
+            "share": 0.129
+          },
+          {
+            "hex": "#0E1A24",
+            "share": 0.122
+          },
+          {
+            "hex": "#2E2825",
+            "share": 0.063
+          },
+          {
+            "hex": "#2B211D",
+            "share": 0.054
+          }
+        ],
+        "motion_energy": 23.73,
+        "script": "actually building"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 25,
+      "start": 51.084,
+      "end": 51.752,
+      "length": 0.667,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#151913",
+            "share": 0.259
+          },
+          {
+            "hex": "#252317",
+            "share": 0.14
+          },
+          {
+            "hex": "#312F27",
+            "share": 0.098
+          },
+          {
+            "hex": "#524838",
+            "share": 0.072
+          },
+          {
+            "hex": "#685848",
+            "share": 0.07
+          }
+        ],
+        "motion_energy": 16.65,
+        "script": "your life around"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 26,
+      "start": 51.752,
+      "end": 52.352,
+      "length": 0.601,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#110F12",
+            "share": 0.241
+          },
+          {
+            "hex": "#A09EA1",
+            "share": 0.176
+          },
+          {
+            "hex": "#6A6768",
+            "share": 0.134
+          },
+          {
+            "hex": "#A3A0A4",
+            "share": 0.122
+          },
+          {
+            "hex": "#292829",
+            "share": 0.089
+          }
+        ],
+        "motion_energy": 40.14,
+        "script": "them,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 27,
+      "start": 52.352,
+      "end": 53.754,
+      "length": 1.401,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#FAF8F9",
+            "share": 0.987
+          },
+          {
+            "hex": "#DCE4F5",
+            "share": 0.003
+          },
+          {
+            "hex": "#6F97E5",
+            "share": 0.002
+          },
+          {
+            "hex": "#5887E5",
+            "share": 0.001
+          },
+          {
+            "hex": "#CCD9F0",
+            "share": 0.001
+          }
+        ],
+        "motion_energy": 0.54,
+        "script": "well, those are two different things. Sometimes,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 28,
+      "start": 53.754,
+      "end": 55.856,
+      "length": 2.102,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#181510",
+            "share": 0.389
+          },
+          {
+            "hex": "#2C2418",
+            "share": 0.183
+          },
+          {
+            "hex": "#2D2E29",
+            "share": 0.172
+          },
+          {
+            "hex": "#231B12",
+            "share": 0.115
+          },
+          {
+            "hex": "#4B3119",
+            "share": 0.042
+          }
+        ],
+        "motion_energy": 11.19,
+        "script": "to do that work well, you"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 29,
+      "start": 55.856,
+      "end": 56.423,
+      "length": 0.567,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#D3B091",
+            "share": 0.228
+          },
+          {
+            "hex": "#131316",
+            "share": 0.123
+          },
+          {
+            "hex": "#2D292C",
+            "share": 0.1
+          },
+          {
+            "hex": "#D3BAA4",
+            "share": 0.098
+          },
+          {
+            "hex": "#E7C7AA",
+            "share": 0.096
+          }
+        ],
+        "motion_energy": 27.8,
+        "script": "need to step outside"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 30,
+      "start": 56.423,
+      "end": 57.024,
+      "length": 0.601,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#070407",
+            "share": 0.357
+          },
+          {
+            "hex": "#6F3724",
+            "share": 0.182
+          },
+          {
+            "hex": "#2B181A",
+            "share": 0.089
+          },
+          {
+            "hex": "#4C2625",
+            "share": 0.067
+          },
+          {
+            "hex": "#371D20",
+            "share": 0.051
+          }
+        ],
+        "motion_energy": 12.92,
+        "script": "the"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 31,
+      "start": 57.024,
+      "end": 57.925,
+      "length": 0.901,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#33302A",
+            "share": 0.152
+          },
+          {
+            "hex": "#908379",
+            "share": 0.151
+          },
+          {
+            "hex": "#161610",
+            "share": 0.15
+          },
+          {
+            "hex": "#877A70",
+            "share": 0.104
+          },
+          {
+            "hex": "#928D85",
+            "share": 0.072
+          }
+        ],
+        "motion_energy": 2.54,
+        "script": "routines and demands"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 32,
+      "start": 57.925,
+      "end": 59.193,
+      "length": 1.268,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#090507",
+            "share": 0.474
+          },
+          {
+            "hex": "#2A302F",
+            "share": 0.131
+          },
+          {
+            "hex": "#1A262A",
+            "share": 0.085
+          },
+          {
+            "hex": "#2F261A",
+            "share": 0.051
+          },
+          {
+            "hex": "#4A544C",
+            "share": 0.034
+          }
+        ],
+        "motion_energy": 3.38,
+        "script": "of everyday life long"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 33,
+      "start": 59.193,
+      "end": 62.863,
+      "length": 3.67,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#FAF8F9",
+            "share": 0.854
+          },
+          {
+            "hex": "#F1D8B2",
+            "share": 0.018
+          },
+          {
+            "hex": "#F6E2BA",
+            "share": 0.015
+          },
+          {
+            "hex": "#CDB090",
+            "share": 0.007
+          },
+          {
+            "hex": "#6E4831",
+            "share": 0.006
+          }
+        ],
+        "motion_energy": 26.71,
+        "script": "enough to really think. Well, that's the idea behind the meaning of"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 34,
+      "start": 62.863,
+      "end": 64.765,
+      "length": 1.902,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#1956F7",
+            "share": 0.584
+          },
+          {
+            "hex": "#B0ADB0",
+            "share": 0.023
+          },
+          {
+            "hex": "#938F91",
+            "share": 0.019
+          },
+          {
+            "hex": "#D0CDCF",
+            "share": 0.018
+          },
+          {
+            "hex": "#342E2F",
+            "share": 0.017
+          }
+        ],
+        "motion_energy": 1.7,
+        "script": "your life retreat at MEA."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 35,
+      "start": 64.765,
+      "end": 65.532,
+      "length": 0.767,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#2F2F2B",
+            "share": 0.406
+          },
+          {
+            "hex": "#F9F0D5",
+            "share": 0.176
+          },
+          {
+            "hex": "#F8D7C6",
+            "share": 0.137
+          },
+          {
+            "hex": "#4F484A",
+            "share": 0.055
+          },
+          {
+            "hex": "#FAF9E6",
+            "share": 0.04
+          }
+        ],
+        "motion_energy": 23.71,
+        "script": "For five days in"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 36,
+      "start": 65.532,
+      "end": 67.334,
+      "length": 1.802,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#29282F",
+            "share": 0.392
+          },
+          {
+            "hex": "#151419",
+            "share": 0.288
+          },
+          {
+            "hex": "#1B1B23",
+            "share": 0.178
+          },
+          {
+            "hex": "#211E24",
+            "share": 0.035
+          },
+          {
+            "hex": "#383944",
+            "share": 0.026
+          }
+        ],
+        "motion_energy": 14.91,
+        "script": "Santa Fe, you'll have the space to"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 37,
+      "start": 67.334,
+      "end": 68.669,
+      "length": 1.335,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#291209",
+            "share": 0.44
+          },
+          {
+            "hex": "#180704",
+            "share": 0.32
+          },
+          {
+            "hex": "#372315",
+            "share": 0.064
+          },
+          {
+            "hex": "#462813",
+            "share": 0.063
+          },
+          {
+            "hex": "#382E27",
+            "share": 0.031
+          }
+        ],
+        "motion_energy": 4.61,
+        "script": "work through these questions in"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 38,
+      "start": 68.669,
+      "end": 69.603,
+      "length": 0.934,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#85796A",
+            "share": 0.202
+          },
+          {
+            "hex": "#797164",
+            "share": 0.191
+          },
+          {
+            "hex": "#524E49",
+            "share": 0.156
+          },
+          {
+            "hex": "#6F675A",
+            "share": 0.14
+          },
+          {
+            "hex": "#353333",
+            "share": 0.094
+          }
+        ],
+        "motion_energy": 16.68,
+        "script": "a small group,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 39,
+      "start": 69.603,
+      "end": 74.608,
+      "length": 5.005,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F6F7FA",
+            "share": 0.657
+          },
+          {
+            "hex": "#D5E7F7",
+            "share": 0.11
+          },
+          {
+            "hex": "#B5CEF7",
+            "share": 0.088
+          },
+          {
+            "hex": "#C5DAF7",
+            "share": 0.053
+          },
+          {
+            "hex": "#322F32",
+            "share": 0.014
+          }
+        ],
+        "motion_energy": 7.21,
+        "script": "using the same frameworks that I use in my work on meaning, purpose, and happiness. You'll"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 40,
+      "start": 74.608,
+      "end": 75.609,
+      "length": 1.001,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#6E88A4",
+            "share": 0.299
+          },
+          {
+            "hex": "#647C97",
+            "share": 0.233
+          },
+          {
+            "hex": "#69829D",
+            "share": 0.108
+          },
+          {
+            "hex": "#6B504D",
+            "share": 0.049
+          },
+          {
+            "hex": "#5C7693",
+            "share": 0.041
+          }
+        ],
+        "motion_energy": 17.0,
+        "script": "have time to look carefully"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 41,
+      "start": 75.609,
+      "end": 77.11,
+      "length": 1.501,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#150F0D",
+            "share": 0.069
+          },
+          {
+            "hex": "#372C26",
+            "share": 0.063
+          },
+          {
+            "hex": "#342617",
+            "share": 0.061
+          },
+          {
+            "hex": "#887550",
+            "share": 0.059
+          },
+          {
+            "hex": "#483527",
+            "share": 0.055
+          }
+        ],
+        "motion_energy": 7.92,
+        "script": "at the life you've built. Think"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 42,
+      "start": 77.11,
+      "end": 78.679,
+      "length": 1.568,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#2F1813",
+            "share": 0.359
+          },
+          {
+            "hex": "#170D0C",
+            "share": 0.129
+          },
+          {
+            "hex": "#4B342C",
+            "share": 0.103
+          },
+          {
+            "hex": "#36221B",
+            "share": 0.091
+          },
+          {
+            "hex": "#44231B",
+            "share": 0.072
+          }
+        ],
+        "motion_energy": 14.45,
+        "script": "about the next chapter,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 43,
+      "start": 78.679,
+      "end": 79.847,
+      "length": 1.168,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#004BF9",
+            "share": 0.993
+          },
+          {
+            "hex": "#6D97E7",
+            "share": 0.001
+          },
+          {
+            "hex": "#5384E7",
+            "share": 0.001
+          },
+          {
+            "hex": "#316AEA",
+            "share": 0.001
+          },
+          {
+            "hex": "#457AE9",
+            "share": 0.001
+          }
+        ],
+        "motion_energy": 0.15,
+        "script": "what it's asking of you,"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 44,
+      "start": 79.847,
+      "end": 80.514,
+      "length": 0.667,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#788590",
+            "share": 0.394
+          },
+          {
+            "hex": "#716459",
+            "share": 0.088
+          },
+          {
+            "hex": "#68574D",
+            "share": 0.08
+          },
+          {
+            "hex": "#716A69",
+            "share": 0.073
+          },
+          {
+            "hex": "#2E2B2F",
+            "share": 0.056
+          }
+        ],
+        "motion_energy": 14.38,
+        "script": "and consider how"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 45,
+      "start": 80.514,
+      "end": 81.515,
+      "length": 1.001,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#8B7C72",
+            "share": 0.213
+          },
+          {
+            "hex": "#6E7072",
+            "share": 0.169
+          },
+          {
+            "hex": "#6C7782",
+            "share": 0.15
+          },
+          {
+            "hex": "#70675C",
+            "share": 0.102
+          },
+          {
+            "hex": "#4E4930",
+            "share": 0.062
+          }
+        ],
+        "motion_energy": 4.86,
+        "script": "you want to live it."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 46,
+      "start": 81.515,
+      "end": 83.016,
+      "length": 1.502,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#505D69",
+            "share": 0.241
+          },
+          {
+            "hex": "#58626A",
+            "share": 0.222
+          },
+          {
+            "hex": "#687071",
+            "share": 0.127
+          },
+          {
+            "hex": "#4F5352",
+            "share": 0.099
+          },
+          {
+            "hex": "#343027",
+            "share": 0.093
+          }
+        ],
+        "motion_energy": 1.58,
+        "script": "If you've built a good life and"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 47,
+      "start": 83.016,
+      "end": 84.017,
+      "length": 1.001,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0D0806",
+            "share": 0.351
+          },
+          {
+            "hex": "#2C150D",
+            "share": 0.197
+          },
+          {
+            "hex": "#68544E",
+            "share": 0.094
+          },
+          {
+            "hex": "#4F362B",
+            "share": 0.081
+          },
+          {
+            "hex": "#54453A",
+            "share": 0.073
+          }
+        ],
+        "motion_energy": 3.46,
+        "script": "find yourself wondering what"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 48,
+      "start": 84.017,
+      "end": 85.018,
+      "length": 1.001,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#1A55F9",
+            "share": 0.989
+          },
+          {
+            "hex": "#ECF2F4",
+            "share": 0.002
+          },
+          {
+            "hex": "#3568F1",
+            "share": 0.002
+          },
+          {
+            "hex": "#265CF5",
+            "share": 0.001
+          },
+          {
+            "hex": "#4774F0",
+            "share": 0.001
+          }
+        ],
+        "motion_energy": 0.43,
+        "script": "comes next, I"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 49,
+      "start": 85.018,
+      "end": 85.919,
+      "length": 0.901,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0D0D0F",
+            "share": 0.567
+          },
+          {
+            "hex": "#251916",
+            "share": 0.1
+          },
+          {
+            "hex": "#352E26",
+            "share": 0.095
+          },
+          {
+            "hex": "#47352B",
+            "share": 0.059
+          },
+          {
+            "hex": "#534637",
+            "share": 0.041
+          }
+        ],
+        "motion_energy": 2.66,
+        "script": "hope you'll take a look."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 50,
+      "start": 85.919,
+      "end": 91.321,
+      "length": 5.402,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#FBF9FA",
+            "share": 0.71
+          },
+          {
+            "hex": "#34322D",
+            "share": 0.104
+          },
+          {
+            "hex": "#474438",
+            "share": 0.031
+          },
+          {
+            "hex": "#524A48",
+            "share": 0.028
+          },
+          {
+            "hex": "#473932",
+            "share": 0.024
+          }
+        ],
+        "motion_energy": 14.63,
+        "script": "You can learn more about the upcoming retreats at retreats .Arthurbrooks .com."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    }
+  ]
+}

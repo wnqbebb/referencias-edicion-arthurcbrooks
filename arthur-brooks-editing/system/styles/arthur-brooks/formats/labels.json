@@ -1,0 +1,82 @@
+{
+  "v01": {
+    "format": "documental_bio",
+    "note": "REFERENCIA MAESTRA ('my life'). A-roll oscuro + papel blanco + timeline + archivo + UI social"
+  },
+  "v02": {
+    "format": "podcast_split",
+    "note": "abre con dos speakers apilados; luego multicámara con captions bold MAYÚSCULAS"
+  },
+  "v03": {
+    "format": "animacion_vo",
+    "note": "ilustración plana azul, sin A-roll · sin voz: solo música + texto (0 palabras transcritas)"
+  },
+  "v04": {
+    "format": "animacion_vo",
+    "note": "tipografía cinética manuscrita sobre papel crema/negro"
+  },
+  "v05": {
+    "format": "podcast_split",
+    "note": "close-up arriba / plano abierto abajo"
+  },
+  "v06": {
+    "format": "talking_head_minimal",
+    "note": "podcast + pinturas clásicas + b-roll cinematográfico"
+  },
+  "v07": {
+    "format": "podcast_clip",
+    "note": "set de bar, punch-ins, título de entrada"
+  },
+  "v08": {
+    "format": "talking_head_minimal",
+    "note": "A-roll + tarjetas azules + ilustraciones"
+  },
+  "v09": {
+    "format": "podcast_clip",
+    "note": "fondo azul, close-ups, captions pequeños"
+  },
+  "v10": {
+    "format": "animacion_vo",
+    "note": "minimal azul/blanco + b-roll cinematográfico, sin A-roll"
+  },
+  "v11": {
+    "format": "documental_bio",
+    "note": "entrevista documental cálida + archivo + títulos serif"
+  },
+  "v12": {
+    "format": "animacion_vo",
+    "note": "minimal azul/blanco"
+  },
+  "v13": {
+    "format": "podcast_clip",
+    "note": "captions bold MAYÚSCULAS + b-roll stock (perros/gatos)"
+  },
+  "v14": {
+    "format": "podcast_split",
+    "note": "close-up arriba / jardín abajo"
+  },
+  "v15": {
+    "format": "podcast_split",
+    "note": "mismo show que v14"
+  },
+  "v16": {
+    "format": "talking_head_minimal",
+    "note": "entrevista sala + escenas azules minimal + captions serif"
+  },
+  "v17": {
+    "format": "podcast_clip",
+    "note": "podcast en español, captions bold azul/blanco + b-roll"
+  },
+  "v18": {
+    "format": "podcast_clip",
+    "note": "podcast en español fondo rayado + b-roll"
+  },
+  "v19": {
+    "format": "animacion_vo",
+    "note": "minimal azul/blanco"
+  },
+  "v20": {
+    "format": "podcast_split",
+    "note": "set oscuro, close-up arriba / mesa abajo"
+  }
+}

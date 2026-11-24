@@ -1,0 +1,68 @@
+000    0.00-   1.60 (1.6s) | The biggest mistake people make after
+001    1.60-   1.67 (0.1s) | —
+002    1.67-   3.27 (1.6s) | a painful experience is trying
+003    3.27-   4.67 (1.4s) | to get past it as quickly
+004    4.67-   5.93 (1.3s) | as possible. Move
+005    5.93-   8.60 (2.7s) | on, stay busy, don't think about it, that sounds
+006    8.60-  11.90 (3.3s) | healthy, but it isn't. I spent years treating suffering
+007   11.90-  12.00 (0.1s) | —
+008   12.00-  12.17 (0.2s) | as
+009   12.17-  12.33 (0.2s) | a
+010   12.33-  12.40 (0.1s) | —
+011   12.40-  12.50 (0.1s) | problem
+012   12.50-  14.07 (1.6s) | to solve, to get
+013   14.07-  17.67 (3.6s) | through it, to put it behind me, to get back to normal, and I kept noticing
+014   17.67-  19.40 (1.7s) | in my own life and
+015   19.40-  20.17 (0.8s) | in the research
+016   20.17-  20.83 (0.7s) | that the people
+017   20.83-  26.07 (5.2s) | who did that actually didn't heal faster. They just stopped feeling, which is not
+018   26.07-  27.33 (1.3s) | the same thing. We're wired
+019   27.33-  27.40 (0.1s) | —
+020   27.40-  27.50 (0.1s) | —
+021   27.50-  27.83 (0.3s) | to
+022   27.83-  27.90 (0.1s) | avoid
+023   27.90-  28.00 (0.1s) | —
+024   28.00-  32.50 (4.5s) | pain because pain signals danger. That was useful for survival. It's
+025   32.50-  34.50 (2.0s) | much less useful for building a meaningful
+026   34.50-  35.50 (1.0s) | life because
+027   35.50-  36.23 (0.7s) | some of the most
+028   36.23-  37.50 (1.3s) | important things that will ever
+029   37.50-  39.00 (1.5s) | happen to you will
+030   39.00-  40.40 (1.4s) | hurt, and if you rush past
+031   40.40-  45.50 (5.1s) | the lesson, you lose what it was trying to show you. The Buddhists have understood this for two
+032   45.50-  46.23 (0.7s) | and a half thousand
+033   46.23-  46.90 (0.7s) | years.
+034   46.90-  47.40 (0.5s) | Modern
+035   47.40-  48.50 (1.1s) | psychology is catching
+036   48.50-  49.33 (0.8s) | up. Researchers
+037   49.33-  49.67 (0.3s) | —
+038   49.67-  53.57 (3.9s) | who study post -traumatic growth keep finding the same pattern. People who
+039   53.57-  55.50 (1.9s) | sit with their suffering, who ask
+040   55.50-  57.23 (1.7s) | what is teaching them, rather
+041   57.23-  59.00 (1.8s) | than how to escape it, often
+042   59.00-  60.23 (1.2s) | come out with something
+043   60.23-  62.40 (2.2s) | the comfortable life ever gave them.
+044   62.40-  68.17 (5.8s) | Sharper priorities, deeper relationships, a clearer sense of what actually matters. The practice
+045   68.17-  70.07 (1.9s) | I give my students is simple.
+046   70.07-  70.23 (0.2s) | When something
+047   70.23-  72.23 (2.0s) | painful happens, don't ask,
+048   72.23-  72.33 (0.1s) | —
+049   72.33-  76.73 (4.4s) | how do I get over this? Ask instead, what is this trying to teach me? That's
+050   76.73-  78.17 (1.4s) | a different project, and
+051   78.17-  79.23 (1.1s) | it's a harder one,
+052   79.23-  80.17 (0.9s) | but it's the one that leads
+053   80.17-  81.73 (1.6s) | somewhere. That question,
+054   81.73-  83.67 (1.9s) | what is this trying to show me, is
+055   83.67-  86.40 (2.7s) | what the meaning membership is built around. Every
+056   86.40-  87.67 (1.3s) | month, we take one of life's
+057   87.67-  89.50 (1.8s) | biggest questions and examine it
+058   89.50-  90.57 (1.1s) | together, through research,
+059   90.57-  94.63 (4.1s) | through ancient wisdom, and through honest conversation. Not
+060   94.63-  98.33 (3.7s) | to arrive at easy answers, but to become the kind of people who can hold
+061   98.33- 104.00 (5.7s) | the real answers. Because meaning isn't something you find once, it's something that accumulates, and
+062  104.00- 105.57 (1.6s) | it accumulates fastest when
+063  105.57- 106.40 (0.8s) | you stop running
+064  106.40- 106.90 (0.5s) | from the
+065  106.90- 107.23 (0.3s) | things
+066  107.23- 107.73 (0.5s) | that
+067  107.73- 110.80 (3.1s) | are trying to teach you.

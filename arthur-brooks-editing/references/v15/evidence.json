@@ -1,0 +1,924 @@
+{
+  "video": "v15.mp4",
+  "duration": 53.19,
+  "derived": {
+    "shots": 2,
+    "avg_shot_len": 26.6,
+    "cuts_per_min": 2.3,
+    "hook_shots_first_3s": 1,
+    "high_motion_shots": [
+      0
+    ]
+  },
+  "method": "ffmpeg scene>0.32 + keyframes 5/plano + paleta cuantizada + energía de movimiento",
+  "words": [
+    {
+      "w": "I",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "w": "think",
+      "start": 0.32,
+      "end": 0.48
+    },
+    {
+      "w": "one",
+      "start": 0.48,
+      "end": 0.64
+    },
+    {
+      "w": "of",
+      "start": 0.64,
+      "end": 0.72
+    },
+    {
+      "w": "the",
+      "start": 0.72,
+      "end": 0.8
+    },
+    {
+      "w": "things",
+      "start": 0.8,
+      "end": 0.98
+    },
+    {
+      "w": "that",
+      "start": 0.98,
+      "end": 1.18
+    },
+    {
+      "w": "we've",
+      "start": 1.18,
+      "end": 1.38
+    },
+    {
+      "w": "done",
+      "start": 1.38,
+      "end": 1.68
+    },
+    {
+      "w": "in",
+      "start": 1.68,
+      "end": 2.34
+    },
+    {
+      "w": "the",
+      "start": 2.34,
+      "end": 2.48
+    },
+    {
+      "w": "sort",
+      "start": 2.48,
+      "end": 2.56
+    },
+    {
+      "w": "of",
+      "start": 2.56,
+      "end": 2.64
+    },
+    {
+      "w": "more",
+      "start": 2.64,
+      "end": 2.78
+    },
+    {
+      "w": "modern",
+      "start": 2.78,
+      "end": 3.14
+    },
+    {
+      "w": "era",
+      "start": 3.14,
+      "end": 3.54
+    },
+    {
+      "w": "is",
+      "start": 3.54,
+      "end": 3.84
+    },
+    {
+      "w": "think",
+      "start": 3.84,
+      "end": 4.02
+    },
+    {
+      "w": "of",
+      "start": 4.02,
+      "end": 4.12
+    },
+    {
+      "w": "ourselves",
+      "start": 4.12,
+      "end": 4.42
+    },
+    {
+      "w": "as",
+      "start": 4.42,
+      "end": 4.64
+    },
+    {
+      "w": "separate",
+      "start": 4.64,
+      "end": 4.98
+    },
+    {
+      "w": "and",
+      "start": 4.98,
+      "end": 5.12
+    },
+    {
+      "w": "distinct",
+      "start": 5.12,
+      "end": 5.34
+    },
+    {
+      "w": "from",
+      "start": 5.34,
+      "end": 5.62
+    },
+    {
+      "w": "nature.",
+      "start": 5.62,
+      "end": 5.88
+    },
+    {
+      "w": "And",
+      "start": 6.34,
+      "end": 6.78
+    },
+    {
+      "w": "the",
+      "start": 6.78,
+      "end": 6.92
+    },
+    {
+      "w": "more",
+      "start": 6.92,
+      "end": 7.1
+    },
+    {
+      "w": "we",
+      "start": 7.1,
+      "end": 7.26
+    },
+    {
+      "w": "get",
+      "start": 7.26,
+      "end": 7.42
+    },
+    {
+      "w": "separated",
+      "start": 7.42,
+      "end": 7.86
+    },
+    {
+      "w": "from",
+      "start": 7.86,
+      "end": 8.18
+    },
+    {
+      "w": "it,",
+      "start": 8.18,
+      "end": 8.36
+    },
+    {
+      "w": "the",
+      "start": 8.46,
+      "end": 8.6
+    },
+    {
+      "w": "less",
+      "start": 8.6,
+      "end": 8.82
+    },
+    {
+      "w": "happy",
+      "start": 8.82,
+      "end": 9.16
+    },
+    {
+      "w": "we",
+      "start": 9.16,
+      "end": 9.38
+    },
+    {
+      "w": "get.",
+      "start": 9.38,
+      "end": 9.6
+    },
+    {
+      "w": "And",
+      "start": 10.0,
+      "end": 10.24
+    },
+    {
+      "w": "the",
+      "start": 10.24,
+      "end": 10.4
+    },
+    {
+      "w": "more",
+      "start": 10.4,
+      "end": 10.7
+    },
+    {
+      "w": "we",
+      "start": 10.7,
+      "end": 10.96
+    },
+    {
+      "w": "start",
+      "start": 10.96,
+      "end": 11.24
+    },
+    {
+      "w": "acting",
+      "start": 11.24,
+      "end": 11.72
+    },
+    {
+      "w": "badly.",
+      "start": 11.72,
+      "end": 12.18
+    },
+    {
+      "w": "And",
+      "start": 13.0,
+      "end": 13.08
+    },
+    {
+      "w": "so",
+      "start": 13.08,
+      "end": 13.32
+    },
+    {
+      "w": "returning",
+      "start": 13.32,
+      "end": 14.16
+    },
+    {
+      "w": "to",
+      "start": 14.16,
+      "end": 14.48
+    },
+    {
+      "w": "nature,",
+      "start": 14.48,
+      "end": 14.8
+    },
+    {
+      "w": "spending",
+      "start": 15.04,
+      "end": 15.32
+    },
+    {
+      "w": "time",
+      "start": 15.32,
+      "end": 15.76
+    },
+    {
+      "w": "in",
+      "start": 15.76,
+      "end": 15.94
+    },
+    {
+      "w": "nature,",
+      "start": 15.94,
+      "end": 16.24
+    },
+    {
+      "w": "is",
+      "start": 16.48,
+      "end": 16.76
+    },
+    {
+      "w": "just",
+      "start": 16.76,
+      "end": 16.94
+    },
+    {
+      "w": "so",
+      "start": 16.94,
+      "end": 17.24
+    },
+    {
+      "w": "fundamentally",
+      "start": 17.24,
+      "end": 17.74
+    },
+    {
+      "w": "important",
+      "start": 17.74,
+      "end": 18.36
+    },
+    {
+      "w": "for",
+      "start": 18.36,
+      "end": 18.6
+    },
+    {
+      "w": "us.",
+      "start": 18.6,
+      "end": 18.8
+    },
+    {
+      "w": "In",
+      "start": 18.94,
+      "end": 19.08
+    },
+    {
+      "w": "this",
+      "start": 19.08,
+      "end": 19.42
+    },
+    {
+      "w": "country,",
+      "start": 19.42,
+      "end": 19.82
+    },
+    {
+      "w": "100",
+      "start": 19.9,
+      "end": 20.16
+    },
+    {
+      "w": "million",
+      "start": 20.16,
+      "end": 20.38
+    },
+    {
+      "w": "people",
+      "start": 20.38,
+      "end": 20.78
+    },
+    {
+      "w": "live",
+      "start": 20.78,
+      "end": 21.54
+    },
+    {
+      "w": "more",
+      "start": 21.54,
+      "end": 21.82
+    },
+    {
+      "w": "than",
+      "start": 21.82,
+      "end": 21.98
+    },
+    {
+      "w": "a",
+      "start": 21.98,
+      "end": 22.1
+    },
+    {
+      "w": "10",
+      "start": 22.1,
+      "end": 22.28
+    },
+    {
+      "w": "minute",
+      "start": 22.28,
+      "end": 22.44
+    },
+    {
+      "w": "walk",
+      "start": 22.44,
+      "end": 22.8
+    },
+    {
+      "w": "from",
+      "start": 22.8,
+      "end": 23.14
+    },
+    {
+      "w": "a",
+      "start": 23.14,
+      "end": 23.3
+    },
+    {
+      "w": "green",
+      "start": 23.3,
+      "end": 23.42
+    },
+    {
+      "w": "space.",
+      "start": 23.42,
+      "end": 23.78
+    },
+    {
+      "w": "And",
+      "start": 24.04,
+      "end": 24.16
+    },
+    {
+      "w": "when",
+      "start": 24.16,
+      "end": 24.26
+    },
+    {
+      "w": "I",
+      "start": 24.26,
+      "end": 24.36
+    },
+    {
+      "w": "say",
+      "start": 24.36,
+      "end": 24.52
+    },
+    {
+      "w": "a",
+      "start": 24.52,
+      "end": 24.64
+    },
+    {
+      "w": "green",
+      "start": 24.64,
+      "end": 24.76
+    },
+    {
+      "w": "space,",
+      "start": 24.76,
+      "end": 25.0
+    },
+    {
+      "w": "I'm",
+      "start": 25.16,
+      "end": 25.22
+    },
+    {
+      "w": "not",
+      "start": 25.22,
+      "end": 25.34
+    },
+    {
+      "w": "talking",
+      "start": 25.34,
+      "end": 25.66
+    },
+    {
+      "w": "about",
+      "start": 25.66,
+      "end": 25.88
+    },
+    {
+      "w": "this,",
+      "start": 25.88,
+      "end": 26.24
+    },
+    {
+      "w": "I'm",
+      "start": 26.76,
+      "end": 26.9
+    },
+    {
+      "w": "talking",
+      "start": 26.9,
+      "end": 27.08
+    },
+    {
+      "w": "about",
+      "start": 27.08,
+      "end": 27.28
+    },
+    {
+      "w": "just",
+      "start": 27.28,
+      "end": 27.46
+    },
+    {
+      "w": "a",
+      "start": 27.46,
+      "end": 27.62
+    },
+    {
+      "w": "little",
+      "start": 27.62,
+      "end": 27.96
+    },
+    {
+      "w": "postage",
+      "start": 27.96,
+      "end": 28.94
+    },
+    {
+      "w": "stamp",
+      "start": 28.94,
+      "end": 29.24
+    },
+    {
+      "w": "of",
+      "start": 29.24,
+      "end": 29.44
+    },
+    {
+      "w": "green",
+      "start": 29.44,
+      "end": 29.64
+    },
+    {
+      "w": "space.",
+      "start": 29.64,
+      "end": 29.96
+    },
+    {
+      "w": "And",
+      "start": 30.98,
+      "end": 31.0
+    },
+    {
+      "w": "the",
+      "start": 31.0,
+      "end": 31.16
+    },
+    {
+      "w": "people",
+      "start": 31.16,
+      "end": 31.4
+    },
+    {
+      "w": "that",
+      "start": 31.4,
+      "end": 31.58
+    },
+    {
+      "w": "live",
+      "start": 31.58,
+      "end": 31.76
+    },
+    {
+      "w": "in,",
+      "start": 31.76,
+      "end": 31.92
+    },
+    {
+      "w": "that",
+      "start": 32.04,
+      "end": 32.12
+    },
+    {
+      "w": "can't",
+      "start": 32.12,
+      "end": 32.6
+    },
+    {
+      "w": "access",
+      "start": 32.6,
+      "end": 32.94
+    },
+    {
+      "w": "those",
+      "start": 32.94,
+      "end": 33.26
+    },
+    {
+      "w": "areas",
+      "start": 33.26,
+      "end": 33.74
+    },
+    {
+      "w": "because",
+      "start": 33.74,
+      "end": 34.04
+    },
+    {
+      "w": "it's",
+      "start": 34.04,
+      "end": 34.24
+    },
+    {
+      "w": "part",
+      "start": 34.24,
+      "end": 34.44
+    },
+    {
+      "w": "of",
+      "start": 34.44,
+      "end": 34.54
+    },
+    {
+      "w": "their",
+      "start": 34.54,
+      "end": 34.64
+    },
+    {
+      "w": "natural",
+      "start": 34.64,
+      "end": 35.02
+    },
+    {
+      "w": "environment,",
+      "start": 35.02,
+      "end": 35.56
+    },
+    {
+      "w": "they",
+      "start": 35.7,
+      "end": 35.78
+    },
+    {
+      "w": "walk",
+      "start": 35.78,
+      "end": 36.14
+    },
+    {
+      "w": "to",
+      "start": 36.14,
+      "end": 36.42
+    },
+    {
+      "w": "it,",
+      "start": 36.42,
+      "end": 36.62
+    },
+    {
+      "w": "are",
+      "start": 37.32,
+      "end": 37.4
+    },
+    {
+      "w": "generally",
+      "start": 37.4,
+      "end": 37.88
+    },
+    {
+      "w": "have",
+      "start": 37.88,
+      "end": 38.2
+    },
+    {
+      "w": "worse",
+      "start": 38.2,
+      "end": 38.74
+    },
+    {
+      "w": "mental",
+      "start": 38.74,
+      "end": 39.22
+    },
+    {
+      "w": "outcomes",
+      "start": 39.22,
+      "end": 39.74
+    },
+    {
+      "w": "than",
+      "start": 39.74,
+      "end": 40.06
+    },
+    {
+      "w": "people",
+      "start": 40.06,
+      "end": 40.32
+    },
+    {
+      "w": "that",
+      "start": 40.32,
+      "end": 40.5
+    },
+    {
+      "w": "have",
+      "start": 40.5,
+      "end": 40.76
+    },
+    {
+      "w": "easy",
+      "start": 40.76,
+      "end": 41.48
+    },
+    {
+      "w": "access",
+      "start": 41.48,
+      "end": 41.9
+    },
+    {
+      "w": "to",
+      "start": 41.9,
+      "end": 42.24
+    },
+    {
+      "w": "the",
+      "start": 42.24,
+      "end": 42.34
+    },
+    {
+      "w": "outdoors.",
+      "start": 42.34,
+      "end": 42.68
+    },
+    {
+      "w": "So",
+      "start": 43.04,
+      "end": 43.14
+    },
+    {
+      "w": "it's",
+      "start": 43.14,
+      "end": 43.3
+    },
+    {
+      "w": "critically",
+      "start": 43.3,
+      "end": 43.78
+    },
+    {
+      "w": "important",
+      "start": 43.78,
+      "end": 44.4
+    },
+    {
+      "w": "that",
+      "start": 44.4,
+      "end": 44.88
+    },
+    {
+      "w": "we",
+      "start": 44.88,
+      "end": 44.94
+    },
+    {
+      "w": "continue",
+      "start": 44.94,
+      "end": 45.42
+    },
+    {
+      "w": "to",
+      "start": 45.42,
+      "end": 45.58
+    },
+    {
+      "w": "push",
+      "start": 45.58,
+      "end": 46.02
+    },
+    {
+      "w": "to",
+      "start": 46.02,
+      "end": 46.56
+    },
+    {
+      "w": "make",
+      "start": 46.56,
+      "end": 46.78
+    },
+    {
+      "w": "sure",
+      "start": 46.78,
+      "end": 46.98
+    },
+    {
+      "w": "that",
+      "start": 46.98,
+      "end": 47.12
+    },
+    {
+      "w": "people",
+      "start": 47.12,
+      "end": 47.4
+    },
+    {
+      "w": "understand",
+      "start": 47.4,
+      "end": 48.1
+    },
+    {
+      "w": "the",
+      "start": 48.1,
+      "end": 48.36
+    },
+    {
+      "w": "value",
+      "start": 48.36,
+      "end": 48.64
+    },
+    {
+      "w": "of",
+      "start": 48.64,
+      "end": 48.78
+    },
+    {
+      "w": "nature,",
+      "start": 48.78,
+      "end": 49.04
+    },
+    {
+      "w": "but",
+      "start": 49.32,
+      "end": 49.54
+    },
+    {
+      "w": "even",
+      "start": 49.54,
+      "end": 49.96
+    },
+    {
+      "w": "more",
+      "start": 49.96,
+      "end": 50.18
+    },
+    {
+      "w": "importantly",
+      "start": 50.18,
+      "end": 50.54
+    },
+    {
+      "w": "have",
+      "start": 50.54,
+      "end": 50.82
+    },
+    {
+      "w": "access.",
+      "start": 50.82,
+      "end": 51.32
+    }
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 51.667,
+      "length": 51.667,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#050603",
+            "share": 0.12
+          },
+          {
+            "hex": "#D0CA8D",
+            "share": 0.085
+          },
+          {
+            "hex": "#ADB371",
+            "share": 0.063
+          },
+          {
+            "hex": "#8D7051",
+            "share": 0.052
+          },
+          {
+            "hex": "#C7B98D",
+            "share": 0.037
+          }
+        ],
+        "motion_energy": 17.64,
+        "script": "I think one of the things that we've done in the sort of more modern era is think of ourselves as separate and distinct from nature. And the more we get separated from it, the less happy we get. And the more we start acting badly. And so returning to nature, spending time in nature, is just so fundamentally important for us. In this country, 100 million people live more than a 10 minute walk from a green space. And when I say a green space, I'm not talking about this, I'm talking about just a little postage stamp of green space. And the people that live in, that can't access those areas because it's part of their natural environment, they walk to it, are generally have worse mental outcomes than people that have easy access to the outdoors. So it's critically important that we continue to push to make sure that people understand the value of nature, but even more importantly have access."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 1,
+      "start": 51.667,
+      "end": 53.194,
+      "length": 1.527,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#000000",
+            "share": 0.843
+          },
+          {
+            "hex": "#D44342",
+            "share": 0.035
+          },
+          {
+            "hex": "#F9F9F9",
+            "share": 0.016
+          },
+          {
+            "hex": "#8F3635",
+            "share": 0.013
+          },
+          {
+            "hex": "#301110",
+            "share": 0.007
+          }
+        ],
+        "motion_energy": 6.61,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    }
+  ]
+}

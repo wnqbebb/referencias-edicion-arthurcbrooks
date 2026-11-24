@@ -1,0 +1,213 @@
+{
+ "triggers": [
+  {
+   "t_word": 0.0,
+   "word": "(sin voz · acento musical)",
+   "element": "plano único abierto: título serif 'Here's one way to help / fix your marriage.' + pareja mirando el móvil + 2 nubes de pensamiento con iconos de línea + firma '● Arthur Brooks' abajo [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": 0.0,
+   "why": "hook = promesa escrita (no hay voz)"
+  },
+  {
+   "t_word": 0.8,
+   "word": "(sin voz · acento musical)",
+   "element": "iconos dentro de las nubes cambian/rotan con micro-pop (carrito, chat, calendario, sobre, campana, $) — un cambio cada 0.17–0.33 s [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": 0.03,
+   "why": "metáfora: mente saturada de tareas/pantalla"
+  },
+  {
+   "t_word": 1.4,
+   "word": "(sin voz · acento musical)",
+   "element": "icono de chat aparece en la nube de ella [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": -0.07,
+   "why": "ruido mental (literal)"
+  },
+  {
+   "t_word": 2.4,
+   "word": "(sin voz · acento musical)",
+   "element": "más iconos rotan en ambas nubes [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": 0.1,
+   "why": "bucle de saturación al compás"
+  },
+  {
+   "t_word": 4.05,
+   "word": "(sin voz · acento musical)",
+   "element": "los iconos de la nube de ella empiezan a desaparecer uno a uno (fade+escala a 0); ella baja el móvil y junta las manos (4.2–4.5) [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": 0.12,
+   "why": "cambio de tema: soltar el móvil"
+  },
+  {
+   "t_word": 4.05,
+   "word": "(sin voz · acento musical)",
+   "element": "él baja el móvil (brazos abajo 5.0) y junta las manos (5.6); su nube pierde iconos [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": 0.95,
+   "why": "mismo gesto en espejo, desfasado ~1 s"
+  },
+  {
+   "t_word": 6.45,
+   "word": "(sin voz · acento musical)",
+   "element": "en la nube de él queda solo una campana que vibra (ondas '((·))') y se apaga a 6.6 [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": -0.28,
+   "why": "último pensamiento = notificación"
+  },
+  {
+   "t_word": 6.45,
+   "word": "(sin voz · acento musical)",
+   "element": "las dos nubes quedan vacías [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": 0.38,
+   "why": "silencio visual antes del giro"
+  },
+  {
+   "t_word": 7.2,
+   "word": "(sin voz · acento musical)",
+   "element": "el título se atenúa (fade 7.0–7.3) y las dos nubes se funden en una sola (morph 7.0–7.17) que se recentra y encoge (7.33) [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": -0.2,
+   "why": "metáfora: dos mentes → una"
+  },
+  {
+   "t_word": 7.3,
+   "word": "(sin voz · acento musical)",
+   "element": "dentro de la nube común aparece la pareja de la mano; halo radial de luz detrás de la nube (fade-in 7.5–8.0) [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": 0.2,
+   "why": "la solución visual"
+  },
+  {
+   "t_word": 7.6,
+   "word": "(sin voz · acento musical)",
+   "element": "'Pray' serif en AZUL claro aparece; 'together.' blanca a 7.83 [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": 0.07,
+   "why": "texto de la solución cae en el pico musical (7.6)"
+  },
+  {
+   "t_word": 7.6,
+   "word": "(sin voz · acento musical)",
+   "element": "icono casa aparece (izq.) con pop [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": 0.57,
+   "why": "valor compartido"
+  },
+  {
+   "t_word": 7.6,
+   "word": "(sin voz · acento musical)",
+   "element": "icono anillo/carita (der.) con pop [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": 0.73,
+   "why": "valor compartido"
+  },
+  {
+   "t_word": 9.25,
+   "word": "(sin voz · acento musical)",
+   "element": "icono iglesia aparece con pop [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": -0.42,
+   "why": "literal: fe"
+  },
+  {
+   "t_word": 9.25,
+   "word": "(sin voz · acento musical)",
+   "element": "icono libro/biblia aparece con pop [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": -0.08,
+   "why": "literal: oración"
+  },
+  {
+   "t_word": 9.25,
+   "word": "(sin voz · acento musical)",
+   "element": "corazón azul arriba al centro con pop (cierra la composición) [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": 0.08,
+   "why": "emoción/clímax"
+  },
+  {
+   "t_word": 9.25,
+   "word": "(sin voz · acento musical)",
+   "element": "las figuras se giran y se dan la mano (9.67–10.17) [t_word = acento musical medido en la envolvente de audio]",
+   "category": "center_illustration",
+   "offset_s": 0.42,
+   "why": "literal: 'together'"
+  },
+  {
+   "t_word": 11.6,
+   "word": "(sin voz · acento musical)",
+   "element": "fade-out general de ilustración + título (12.33–12.6); queda el fondo azul y la firma [t_word = acento musical medido en la envolvente de audio]",
+   "category": "title_cta",
+   "offset_s": 0.73,
+   "why": "cierre de marca"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 7.0,
+   "from": "título 1 + 2 nubes",
+   "to": "título 2 + nube única",
+   "type": "crossfade",
+   "frames": 9,
+   "detail": "único 'cambio de escena': fade del título (7.0–7.3) + morph de las nubes; sin cortes en todo el video"
+  },
+  {
+   "t": 12.33,
+   "from": "ilustración completa",
+   "to": "fondo azul + firma",
+   "type": "crossfade",
+   "frames": 8,
+   "detail": "fade a fondo (no a negro) dejando solo '● Arthur Brooks'"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.0,
+   "fx": "pop",
+   "detail": "título ya presente desde el frame 0, sin animación"
+  },
+  {
+   "t": 7.0,
+   "fx": "gris→blanco",
+   "detail": "título 1 baja de blanco a gris azulado y desaparece (fade 0.3 s)"
+  },
+  {
+   "t": 7.67,
+   "fx": "write-on por palabra",
+   "detail": "'Pray' (azul) → 'together.' (blanco) con 4 fr de diferencia; la palabra clave en color"
+  },
+  {
+   "t": 12.33,
+   "fx": "fade-out",
+   "detail": "fade-out de título + dibujo en ~0.3 s"
+  }
+ ],
+ "camera": [
+  {
+   "t": 0.0,
+   "move": "push-in lento",
+   "scale_or_dir": "ninguno: cámara totalmente fija 12.9 s; todo el movimiento es de los elementos",
+   "dur_s": 0.0
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   18,
+   2
+  ],
+  "avg_hold_text_s": 5.0,
+  "notes": "Un solo plano de 12.9 s. Cambios cada 0.17–0.5 s DENTRO de las nubes (iconos) y dos grandes cambios de estado: vaciado (4.2–6.8) y fusión/solución (7.0–10.2). La palabra clave 'Pray' cae en el acento más fuerte de la música (7.6 s)."
+ },
+ "typography": "Serif de texto bold-ish (tipo Tiempos/Georgia/Lyon) blanca, sentence case, 2 líneas centradas en el tercio superior (≈7–10 % del alto), ~4 % de alto de letra. Palabra clave 'Pray' en azul claro #5B8CFF aprox., resto blanco. Firma '● Arthur Brooks' en sans pequeña con punto/logo azul a ≈80 % del alto.",
+ "textures": "Fondo azul marino #1B2560→#232F6E con viñeta radial suave y una trama casi invisible de motivos ornamentales (papel tapiz) a ~3 % de contraste. Halo radial luminoso tras la nube común (7.5–12.3). Ilustración plana de línea blanca con relleno azul, sin grano.",
+ "distinct": [
+  "Sin voz ni A-roll: la narración la hacen el título y la ilustración; 12.9 s en un solo plano.",
+  "Antes/después dentro de la misma composición: las nubes se vacían (4.2–6.8) y se funden en una (7.0) en vez de cortar.",
+  "Iconos de línea que rotan/hacen pop dentro de las nubes como 'ruido mental' (cada 0.17–0.33 s).",
+  "Palabra clave de la solución en azul ('Pray') aterrizando en el pico de música (7.6).",
+  "Cierre: fade a fondo de marca con firma, no a negro ni A-roll."
+ ]
+}

@@ -1,0 +1,1592 @@
+{
+  "video": "v17.mp4",
+  "duration": 52.35,
+  "derived": {
+    "shots": 19,
+    "avg_shot_len": 2.76,
+    "cuts_per_min": 21.8,
+    "hook_shots_first_3s": 3,
+    "high_motion_shots": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  "method": "ffmpeg scene>0.32 + keyframes 5/plano + paleta cuantizada + energía de movimiento",
+  "words": [
+    {
+      "w": "Hemos",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "w": "sido",
+      "start": 0.2,
+      "end": 0.46
+    },
+    {
+      "w": "creados",
+      "start": 0.46,
+      "end": 0.76
+    },
+    {
+      "w": "para",
+      "start": 0.76,
+      "end": 1.04
+    },
+    {
+      "w": "amar.",
+      "start": 1.04,
+      "end": 1.22
+    },
+    {
+      "w": "Lo",
+      "start": 1.62,
+      "end": 1.68
+    },
+    {
+      "w": "único",
+      "start": 1.68,
+      "end": 1.86
+    },
+    {
+      "w": "que",
+      "start": 1.86,
+      "end": 2.04
+    },
+    {
+      "w": "nos",
+      "start": 2.04,
+      "end": 2.2
+    },
+    {
+      "w": "llena",
+      "start": 2.2,
+      "end": 2.5
+    },
+    {
+      "w": "es",
+      "start": 2.5,
+      "end": 2.8
+    },
+    {
+      "w": "el",
+      "start": 2.8,
+      "end": 2.92
+    },
+    {
+      "w": "amar.",
+      "start": 2.92,
+      "end": 3.16
+    },
+    {
+      "w": "Pero",
+      "start": 3.32,
+      "end": 3.44
+    },
+    {
+      "w": "entonces",
+      "start": 3.44,
+      "end": 3.74
+    },
+    {
+      "w": "hay",
+      "start": 3.74,
+      "end": 4.04
+    },
+    {
+      "w": "que",
+      "start": 4.04,
+      "end": 4.14
+    },
+    {
+      "w": "entender",
+      "start": 4.14,
+      "end": 4.5
+    },
+    {
+      "w": "lo",
+      "start": 4.5,
+      "end": 4.9
+    },
+    {
+      "w": "que",
+      "start": 4.9,
+      "end": 5.02
+    },
+    {
+      "w": "es",
+      "start": 5.02,
+      "end": 5.14
+    },
+    {
+      "w": "el",
+      "start": 5.14,
+      "end": 5.24
+    },
+    {
+      "w": "amor.",
+      "start": 5.24,
+      "end": 5.5
+    },
+    {
+      "w": "¿Qué",
+      "start": 5.64,
+      "end": 5.68
+    },
+    {
+      "w": "quiere",
+      "start": 5.68,
+      "end": 5.86
+    },
+    {
+      "w": "decir",
+      "start": 5.86,
+      "end": 6.06
+    },
+    {
+      "w": "amar?",
+      "start": 6.06,
+      "end": 6.24
+    },
+    {
+      "w": "Amar",
+      "start": 6.36,
+      "end": 6.78
+    },
+    {
+      "w": "es",
+      "start": 6.78,
+      "end": 7.04
+    },
+    {
+      "w": "desear",
+      "start": 7.04,
+      "end": 7.46
+    },
+    {
+      "w": "el",
+      "start": 7.46,
+      "end": 7.84
+    },
+    {
+      "w": "bien",
+      "start": 7.84,
+      "end": 8.06
+    },
+    {
+      "w": "de",
+      "start": 8.06,
+      "end": 8.46
+    },
+    {
+      "w": "la",
+      "start": 8.46,
+      "end": 8.6
+    },
+    {
+      "w": "otra",
+      "start": 8.6,
+      "end": 8.8
+    },
+    {
+      "w": "persona",
+      "start": 8.8,
+      "end": 9.36
+    },
+    {
+      "w": "y",
+      "start": 9.36,
+      "end": 9.68
+    },
+    {
+      "w": "hacer",
+      "start": 9.68,
+      "end": 9.9
+    },
+    {
+      "w": "algo",
+      "start": 9.9,
+      "end": 10.12
+    },
+    {
+      "w": "al",
+      "start": 10.12,
+      "end": 10.24
+    },
+    {
+      "w": "respecto.",
+      "start": 10.24,
+      "end": 10.7
+    },
+    {
+      "w": "Al",
+      "start": 10.96,
+      "end": 11.1
+    },
+    {
+      "w": "Stoteles",
+      "start": 11.1,
+      "end": 11.52
+    },
+    {
+      "w": "ya",
+      "start": 11.52,
+      "end": 11.8
+    },
+    {
+      "w": "decía",
+      "start": 11.8,
+      "end": 12.14
+    },
+    {
+      "w": "que",
+      "start": 12.14,
+      "end": 12.5
+    },
+    {
+      "w": "la",
+      "start": 12.5,
+      "end": 12.7
+    },
+    {
+      "w": "persona",
+      "start": 12.7,
+      "end": 13.12
+    },
+    {
+      "w": "que",
+      "start": 13.12,
+      "end": 13.44
+    },
+    {
+      "w": "hace",
+      "start": 13.44,
+      "end": 13.62
+    },
+    {
+      "w": "el",
+      "start": 13.62,
+      "end": 13.74
+    },
+    {
+      "w": "bien",
+      "start": 13.74,
+      "end": 13.98
+    },
+    {
+      "w": "se",
+      "start": 13.98,
+      "end": 14.36
+    },
+    {
+      "w": "regocija",
+      "start": 14.36,
+      "end": 15.14
+    },
+    {
+      "w": "al",
+      "start": 15.14,
+      "end": 15.48
+    },
+    {
+      "w": "hacer",
+      "start": 15.48,
+      "end": 15.72
+    },
+    {
+      "w": "el",
+      "start": 15.72,
+      "end": 15.9
+    },
+    {
+      "w": "bien.",
+      "start": 15.9,
+      "end": 16.14
+    },
+    {
+      "w": "Hacer",
+      "start": 16.38,
+      "end": 16.6
+    },
+    {
+      "w": "el",
+      "start": 16.6,
+      "end": 16.78
+    },
+    {
+      "w": "bien",
+      "start": 16.78,
+      "end": 17.06
+    },
+    {
+      "w": "del",
+      "start": 17.06,
+      "end": 17.44
+    },
+    {
+      "w": "otro",
+      "start": 17.44,
+      "end": 17.76
+    },
+    {
+      "w": "eso",
+      "start": 17.76,
+      "end": 18.18
+    },
+    {
+      "w": "nos",
+      "start": 18.18,
+      "end": 18.34
+    },
+    {
+      "w": "hace",
+      "start": 18.34,
+      "end": 18.62
+    },
+    {
+      "w": "felices.",
+      "start": 18.62,
+      "end": 19.02
+    },
+    {
+      "w": "Entender",
+      "start": 19.34,
+      "end": 19.84
+    },
+    {
+      "w": "que",
+      "start": 19.84,
+      "end": 20.12
+    },
+    {
+      "w": "solamente",
+      "start": 20.12,
+      "end": 20.46
+    },
+    {
+      "w": "podemos",
+      "start": 20.46,
+      "end": 21.16
+    },
+    {
+      "w": "amar",
+      "start": 21.16,
+      "end": 21.52
+    },
+    {
+      "w": "ahora",
+      "start": 21.52,
+      "end": 22.02
+    },
+    {
+      "w": "en",
+      "start": 22.02,
+      "end": 22.34
+    },
+    {
+      "w": "el",
+      "start": 22.34,
+      "end": 22.46
+    },
+    {
+      "w": "presente.",
+      "start": 22.46,
+      "end": 22.78
+    },
+    {
+      "w": "No",
+      "start": 23.12,
+      "end": 23.24
+    },
+    {
+      "w": "se",
+      "start": 23.24,
+      "end": 23.36
+    },
+    {
+      "w": "puede",
+      "start": 23.36,
+      "end": 23.52
+    },
+    {
+      "w": "amar",
+      "start": 23.52,
+      "end": 23.7
+    },
+    {
+      "w": "en",
+      "start": 23.7,
+      "end": 23.92
+    },
+    {
+      "w": "el",
+      "start": 23.92,
+      "end": 24.0
+    },
+    {
+      "w": "futuro",
+      "start": 24.0,
+      "end": 24.32
+    },
+    {
+      "w": "ni",
+      "start": 24.32,
+      "end": 24.88
+    },
+    {
+      "w": "en",
+      "start": 24.88,
+      "end": 25.0
+    },
+    {
+      "w": "el",
+      "start": 25.0,
+      "end": 25.12
+    },
+    {
+      "w": "pasado.",
+      "start": 25.12,
+      "end": 25.36
+    },
+    {
+      "w": "Hay",
+      "start": 25.7,
+      "end": 25.9
+    },
+    {
+      "w": "que",
+      "start": 25.9,
+      "end": 26.04
+    },
+    {
+      "w": "reconocer",
+      "start": 26.04,
+      "end": 26.66
+    },
+    {
+      "w": "que",
+      "start": 26.66,
+      "end": 26.86
+    },
+    {
+      "w": "las",
+      "start": 26.86,
+      "end": 27.06
+    },
+    {
+      "w": "mujeres",
+      "start": 27.06,
+      "end": 27.4
+    },
+    {
+      "w": "y",
+      "start": 27.4,
+      "end": 27.64
+    },
+    {
+      "w": "los",
+      "start": 27.64,
+      "end": 27.76
+    },
+    {
+      "w": "hombres",
+      "start": 27.76,
+      "end": 28.02
+    },
+    {
+      "w": "necesitan",
+      "start": 28.02,
+      "end": 28.78
+    },
+    {
+      "w": "cosas",
+      "start": 28.78,
+      "end": 29.04
+    },
+    {
+      "w": "diferentes.",
+      "start": 29.04,
+      "end": 29.44
+    },
+    {
+      "w": "Lo",
+      "start": 29.44,
+      "end": 29.88
+    },
+    {
+      "w": "cual",
+      "start": 29.88,
+      "end": 30.04
+    },
+    {
+      "w": "es",
+      "start": 30.04,
+      "end": 30.3
+    },
+    {
+      "w": "controversial",
+      "start": 30.3,
+      "end": 30.96
+    },
+    {
+      "w": "hoy",
+      "start": 30.96,
+      "end": 31.26
+    },
+    {
+      "w": "en",
+      "start": 31.26,
+      "end": 31.38
+    },
+    {
+      "w": "día,",
+      "start": 31.38,
+      "end": 31.62
+    },
+    {
+      "w": "pero",
+      "start": 31.86,
+      "end": 31.88
+    },
+    {
+      "w": "es",
+      "start": 31.88,
+      "end": 31.98
+    },
+    {
+      "w": "verdad.",
+      "start": 31.98,
+      "end": 32.22
+    },
+    {
+      "w": "Son",
+      "start": 32.48,
+      "end": 32.62
+    },
+    {
+      "w": "verdades",
+      "start": 32.62,
+      "end": 33.32
+    },
+    {
+      "w": "biológicas.",
+      "start": 33.32,
+      "end": 34.18
+    },
+    {
+      "w": "En",
+      "start": 34.36,
+      "end": 34.5
+    },
+    {
+      "w": "un",
+      "start": 34.5,
+      "end": 34.64
+    },
+    {
+      "w": "mundo",
+      "start": 34.64,
+      "end": 34.88
+    },
+    {
+      "w": "que",
+      "start": 34.88,
+      "end": 35.08
+    },
+    {
+      "w": "nos",
+      "start": 35.08,
+      "end": 35.24
+    },
+    {
+      "w": "da",
+      "start": 35.24,
+      "end": 35.4
+    },
+    {
+      "w": "tantas",
+      "start": 35.4,
+      "end": 35.7
+    },
+    {
+      "w": "opciones,",
+      "start": 35.7,
+      "end": 36.16
+    },
+    {
+      "w": "¿cómo",
+      "start": 36.38,
+      "end": 36.54
+    },
+    {
+      "w": "escogerá",
+      "start": 36.54,
+      "end": 37.04
+    },
+    {
+      "w": "una?",
+      "start": 37.04,
+      "end": 37.2
+    },
+    {
+      "w": "Es",
+      "start": 37.3,
+      "end": 37.46
+    },
+    {
+      "w": "una",
+      "start": 37.46,
+      "end": 37.62
+    },
+    {
+      "w": "ficción",
+      "start": 37.62,
+      "end": 38.12
+    },
+    {
+      "w": "total",
+      "start": 38.12,
+      "end": 38.44
+    },
+    {
+      "w": "que",
+      "start": 38.44,
+      "end": 38.96
+    },
+    {
+      "w": "solo",
+      "start": 38.96,
+      "end": 39.2
+    },
+    {
+      "w": "hay",
+      "start": 39.2,
+      "end": 39.58
+    },
+    {
+      "w": "una",
+      "start": 39.58,
+      "end": 39.9
+    },
+    {
+      "w": "persona",
+      "start": 39.9,
+      "end": 40.26
+    },
+    {
+      "w": "entre",
+      "start": 40.26,
+      "end": 40.74
+    },
+    {
+      "w": "8",
+      "start": 40.74,
+      "end": 41.14
+    },
+    {
+      "w": "billones",
+      "start": 41.14,
+      "end": 41.6
+    },
+    {
+      "w": "de",
+      "start": 41.6,
+      "end": 41.82
+    },
+    {
+      "w": "personas.",
+      "start": 41.82,
+      "end": 42.2
+    },
+    {
+      "w": "Las",
+      "start": 42.46,
+      "end": 42.62
+    },
+    {
+      "w": "personalidades",
+      "start": 42.62,
+      "end": 43.3
+    },
+    {
+      "w": "diferentes",
+      "start": 43.3,
+      "end": 43.7
+    },
+    {
+      "w": "se",
+      "start": 43.7,
+      "end": 44.04
+    },
+    {
+      "w": "atraen",
+      "start": 44.04,
+      "end": 44.44
+    },
+    {
+      "w": "y",
+      "start": 44.44,
+      "end": 44.54
+    },
+    {
+      "w": "se",
+      "start": 44.54,
+      "end": 44.62
+    },
+    {
+      "w": "complementan.",
+      "start": 44.62,
+      "end": 45.34
+    },
+    {
+      "w": "Cómo",
+      "start": 45.42,
+      "end": 45.62
+    },
+    {
+      "w": "de",
+      "start": 45.62,
+      "end": 45.74
+    },
+    {
+      "w": "importante",
+      "start": 45.74,
+      "end": 46.06
+    },
+    {
+      "w": "es",
+      "start": 46.06,
+      "end": 46.52
+    },
+    {
+      "w": "que",
+      "start": 46.52,
+      "end": 46.7
+    },
+    {
+      "w": "nos",
+      "start": 46.7,
+      "end": 46.84
+    },
+    {
+      "w": "miremos",
+      "start": 46.84,
+      "end": 47.22
+    },
+    {
+      "w": "a",
+      "start": 47.22,
+      "end": 47.3
+    },
+    {
+      "w": "los",
+      "start": 47.3,
+      "end": 47.4
+    },
+    {
+      "w": "ojos.",
+      "start": 47.4,
+      "end": 47.64
+    }
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 0.2,
+      "length": 0.2,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#2D2A2C",
+            "share": 0.115
+          },
+          {
+            "hex": "#958D8A",
+            "share": 0.104
+          },
+          {
+            "hex": "#161517",
+            "share": 0.101
+          },
+          {
+            "hex": "#A89890",
+            "share": 0.073
+          },
+          {
+            "hex": "#746D6B",
+            "share": 0.069
+          }
+        ],
+        "motion_energy": 11.84,
+        "script": "Hemos"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 1,
+      "start": 0.2,
+      "end": 1.56,
+      "length": 1.36,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#534D51",
+            "share": 0.108
+          },
+          {
+            "hex": "#706A6F",
+            "share": 0.088
+          },
+          {
+            "hex": "#8D8992",
+            "share": 0.069
+          },
+          {
+            "hex": "#2D292C",
+            "share": 0.052
+          },
+          {
+            "hex": "#73778B",
+            "share": 0.05
+          }
+        ],
+        "motion_energy": 14.61,
+        "script": "sido creados para amar."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.56,
+      "end": 3.28,
+      "length": 1.72,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#0C0C10",
+            "share": 0.25
+          },
+          {
+            "hex": "#2B2931",
+            "share": 0.147
+          },
+          {
+            "hex": "#494753",
+            "share": 0.078
+          },
+          {
+            "hex": "#B0ABB2",
+            "share": 0.057
+          },
+          {
+            "hex": "#393947",
+            "share": 0.048
+          }
+        ],
+        "motion_energy": 8.49,
+        "script": "Lo único que nos llena es el amar."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.28,
+      "end": 6.4,
+      "length": 3.12,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#2C2A2D",
+            "share": 0.109
+          },
+          {
+            "hex": "#AA978F",
+            "share": 0.084
+          },
+          {
+            "hex": "#E5EBF7",
+            "share": 0.076
+          },
+          {
+            "hex": "#B4AAA9",
+            "share": 0.07
+          },
+          {
+            "hex": "#988E88",
+            "share": 0.065
+          }
+        ],
+        "motion_energy": 34.54,
+        "script": "Pero entonces hay que entender lo que es el amor. ¿Qué quiere decir amar? Amar"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.4,
+      "end": 6.48,
+      "length": 0.08,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#FBFBFB",
+            "share": 1.0
+          }
+        ],
+        "motion_energy": 21.56,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.48,
+      "end": 10.96,
+      "length": 4.48,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#50524E",
+            "share": 0.287
+          },
+          {
+            "hex": "#716B6C",
+            "share": 0.122
+          },
+          {
+            "hex": "#F9F8F7",
+            "share": 0.072
+          },
+          {
+            "hex": "#665952",
+            "share": 0.054
+          },
+          {
+            "hex": "#90898F",
+            "share": 0.051
+          }
+        ],
+        "motion_energy": 17.94,
+        "script": "es desear el bien de la otra persona y hacer algo al respecto."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.96,
+      "end": 15.28,
+      "length": 4.32,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#544A4B",
+            "share": 0.257
+          },
+          {
+            "hex": "#675453",
+            "share": 0.172
+          },
+          {
+            "hex": "#374854",
+            "share": 0.105
+          },
+          {
+            "hex": "#776A67",
+            "share": 0.075
+          },
+          {
+            "hex": "#84726F",
+            "share": 0.067
+          }
+        ],
+        "motion_energy": 28.49,
+        "script": "Al Stoteles ya decía que la persona que hace el bien se regocija al"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 7,
+      "start": 15.28,
+      "end": 17.48,
+      "length": 2.2,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#B5A897",
+            "share": 0.11
+          },
+          {
+            "hex": "#6F564C",
+            "share": 0.08
+          },
+          {
+            "hex": "#2A2929",
+            "share": 0.062
+          },
+          {
+            "hex": "#776E68",
+            "share": 0.061
+          },
+          {
+            "hex": "#8A766C",
+            "share": 0.06
+          }
+        ],
+        "motion_energy": 11.43,
+        "script": "hacer el bien. Hacer el bien del otro"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 8,
+      "start": 17.48,
+      "end": 19.48,
+      "length": 2.0,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#F5F5F5",
+            "share": 0.162
+          },
+          {
+            "hex": "#CDB8AB",
+            "share": 0.093
+          },
+          {
+            "hex": "#CFC5B9",
+            "share": 0.075
+          },
+          {
+            "hex": "#D5CEC6",
+            "share": 0.069
+          },
+          {
+            "hex": "#514F50",
+            "share": 0.06
+          }
+        ],
+        "motion_energy": 26.77,
+        "script": "eso nos hace felices. Entender"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 9,
+      "start": 19.48,
+      "end": 19.56,
+      "length": 0.08,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#FBFBFB",
+            "share": 0.995
+          },
+          {
+            "hex": "#D6D6D6",
+            "share": 0.005
+          }
+        ],
+        "motion_energy": 27.14,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 10,
+      "start": 19.56,
+      "end": 25.68,
+      "length": 6.12,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#2B282B",
+            "share": 0.107
+          },
+          {
+            "hex": "#B6ACA9",
+            "share": 0.085
+          },
+          {
+            "hex": "#E7ECF8",
+            "share": 0.079
+          },
+          {
+            "hex": "#A8968E",
+            "share": 0.066
+          },
+          {
+            "hex": "#968C8A",
+            "share": 0.065
+          }
+        ],
+        "motion_energy": 33.88,
+        "script": "que solamente podemos amar ahora en el presente. No se puede amar en el futuro ni en el pasado."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 11,
+      "start": 25.68,
+      "end": 25.76,
+      "length": 0.08,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#FBFBFB",
+            "share": 0.993
+          },
+          {
+            "hex": "#D7D7D7",
+            "share": 0.007
+          },
+          {
+            "hex": "#DEDEE0",
+            "share": 0.0
+          },
+          {
+            "hex": "#DFE0E2",
+            "share": 0.0
+          },
+          {
+            "hex": "#E0DEDC",
+            "share": 0.0
+          }
+        ],
+        "motion_energy": 38.97,
+        "script": "Hay"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 12,
+      "start": 25.76,
+      "end": 37.28,
+      "length": 11.52,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#141114",
+            "share": 0.301
+          },
+          {
+            "hex": "#2B282A",
+            "share": 0.155
+          },
+          {
+            "hex": "#6A564F",
+            "share": 0.072
+          },
+          {
+            "hex": "#786659",
+            "share": 0.049
+          },
+          {
+            "hex": "#514848",
+            "share": 0.048
+          }
+        ],
+        "motion_energy": 41.27,
+        "script": "que reconocer que las mujeres y los hombres necesitan cosas diferentes. Lo cual es controversial hoy en día, pero es verdad. Son verdades biológicas. En un mundo que nos da tantas opciones, ¿cómo escogerá una?"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 13,
+      "start": 37.28,
+      "end": 39.48,
+      "length": 2.2,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#141114",
+            "share": 0.271
+          },
+          {
+            "hex": "#2C282A",
+            "share": 0.128
+          },
+          {
+            "hex": "#6A564E",
+            "share": 0.048
+          },
+          {
+            "hex": "#524A4A",
+            "share": 0.046
+          },
+          {
+            "hex": "#493733",
+            "share": 0.04
+          }
+        ],
+        "motion_energy": 7.0,
+        "script": "Es una ficción total que solo hay"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 14,
+      "start": 39.48,
+      "end": 42.36,
+      "length": 2.88,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#2D2C2F",
+            "share": 0.188
+          },
+          {
+            "hex": "#4E4C50",
+            "share": 0.149
+          },
+          {
+            "hex": "#6F6B6F",
+            "share": 0.138
+          },
+          {
+            "hex": "#8E8B91",
+            "share": 0.077
+          },
+          {
+            "hex": "#141315",
+            "share": 0.07
+          }
+        ],
+        "motion_energy": 30.67,
+        "script": "una persona entre 8 billones de personas."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 15,
+      "start": 42.36,
+      "end": 42.44,
+      "length": 0.08,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#8BB3F6",
+            "share": 0.103
+          },
+          {
+            "hex": "#70AAF6",
+            "share": 0.101
+          },
+          {
+            "hex": "#4E90EF",
+            "share": 0.087
+          },
+          {
+            "hex": "#3289F3",
+            "share": 0.075
+          },
+          {
+            "hex": "#6E93EA",
+            "share": 0.07
+          }
+        ],
+        "motion_energy": 28.3,
+        "script": null
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 16,
+      "start": 42.44,
+      "end": 42.52,
+      "length": 0.08,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#FBFBFB",
+            "share": 0.992
+          },
+          {
+            "hex": "#D7D7D7",
+            "share": 0.008
+          },
+          {
+            "hex": "#DEE0E0",
+            "share": 0.0
+          },
+          {
+            "hex": "#E0E0DF",
+            "share": 0.0
+          }
+        ],
+        "motion_energy": 26.96,
+        "script": "Las"
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 17,
+      "start": 42.52,
+      "end": 45.32,
+      "length": 2.8,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#B7ADAA",
+            "share": 0.126
+          },
+          {
+            "hex": "#2C292C",
+            "share": 0.104
+          },
+          {
+            "hex": "#E8ECF8",
+            "share": 0.063
+          },
+          {
+            "hex": "#968C88",
+            "share": 0.06
+          },
+          {
+            "hex": "#A8968D",
+            "share": 0.059
+          }
+        ],
+        "motion_energy": 19.01,
+        "script": "personalidades diferentes se atraen y se complementan."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    },
+    {
+      "id": 18,
+      "start": 45.32,
+      "end": 52.351,
+      "length": 7.031,
+      "observed": {
+        "palette": [
+          {
+            "hex": "#B2B1B1",
+            "share": 0.341
+          },
+          {
+            "hex": "#D4CFCD",
+            "share": 0.29
+          },
+          {
+            "hex": "#E4D6D2",
+            "share": 0.148
+          },
+          {
+            "hex": "#F1F0F2",
+            "share": 0.117
+          },
+          {
+            "hex": "#C5BCBA",
+            "share": 0.043
+          }
+        ],
+        "motion_energy": 40.55,
+        "script": "Cómo de importante es que nos miremos a los ojos."
+      },
+      "inferred": {
+        "scene_type": null,
+        "layer": null,
+        "animation": null,
+        "why_here": null
+      },
+      "unknown": [
+        "easing exacta",
+        "assets fuente",
+        "fuentes tipográficas exactas"
+      ]
+    }
+  ]
+}

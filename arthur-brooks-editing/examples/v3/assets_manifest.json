@@ -1,0 +1,173 @@
+[
+ {
+  "id": "A01",
+  "name": "blusa-ganadora",
+  "kind": "product",
+  "ar": "4:5",
+  "is_ref": true,
+  "use_in": [
+   "s04",
+   "s08 «Ya vendidas»",
+   "s09 «tus ganadoras»"
+  ],
+  "subject": "Blusa ganadora (referencia de consistencia)",
+  "prompt": "Product photo of a lilac silk blouse with a soft bow at the neck on a velvet hanger, against a pale pink plaster wall, soft diffused window light, delicate fabric sheen and fine stitching, elegant feminine boutique aesthetic, small natural creases, centered with negative space around. shot on a full-frame camera with a 50mm lens, true-to-life fabric texture, accurate color, subtle natural shadows, real-world imperfections in the fabric, e-commerce boutique photography, not CGI",
+  "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch",
+  "note": "Si ella tiene su prenda más vendida, fotografíala igual y úsala como referencia.",
+  "file": "A01_blusa-ganadora",
+  "res": "1536×1920",
+  "resolution": "1536x1920"
+ },
+ {
+  "id": "A02",
+  "name": "caja-septiembre",
+  "kind": "photo",
+  "ar": "4:5",
+  "use_in": [
+   "s01",
+   "s02 «desde septiembre»"
+  ],
+  "subject": "Caja con blusas que no se vendieron desde septiembre",
+  "prompt": "Photo of an open cardboard storage box in a dim stockroom with several outdated patterned blouses folded inside, a handwritten paper label 'SEPT' taped on the box, dust in the air, cold light from a small window, slightly faded documentary look. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+  "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch",
+  "file": "A02_caja-septiembre",
+  "res": "1536×1920",
+  "resolution": "1536x1920"
+ },
+ {
+  "id": "A03",
+  "name": "clienta-exigente",
+  "kind": "model",
+  "ar": "9:16",
+  "use_in": [
+   "s04 «sabe de telas»"
+  ],
+  "subject": "Clienta exigente revisando costuras",
+  "prompt": "Vertical UGC photo of a stylish 35-year-old woman with a sleek low bun in a boutique closely inspecting the inside seam of a lilac blouse between her fingers, focused skeptical expression, warm boutique light, shallow depth of field, face in the upper third. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+  "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch",
+  "file": "A03_clienta-exigente",
+  "res": "1080×1920",
+  "resolution": "1080x1920"
+ },
+ {
+  "id": "A04",
+  "name": "blusa-saldo",
+  "kind": "photo",
+  "ar": "4:5",
+  "use_in": [
+   "s01",
+   "s05 «¡Ah, saldos!»"
+  ],
+  "subject": "La blusa que nadie quiso con -50 %",
+  "prompt": "Photo of a slightly wrinkled dated floral blouse on a clearance rack with a big handwritten red '-50%' cardboard tag, cheap overhead lighting, mismatched leftover clothes around it. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+  "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch",
+  "file": "A04_blusa-saldo",
+  "res": "1536×1920",
+  "resolution": "1536x1920"
+ },
+ {
+  "id": "A05",
+  "name": "boutique-ganadoras",
+  "kind": "video",
+  "ar": "9:16",
+  "duration": "5 s",
+  "refs": [
+   "A01"
+  ],
+  "use_in": [
+   "s07 «hacen lo contrario»"
+  ],
+  "subject": "Boutique que muestra solo sus 5 ganadoras",
+  "prompt": "Vertical video, slow push-in on an elegant small women's boutique table and rail showing only five best-selling pieces, the lilac silk blouse from the reference image as the hero in the center, a saleswoman's hand straightens the bow, soft warm light, violet (#7B2FF0) and pink accents in the decor. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+  "motion": "Push-in lento 8 %; la mano entra a los 2 s. Genera primero el fotograma y luego image-to-video.",
+  "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch, morphing fabric, flickering, face distortion, sudden camera jumps, slow motion, text overlays",
+  "file": "A05_boutique-ganadoras",
+  "res": "1080×1920",
+  "resolution": "1080x1920"
+ },
+ {
+  "id": "A06",
+  "name": "ofertas-celular",
+  "kind": "video",
+  "ar": "9:16",
+  "duration": "5 s",
+  "use_in": [
+   "s03 «cien ofertas»"
+  ],
+  "subject": "Clienta ve 100 ofertas en el celular",
+  "prompt": "Vertical close-up video of a woman's thumb scrolling very fast through a phone feed full of red and yellow sale banners and discount posts, screen glow on her face in a dark bedroom at night, she looks tired. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+  "motion": "Primer plano del pulgar → tilt up a su cara iluminada por la pantalla.",
+  "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch, morphing fabric, flickering, face distortion, sudden camera jumps, slow motion, text overlays",
+  "file": "A06_ofertas-celular",
+  "res": "1080×1920",
+  "resolution": "1080x1920"
+ },
+ {
+  "id": "A07",
+  "name": "talla-m-agotada",
+  "kind": "graphic",
+  "ar": "4:5",
+  "use_in": [
+   "s08 «Agotadas en M»"
+  ],
+  "subject": "Etiquetas de talla con la M sellada «AGOTADA»",
+  "prompt": "Flat editorial illustration of a row of clothing size tags XS S M L XL hanging from strings on a rough lilac paper background, the 'M' tag stamped diagonally with a violet (#7B2FF0) rubber stamp reading 'AGOTADA', visible paper fibers, slightly misregistered ink, soft shadows, minimal.",
+  "negative": "photorealistic, 3D, gradients, glossy, drop shadows, people, logos, watermark, misspelled text, extra letters",
+  "file": "A07_talla-m-agotada",
+  "res": "1536×1920",
+  "resolution": "1536x1920"
+ },
+ {
+  "id": "A08",
+  "name": "flatlay-5-ganadoras",
+  "kind": "photo",
+  "ar": "4:5",
+  "refs": [
+   "A01"
+  ],
+  "use_in": [
+   "s08 «Más preguntadas»",
+   "s12 cierre «5 ganadoras»"
+  ],
+  "subject": "Flat lay de las 5 prendas ganadoras",
+  "prompt": "Top-down flat lay of five neatly folded best-selling women's garments on a pale pink linen surface, the lilac silk blouse from the reference image at the center, a cream knit cardigan, wide-leg beige trousers, a black slip skirt and a white shirt, small dried flowers, soft daylight, elegant boutique styling. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+  "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch",
+  "file": "A08_flatlay-5-ganadoras",
+  "res": "1536×1920",
+  "resolution": "1536x1920"
+ },
+ {
+  "id": "A09",
+  "name": "seda-macro",
+  "kind": "photo",
+  "ar": "4:5",
+  "refs": [
+   "A01"
+  ],
+  "use_in": [
+   "s04 «telas»",
+   "s07 segunda toma"
+  ],
+  "subject": "Macro de la seda lila y su costura",
+  "prompt": "Extreme macro photo of the lilac silk from the reference blouse: the fine weave, a neat French seam and the soft sheen of light on the fabric, shallow depth of field, warm side light. shot on a full-frame camera with a 50mm lens, true-to-life fabric texture, accurate color, subtle natural shadows, real-world imperfections in the fabric, e-commerce boutique photography, not CGI",
+  "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch",
+  "file": "A09_seda-macro",
+  "res": "1536×1920",
+  "resolution": "1536x1920"
+ },
+ {
+  "id": "A10",
+  "name": "papel-lila",
+  "kind": "texture",
+  "ar": "1:1",
+  "use_in": [
+   "fondos, collages y marcos de fotos"
+  ],
+  "subject": "Papel rugoso con tinte lila",
+  "prompt": "Seamless rough watercolor paper texture with a very subtle lilac tint (#F8F5FB), visible fibers and grain, flat even scan, tileable.",
+  "negative": "text, objects, strong colors, vignette",
+  "file": "A10_papel-lila",
+  "res": "1920×1920",
+  "resolution": "1920x1920"
+ }
+]

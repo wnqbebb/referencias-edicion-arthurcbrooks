@@ -1,0 +1,1444 @@
+{
+ "triggers": [
+  {
+   "t_word": 0.0,
+   "word": "The",
+   "element": "fondo azul con papel vacío 0.27 s; 'The biggest' sans diminuta que aparece en gris",
+   "category": "title_cta",
+   "offset_s": 0.27,
+   "why": "arranque en limpio"
+  },
+  {
+   "t_word": 0.42,
+   "word": "mistake",
+   "element": "mancha blanca que sube desde abajo y crece (0.53→0.73) con dos siluetas dentro + 'mistake' serif grande, gris→blanco",
+   "category": "center_illustration",
+   "offset_s": 0.11,
+   "why": "metáfora: relación rota (dos figuras)"
+  },
+  {
+   "t_word": 0.78,
+   "word": "people",
+   "element": "'people make' sans pequeña bajo 'mistake'",
+   "category": "center_illustration",
+   "offset_s": 0.15,
+   "why": "enlace"
+  },
+  {
+   "t_word": 1.68,
+   "word": "a",
+   "element": "fondo BLANCO con silueta meditando sobre una roca + 'a' serif AZUL",
+   "category": "side_illustration",
+   "offset_s": 0.12,
+   "why": "cambio de paleta: experiencia interior"
+  },
+  {
+   "t_word": 1.84,
+   "word": "painful",
+   "element": "'painful' serif azul + 'experience' sans azul diminuta debajo",
+   "category": "side_illustration",
+   "offset_s": 0.09,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 3.58,
+   "word": "get",
+   "element": "b-roll de silueta encapuchada de espaldas (desaturado) + 'get' serif gris→blanco",
+   "category": "broll_text",
+   "offset_s": 0.02,
+   "why": "metáfora: huir o darse la vuelta"
+  },
+  {
+   "t_word": 3.72,
+   "word": "past",
+   "element": "b-roll de mano escribiendo (ámbar); el texto sigue encima",
+   "category": "broll_text",
+   "offset_s": 0.15,
+   "why": "metáfora: pasar página"
+  },
+  {
+   "t_word": 4.28,
+   "word": "as",
+   "element": "b-roll de ojo en B/N + 'as quickly as' sans diminuta",
+   "category": "broll_text",
+   "offset_s": 0.39,
+   "why": "tensión"
+  },
+  {
+   "t_word": 5.16,
+   "word": "possible.",
+   "element": "'possible.' serif grande",
+   "category": "broll_text",
+   "offset_s": 0.5,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 5.9,
+   "word": "Move",
+   "element": "cabeza de perfil crema sobre azul con cerebro en acuarela azul + órbita fina que se dibuja + etiquetas ('Move on', 'Stay busy', 'Don't think about it')",
+   "category": "line_illustration",
+   "offset_s": 0.03,
+   "why": "lista de 3 consejos → órbita"
+  },
+  {
+   "t_word": 8.24,
+   "word": "that",
+   "element": "corte a BLANCO casi vacío con 'That sounds healthy, but it isn't' en sans azul diminuta",
+   "category": "text_centric",
+   "offset_s": 0.36,
+   "why": "pausa / negación"
+  },
+  {
+   "t_word": 10.48,
+   "word": "spent",
+   "element": "silueta con la cabeza entre las manos que sube desde abajo sobre blanco; 'I spent years' (bold en 'years')",
+   "category": "center_illustration",
+   "offset_s": 0.12,
+   "why": "confesión personal"
+  },
+  {
+   "t_word": 11.3,
+   "word": "treating",
+   "element": "halo/glow azul difuso detrás de la figura + 'treating' serif negra",
+   "category": "center_illustration",
+   "offset_s": -0.03,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 11.6,
+   "word": "suffering",
+   "element": "strobe de inversión (blanco/negro) de 0.6 s: la versión negra lleva 'suffering' serif blanca y una figura borrosa",
+   "category": "center_illustration",
+   "offset_s": 0.33,
+   "why": "shock: el dolor como golpe"
+  },
+  {
+   "t_word": 12.44,
+   "word": "problem",
+   "element": "b-roll de silueta dando patadas al atardecer; 'suffering as' persiste + 'a problem to solve,' diminuta",
+   "category": "broll_text",
+   "offset_s": 0.63,
+   "why": "metáfora: luchar contra el dolor"
+  },
+  {
+   "t_word": 14.02,
+   "word": "get",
+   "element": "blanco con un ARCO azul grueso que gira; 'to get / through it,' serif negra",
+   "category": "line_text",
+   "offset_s": 0.05,
+   "why": "bucle visual de las evasiones"
+  },
+  {
+   "t_word": 15.02,
+   "word": "behind",
+   "element": "el arco barre y cambia la cláusula: 'behind me,'",
+   "category": "line_text",
+   "offset_s": 0.5,
+   "why": "repetición = bucle"
+  },
+  {
+   "t_word": 16.32,
+   "word": "back",
+   "element": "el arco barre de nuevo: 'to get back / to normal,'",
+   "category": "line_text",
+   "offset_s": 0.5,
+   "why": "repetición = bucle"
+  },
+  {
+   "t_word": 17.48,
+   "word": "kept",
+   "element": "b-roll macro de un ojo (ámbar/rojo) + 'and I kept noticing' diminuta",
+   "category": "broll_text",
+   "offset_s": 0.19,
+   "why": "observación propia"
+  },
+  {
+   "t_word": 18.7,
+   "word": "own",
+   "element": "2º macro de ojo (iris azul con un papel reflejado) + 'own' serif",
+   "category": "broll_text",
+   "offset_s": 0.23,
+   "why": "énfasis personal"
+  },
+  {
+   "t_word": 19.46,
+   "word": "in",
+   "element": "b-roll de dedos pasando fichas de un archivo",
+   "category": "broll_text",
+   "offset_s": -0.06,
+   "why": "literal: investigación"
+  },
+  {
+   "t_word": 19.68,
+   "word": "research",
+   "element": "archivo B/N de laboratorio + 'research' SANS BOLD grande",
+   "category": "broll_text",
+   "offset_s": 0.59,
+   "why": "dato/ciencia (sans bold)"
+  },
+  {
+   "t_word": 20.66,
+   "word": "people",
+   "element": "corte a negro → composición de círculo blanco + figura azul que entra deslizando desde abajo-izquierda",
+   "category": "center_illustration",
+   "offset_s": 0.41,
+   "why": "metáfora: persona ante la luz"
+  },
+  {
+   "t_word": 22.28,
+   "word": "didn't",
+   "element": "zoom-out continuo: la figura se hace pequeña + 'didn't heal' serif (el apóstrofo como un trazo)",
+   "category": "center_illustration",
+   "offset_s": 0.72,
+   "why": "negación = encoger"
+  },
+  {
+   "t_word": 24.08,
+   "word": "They",
+   "element": "corte a NEGRO total con 'They just stopped feeling,' en sans diminuta",
+   "category": "text_centric",
+   "offset_s": 0.25,
+   "why": "vacío emocional"
+  },
+  {
+   "t_word": 24.72,
+   "word": "feeling,",
+   "element": "una forma roja se convierte en CORAZÓN (24.83) y se parte en dos mitades que caen (25.0–25.1)",
+   "category": "text_centric",
+   "offset_s": 0.11,
+   "why": "metáfora: sentir = corazón roto (rojo, 1º de 2 usos)"
+  },
+  {
+   "t_word": 26.04,
+   "word": "not",
+   "element": "corte a BLANCO: 'which is' diminuta azul + 'not the' SANS BOLD azul + 'same thing.'",
+   "category": "text_centric",
+   "offset_s": 0.49,
+   "why": "negación/dato"
+  },
+  {
+   "t_word": 27.28,
+   "word": "wired",
+   "element": "glitch de 0.67 s: figura humana pixelada / ASCII alternando negro y blanco",
+   "category": "object_element",
+   "offset_s": 0.05,
+   "why": "literal: 'wired' = cableado/digital"
+  },
+  {
+   "t_word": 27.86,
+   "word": "avoid",
+   "element": "grabado de un feto que se reduce en 3 pasos → icono diminuto + 'avoid' serif negra",
+   "category": "line_illustration",
+   "offset_s": 0.47,
+   "why": "metáfora: instinto desde el origen"
+  },
+  {
+   "t_word": 28.18,
+   "word": "pain",
+   "element": "punto ROJO dentro de una ilustración de neurona/árbol de tinta, con push-in (2º uso del rojo)",
+   "category": "line_illustration",
+   "offset_s": 0.49,
+   "why": "metáfora: el dolor como señal"
+  },
+  {
+   "t_word": 29.92,
+   "word": "danger.",
+   "element": "'danger.' serif negra grande sobre la retícula técnica + arcos",
+   "category": "line_illustration",
+   "offset_s": 0.08,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 30.64,
+   "word": "That",
+   "element": "empuje lateral a una fila de evolución humana (simio → humano) + 'survival.' serif",
+   "category": "center_illustration",
+   "offset_s": 0.36,
+   "why": "literal: supervivencia/evolución"
+  },
+  {
+   "t_word": 32.38,
+   "word": "It's",
+   "element": "b-roll ámbar de un hombre caminando junto al mar",
+   "category": "broll_text",
+   "offset_s": 0.12,
+   "why": "giro"
+  },
+  {
+   "t_word": 32.84,
+   "word": "less",
+   "element": "'less useful' serif (entra en ~33.5)",
+   "category": "broll_text",
+   "offset_s": 0.66,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 33.58,
+   "word": "for",
+   "element": "b-roll de un café con siluetas a contraluz; el texto persiste",
+   "category": "broll_text",
+   "offset_s": 0.15,
+   "why": "vida cotidiana"
+  },
+  {
+   "t_word": 34.44,
+   "word": "meaningful",
+   "element": "fondo negro con una TARJETA de vídeo redondeada (niños en la playa al atardecer) + 'meaningful life' diminuta",
+   "category": "broll_text",
+   "offset_s": 0.06,
+   "why": "metáfora: vida con sentido = recuerdo enmarcado"
+  },
+  {
+   "t_word": 35.16,
+   "word": "because",
+   "element": "azul plano: 'because' serif + 'some of the' diminuta",
+   "category": "text_centric",
+   "offset_s": 0.37,
+   "why": "respiración de marca"
+  },
+  {
+   "t_word": 36.24,
+   "word": "important",
+   "element": "b-roll de mujer junto a una ventana + 'important things' serif gris→blanco",
+   "category": "broll_text",
+   "offset_s": 0.49,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 37.38,
+   "word": "ever",
+   "element": "b-roll de silueta en el crepúsculo azul + 'ever happen to you'",
+   "category": "broll_text",
+   "offset_s": 0.12,
+   "why": ""
+  },
+  {
+   "t_word": 38.6,
+   "word": "will",
+   "element": "macro de piel con una lágrima + 'will hurt' SANS BOLD",
+   "category": "broll_text",
+   "offset_s": 0.4,
+   "why": "dato emocional (sans bold)"
+  },
+  {
+   "t_word": 40.0,
+   "word": "rush",
+   "element": "corte a blanco: un punto → cuñas azules que se ensamblan en un círculo de 4 cuadrantes con puntos en órbita",
+   "category": "graph_stats",
+   "offset_s": 0.4,
+   "why": "proceso/lección → diagrama"
+  },
+  {
+   "t_word": 43.82,
+   "word": "The",
+   "element": "el quesito se funde a blanco; entra desde la izquierda una línea de tiempo con miniatura + 'The Buddhists' serif",
+   "category": "timeline",
+   "offset_s": 0.38,
+   "why": "dato histórico → línea de tiempo"
+  },
+  {
+   "t_word": 45.2,
+   "word": "for",
+   "element": "match-cut por escala: la miniatura del Buda pasa a ser una tarjeta grande de archivo B/N sobre negro",
+   "category": "imagery_characters",
+   "offset_s": 0.3,
+   "why": "dato: 2500 años"
+  },
+  {
+   "t_word": 46.12,
+   "word": "thousand",
+   "element": "cortes dentro de la tarjeta (monje, anciana) + 'thousand years.' SANS BOLD",
+   "category": "imagery_characters",
+   "offset_s": 0.5,
+   "why": "dato"
+  },
+  {
+   "t_word": 47.24,
+   "word": "Modern",
+   "element": "archivo B/N a pantalla completa (científico); 'Modern' diminuta + 'psychology' serif gris→blanco",
+   "category": "broll_text",
+   "offset_s": 0.16,
+   "why": "cambio de época"
+  },
+  {
+   "t_word": 48.36,
+   "word": "catching",
+   "element": "dos cortes de archivo de laboratorio con el texto fijo; 'is catching up.'",
+   "category": "broll_text",
+   "offset_s": -0.19,
+   "why": "ritmo"
+  },
+  {
+   "t_word": 49.28,
+   "word": "Researchers",
+   "element": "glow azul radial sobre negro → cerebro 3D que hace un salto de zoom; 'post-traumatic' serif + 'growth' SANS BOLD; miniaturas en las esquinas",
+   "category": "object_element",
+   "offset_s": 0.39,
+   "why": "dato científico"
+  },
+  {
+   "t_word": 51.24,
+   "word": "keep",
+   "element": "duotono teal/halftone de un hombre con una onda + 'keep finding the same pattern.'",
+   "category": "broll_text",
+   "offset_s": 0.49,
+   "why": "textura científica"
+  },
+  {
+   "t_word": 53.02,
+   "word": "People",
+   "element": "tarjeta redondeada sobre negro: macro de lágrima → mujer a contraluz + 'suffering,' SANS BOLD",
+   "category": "broll_text",
+   "offset_s": 0.55,
+   "why": "literal"
+  },
+  {
+   "t_word": 55.04,
+   "word": "who",
+   "element": "azul plano: 'who ask what it's' diminuta + 'teaching them' serif",
+   "category": "text_centric",
+   "offset_s": 0.46,
+   "why": "respiración de marca"
+  },
+  {
+   "t_word": 57.74,
+   "word": "how",
+   "element": "b-roll oscuro de bar a contraluz + 'how to' serif + 'escape it.'",
+   "category": "broll_text",
+   "offset_s": -0.01,
+   "why": "contraste"
+  },
+  {
+   "t_word": 59.28,
+   "word": "come",
+   "element": "b-roll de silueta al atardecer + 'come out' SANS BOLD gris→blanco",
+   "category": "broll_text",
+   "offset_s": 0.12,
+   "why": ""
+  },
+  {
+   "t_word": 60.08,
+   "word": "something",
+   "element": "tarjeta pequeña sobre negro (dos personas en una mesa)",
+   "category": "broll_text",
+   "offset_s": 0.15,
+   "why": ""
+  },
+  {
+   "t_word": 62.74,
+   "word": "Sharper",
+   "element": "blanco → glow azul radial que florece; círculo de puntos con etiquetas que aparecen una por beneficio",
+   "category": "line_illustration",
+   "offset_s": -0.34,
+   "why": "lista de 3 → círculo de puntos"
+  },
+  {
+   "t_word": 68.3,
+   "word": "I",
+   "element": "b-roll de un aula/anfiteatro + 'my students' serif",
+   "category": "broll_text",
+   "offset_s": -0.13,
+   "why": "literal: alumnos"
+  },
+  {
+   "t_word": 70.12,
+   "word": "When",
+   "element": "flash blanco de 5 frames con marco inset → figura azul con rayos que salta de escala x2.5",
+   "category": "center_illustration",
+   "offset_s": -0.05,
+   "why": "metáfora: el impacto del dolor"
+  },
+  {
+   "t_word": 71.82,
+   "word": "ask,",
+   "element": "las esquinas del frame se redondean → IRIS a círculo sobre blanco",
+   "category": "center_illustration",
+   "offset_s": 0.25,
+   "why": "transición a la pregunta"
+  },
+  {
+   "t_word": 72.4,
+   "word": "how",
+   "element": "ESPIRAL dibujada alrededor del círculo, que se encoge a un punto; la comilla aparece antes que 'How'",
+   "category": "line_illustration",
+   "offset_s": -0.07,
+   "why": "metáfora: dar vueltas a la pregunta"
+  },
+  {
+   "t_word": 73.86,
+   "word": "Ask",
+   "element": "la espiral se contrae al punto con glow; 'Ask instead,' gris→blanco",
+   "category": "text_centric",
+   "offset_s": 0.27,
+   "why": "giro"
+  },
+  {
+   "t_word": 74.82,
+   "word": "what",
+   "element": "cita '“What is this trying to / teach me?”' ('teach me?”' serif)",
+   "category": "text_centric",
+   "offset_s": 0.0,
+   "why": "pregunta nueva"
+  },
+  {
+   "t_word": 76.7,
+   "word": "That's",
+   "element": "corte a azul; el punto reaparece como '•' dentro de 'That's a • different' + 'project' serif",
+   "category": "text_centric",
+   "offset_s": 0.03,
+   "why": "continuidad gráfica (el punto)"
+  },
+  {
+   "t_word": 77.98,
+   "word": "and",
+   "element": "b-roll de hombres riendo (cielo cubierto)",
+   "category": "broll_text",
+   "offset_s": 0.19,
+   "why": ""
+  },
+  {
+   "t_word": 78.52,
+   "word": "a",
+   "element": "b-roll de manos tecleando; el texto persiste",
+   "category": "broll_text",
+   "offset_s": 0.71,
+   "why": "trabajo duro"
+  },
+  {
+   "t_word": 80.16,
+   "word": "leads",
+   "element": "b-roll de camino con figuras andando + 'somewhere' serif gris→blanco",
+   "category": "broll_text",
+   "offset_s": 0.01,
+   "why": "literal: camino"
+  },
+  {
+   "t_word": 81.0,
+   "word": "That",
+   "element": "azul plano: 'That question,' + '“What is this' serif con comilla colgante",
+   "category": "text_centric",
+   "offset_s": 0.73,
+   "why": "respiración de marca"
+  },
+  {
+   "t_word": 84.0,
+   "word": "meaning",
+   "element": "UI real de la landing (fondo blanco roto) que sube desde abajo: 'Meaning Membership' serif azul",
+   "category": "ui_screen",
+   "offset_s": -0.17,
+   "why": "plug: producto"
+  },
+  {
+   "t_word": 86.18,
+   "word": "Every",
+   "element": "b-roll de calendario (JULY) + 'Every month,' serif",
+   "category": "broll_text",
+   "offset_s": 0.22,
+   "why": "literal: mensual"
+  },
+  {
+   "t_word": 87.42,
+   "word": "life's",
+   "element": "perfil de hombre en luz roja tenue + 'life's biggest / questions'",
+   "category": "broll_text",
+   "offset_s": 0.25,
+   "why": ""
+  },
+  {
+   "t_word": 89.04,
+   "word": "examine",
+   "element": "resonancias cerebrales (0.33 s) → manos en un portátil + 'together' SANS BOLD",
+   "category": "broll_text",
+   "offset_s": 0.13,
+   "why": "literal: examinar"
+  },
+  {
+   "t_word": 90.2,
+   "word": "through",
+   "element": "blanco: círculo 1 del Venn draw-on + 'through research'",
+   "category": "line_illustration",
+   "offset_s": 0.37,
+   "why": "3 pilares → Venn"
+  },
+  {
+   "t_word": 91.3,
+   "word": "through",
+   "element": "círculo 2 + 'through ancient wisdom'",
+   "category": "line_illustration",
+   "offset_s": 0.4,
+   "why": ""
+  },
+  {
+   "t_word": 92.94,
+   "word": "through",
+   "element": "círculo 3 + 'through honest conversation'; la intersección se rellena de azul",
+   "category": "line_illustration",
+   "offset_s": 0.4,
+   "why": "producto = intersección"
+  },
+  {
+   "t_word": 94.52,
+   "word": "Not",
+   "element": "b-roll oscuro de hombre al piano + 'easy answers,' ('easy' entra gris)",
+   "category": "broll_text",
+   "offset_s": 0.11,
+   "why": "negación"
+  },
+  {
+   "t_word": 96.38,
+   "word": "but",
+   "element": "azul plano: 'but to become' diminuta",
+   "category": "text_centric",
+   "offset_s": 0.02,
+   "why": "pausa"
+  },
+  {
+   "t_word": 97.16,
+   "word": "kind",
+   "element": "b-roll de peatones cruzando + 'people' SANS BOLD",
+   "category": "broll_text",
+   "offset_s": 0.07,
+   "why": "literal: gente"
+  },
+  {
+   "t_word": 98.14,
+   "word": "hold",
+   "element": "siluetas en un horizonte + 'hold the real answers.' diminuta",
+   "category": "broll_text",
+   "offset_s": 0.19,
+   "why": ""
+  },
+  {
+   "t_word": 99.88,
+   "word": "Because",
+   "element": "azul plano: 'Because' + 'meaning isn't' serif",
+   "category": "text_centric",
+   "offset_s": 0.02,
+   "why": "tesis"
+  },
+  {
+   "t_word": 102.24,
+   "word": "it's",
+   "element": "b-roll de anciano leyendo un libro + 'accumulates,' serif",
+   "category": "broll_text",
+   "offset_s": -0.24,
+   "why": "metáfora: acumular sabiduría"
+  },
+  {
+   "t_word": 103.98,
+   "word": "and",
+   "element": "azul plano: 'and it accumulates fastest' diminuta, sin palabra grande",
+   "category": "text_centric",
+   "offset_s": 0.02,
+   "why": "tensión antes del clímax"
+  },
+  {
+   "t_word": 105.66,
+   "word": "you",
+   "element": "montaje de 5 planos de un mismo actor (cine) a 0.35–0.8 s cada uno + 'stop running' serif fijo",
+   "category": "broll_text",
+   "offset_s": -0.09,
+   "why": "clímax: huida"
+  },
+  {
+   "t_word": 107.8,
+   "word": "are",
+   "element": "azul final: 'that are trying to teach you.' diminuta con 'teach you.' en bold; se sostiene 3 s",
+   "category": "title_cta",
+   "offset_s": -0.07,
+   "why": "cierre"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 1.57,
+   "from": "ilustración azul (mistake)",
+   "to": "blanco + meditador",
+   "type": "slide",
+   "frames": 2,
+   "detail": "el frame completo se desplaza a la izquierda 2 frames (~10% y ~20%) sin blur y corta en seco a 1.67"
+  },
+  {
+   "t": 3.27,
+   "from": "blanco",
+   "to": "b-roll silueta encapuchada",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "salto de blanco a oscuro (inversión de luminancia)"
+  },
+  {
+   "t": 3.87,
+   "from": "b-roll silueta",
+   "to": "b-roll mano escribiendo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "'get past' persiste; 'it' se añade gris"
+  },
+  {
+   "t": 4.67,
+   "from": "b-roll mano",
+   "to": "b-roll ojo B/N",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "el texto se reemplaza"
+  },
+  {
+   "t": 5.93,
+   "from": "b-roll ojo",
+   "to": "ilustración cabeza azul",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "seguido de un leve zoom-out (6.0–6.3)"
+  },
+  {
+   "t": 8.6,
+   "from": "ilustración azul",
+   "to": "blanco con texto diminuto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "en los 0.3 s previos aparece un MARCO inset de 1 px blanco alrededor del frame azul; el corte invierte la paleta (azul→blanco)"
+  },
+  {
+   "t": 11.9,
+   "from": "blanco (figura + glow)",
+   "to": "negro 'suffering'",
+   "type": "inversión de color",
+   "frames": 18,
+   "detail": "STROBE: blanco 1f (silueta saltando) → negro 3f (figura blanca borrosa + 'suffering') → blanco 2f → negro 1f ('suffering as') → blanco 2f → negro fijo desde 12.53. El texto solo existe en la versión negra"
+  },
+  {
+   "t": 13.07,
+   "from": "negro 'suffering as'",
+   "to": "b-roll atardecer patada",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "el texto se queda en la misma posición (match del texto)"
+  },
+  {
+   "t": 14.07,
+   "from": "b-roll",
+   "to": "blanco + arco azul",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 15.27,
+   "from": "cláusula 'through it,'",
+   "to": "cláusula 'behind me,'",
+   "type": "wipe",
+   "frames": 8,
+   "detail": "el arco azul grueso gira y barre el frame (forma U por abajo); el texto viejo sale deslizándose a la izquierda y el nuevo entra por la derecha"
+  },
+  {
+   "t": 16.53,
+   "from": "cláusula 'behind me,'",
+   "to": "cláusula 'to normal,'",
+   "type": "wipe",
+   "frames": 8,
+   "detail": "mismo barrido de arco + carrusel de texto izq←der"
+  },
+  {
+   "t": 17.67,
+   "from": "blanco + arco",
+   "to": "b-roll macro ojo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 18.5,
+   "from": "macro ojo 1",
+   "to": "macro ojo 2",
+   "type": "match-cut (elemento compartido)",
+   "frames": 0,
+   "detail": "ojo → ojo: misma forma y escala; el texto persiste"
+  },
+  {
+   "t": 19.4,
+   "from": "macro ojo",
+   "to": "b-roll fichero de archivo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "'own life' se queda 2 frames tras el corte (19.40–19.47) y desaparece en 19.53"
+  },
+  {
+   "t": 20.17,
+   "from": "fichero",
+   "to": "archivo B/N laboratorio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "'research' pop sans bold con el corte (20.27)"
+  },
+  {
+   "t": 20.83,
+   "from": "archivo",
+   "to": "negro → círculo + figura azul",
+   "type": "slide",
+   "frames": 10,
+   "detail": "8 frames de negro con 'the people' diminuta apareciendo; luego la composición entra deslizando en diagonal desde abajo-izquierda (21.07–21.40, ease-out)"
+  },
+  {
+   "t": 24.33,
+   "from": "círculo + figura (pequeña)",
+   "to": "negro total",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "corte a negro al acabar el zoom-out"
+  },
+  {
+   "t": 26.07,
+   "from": "negro",
+   "to": "blanco",
+   "type": "flash blanco",
+   "frames": 0,
+   "detail": "corte de negro a blanco puro (flash por contraste, sin fade); el blanco se queda como fondo"
+  },
+  {
+   "t": 27.33,
+   "from": "blanco 'not the'",
+   "to": "glitch figura humana",
+   "type": "glitch",
+   "frames": 20,
+   "detail": "negro 1f → blanco con bloques pixelados de una figura (27.40–27.47) → negro con figura en puntos/ASCII y cuadrados blancos (27.53–27.80) → blanco pixel-blur (27.87) → negro con figura borrosa (27.93); 0.67 s alternando inversiones"
+  },
+  {
+   "t": 28.0,
+   "from": "glitch",
+   "to": "blanco grabado de feto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "seguido de un zoom-out escalonado en 3 pasos (28.00 / 28.07 / 28.17)"
+  },
+  {
+   "t": 30.9,
+   "from": "ilustración neurona 'danger'",
+   "to": "fila de evolución 'survival'",
+   "type": "slide",
+   "frames": 6,
+   "detail": "empuje lateral: la neurona con el punto rojo sale por la izquierda y entra la fila de figuras desde la derecha (~0.3 s)"
+  },
+  {
+   "t": 32.5,
+   "from": "blanco evolución",
+   "to": "b-roll ámbar mar",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 33.73,
+   "from": "b-roll mar",
+   "to": "b-roll café",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "'less useful' persiste"
+  },
+  {
+   "t": 34.5,
+   "from": "b-roll café",
+   "to": "negro + tarjeta redondeada",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "la imagen pasa a una tarjeta con esquinas redondeadas (~75% del ancho)"
+  },
+  {
+   "t": 35.5,
+   "from": "tarjeta",
+   "to": "azul plano",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 36.23,
+   "from": "azul",
+   "to": "b-roll ventana",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 37.5,
+   "from": "b-roll ventana",
+   "to": "b-roll silueta crepúsculo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 39.0,
+   "from": "b-roll silueta",
+   "to": "macro lágrima",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 40.4,
+   "from": "macro lágrima",
+   "to": "blanco + quesito",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "salto de luminancia de 79 a 249; el gráfico se construye desde un punto"
+  },
+  {
+   "t": 43.9,
+   "from": "quesito",
+   "to": "línea de tiempo",
+   "type": "crossfade",
+   "frames": 8,
+   "detail": "el quesito se funde a blanco (~0.3 s) y la línea de tiempo entra deslizándose desde la izquierda (44.2–44.6)"
+  },
+  {
+   "t": 45.5,
+   "from": "línea de tiempo (miniatura del Buda)",
+   "to": "tarjeta grande de archivo del Buda sobre negro",
+   "type": "match-cut (elemento compartido)",
+   "frames": 0,
+   "detail": "misma foto: de miniatura en la línea de tiempo a tarjeta grande; corte seco por escala con el fondo invertido (blanco→negro), sin zoom animado"
+  },
+  {
+   "t": 46.23,
+   "from": "archivo Buda",
+   "to": "archivo monje",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "dentro de la misma tarjeta"
+  },
+  {
+   "t": 46.9,
+   "from": "archivo monje",
+   "to": "archivo anciana",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "dentro de la tarjeta; 'thousand years.'"
+  },
+  {
+   "t": 47.4,
+   "from": "tarjeta",
+   "to": "archivo científico a pantalla completa",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "la tarjeta 'se abre' a pantalla completa"
+  },
+  {
+   "t": 48.17,
+   "from": "archivo científico",
+   "to": "archivo laboratorio 1",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "texto fijo"
+  },
+  {
+   "t": 48.5,
+   "from": "archivo laboratorio 1",
+   "to": "archivo laboratorio 2",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "texto fijo"
+  },
+  {
+   "t": 49.67,
+   "from": "archivo",
+   "to": "glow azul → cerebro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "2 frames de glow azul vacío; el cerebro aparece en 49.73 y salta x1.6 en 49.83"
+  },
+  {
+   "t": 51.73,
+   "from": "collage negro",
+   "to": "duotono teal",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 53.57,
+   "from": "duotono",
+   "to": "tarjeta lágrima sobre negro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 54.4,
+   "from": "tarjeta lágrima",
+   "to": "tarjeta mujer a contraluz",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "dentro de la tarjeta"
+  },
+  {
+   "t": 55.5,
+   "from": "tarjeta",
+   "to": "azul plano",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 57.23,
+   "from": "azul",
+   "to": "b-roll bar",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 59.0,
+   "from": "b-roll bar",
+   "to": "b-roll atardecer",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 60.23,
+   "from": "b-roll",
+   "to": "tarjeta pequeña sobre negro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 62.4,
+   "from": "tarjeta negra",
+   "to": "blanco → glow azul",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "blanco puro 7 frames y luego el glow florece con fade (62.63–63.0)"
+  },
+  {
+   "t": 68.17,
+   "from": "glow / lista",
+   "to": "b-roll aula",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 70.07,
+   "from": "b-roll aula",
+   "to": "negro + figura azul",
+   "type": "flash blanco",
+   "frames": 5,
+   "detail": "5 frames de blanco (70.07–70.20), en los 2 últimos con un MARCO inset negro de 1 px; después la figura azul diminuta (70.23) salta a plano medio (70.33)"
+  },
+  {
+   "t": 72.07,
+   "from": "figura azul",
+   "to": "círculo sobre blanco",
+   "type": "wipe",
+   "frames": 5,
+   "detail": "IRIS (wipe circular) en 3 pasos: las esquinas del frame se redondean (72.07–72.20) → el frame entero se vuelve un círculo sobre blanco (72.23) → el círculo se encoge y aparecen los anillos de la espiral (72.33)"
+  },
+  {
+   "t": 76.73,
+   "from": "blanco (punto + cita)",
+   "to": "azul plano",
+   "type": "match-cut (elemento compartido)",
+   "frames": 0,
+   "detail": "corte seco con inversión blanco→azul; el punto negro de la espiral reaparece blanco como '•' dentro de 'That's a • different' (~77.6). No mantiene la posición: es continuidad de elemento, no de lugar"
+  },
+  {
+   "t": 78.17,
+   "from": "azul 'project'",
+   "to": "b-roll risas",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 79.23,
+   "from": "b-roll risas",
+   "to": "b-roll teclado",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "texto persiste"
+  },
+  {
+   "t": 80.17,
+   "from": "teclado",
+   "to": "b-roll camino",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 81.73,
+   "from": "b-roll",
+   "to": "azul plano",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 83.67,
+   "from": "azul",
+   "to": "UI blanco roto",
+   "type": "slide",
+   "frames": 6,
+   "detail": "corte seco a #F2F0EE vacío; la UI sube desde abajo con ease-out (83.83–84.2)"
+  },
+  {
+   "t": 86.4,
+   "from": "UI",
+   "to": "b-roll calendario",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 87.67,
+   "from": "calendario",
+   "to": "perfil luz roja",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 89.17,
+   "from": "perfil",
+   "to": "resonancias",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "plano de 0.33 s"
+  },
+  {
+   "t": 89.5,
+   "from": "resonancias",
+   "to": "portátil",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "texto persiste"
+  },
+  {
+   "t": 90.57,
+   "from": "portátil",
+   "to": "blanco Venn",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 94.63,
+   "from": "Venn",
+   "to": "b-roll piano oscuro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 96.4,
+   "from": "b-roll",
+   "to": "azul plano",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 97.23,
+   "from": "azul",
+   "to": "b-roll peatones",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 98.33,
+   "from": "peatones",
+   "to": "siluetas horizonte",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 99.9,
+   "from": "siluetas",
+   "to": "azul plano",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 102.0,
+   "from": "azul",
+   "to": "b-roll anciano leyendo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 104.0,
+   "from": "anciano",
+   "to": "azul plano",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 105.57,
+   "from": "azul",
+   "to": "actor plano oscuro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "empieza el montaje acelerado"
+  },
+  {
+   "t": 106.4,
+   "from": "actor oscuro",
+   "to": "actor camiseta amarilla",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "plano de 0.5 s, texto fijo"
+  },
+  {
+   "t": 106.9,
+   "from": "actor amarilla",
+   "to": "actor chaqueta",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "0.33 s"
+  },
+  {
+   "t": 107.23,
+   "from": "actor chaqueta",
+   "to": "actor coche",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "0.17 s"
+  },
+  {
+   "t": 107.4,
+   "from": "actor coche",
+   "to": "actor manos en la cara",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "0.33 s"
+  },
+  {
+   "t": 107.73,
+   "from": "actor",
+   "to": "azul final",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "sin fundido: termina en azul plano hasta el último frame (110.8); NO hay fundido a negro"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.53,
+   "fx": "gris→blanco",
+   "detail": "la palabra grande entra con ~50% de opacidad (gris) y pasa a blanco en 2–4 frames ('mistake' 0.53→0.67, 'get' 3.60→3.67, 'psychology' 47.87→47.93, 'somewhere', 'come', 'Ask instead,')"
+  },
+  {
+   "t": 0.27,
+   "fx": "write-on por palabra",
+   "detail": "la sans diminuta se escribe palabra a palabra a ~0.25 s/palabra; la serif grande puede llegar palabra a palabra ('own' → 'life', 'how' → 'to')"
+  },
+  {
+   "t": 1.8,
+   "fx": "escala",
+   "detail": "jerarquía super/subíndice: 'The biggest' diminuta arriba-derecha de 'mistake', 'people make' debajo-derecha; ratio ~1:4"
+  },
+  {
+   "t": 1.8,
+   "fx": "pop",
+   "detail": "en el fondo blanco la serif pasa a AZUL de marca ('a painful') o NEGRA ('treating', 'through', 'avoid', 'danger.', 'survival.', 'teach me?”')"
+  },
+  {
+   "t": 3.87,
+   "fx": "máscara",
+   "detail": "el texto persiste exacto sobre los cortes de b-roll (3.87, 13.07, 18.50, 33.73, 46.23, 48.17, 48.50, 79.23, 89.50, 106.4–107.4)"
+  },
+  {
+   "t": 12.0,
+   "fx": "máscara",
+   "detail": "durante el strobe el texto solo existe en los frames negros, así que parpadea"
+  },
+  {
+   "t": 15.27,
+   "fx": "slide",
+   "detail": "carrusel de cláusulas: el texto sale deslizándose a la izquierda y la nueva cláusula entra por la derecha, en sincronía con el barrido del arco"
+  },
+  {
+   "t": 19.47,
+   "fx": "máscara",
+   "detail": "el texto viejo se queda 2 frames después del corte y luego se borra en seco ('own life' 19.40–19.47)"
+  },
+  {
+   "t": 22.9,
+   "fx": "escala",
+   "detail": "'didn't heal' se va haciendo pequeño junto con el zoom-out de la figura"
+  },
+  {
+   "t": 24.5,
+   "fx": "write-on por palabra",
+   "detail": "'They just stopped feeling,' diminuta mientras el corazón rojo se forma y se parte: el énfasis lo pone el gráfico, no la palabra"
+  },
+  {
+   "t": 26.5,
+   "fx": "pop",
+   "detail": "'not the' en sans bold AZUL sobre blanco, pop seco"
+  },
+  {
+   "t": 50.0,
+   "fx": "gris→blanco",
+   "detail": "'growth' sans bold entra azulado/gris y se ilumina a blanco (50.07→50.20)"
+  },
+  {
+   "t": 72.33,
+   "fx": "write-on por palabra",
+   "detail": "la comilla de apertura aparece SOLA ~0.2 s antes de la primera palabra ('“' 72.33 → 'How' 72.53); comilla colgante fuera del margen en '“What is this' (82.2)"
+  },
+  {
+   "t": 95.53,
+   "fx": "gris→blanco",
+   "detail": "'easy' entra gris y tarda ~0.5 s en blanquear (más que el resto): la palabra negada se queda apagada"
+  },
+  {
+   "t": 107.8,
+   "fx": "write-on por palabra",
+   "detail": "final: sans diminuta 'that are trying to teach you.' con 'teach you.' en bold, sin palabra grande; se sostiene 3 s"
+  }
+ ],
+ "camera": [
+  {
+   "t": 0.53,
+   "move": "slide",
+   "scale_or_dir": "la mancha blanca sube desde abajo y crece (escala 0.2→1.0)",
+   "dur_s": 0.3
+  },
+  {
+   "t": 1.57,
+   "move": "slide",
+   "scale_or_dir": "izquierda, 0→20% en 2 frames",
+   "dur_s": 0.07
+  },
+  {
+   "t": 5.95,
+   "move": "zoom-out",
+   "scale_or_dir": "1.05→1.0 sobre la cabeza",
+   "dur_s": 0.35
+  },
+  {
+   "t": 10.6,
+   "move": "slide",
+   "scale_or_dir": "la figura sube desde abajo",
+   "dur_s": 0.4
+  },
+  {
+   "t": 21.07,
+   "move": "slide",
+   "scale_or_dir": "diagonal desde abajo-izquierda, ease-out",
+   "dur_s": 0.33
+  },
+  {
+   "t": 21.67,
+   "move": "zoom-out",
+   "scale_or_dir": "1.0→0.4 continuo (el círculo pasa de ~70% a ~25% del ancho)",
+   "dur_s": 2.5
+  },
+  {
+   "t": 28.0,
+   "move": "zoom-out",
+   "scale_or_dir": "escalonado 1.0→0.65→0.25 en 3 pasos de 2–3 frames",
+   "dur_s": 0.33
+  },
+  {
+   "t": 29.17,
+   "move": "push-in lento",
+   "scale_or_dir": "1.0→1.6 sobre la ilustración neuronal, con la retícula en parallax",
+   "dur_s": 1.2
+  },
+  {
+   "t": 30.9,
+   "move": "slide",
+   "scale_or_dir": "empuje lateral hacia la izquierda",
+   "dur_s": 0.3
+  },
+  {
+   "t": 40.47,
+   "move": "zoom-out",
+   "scale_or_dir": "ligero, mientras se ensamblan las cuñas",
+   "dur_s": 2.5
+  },
+  {
+   "t": 44.2,
+   "move": "slide",
+   "scale_or_dir": "la línea de tiempo entra desde la izquierda",
+   "dur_s": 0.4
+  },
+  {
+   "t": 49.83,
+   "move": "punch-in",
+   "scale_or_dir": "cerebro 1.0→1.6 en 1 frame y luego zoom-out a 1.0",
+   "dur_s": 0.2
+  },
+  {
+   "t": 50.3,
+   "move": "zoom-out",
+   "scale_or_dir": "el collage se aleja y se oscurece",
+   "dur_s": 1.0
+  },
+  {
+   "t": 62.63,
+   "move": "push-in lento",
+   "scale_or_dir": "el glow azul florece (fade + expansión)",
+   "dur_s": 0.4
+  },
+  {
+   "t": 70.33,
+   "move": "punch-in",
+   "scale_or_dir": "figura azul 1.0→2.5 en 1 frame",
+   "dur_s": 0.0
+  },
+  {
+   "t": 72.33,
+   "move": "zoom-out",
+   "scale_or_dir": "el círculo se encoge hasta un punto mientras se dibuja la espiral",
+   "dur_s": 0.6
+  },
+  {
+   "t": 83.83,
+   "move": "slide",
+   "scale_or_dir": "la UI sube desde abajo",
+   "dur_s": 0.4
+  },
+  {
+   "t": 90.73,
+   "move": "push-in lento",
+   "scale_or_dir": "ligero reposicionamiento del Venn",
+   "dur_s": 3.8
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   13,
+   14,
+   13,
+   13,
+   11,
+   8,
+   3,
+   8,
+   8,
+   8,
+   8,
+   0
+  ],
+  "avg_hold_text_s": 1.6,
+  "notes": "~1 cambio de plano cada 1.6 s de media. Ritmo en olas: (a) golpes de energía cortos (strobe 11.9–12.5, glitch 27.3–28.0, flash 70.07); (b) escenas animadas largas de 2.5–6 s para listas o diagramas (órbita 5.9, arco 14.1, quesito 40.4, glow-lista 62.4, Venn 90.6); (c) b-roll con el texto fijo encima, cortando por cláusula; (d) azul plano con texto cada ~15–20 s como respiración de marca (35.5, 55.5, 76.7, 81.7, 96.4, 99.9, 104.0, 107.7). Clímax: 5 planos en 2.1 s (105.57–107.73). Sincronía: en 0–25 s el texto llega a +0.0…+0.2 s de la palabra; en 26–40 s aparece de forma constante +0.4…+0.6 s después del timestamp del transcript (probable deriva del ASR; contrastar con el audio)."
+ },
+ "typography": "Tres voces. (1) EMOCIÓN: serif display de alto contraste, muy condensada, tracking negativo, minúsculas (tipo Playfair Display Condensed / PP Editorial New / Instrument Serif), ~6–9% del alto, 1–2 palabras por bloque; blanca sobre oscuro, negra o azul de marca sobre blanco. (2) DATO/CIENCIA: sans grotesca BOLD (Inter/Helvetica Bold), mismo tamaño que la serif: research, not the, will hurt, thousand years, growth, suffering, come out, together, people. (3) ENLACE: sans regular diminuta (~1.5–2% del alto) pegada a la grande como super/subíndice (arriba-izquierda / abajo-derecha), 2–6 palabras. Escenas-pausa solo con la diminuta, centrada. Comillas tipográficas curvas, con la de apertura antes de la palabra y colgante. El 'y' de 'psychology' cuelga separada. Posición: tercio medio/superior centrado; nunca en el cuarto inferior. Máximo 3 líneas en pantalla; las frases se reemplazan, no se acumulan.",
+ "textures": "Papel/acuarela sutil en los azules (#0B3FF5 con veteado). Siluetas con borde granulado o de spray (mancha blanca 0.5, figura 10.6, cabeza 5.9). Glow radial azul difuminado (11.2, 49.7, 62.6, 74). Grano de película en todo el b-roll; archivo en B/N con rayas. Duotono teal/halftone (51.7). Grabado o tinta para la ciencia (feto, neurona). Retícula técnica de 1 px + arcos finos (28–31). Tarjetas de vídeo con esquinas redondeadas sobre negro (34.5, 45.5, 53.6, 60.2). Marco inset de 1 px (8.3 blanco sobre azul; 70.17 negro sobre blanco). Glitch pixel-sort/ASCII (27.3). Rojo #C8161D solo 2 veces: corazón (24.8) y punto de dolor (28.7).",
+ "distinct": [
+  "Strobe de inversión W1-B3-W2-B1-W2 en el que el texto solo vive en los frames negros (11.90–12.53)",
+  "Arco azul que gira y barre el frame como wipe mientras las cláusulas hacen carrusel izq←der (14.07–17.67)",
+  "Match-cut por escala de miniatura a tarjeta (línea de tiempo → archivo del Buda, 45.50) y continuidad del punto espiral → '•' en la frase (76.73)",
+  "Iris en 3 pasos (esquinas redondeadas → círculo → espiral) para entrar en la pregunta (72.07–72.33)",
+  "Tres voces tipográficas: serif condensada = emoción, sans bold = dato, sans diminuta = enlace/pausa; y la paleta se invierte (azul ↔ blanco ↔ negro) en casi cada corte entre escenas gráficas"
+ ]
+}

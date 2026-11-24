@@ -1,0 +1,30 @@
+{
+  "cues": [
+    {
+      "t": 7.42,
+      "sfx": "pop",
+      "scene": "b03a",
+      "gain": 0.55
+    },
+    {
+      "t": 16.28,
+      "sfx": "draw",
+      "scene": "b07a",
+      "gain": 0.55
+    },
+    {
+      "t": 25.94,
+      "sfx": "whoosh_soft",
+      "scene": "b10a",
+      "gain": 0.55
+    },
+    {
+      "t": 39.7,
+      "sfx": "pop",
+      "scene": "b14a",
+      "gain": 0.55
+    }
+  ],
+  "music": "/home/user/viral-edit-system/assets/music_lib/tag/piano/02.mp3",
+  "mood": "piano cinematográfico / cuerdas suaves"
+}

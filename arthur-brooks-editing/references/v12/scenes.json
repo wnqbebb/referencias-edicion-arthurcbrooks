@@ -1,0 +1,442 @@
+[
+ {
+  "id": "v12_s01", "start": 0.0, "end": 2.0, "category": "center_illustration",
+  "script": "You can't solve a meaning problem with",
+  "what": "Ilustración de un busto humano azul hecho de piezas de puzzle (líneas blancas) sobre papel blanco roto; le falta la pieza del ojo y su mano sostiene esa pieza con otro ojo dibujado. Texto arriba a la izquierda: 'You can't / solve' y luego 'meaning / problem'.",
+  "design": "Ilustración azul #4887F6/#8EB6F0 con textura, figura anclada abajo-derecha, ocupa ~60 % del alto. Tipografía en dos voces: sans grotesca regular pequeña (tipo Helvetica/Inter) para palabras funcionales ('You can't', 'problem') y serif condensada de alto contraste, tracking muy apretado (tipo Editorial New / Times condensada bold) ~3× más grande para la palabra clave ('solve', 'meaning'); ambas en azul #1954F7, bloque apilado y solapado arriba a la izquierda (~15–20 % de altura). Fondo #F9F8FB.",
+  "effects": "Textura de papel granulado en el fondo; ilustración con relleno tipo risografía/gouache; halo azul difuminado detrás de la figura.",
+  "animation": "Arranca con la figura pequeña y lejos; push-in de cámara continuo (~1.3× en 2 s) mientras la mano sube la pieza a la cara. Texto: cada palabra entra con fade por palabra (karaoke) y la palabra clave grande sustituye al par anterior. Suave, ease-out.",
+  "why": "Hook-metáfora: 'problema de sentido' = persona incompleta como puzzle. La imagen dice la tesis antes de que se termine la frase; la ilustración distingue este formato del talking head.",
+  "quality": 5, "best_t": 0.5
+ },
+ {
+  "id": "v12_s02", "start": 2.0, "end": 3.67, "category": "text_centric",
+  "script": "just another achievement.",
+  "what": "Pantalla azul sólida con 'with just another / achievement.' en el centro.",
+  "design": "Fondo azul eléctrico #1954F7 a sangre. 'with just another' sans regular blanca pequeña encima; 'achievement.' sans grotesca bold/heavy blanca ~3× (tipo Helvetica Now Display Bold), tracking apretado; bloque centrado a ~50 %, ligeramente a la derecha.",
+  "effects": "Textura de papel/grano muy sutil sobre el azul.",
+  "animation": "Técnica 'ghost text': toda la frase ya está visible al ~15 % de opacidad (azul claro sobre azul) y cada palabra se ilumina a blanco al pronunciarse (karaoke por palabra, transición ~0.1 s). Seco y preciso.",
+  "why": "La palabra que se critica ('achievement') queda sola en un color plano: momento de pura idea, sin imagen que distraiga. El ghost-text deja anticipar la frase y crea ritmo de lectura.",
+  "quality": 5, "best_t": 3.0
+ },
+ {
+  "id": "v12_s03", "start": 3.67, "end": 4.6, "category": "broll_text",
+  "script": "I see this mistake all",
+  "what": "Macro cálido de una mano escribiendo con estilográfica en un libro de cuentas antiguo.",
+  "design": "Caption sans regular blanca pequeña, palabras separadas en horizontal ('I see' … 'this') a ~47 % de altura.",
+  "effects": "Profundidad de campo mínima, grade ámbar #8D744C sobre negros #0D0B0C, grano.",
+  "animation": "Corte seco; leve movimiento de la mano; palabras aparecen con la voz.",
+  "why": "Transición del concepto a 'la gente que veo': b-roll de trabajo/esfuerzo para introducir a quienes 'han trabajado mucho'.",
+  "quality": 3, "best_t": 4.0
+ },
+ {
+  "id": "v12_s04", "start": 4.6, "end": 5.6, "category": "broll_text",
+  "script": "the time in",
+  "what": "Silueta negra de un hombre de pie contra fondo rojo carmesí plano.",
+  "design": "'all the' sans pequeña blanca + 'time' serif condensada grande blanca, apilados y solapados, centrados a ~50 %. Fondo #781720/#69151D, silueta #150F13.",
+  "effects": "Contraluz duro, viñeta, grano.",
+  "animation": "Corte seco; texto karaoke (palabra pequeña primero, luego la grande con fade+leve escala).",
+  "why": "Color rojo inesperado = alarma/urgencia ('todo el tiempo'). La silueta anónima permite que cualquiera se proyecte.",
+  "quality": 4, "best_t": 4.5
+ },
+ {
+  "id": "v12_s05", "start": 5.6, "end": 6.44, "category": "broll_text",
+  "script": "people who",
+  "what": "Silueta de hombre sentado en rocas frente a un cielo dorado de atardecer con nubes.",
+  "design": "'all the / time in / people' — serif condensada grande blanca 'time in' con sans pequeña arriba y abajo, centrado ~50 %. Paleta #8D6827/#6F5723.",
+  "effects": "Contraluz dorado, grano.",
+  "animation": "Corte seco; continúa el karaoke del bloque anterior.",
+  "why": "Mantiene la frase viva sobre una imagen contemplativa (persona sola mirando el horizonte = búsqueda).",
+  "quality": 3, "best_t": 5.8
+ },
+ {
+  "id": "v12_s06", "start": 6.44, "end": 7.44, "category": "broll_text",
+  "script": "have worked very hard",
+  "what": "Hombre solo trabajando en una oficina oscura de noche, iluminado por la lámpara/monitor.",
+  "design": "'who have' sans pequeña + 'worked' serif condensada grande + 'very hard' sans pequeña (hard en fantasma), centrado a ~47 %, blanco. Paleta #050809/#263433.",
+  "effects": "Ambiente frío-verdoso oscuro, grano.",
+  "animation": "Corte seco; karaoke por palabra con ghost-text.",
+  "why": "Literaliza 'trabajar muy duro' (horas extra, soledad).",
+  "quality": 3, "best_t": 6.8
+ },
+ {
+  "id": "v12_s07", "start": 7.44, "end": 8.44, "category": "broll_text",
+  "script": "to build good lives.",
+  "what": "Fondo negro con una tarjeta de vídeo de esquinas redondeadas en el centro: primero una familia leyendo en un salón con lámpara naranja, luego una pareja sentada en la playa de espaldas. Encima: 'to build / good lives.'",
+  "design": "Tarjeta de vídeo ~85 % del ancho, ratio ~4:3, radio de esquina ~4 %, centrada a ~55 %. Texto: 'to build' sans pequeña blanca + 'good lives.' serif condensada grande blanca, sobre la tarjeta a ~25 % de altura. Fondo #000001.",
+  "effects": "Sin sombra; vídeo con look cinematográfico cálido/frío.",
+  "animation": "Texto karaoke por palabra; el vídeo dentro de la tarjeta cambia de plano por corte seco a mitad.",
+  "why": "'Buenas vidas' = recuerdos (familia, pareja): el marco redondeado los presenta como 'fotos/recuerdos' del espectador.",
+  "quality": 4, "best_t": 8.0
+ },
+ {
+  "id": "v12_s08", "start": 8.44, "end": 9.4, "category": "center_illustration",
+  "script": "Maybe that's you.",
+  "what": "Ilustración: chico azul con flequillo mirando el móvil, iluminado por un haz de luz blanco en diagonal sobre fondo azul. Texto 'Maybe / thats you,'.",
+  "design": "Ilustración plana azul #3B81F8 con contorno blanco a mano. 'Maybe' sans bold negra pequeña + 'thats you,' serif condensada negra grande, centrado a ~22 % de altura. Fondo mitad blanco (haz) mitad azul.",
+  "effects": "Textura de papel/grano, trazo de línea irregular tipo lápiz.",
+  "animation": "Entra desde azul con marcos de líneas finas (transición de 'pantalla'), la luz se abre en abanico revelando al personaje (~0.4 s); texto karaoke.",
+  "why": "Interpelación directa ('tú'): el personaje genérico con móvil es el espectador. Pasa de b-roll real a ilustración para hacerlo personal y universal.",
+  "quality": 5, "best_t": 9.0
+ },
+ {
+  "id": "v12_s09", "start": 9.4, "end": 10.6, "category": "object_element",
+  "script": "You built the career.",
+  "what": "Avatar genérico (silueta negra en círculo blanco) que llega desenfocado y gigante y se aleja hasta tamaño medio sobre fondo azul; encima 'you'. Luego 'you built / the career,' y aparecen anillos discontinuos.",
+  "design": "Fondo azul #184EF9 con textura; círculo blanco #FBF9F9 con silueta #1A1819 centrado a ~50 %. Texto 'you' sans regular blanca pequeña; 'the career,' serif condensada blanca grande, centrado ~22 %.",
+  "effects": "Blur de movimiento en la entrada, textura de papel, pequeño trazo blanco tipo 'chispa'.",
+  "animation": "Zoom-out rápido con blur-to-sharp (~0.3 s), luego el avatar se encoge al centro mientras nacen anillos orbitales discontinuos. Elástico/suave.",
+  "why": "Convierte 'tú' en un perfil-avatar al que se le van añadiendo logros: metáfora de 'perfil/currículum vital'.",
+  "quality": 5, "best_t": 10.5
+ },
+ {
+  "id": "v12_s10", "start": 10.6, "end": 14.1, "category": "object_element",
+  "script": "You raised the family. You hit many of the goals that you set for yourself.",
+  "what": "Avatar central pequeño con 3 anillos discontinuos concéntricos que giran; iconos en círculos blancos orbitando (birrete de graduación, familia, gráfico/objetivo). Texto cambia: 'you raised / the family,' → 'you hit many' → 'that you set / for yourself.'.",
+  "design": "Igual que s09: fondo azul #1950F7, iconos negros en círculos blancos ~8 % del ancho, órbitas blancas discontinuas finas. Texto serif condensada grande + sans pequeña blanca a ~20–25 % de altura; 'for yourself.' en sans bold.",
+  "effects": "Grano/textura papel.",
+  "animation": "Los anillos rotan lentamente y a cada logro nombrado aparece un icono nuevo con pop (escala 0→1, ~0.2 s, ease-back). Texto ghost→blanco por palabra.",
+  "why": "Lista acumulativa de logros = animación que 'suma' objetos alrededor de la persona; visualiza la vida 'completa' antes del giro.",
+  "quality": 5, "best_t": 13.0
+ },
+ {
+  "id": "v12_s11", "start": 14.1, "end": 14.95, "category": "text_centric",
+  "script": "But then,",
+  "what": "Pantalla blanca casi vacía con 'But then,' en azul en el centro.",
+  "design": "Sans grotesca bold azul #0952F8, tamaño ~1.5× caption, centrada ~50 %. Fondo #FBF9F9.",
+  "effects": "Ninguno; espacio negativo máximo.",
+  "animation": "Flash a blanco desde el azul (motion 51 = cambio brusco), ghost-text → 'But' → 'then,' en azul. Seco.",
+  "why": "Giro narrativo: el 'pero' se aísla en blanco para marcar el cambio de dirección (de logros a preguntas).",
+  "quality": 4, "best_t": 14.3
+ },
+ {
+  "id": "v12_s12", "start": 14.95, "end": 15.85, "category": "broll_text",
+  "script": "at a certain point,",
+  "what": "Cenital de una persona tecleando en un portátil sobre mesa de madera oscura (taza roja, post-it amarillo, ratón).",
+  "design": "'at a certain' sans pequeña blanca + 'point,' serif condensada blanca muy grande, centrado ~47 %.",
+  "effects": "Grade oscuro cálido #29241B, grano.",
+  "animation": "Corte seco; karaoke.",
+  "why": "Rutina laboral desde arriba = la vida en piloto automático donde surge 'el punto'.",
+  "quality": 3, "best_t": 15.0
+ },
+ {
+  "id": "v12_s13", "start": 15.85, "end": 18.6, "category": "center_illustration",
+  "script": "the questions, well, they start to change. What comes next?",
+  "what": "Figura azul sentada en un taburete sobre la cima de una montaña/rampa azul; detrás de su cabeza, círculos concéntricos dibujados a mano (como pensamiento). Texto 'the / questions, / they start to change.'.",
+  "design": "Figura y montaña azul #0952F8 con textura de rotulador/cera; círculos de línea fina azul. Texto: 'the' sans pequeña + 'questions,' serif condensada azul grande + 'they start to change.' sans pequeña, arriba a la derecha ~12–15 % de altura. Fondo #FAF8F9.",
+  "effects": "Textura de papel, trazo a mano irregular, sin sombras.",
+  "animation": "Empieza lejos, pequeño y desenfocado; zoom-in rápido con blur-to-sharp (~0.4 s) y luego drift lento; los círculos pulsan. Texto karaoke.",
+  "why": "'Las preguntas cambian' = persona en la cima (ha llegado) mirando al vacío con la mente en espiral. Ilustración = estado interior.",
+  "quality": 5, "best_t": 16.5
+ },
+ {
+  "id": "v12_s14", "start": 18.6, "end": 23.4, "category": "center_illustration",
+  "script": "What do I want to do now? And what do I want my life to be about right now?",
+  "what": "Fondo negro texturizado; un orbe/luna blanca brillante con un anillo fino con marcas (como dial/reloj) y delante una figura humana recortada en azul eléctrico granulado, de pie, sombra azul en el suelo. Preguntas encima: 'What comes next?' → 'What do I wanna / do now?' → 'What do I want my / life to be?'.",
+  "design": "Fondo #100B0E con textura de papel negro; figura azul #0D50F1 con textura de grano/spray; orbe blanco con glow fuerte; anillo blanco fino con 5–6 ticks. Texto blanco: sans pequeña + serif condensada grande, centrado a ~12–18 % de altura.",
+  "effects": "Glow intenso del orbe, grano, textura de spray en la figura, viñeta negra.",
+  "animation": "Aparece desde negro (fade del orbe ~0.3 s); pull-out lento continuo (el conjunto se encoge ~40 % en 4 s) mientras cada pregunta reemplaza a la anterior con fade. Suave y contemplativo.",
+  "why": "Las preguntas existenciales en serie se ponen en una escena oscura, solemne, con un 'eclipse' de luz: tono introspectivo. El alejamiento da sensación de pequeñez.",
+  "quality": 5, "best_t": 19.5
+ },
+ {
+  "id": "v12_s15", "start": 23.4, "end": 25.5, "category": "broll_text",
+  "script": "What do I want to be remembered for?",
+  "what": "Hombre caminando de noche pasando por luces urbanas desenfocadas, imagen desaturada oscura.",
+  "design": "'What do I wanna be' sans pequeña + 'remembered' serif condensada grande + 'for?' sans pequeña, blanco, centrado ~50 %.",
+  "effects": "Desaturación, blur, oscurecido ~40 %.",
+  "animation": "Corte; karaoke por palabra.",
+  "why": "Pregunta sobre el legado sobre una imagen de paso/transitoriedad.",
+  "quality": 3, "best_t": 24.0
+ },
+ {
+  "id": "v12_s16", "start": 25.5, "end": 26.9, "category": "broll_text",
+  "script": "What is all this actually for?",
+  "what": "Joven con sudadera gris y capucha, mano en la barbilla, pensativo, de frente; desaturado.",
+  "design": "'What is all' sans pequeña + 'this actually' serif condensada grande, blanco/gris (ghost en 'actually'), centrado ~52 %.",
+  "effects": "Desaturación casi total, grano, viñeta.",
+  "animation": "Corte; ghost-text ilumina palabra a palabra.",
+  "why": "Retrato de 'pensar' = cara para la pregunta más directa.",
+  "quality": 3, "best_t": 25.5
+ },
+ {
+  "id": "v12_s17", "start": 26.9, "end": 28.43, "category": "broll_text",
+  "script": "Those are basically",
+  "what": "Hombre caminando solo por la orilla del mar al atardecer, plano general.",
+  "design": "Caption sans regular blanca 'Those are' a ~40 %.",
+  "effects": "Grade cálido-frío de atardecer #362A20.",
+  "animation": "Corte; caption por palabra.",
+  "why": "Respiro visual antes de introducir el concepto científico.",
+  "quality": 3, "best_t": 27.0
+ },
+ {
+  "id": "v12_s18", "start": 28.43, "end": 29.8, "category": "text_centric",
+  "script": "questions of meaning.",
+  "what": "Fondo blanco con un halo azul difuminado circular; un punto azul orbita sobre un arco fino; texto 'questions of / meaning.'.",
+  "design": "'questions of' sans pequeña azul + 'meaning.' serif condensada azul ~2× centrada a ~55 %; halo radial #B0C5EE→blanco ~60 % del ancho; punto azul #1954F7 de ~2 % del ancho.",
+  "effects": "Gradiente radial azul muy suave (glow), textura de papel.",
+  "animation": "El halo aparece con fade; el punto recorre un arco con estela de línea fina (~0.6 s); texto ghost→azul.",
+  "why": "Introduce la palabra clave del video ('meaning') con un elemento abstracto (punto) que se transformará en el diagrama siguiente.",
+  "quality": 4, "best_t": 28.5
+ },
+ {
+  "id": "v12_s19", "start": 29.8, "end": 31.6, "category": "text_centric",
+  "script": "The science tells us that",
+  "what": "Blanco limpio con 'The science / tells us that' azul centrado.",
+  "design": "'The science' serif condensada bold azul #1954F7 ~2× + 'tells us that' sans regular azul debajo, centrado ~50 %.",
+  "effects": "Papel blanco con grano mínimo.",
+  "animation": "Ghost-text karaoke.",
+  "why": "Señal de autoridad ('la ciencia dice') en limpio: prepara el dato.",
+  "quality": 4, "best_t": 30.0
+ },
+ {
+  "id": "v12_s20", "start": 31.6, "end": 36.2, "category": "line_illustration",
+  "script": "meaning has three parts. Coherence, purpose, and significance.",
+  "what": "Un punto azul aparece en el centro; se expande en un triángulo equilátero azul con un punto en cada vértice; al nombrar cada parte aparece su etiqueta en el vértice ('Coherence' arriba, 'Purpose' abajo-derecha, 'Significance' abajo-izquierda) y el triángulo se divide en 3 facetas con líneas blancas desde el centro (efecto pirámide 3D).",
+  "design": "Triángulo #568BF6→#1954F7 ~25 % del ancho centrado a ~50 %; puntos de vértice azul oscuro; etiquetas sans bold azul pequeña junto a cada vértice. Fondo #FAF7FB.",
+  "effects": "Grano de papel; sin sombras.",
+  "animation": "Punto → triángulo crece desde el centro (scale con ease-out ~0.4 s); etiquetas entran con fade sincronizadas a cada palabra (33.2, 34.0, 35.2 s); las líneas internas se dibujan (line draw ~0.3 s). Preciso y limpio.",
+  "why": "Momento de valor/framework: 3 partes = diagrama de 3 vértices. Visualizar el modelo lo hace memorizable.",
+  "quality": 5, "best_t": 34.5
+ },
+ {
+  "id": "v12_s21", "start": 36.2, "end": 37.34, "category": "text_centric",
+  "script": "Coherence is understanding",
+  "what": "Blanco con 'Coherence is' en azul grande centrado.",
+  "design": "Sans grotesca bold azul #1954F7 ~2× caption, centrado ~50 %; 'is' en ghost.",
+  "effects": "Ninguno.",
+  "animation": "Corte desde el triángulo; ghost-text karaoke.",
+  "why": "Pasa del mapa a la definición de cada parte: título de sección.",
+  "quality": 3, "best_t": 36.0
+ },
+ {
+  "id": "v12_s22", "start": 37.34, "end": 40.77, "category": "broll_text",
+  "script": "why your life is unfolding the way that it is.",
+  "what": "Tres planos rápidos: mano sobre un libro abierto (lectura cálida), hombre en penumbra bajo una lámpara colgante, retrato desaturado de joven mirando a cámara.",
+  "design": "Caption sans regular blanca pequeña centrada ~40–50 %: 'understanding', 'why your life', 'the way that it is.'.",
+  "effects": "Desaturación progresiva (cálido → b/n), grano, viñeta.",
+  "animation": "Cortes secos cada ~0.5–2 s; captions por frase.",
+  "why": "Definición de coherencia = entenderse a uno mismo: imágenes de introspección y mirada directa.",
+  "quality": 3, "best_t": 39.0
+ },
+ {
+  "id": "v12_s23", "start": 40.77, "end": 41.9, "category": "broll_text",
+  "script": "Purpose is knowing what your life",
+  "what": "Joven sentado en el alféizar de una ventana leyendo, luz cálida, encuadre con marco oscuro.",
+  "design": "'knowing' serif condensada blanca grande + 'what your life' sans pequeña, centrado ~50 %.",
+  "effects": "Grade cálido ámbar, contraluz de ventana.",
+  "animation": "Corte; karaoke.",
+  "why": "Propósito = mirar afuera/hacia delante (ventana).",
+  "quality": 3, "best_t": 40.5
+ },
+ {
+  "id": "v12_s24", "start": 41.9, "end": 43.28, "category": "broll_text",
+  "script": "is pointed toward,",
+  "what": "Dos manos en claroscuro sobre negro, un dedo apuntando hacia otro (homenaje a La creación de Adán).",
+  "design": "'pointed' serif condensada blanca grande + 'toward.' sans pequeña, arriba-izquierda a ~25–30 % de altura. Fondo #0B080C.",
+  "effects": "Luz rasante, alto contraste, grano.",
+  "animation": "Corte; 'pointed' entra en ghost y se ilumina; manos se acercan lentamente.",
+  "why": "Literaliza 'apuntado hacia' con un gesto icónico: juego visual palabra-imagen.",
+  "quality": 5, "best_t": 42.0
+ },
+ {
+  "id": "v12_s25", "start": 43.28, "end": 44.18, "category": "text_centric",
+  "script": "and significance is",
+  "what": "Blanco con 'And significance is' en azul.",
+  "design": "Sans bold azul #1954F7 ~1.3× caption, centrado ~50 %.",
+  "effects": "Ninguno.",
+  "animation": "Ghost-text karaoke.",
+  "why": "Tercera definición: vuelve al blanco para marcar 'tercer apartado' (mismo patrón que 'Coherence is').",
+  "quality": 3, "best_t": 43.5
+ },
+ {
+  "id": "v12_s26", "start": 44.18, "end": 46.18, "category": "broll_text",
+  "script": "knowing why your life matters, and to whom.",
+  "what": "Silueta de hombre de pie mirando al mar al anochecer; después personas en un campo de hierba saludando con los brazos.",
+  "design": "'knowing' serif condensada grande + 'why your' sans pequeña, blanco, ~50 %; luego 'and to whom' sans pequeña.",
+  "effects": "Crepúsculo azul, grano; campo cálido.",
+  "animation": "Cortes secos; karaoke.",
+  "why": "Significado = importar a otros: de la persona sola a personas que se saludan.",
+  "quality": 3, "best_t": 44.5
+ },
+ {
+  "id": "v12_s27", "start": 46.18, "end": 49.4, "category": "center_illustration",
+  "script": "You can understand these ideas intellectually pretty quickly,",
+  "what": "Dibujo a cera azul de una cabeza con los ojos cerrados cuya tapa del cráneo se levanta y deja ver/salir el cerebro.",
+  "design": "Trazo de cera/lápiz azul #1954F7 sobre blanco, figura abajo-centro ocupando ~60 % del alto. Texto 'You' sans pequeña arriba-izq, luego 'intellectually' serif condensada azul grande + 'pretty quickly,' sans pequeña a ~13 % de altura.",
+  "effects": "Textura de cera, papel.",
+  "animation": "El dibujo sube desde abajo (slide-up ~0.4 s), la tapa se abre y el cerebro flota (animación frame a frame tipo 'boiling line'); texto karaoke.",
+  "why": "'Entender intelectualmente' = cerebro abierto: humor visual que hace digerible la distinción.",
+  "quality": 5, "best_t": 48.0
+ },
+ {
+  "id": "v12_s28", "start": 49.4, "end": 50.35, "category": "center_illustration",
+  "script": "but understanding them and",
+  "what": "Imagen de resonancia/escáner cerebral en blanco y negro en el centro, con 'but / understanding / them' encima.",
+  "design": "Escáner b/n ~25 % del ancho centrado a ~55 %; 'understanding' serif condensada azul grande + 'but'/'them' sans negra pequeña, centrado ~45 %.",
+  "effects": "Escáner con bordes difuminados.",
+  "animation": "El escáner aparece con fade desde blanco; texto karaoke.",
+  "why": "Contraste: cerebro dibujado (idea) → cerebro real (entender de verdad).",
+  "quality": 4, "best_t": 49.5
+ },
+ {
+  "id": "v12_s29", "start": 50.35, "end": 52.35, "category": "broll_text",
+  "script": "actually building your life around them,",
+  "what": "Tres planos de 0.7 s: hombre de perfil con una flor delante, primer plano desenfocado de un hombre, hombre trabajando junto a una ventana grande.",
+  "design": "Caption sans regular blanca ('and actually', 'around them,'), 'your' en sans bold grande; centrado ~48 %.",
+  "effects": "Foco selectivo, grano, tonos fríos verdosos.",
+  "animation": "Cortes secos rápidos (alta energía de movimiento) al ritmo de las palabras.",
+  "why": "Aceleración de cortes en 'construir tu vida' = acción frente a la teoría.",
+  "quality": 3, "best_t": 51.0
+ },
+ {
+  "id": "v12_s30", "start": 52.35, "end": 53.75, "category": "text_centric",
+  "script": "well, those are two different things.",
+  "what": "Blanco con 'well, those are / two different / things.' en azul.",
+  "design": "'well,' 'those are' 'things.' sans bold azul pequeña; 'two different' serif condensada azul grande; bloque escalonado centrado ~50 %.",
+  "effects": "Ninguno.",
+  "animation": "Ghost-text completo al 15 % → cada palabra pasa a azul pleno con la voz (karaoke exacto).",
+  "why": "Conclusión de la distinción: aislada en blanco para que se lea como aforismo.",
+  "quality": 4, "best_t": 52.5
+ },
+ {
+  "id": "v12_s31", "start": 53.75, "end": 57.9, "category": "broll_text",
+  "script": "Sometimes, to do that work well, you need to step outside the routines and demands",
+  "what": "Secuencia: hombre mayor escribiendo a máquina; familia cenando en un comedor con ventana verde; ciclista con bici frente a un lago al atardecer; corredor en una pista al amanecer.",
+  "design": "Captions sans pequeña blanca ('Sometimes', 'to do that', 'you need'); clímax 'you need to step / outside / the routines and' con 'outside' en sans grotesca heavy blanca muy grande (~4× caption), centrado ~50 %.",
+  "effects": "Grades cálidos de atardecer #D3B091/#6F3724, contraluz, grano.",
+  "animation": "Cortes cada ~1 s; 'outside' pop con escala grande sincronizado.",
+  "why": "'Salir afuera' se acompaña de exteriores abiertos y luz natural; la palabra clave en el peso más grueso del video.",
+  "quality": 4, "best_t": 57.0
+ },
+ {
+  "id": "v12_s32", "start": 57.9, "end": 59.2, "category": "broll_text",
+  "script": "of everyday life long",
+  "what": "Hombre sentado en un sofá con portátil, en un salón oscuro con globo terráqueo.",
+  "design": "'demands of' sans pequeña + 'everyday life' sans bold grande blanca, a la izquierda ~40 %.",
+  "effects": "Grade frío oscuro.",
+  "animation": "Corte; karaoke.",
+  "why": "Rutina doméstica/pantalla = lo que hay que dejar.",
+  "quality": 3, "best_t": 58.0
+ },
+ {
+  "id": "v12_s33", "start": 59.2, "end": 61.3, "category": "text_centric",
+  "script": "enough to really think.",
+  "what": "Blanco con 'long enough to / really think.' en azul; entra rotada desde la izquierda una foto del retiro.",
+  "design": "'long enough to' sans pequeña + 'really think.' sans bold azul ~2×, centrado ~50 %.",
+  "effects": "Foto con sombra suave.",
+  "animation": "Ghost-text karaoke; la foto entra girada ~45° desde fuera de cuadro (slide+rotate, ~0.4 s) anticipando la escena siguiente.",
+  "why": "Pausa reflexiva ('pensar de verdad') y transición física hacia el producto (el retiro).",
+  "quality": 4, "best_t": 60.0
+ },
+ {
+  "id": "v12_s34", "start": 61.3, "end": 62.86, "category": "object_element",
+  "script": "Well, that's the idea behind",
+  "what": "Collage de 3 fotos del retiro (porche b/n con sillón de mimbre, grupo charlando en terraza, patio con sillas de madera y personas) superpuestas con ligeras rotaciones sobre blanco; encima 'Well that's the / idea behind'.",
+  "design": "Fotos rectangulares con borde fino blanco y sombra paralela, ocupando ~70 % del ancho a ~40–75 % de altura; texto 'Well that's the' sans azul pequeña + 'idea behind' serif condensada azul grande arriba ~15 %.",
+  "effects": "Sombra paralela suave, una foto en b/n para contraste.",
+  "animation": "Fotos caen/se apilan una a una (slide + rotate + settle ~0.3 s cada una); texto karaoke.",
+  "why": "Introducción del producto: fotos reales tipo álbum = autenticidad y prueba social.",
+  "quality": 5, "best_t": 62.0
+ },
+ {
+  "id": "v12_s35", "start": 62.86, "end": 64.77, "category": "object_element",
+  "script": "the meaning of your life retreat at MEA.",
+  "what": "El mismo collage pasa a fondo azul; título 'The meaning / of Your life retreat at MEA.'.",
+  "design": "Fondo azul #1956F7; 'The meaning' serif condensada blanca grande + 'of Your life retreat' sans pequeña blanca + 'at MEA.' sans bold; arriba a la izquierda ~15 %.",
+  "effects": "Textura azul de papel, sombras de las fotos.",
+  "animation": "Cambio de fondo blanco→azul por corte, fotos se reacomodan; texto karaoke.",
+  "why": "Nombre del producto = color de marca a sangre: el momento de 'branding' se pinta con el azul principal.",
+  "quality": 5, "best_t": 63.5
+ },
+ {
+  "id": "v12_s36", "start": 64.77, "end": 67.33, "category": "broll_text",
+  "script": "For five days in Santa Fe, you'll have the space to",
+  "what": "Edificio de adobe al atardecer con cielo rosado; plano aéreo de jinetes a caballo en terreno desértico; hombre sentado en un gran salón con lámparas de hierro.",
+  "design": "'For 5 days' sans bold blanca + 'Santa Fe,' serif condensada blanca grande, centrado ~47 %; luego caption 'you'll have the space' sans pequeña.",
+  "effects": "Imagen oscurecida ~30 % bajo el texto, grade cálido desértico.",
+  "animation": "Cortes cada ~0.8–1 s; karaoke.",
+  "why": "Datos concretos del producto (cuánto, dónde) sobre imágenes del lugar real.",
+  "quality": 4, "best_t": 66.0
+ },
+ {
+  "id": "v12_s37", "start": 67.33, "end": 69.6, "category": "broll_text",
+  "script": "work through these questions in a small group,",
+  "what": "Interior con persiana de madera y mujer de pie; grupo pequeño de personas caminando por un sendero de montaña.",
+  "design": "Caption sans pequeña blanca 'through these', 'in a' ~40 %.",
+  "effects": "Grade cálido.",
+  "animation": "Cortes secos.",
+  "why": "Muestra la experiencia (grupo pequeño, naturaleza).",
+  "quality": 3, "best_t": 68.7
+ },
+ {
+  "id": "v12_s38", "start": 69.6, "end": 74.6, "category": "center_illustration",
+  "script": "using the same frameworks that I use in my work on meaning, purpose, and happiness.",
+  "what": "Cerebro 3D gris metálico en el centro sobre halo azul difuminado; un círculo orbital fino con 3 puntos azules; aparecen etiquetas 'Meaning' (arriba), 'Purpose' (izquierda), 'Happiness' (derecha). Título 'using the same / frameworks / that I use in my work'.",
+  "design": "Cerebro ~30 % del ancho centrado a ~55 %; órbita azul fina; etiquetas serif condensada azul pequeña; título 'frameworks' serif condensada negra grande + sans pequeña negra, a ~25 %. Fondo blanco con gradiente radial azul #B5CEF7.",
+  "effects": "Glow azul radial, render 3D con sombras suaves.",
+  "animation": "El cerebro aparece con fade+scale; la órbita se dibuja y sus puntos se colocan; las 3 etiquetas entran sincronizadas con cada palabra; el título sube y se desvanece al final.",
+  "why": "Autoridad: 'mis frameworks' = objeto-icono (cerebro) + estructura (3 nodos), repite el lenguaje visual del triángulo para coherencia.",
+  "quality": 5, "best_t": 73.5
+ },
+ {
+  "id": "v12_s39", "start": 74.6, "end": 78.68, "category": "broll_text",
+  "script": "You'll have time to look carefully at the life you've built. Think about the next chapter,",
+  "what": "Mano levantada con pulseras de cuentas al sol; dos mujeres riendo con un libro rojo en un jardín; mujer con sombrero de vaquero mirando abajo, primer plano.",
+  "design": "'You'll have time to' sans pequeña + 'look' serif condensada grande blanca, ~45 %; 'think about the' sans pequeña.",
+  "effects": "Luz natural cálida, foco selectivo.",
+  "animation": "Cortes cada ~1–1.5 s; karaoke.",
+  "why": "Emoción y conexión humana del retiro (risas, reflexión).",
+  "quality": 4, "best_t": 75.0
+ },
+ {
+  "id": "v12_s40", "start": 78.68, "end": 79.85, "category": "text_centric",
+  "script": "what it's asking of you,",
+  "what": "Azul pleno con 'what it's asking of you,' pequeño en el centro, 'asking' en negrita.",
+  "design": "Fondo #004BF9; sans regular blanca pequeña (~caption) con 'asking' en bold; centrado ~50 %.",
+  "effects": "Grano sutil.",
+  "animation": "Ghost-text: frase al 20 % y se ilumina palabra a palabra.",
+  "why": "Frase introspectiva dirigida al espectador; tamaño pequeño = intimidad, susurro.",
+  "quality": 4, "best_t": 79.0
+ },
+ {
+  "id": "v12_s41", "start": 79.85, "end": 84.0, "category": "broll_text",
+  "script": "and consider how you want to live it. If you've built a good life and find yourself wondering what",
+  "what": "Vaquero a caballo de espaldas; grupo caminando entre casas de adobe; hombre negro con gafas rojas mirando al cielo; hombre con gafas rezando con las manos juntas.",
+  "design": "'and consider' + 'how you' serif condensada grande + 'wanna live it' sans pequeña; captions sans pequeña blancas ~50 %.",
+  "effects": "Luz diurna, grade natural.",
+  "animation": "Cortes cada ~1 s; karaoke.",
+  "why": "Personas reales de todas las edades = el público objetivo se reconoce.",
+  "quality": 3, "best_t": 81.0
+ },
+ {
+  "id": "v12_s42", "start": 84.0, "end": 85.0, "category": "text_centric",
+  "script": "comes next, I",
+  "what": "Azul pleno con 'next,' en blanco bold en el centro.",
+  "design": "Fondo #1A55F9; sans grotesca bold blanca ~2× caption, centrado ~50 %.",
+  "effects": "Grano sutil.",
+  "animation": "Corte seco; pop de la palabra.",
+  "why": "Eco del inicio ('What comes next?'): cierra el círculo narrativo en color de marca.",
+  "quality": 4, "best_t": 84.0
+ },
+ {
+  "id": "v12_s43", "start": 85.0, "end": 85.92, "category": "broll_text",
+  "script": "hope you'll take a look.",
+  "what": "Manos escribiendo con bolígrafo en una mesa de madera oscura.",
+  "design": "'I hope you'll' sans pequeña + 'take a look.' serif condensada blanca grande, centrado ~50 %.",
+  "effects": "Grade cálido oscuro.",
+  "animation": "Corte; karaoke.",
+  "why": "Invitación personal (escribir = apuntarse) antes del CTA.",
+  "quality": 3, "best_t": 85.5
+ },
+ {
+  "id": "v12_s44", "start": 85.92, "end": 91.32, "category": "title_cta",
+  "script": "You can learn more about the upcoming retreats at retreats.Arthurbrooks.com.",
+  "what": "Blanco con 'You can' en negro; aparece una tarjeta de vídeo redondeada con el edificio de adobe del retiro al anochecer (luces encendidas); encima se escribe 'retreats.arthurbrooks.com' en azul.",
+  "design": "Tarjeta ~90 % del ancho, ratio ~16:10, radio ~2 %, centrada a ~45 %. Texto sans regular negra pequeña ('You can', 'the upcoming'), URL sans bold azul #1954F7 ~1.3× caption encima de la tarjeta. Fondo #FBF9FA.",
+  "effects": "Sombra muy sutil en la tarjeta.",
+  "animation": "Tarjeta entra con fade+scale (0.95→1); la URL se escribe letra a letra (typewriter, ~1.5 s) sincronizada con la voz.",
+  "why": "CTA claro: lugar real + URL legible en el color de marca; typewriter = 'teclea esto'.",
+  "quality": 5, "best_t": 90.0
+ }
+]

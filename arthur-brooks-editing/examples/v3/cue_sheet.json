@@ -1,0 +1,42 @@
+{
+  "cues": [
+    {
+      "t": 1.9,
+      "sfx": "pop",
+      "scene": "b01a",
+      "gain": 0.55
+    },
+    {
+      "t": 10.78,
+      "sfx": "pop",
+      "scene": "b03a",
+      "gain": 0.55
+    },
+    {
+      "t": 21.6,
+      "sfx": "pop",
+      "scene": "b05a",
+      "gain": 0.55
+    },
+    {
+      "t": 30.48,
+      "sfx": "click",
+      "scene": "b08a",
+      "gain": 0.55
+    },
+    {
+      "t": 37.84,
+      "sfx": "pop",
+      "scene": "b09a",
+      "gain": 0.55
+    },
+    {
+      "t": 49.78,
+      "sfx": "click",
+      "scene": "b12a",
+      "gain": 0.55
+    }
+  ],
+  "music": "/home/user/viral-edit-system/assets/music_lib/mood/inspiring/02.mp3",
+  "mood": "piano emotivo / cuerdas, sube en el giro de la historia"
+}

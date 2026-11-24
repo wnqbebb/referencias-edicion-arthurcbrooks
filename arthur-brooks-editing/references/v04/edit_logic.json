@@ -1,0 +1,656 @@
+{
+ "triggers": [
+  {
+   "t_word": 0.0,
+   "word": "Never",
+   "element": "'Never' manuscrita gruesa en papel crema (tercio superior)",
+   "category": "text_centric",
+   "offset_s": 0.12,
+   "why": "hook: la tesis escrita"
+  },
+  {
+   "t_word": 0.84,
+   "word": "suffering.",
+   "element": "'suff' → 'suffering.' se escribe por sílabas (0.75→1.0)",
+   "category": "text_centric",
+   "offset_s": -0.09,
+   "why": "write-on sincronizado con la sílaba"
+  },
+  {
+   "t_word": 1.56,
+   "word": "I",
+   "element": "tarjeta limpia; 'I' → 'I ask my' → 'students' en trazo grueso (2.25)",
+   "category": "text_centric",
+   "offset_s": 0.02,
+   "why": "cambio de frase = tarjeta nueva"
+  },
+  {
+   "t_word": 1.72,
+   "word": "ask",
+   "element": "tarjeta solo con un '?' grande dibujado",
+   "category": "text_centric",
+   "offset_s": 0.78,
+   "why": "literal/icono: 'ask' = pregunta (llega tras la frase)"
+  },
+  {
+   "t_word": 3.36,
+   "word": "happiness",
+   "element": "'in my / hap' → 'happi' → 'happiness' gruesa + 'class to, / keep' debajo",
+   "category": "text_centric",
+   "offset_s": -0.11,
+   "why": "palabra clave en trazo grueso"
+  },
+  {
+   "t_word": 5.42,
+   "word": "failure",
+   "element": "tarjeta nueva 'a fail' → 'a failure and' → 'disappointment'",
+   "category": "text_centric",
+   "offset_s": -0.17,
+   "why": "write-on por sílaba"
+  },
+  {
+   "t_word": 6.7,
+   "word": "list.",
+   "element": "icono de checklist dibujado en un recuadro + 'list' al lado; se encoge (7.5)",
+   "category": "text_centric",
+   "offset_s": 0.3,
+   "why": "literal: la lista"
+  },
+  {
+   "t_word": 8.08,
+   "word": "And",
+   "element": "tarjeta 'and' → 'and each time something / bad happens'",
+   "category": "text_centric",
+   "offset_s": -0.58,
+   "why": "build-up"
+  },
+  {
+   "t_word": 9.14,
+   "word": "bad",
+   "element": "flecha manuscrita hacia abajo + mancha de tinta tipo bicho",
+   "category": "line_illustration",
+   "offset_s": 0.11,
+   "why": "metáfora: algo malo = mancha"
+  },
+  {
+   "t_word": 10.84,
+   "word": "loss",
+   "element": "'that feels like / a loss' + flecha + 2ª mancha",
+   "category": "line_illustration",
+   "offset_s": -0.09,
+   "why": "metáfora acumulativa"
+  },
+  {
+   "t_word": 11.76,
+   "word": "disappointment",
+   "element": "'or it feels like disappointment' + flecha + 3ª mancha",
+   "category": "line_illustration",
+   "offset_s": 0.49,
+   "why": "acumulación (1 mancha por cada mal)"
+  },
+  {
+   "t_word": 12.96,
+   "word": "failure,",
+   "element": "'failure,' enorme + mancha grande bajo la palabra",
+   "category": "line_illustration",
+   "offset_s": 0.04,
+   "why": "clímax del problema"
+  },
+  {
+   "t_word": 12.96,
+   "word": "failure,",
+   "element": "la mancha crece y cubre toda la pantalla (13.42–13.625) → fondo gris carbón",
+   "category": "line_illustration",
+   "offset_s": 0.46,
+   "why": "transición-metáfora: el fracaso lo tiñe todo"
+  },
+  {
+   "t_word": 13.68,
+   "word": "you",
+   "element": "sobre gris: 'you' → 'you write it' blanco",
+   "category": "line_illustration",
+   "offset_s": 0.15,
+   "why": "nuevo bloque (acción)"
+  },
+  {
+   "t_word": 14.64,
+   "word": "two",
+   "element": "'and leave two lines / blank.'",
+   "category": "line_illustration",
+   "offset_s": -0.14,
+   "why": "literal"
+  },
+  {
+   "t_word": 15.18,
+   "word": "blank.",
+   "element": "dos renglones numerados '1.' '2.' se dibujan de izquierda a derecha",
+   "category": "line_illustration",
+   "offset_s": 0.07,
+   "why": "literal: las 2 líneas"
+  },
+  {
+   "t_word": 16.94,
+   "word": "first",
+   "element": "'And / on the / first line,' cascada",
+   "category": "text_centric",
+   "offset_s": -0.19,
+   "why": "build-up"
+  },
+  {
+   "t_word": 19.22,
+   "word": "bothered",
+   "element": "'this like that thing that really / bothered / me.' (bothered gruesa)",
+   "category": "text_centric",
+   "offset_s": 0.03,
+   "why": "énfasis emocional"
+  },
+  {
+   "t_word": 21.04,
+   "word": "month",
+   "element": "'And then / a month / later you come back' (month gruesa)",
+   "category": "line_illustration",
+   "offset_s": 0.21,
+   "why": "dato temporal en grueso"
+  },
+  {
+   "t_word": 22.56,
+   "word": "line",
+   "element": "renglón '1.' reaparece abajo",
+   "category": "line_illustration",
+   "offset_s": -0.06,
+   "why": "literal"
+  },
+  {
+   "t_word": 23.22,
+   "word": "blank",
+   "element": "'left blank' gruesa",
+   "category": "line_illustration",
+   "offset_s": 0.03,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 24.6,
+   "word": "write",
+   "element": "el papel crema sube desde abajo con borde rasgado irregular y tapa el gris (23.96–24.33)",
+   "category": "line_illustration",
+   "offset_s": -0.64,
+   "why": "cambio de etapa: de registrar a aprender"
+  },
+  {
+   "t_word": 25.4,
+   "word": "learn?",
+   "element": "'what did you / learn?' (learn? gruesa)",
+   "category": "text_centric",
+   "offset_s": -0.15,
+   "why": "pregunta clave"
+  },
+  {
+   "t_word": 26.34,
+   "word": "three",
+   "element": "'3' en cifra gruesa → '3 months / later you come back'",
+   "category": "text_centric",
+   "offset_s": 0.41,
+   "why": "número = cifra grande"
+  },
+  {
+   "t_word": 28.06,
+   "word": "second",
+   "element": "renglón '2.' dibujado abajo + 'the second line and / write down' (write down gruesa)",
+   "category": "text_centric",
+   "offset_s": -0.06,
+   "why": "literal"
+  },
+  {
+   "t_word": 29.32,
+   "word": "good",
+   "element": "tarjeta 'a good thing that / happened / because of that loss.'",
+   "category": "text_centric",
+   "offset_s": -0.15,
+   "why": "giro positivo"
+  },
+  {
+   "t_word": 33.2,
+   "word": "notebook.",
+   "element": "'note' → 'notebook,' gruesa",
+   "category": "text_centric",
+   "offset_s": 0.05,
+   "why": "literal"
+  },
+  {
+   "t_word": 34.88,
+   "word": "new",
+   "element": "'time you're going to / new thing' (new thing gruesa)",
+   "category": "text_centric",
+   "offset_s": -0.13,
+   "why": "build-up"
+  },
+  {
+   "t_word": 35.6,
+   "word": "bugging",
+   "element": "'that's really / bugging you,' en diagonal (texto girado ~-10°)",
+   "category": "line_illustration",
+   "offset_s": 0.65,
+   "why": "énfasis: incomodidad = texto torcido"
+  },
+  {
+   "t_word": 37.16,
+   "word": "bothering",
+   "element": "'really / bothering you,' (you gruesa)",
+   "category": "line_illustration",
+   "offset_s": 0.34,
+   "why": "repetición"
+  },
+  {
+   "t_word": 39.12,
+   "word": "forward",
+   "element": "flecha manuscrita hacia la derecha tras 'look forward'",
+   "category": "line_illustration",
+   "offset_s": 0.38,
+   "why": "literal: adelante"
+  },
+  {
+   "t_word": 40.84,
+   "word": "back",
+   "element": "flecha en L que baja y vuelve hacia la izquierda tras 'looking back'",
+   "category": "line_illustration",
+   "offset_s": 0.16,
+   "why": "literal: atrás"
+  },
+  {
+   "t_word": 42.78,
+   "word": "knowledge",
+   "element": "'know' → 'knowledge' grande arriba + 'and / growth' (growth gruesa 43.75)",
+   "category": "text_centric",
+   "offset_s": 0.14,
+   "why": "palabras clave"
+  },
+  {
+   "t_word": 44.64,
+   "word": "negative",
+   "element": "tarjeta 'negative / experiences'",
+   "category": "text_centric",
+   "offset_s": 0.32,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 46.52,
+   "word": "benefit",
+   "element": "'and the' parpadea (46.5–47.5) y 'benefit' llega tarde (47.75) → 'benefit that / actually has'",
+   "category": "text_centric",
+   "offset_s": 1.23,
+   "why": "build-up"
+  },
+  {
+   "t_word": 49.12,
+   "word": "negative",
+   "element": "'from those / negative / experiences.'",
+   "category": "text_centric",
+   "offset_s": 0.13,
+   "why": "repetición"
+  },
+  {
+   "t_word": 50.2,
+   "word": "Never,",
+   "element": "'never' gigante a todo el ancho (≈18 % del alto)",
+   "category": "text_centric",
+   "offset_s": -0.2,
+   "why": "clímax/tesis"
+  },
+  {
+   "t_word": 51.22,
+   "word": "never",
+   "element": "'never,' 'never,' se apilan encima en tamaño pequeño y 'waste' debajo (51.75)",
+   "category": "text_centric",
+   "offset_s": -0.47,
+   "why": "repetición en escalera"
+  },
+  {
+   "t_word": 52.0,
+   "word": "sacrifice.",
+   "element": "'waste / sacrifice.' (sacrifice gruesa)",
+   "category": "text_centric",
+   "offset_s": 0.5,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 53.2,
+   "word": "Never",
+   "element": "tarjeta limpia 'never' → 'never / waste your / suffering.'",
+   "category": "text_centric",
+   "offset_s": -0.12,
+   "why": "cierre circular (repite el hook)"
+  },
+  {
+   "t_word": 53.86,
+   "word": "suffering.",
+   "element": "todo el texto se apaga a gris y desaparece (54.5–55.0)",
+   "category": "text_centric",
+   "offset_s": 0.64,
+   "why": "fade-out del mensaje"
+  },
+  {
+   "t_word": 53.86,
+   "word": "suffering.",
+   "element": "tarjeta CTA: 3 tiras de papel rasgado gris carbón sobre blanco ('Build a happier life…', newsletter, 'Comment \"newsletter\"')",
+   "category": "title_cta",
+   "offset_s": 1.18,
+   "why": "CTA"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 1.58,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) 'Never waste your suffering.' → 'I'"
+  },
+  {
+   "t": 2.5,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → '?'"
+  },
+  {
+   "t": 2.75,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) '?' → tarjeta vacía 0.5 s"
+  },
+  {
+   "t": 3.25,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) vacía → 'in my hap'"
+  },
+  {
+   "t": 5.25,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'a fail'"
+  },
+  {
+   "t": 7.5,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) lista → 'and'"
+  },
+  {
+   "t": 10.12,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'that feels'"
+  },
+  {
+   "t": 11.25,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'or it'"
+  },
+  {
+   "t": 12.42,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'or feels'"
+  },
+  {
+   "t": 13.42,
+   "from": "papel crema",
+   "to": "fondo gris carbón",
+   "type": "wipe",
+   "frames": 5,
+   "detail": "wipe de mancha de tinta: la mancha bajo 'failure,' crece orgánicamente hasta cubrir todo el cuadro en 5 fr (13.42–13.625)"
+  },
+  {
+   "t": 14.33,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) 'you write it' → 'and leave'"
+  },
+  {
+   "t": 16.67,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'And on'"
+  },
+  {
+   "t": 18.42,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'this like'"
+  },
+  {
+   "t": 20.25,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'And then'"
+  },
+  {
+   "t": 22.12,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'to the'"
+  },
+  {
+   "t": 23.96,
+   "from": "fondo gris carbón",
+   "to": "papel crema",
+   "type": "wipe",
+   "frames": 9,
+   "detail": "wipe vertical de abajo a arriba con borde de papel rasgado ondulado, animado a saltos (on twos) 23.96–24.33"
+  },
+  {
+   "t": 26.0,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'And'"
+  },
+  {
+   "t": 29.17,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'a'"
+  },
+  {
+   "t": 32.25,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'And you're'"
+  },
+  {
+   "t": 33.92,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'time'"
+  },
+  {
+   "t": 35.42,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'that's really'"
+  },
+  {
+   "t": 37.0,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'really'"
+  },
+  {
+   "t": 39.96,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'because'"
+  },
+  {
+   "t": 42.92,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'know'"
+  },
+  {
+   "t": 44.96,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'negative'"
+  },
+  {
+   "t": 46.17,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'and'"
+  },
+  {
+   "t": 48.83,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'from'"
+  },
+  {
+   "t": 50.0,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'never' gigante"
+  },
+  {
+   "t": 53.08,
+   "from": "tarjeta de texto",
+   "to": "tarjeta de texto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "se borra todo el texto de golpe (mismo papel) → 'never' final"
+  },
+  {
+   "t": 54.5,
+   "from": "texto final",
+   "to": "papel vacío",
+   "type": "crossfade",
+   "frames": 12,
+   "detail": "el texto se desatura a gris y desaparece (≈0.5 s)"
+  },
+  {
+   "t": 55.04,
+   "from": "papel crema vacío",
+   "to": "CTA tiras de papel",
+   "type": "crossfade",
+   "frames": 3,
+   "detail": "fade rápido (≈0.1 s) a la tarjeta CTA sobre blanco"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.75,
+   "fx": "write-on por palabra",
+   "detail": "escritura por SÍLABAS: 'suff'→'suffering', 'happi'→'happiness', 'dis'→'disappoint'→'disappointment', 'note'→'notebook', 'exper'→'experiences', 'know'→'knowledge' — el trazo avanza con la voz"
+  },
+  {
+   "t": 2.25,
+   "fx": "escala",
+   "detail": "palabra clave en trazo de rotulador grueso ~1.6× el tamaño del contexto (students, happiness, failure, write, blank, bothered, month, learn?, happened, notebook, bugging, growth, never)"
+  },
+  {
+   "t": 3.25,
+   "fx": "write-on por palabra",
+   "detail": "build-up en cascada: cada línea nueva se añade debajo, ligeramente desplazada a izquierda/derecha (no centrado estricto)"
+  },
+  {
+   "t": 13.83,
+   "fx": "gris→blanco",
+   "detail": "en el tramo oscuro el texto pasa a blanco crema; mismo sistema de grosores"
+  },
+  {
+   "t": 36.25,
+   "fx": "escala",
+   "detail": "'bugging' escrito inclinado ~-10° (texto torcido = incomodidad)"
+  },
+  {
+   "t": 50.0,
+   "fx": "pop",
+   "detail": "'never' aparece gigante a todo el ancho en 1 fr; las repeticiones se apilan pequeñas encima ('never,' 50.75, 'never,' 51.25)"
+  },
+  {
+   "t": 54.5,
+   "fx": "gris→blanco",
+   "detail": "inverso: negro → gris → papel (fade-out del texto final)"
+  }
+ ],
+ "camera": [
+  {
+   "t": 0.0,
+   "move": "push-in lento",
+   "scale_or_dir": "ninguno: cámara fija; la composición se mueve por posición del bloque de texto (arriba 0–8 s, centro 8–13, arriba 21–24, centro-abajo 35–42)",
+   "dur_s": 0.0
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   15,
+   16,
+   13,
+   10,
+   9,
+   10
+  ],
+  "avg_hold_text_s": 0.9,
+  "notes": "Animación 'on twos' (cada dibujo dura 2 fr a 24 fps) = sensación manuscrita. 27 tarjetas limpias en 55 s (1 cada ≈2 s) y dentro de cada una 1 palabra nueva cada 0.25–0.4 s siguiendo la voz. Dos cambios de fondo como capítulos (13.4 a gris, 24.0 a crema)."
+ },
+ "typography": "Una sola familia manuscrita de rotulador (tipo 'Gaegu'/'Caveat Brush'/'Indie Flower' bold), minúsculas, en DOS grosores: trazo fino de bolígrafo para contexto (~4 % alto) y rotulador grueso para la palabra clave (~6–7 %); 'never' llega a ~18 %. Negro #2B2B2B sobre crema; blanco crema sobre gris. 1–5 palabras por línea, 2–6 líneas por tarjeta, bloque alineado ~centro con desplazamientos de cascada. Sin color de acento.",
+ "textures": "Papel crema liso #F2EEE4 (sin grano visible), tramo gris carbón #333333 (13.6–24.3); manchas de tinta orgánicas; borde de papel rasgado en el wipe (24.0) y en las 3 tiras del CTA final sobre blanco. Sin viñeta.",
+ "distinct": [
+  "Escritura por sílabas sincronizada con la voz (la palabra se completa mientras se pronuncia).",
+  "Manchas de tinta que se acumulan (1 por cada 'feels like…') y la última crece hasta convertirse en el wipe a gris (13.42).",
+  "Wipe de papel rasgado de abajo arriba para volver al crema (23.96) = 'pasar página'.",
+  "Iconos dibujados a mano solo como literal mínimo: '?', checklist, renglones '1.' '2.', flecha adelante / flecha atrás.",
+  "Cierre circular: repite la frase del hook y la apaga a gris antes del CTA de papel rasgado."
+ ]
+}

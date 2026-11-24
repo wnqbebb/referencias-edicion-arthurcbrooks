@@ -1,0 +1,131 @@
+[
+ {
+  "id": "A01",
+  "name": "blusa-hero",
+  "kind": "product",
+  "ar": "4:5",
+  "is_ref": true,
+  "use_in": [
+   "s09",
+   "s07"
+  ],
+  "subject": "Producto hero (referencia de consistencia)",
+  "prompt": "Product photo of a deep wine-red (#5A0F21) satin wrap blouse with long sleeves on a slim wooden hanger, hanging against a warm off-white plaster wall, soft directional window light from the left, gentle fabric folds and realistic satin sheen, small visible stitching, minimalist boutique aesthetic, centered, generous negative space above. shot on a full-frame camera with a 50mm lens, true-to-life fabric texture, accurate color, subtle natural shadows, real-world imperfections in the fabric, e-commerce boutique photography, not CGI",
+  "note": "Este es el producto de referencia: TODOS los assets con la blusa deben usar este archivo como imagen de referencia.",
+  "resolution": "1536x1920",
+  "file": "A01_blusa-hero",
+  "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch"
+ },
+ {
+  "id": "A02",
+  "name": "modelo-ugc-blusa",
+  "kind": "model",
+  "ar": "9:16",
+  "refs": [
+   "A01"
+  ],
+  "use_in": [
+   "s07"
+  ],
+  "subject": "Modelo UGC con la blusa puesta (look completo, buena luz)",
+  "prompt": "Vertical UGC photo of a 28-year-old Latina woman wearing the exact wine-red satin wrap blouse from the reference image, tucked into high-waisted black tailored trousers, gold hoop earrings, standing in a small warm boutique fitting area, full outfit visible head to knees, soft daylight from a large window, natural relaxed pose with one hand in pocket, looking slightly off camera, real skin texture, phone-camera framing. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+  "resolution": "1080x1920",
+  "file": "A02_modelo-ugc-blusa",
+  "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch"
+ },
+ {
+  "id": "A03",
+  "name": "foto-mala-blusa",
+  "kind": "photo",
+  "ar": "4:5",
+  "refs": [
+   "A01"
+  ],
+  "use_in": [
+   "s07b"
+  ],
+  "subject": "La misma blusa mal fotografiada (contraste antes/después)",
+  "prompt": "Amateur phone photo of the same wine-red satin blouse from the reference image lying crumpled on an unmade bed, dim yellow tungsten room light, harsh on-camera flash reflection, slightly tilted framing, cluttered background with a phone charger and a mug, colors look dull and wrong. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+  "note": "Debe verse MAL a propósito: es el 'antes'.",
+  "resolution": "1536x1920",
+  "file": "A03_foto-mala-blusa",
+  "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch"
+ },
+ {
+  "id": "A04",
+  "name": "blackfriday-tienda",
+  "kind": "video",
+  "ar": "9:16",
+  "duration": "5 s",
+  "use_in": [
+   "s02"
+  ],
+  "subject": "Tiendas con descuentos iguales",
+  "prompt": "Vertical handheld video walking past several clothing store windows in a mall, each window with the same generic red 'SALE -30%' signs, shoppers passing by blurred, evening mall lighting, slight motion blur, realistic. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+  "motion": "travelling lateral lento a pie, 0.5 m/s",
+  "stock": "black friday sale store window",
+  "resolution": "1080x1920",
+  "file": "A04_blackfriday-tienda",
+  "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch"
+ },
+ {
+  "id": "A05",
+  "name": "etiquetas-iguales",
+  "kind": "graphic",
+  "ar": "9:16",
+  "use_in": [
+   "s03"
+  ],
+  "subject": "20 etiquetas de descuento idénticas (gráfico)",
+  "prompt": "Flat editorial illustration, top-down grid of 20 identical paper price tags with string, each printed '-30%' in bold black sans-serif, tags on an off-white #F4F1F1 rough paper background, subtle paper grain texture, one single tag slightly highlighted in #9E1C3A, soft shadows, minimal, high contrast, vertical composition with breathing room at top and bottom.",
+  "negative": "photorealistic people, faces, logos, brand names, 3D render, clutter, gradients",
+  "resolution": "1080x1920",
+  "file": "A05_etiquetas-iguales"
+ },
+ {
+  "id": "A06",
+  "name": "devolucion-paquete",
+  "kind": "video",
+  "ar": "9:16",
+  "duration": "5 s",
+  "use_in": [
+   "s08b"
+  ],
+  "subject": "Clienta abre paquete y la prenda no es igual",
+  "prompt": "Vertical UGC video, close-up of a woman's hands opening a plain cardboard delivery box on a kitchen table, pulling out a red blouse that looks noticeably different in color, she pauses and folds it back, daylight, realistic hands with natural nails. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+  "motion": "cámara fija en mano, leve temblor",
+  "stock": "woman opening package clothes",
+  "resolution": "1080x1920",
+  "file": "A06_devolucion-paquete",
+  "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch"
+ },
+ {
+  "id": "A07",
+  "name": "bodega-vacia-enero",
+  "kind": "photo",
+  "ar": "9:16",
+  "use_in": [
+   "s06"
+  ],
+  "subject": "Bodega con estantes vacíos en enero",
+  "prompt": "Vertical photo of a small boutique stockroom with mostly empty white shelves and a few lonely folded garments, cold gray January daylight, a calendar on the wall, quiet and sad mood, realistic. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+  "stock": "empty shelves store",
+  "resolution": "1080x1920",
+  "file": "A07_bodega-vacia-enero",
+  "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch"
+ },
+ {
+  "id": "A08",
+  "name": "textura-papel",
+  "kind": "texture",
+  "ar": "1:1",
+  "use_in": [
+   "todas las escenas de fondo"
+  ],
+  "subject": "Textura de papel de la marca",
+  "prompt": "Seamless high-resolution texture of light off-white #F4F1F1 cotton paper, subtle fibers and grain, very soft uneven lighting, no folds, no text, flat scan, tileable.",
+  "negative": "text, objects, shadows, wrinkles, color tint",
+  "resolution": "1920x1920",
+  "file": "A08_textura-papel"
+ }
+]

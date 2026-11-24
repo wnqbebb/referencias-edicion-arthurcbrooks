@@ -1,0 +1,380 @@
+{
+ "video": "v13",
+ "duration_s": 57.35,
+ "fps": 29.97,
+ "triggers": [
+  {
+   "t_word": 0.0,
+   "word": "Pets",
+   "element": "Caption 'PETS DO EXPERIENCE / EMOTIONS' sobre la presentadora; logo 'CULTURE APOTHECARY' fijo arriba-derecha",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "hook: afirmación"
+  },
+  {
+   "t_word": 4.5,
+   "word": "Their",
+   "element": "Corte (4.47) de la presentadora a Brooks plano medio",
+   "category": "aroll_plain",
+   "offset_s": -0.03,
+   "why": "cambio de hablante"
+  },
+  {
+   "t_word": 6.58,
+   "word": "different.",
+   "element": "Punch-in por corte (6.41) a Brooks más cerrado con 1 frame de motion blur",
+   "category": "aroll_plain",
+   "offset_s": -0.17,
+   "why": "énfasis en el remate 'not that different'"
+  },
+  {
+   "t_word": 7.58,
+   "word": "Neuropeptide",
+   "element": "Corte (7.24) de vuelta al plano medio",
+   "category": "aroll_plain",
+   "offset_s": -0.34,
+   "why": "reset tras el énfasis"
+  },
+  {
+   "t_word": 11.94,
+   "word": "love",
+   "element": "Caption 'IT'S CALLED THE / LOVE' (sin destacar la palabra)",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "dato (apodo)"
+  },
+  {
+   "t_word": 13.48,
+   "word": "And",
+   "element": "Transición smear (13.17-13.37) a stock de pareja tumbada mirándose",
+   "category": "broll_text",
+   "offset_s": -0.31,
+   "why": "literal: anticipa 'looking at each other in the eyes'"
+  },
+  {
+   "t_word": 17.64,
+   "word": "Thank",
+   "element": "Smear (17.45-17.65) a la presentadora sonriendo",
+   "category": "aroll_plain",
+   "offset_s": -0.19,
+   "why": "reacción (ella responde 'Thank you')"
+  },
+  {
+   "t_word": 18.22,
+   "word": "Don't",
+   "element": "Corte (18.32) a Brooks gesticulando",
+   "category": "aroll_plain",
+   "offset_s": 0.1,
+   "why": "instrucción"
+  },
+  {
+   "t_word": 20.04,
+   "word": "Five",
+   "element": "Smear (19.72-19.92) a primer plano de la presentadora escuchando",
+   "category": "aroll_plain",
+   "offset_s": -0.32,
+   "why": "plano de reacción cubre la instrucción larga"
+  },
+  {
+   "t_word": 24.94,
+   "word": "saves",
+   "element": "Smear (24.75-24.88) a Brooks; punch-in por corte (25.76) en 'marriages'",
+   "category": "aroll_plain",
+   "offset_s": -0.19,
+   "why": "remate/sentencia"
+  },
+  {
+   "t_word": 26.66,
+   "word": "This",
+   "element": "Corte (26.56) a plano medio de Brooks",
+   "category": "aroll_plain",
+   "offset_s": -0.1,
+   "why": "nuevo bloque"
+  },
+  {
+   "t_word": 37.9,
+   "word": "Your",
+   "element": "Corte (38.54) a Brooks más cerrado",
+   "category": "aroll_plain",
+   "offset_s": 0.64,
+   "why": "énfasis antes del b-roll"
+  },
+  {
+   "t_word": 39.14,
+   "word": "And",
+   "element": "Smear (38.82-38.95) a stock de perro cocker mirando a su dueño",
+   "category": "broll_text",
+   "offset_s": -0.32,
+   "why": "literal: 'your dog'"
+  },
+  {
+   "t_word": 42.92,
+   "word": "your",
+   "element": "Smear (42.55-42.68) de vuelta a Brooks",
+   "category": "aroll_plain",
+   "offset_s": -0.37,
+   "why": "vuelta al A-roll para el dato"
+  },
+  {
+   "t_word": 44.74,
+   "word": "56%.",
+   "element": "Punch-in por corte (44.77) con 1 frame de blur; caption 'OXYTOCIN LEVELS / GO UP BY 56%'",
+   "category": "aroll_plain",
+   "offset_s": 0.03,
+   "why": "dato con punch-in (no hay gráfico)"
+  },
+  {
+   "t_word": 45.66,
+   "word": "Wow.",
+   "element": "Corte (45.75) a plano medio; caption 'WOW' (voz de la presentadora en off)",
+   "category": "captions_text",
+   "offset_s": 0.09,
+   "why": "reacción"
+  },
+  {
+   "t_word": 47.18,
+   "word": "12%.",
+   "element": "Caption 'CATS GO UP / BY 12%' sobre Brooks sonriendo",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "dato contraste"
+  },
+  {
+   "t_word": 48.12,
+   "word": "Yeah,",
+   "element": "Smear (48.18-48.38) a stock de gato siamés con cara de desgana",
+   "category": "broll_text",
+   "offset_s": 0.06,
+   "why": "humor: la expresión del gato hace el chiste"
+  },
+  {
+   "t_word": 51.32,
+   "word": "tolerate",
+   "element": "El gato gira la cabeza molesto (51.2-51.8) mientras la mano lo acaricia",
+   "category": "broll_text",
+   "offset_s": 0.0,
+   "why": "humor literal"
+  },
+  {
+   "t_word": 51.76,
+   "word": "You",
+   "element": "Smear (52.05-52.18) a Brooks riendo",
+   "category": "aroll_plain",
+   "offset_s": 0.29,
+   "why": "remate"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 4.47,
+   "from": "presentadora",
+   "to": "Brooks",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 6.41,
+   "from": "Brooks medio",
+   "to": "Brooks cerrado",
+   "type": "zoom-blur",
+   "frames": 1,
+   "detail": "punch-in con 1 frame de motion blur (cambio de cámara)"
+  },
+  {
+   "t": 7.24,
+   "from": "Brooks cerrado",
+   "to": "Brooks medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 13.17,
+   "from": "Brooks",
+   "to": "stock pareja",
+   "type": "whip-pan",
+   "frames": 6,
+   "detail": "smear: crossfade con desenfoque de movimiento horizontal fuerte ~0.2 s"
+  },
+  {
+   "t": 17.45,
+   "from": "stock pareja",
+   "to": "presentadora",
+   "type": "whip-pan",
+   "frames": 6,
+   "detail": "smear horizontal"
+  },
+  {
+   "t": 18.32,
+   "from": "presentadora",
+   "to": "Brooks",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 19.72,
+   "from": "Brooks",
+   "to": "presentadora primer plano",
+   "type": "whip-pan",
+   "frames": 6,
+   "detail": "smear horizontal"
+  },
+  {
+   "t": 24.75,
+   "from": "presentadora",
+   "to": "Brooks",
+   "type": "whip-pan",
+   "frames": 4,
+   "detail": "smear horizontal"
+  },
+  {
+   "t": 25.76,
+   "from": "Brooks medio",
+   "to": "Brooks cerrado",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "punch-in en 'marriages'"
+  },
+  {
+   "t": 26.56,
+   "from": "Brooks cerrado",
+   "to": "Brooks medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 38.54,
+   "from": "Brooks medio",
+   "to": "Brooks cerrado",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 38.82,
+   "from": "Brooks",
+   "to": "stock perro",
+   "type": "whip-pan",
+   "frames": 4,
+   "detail": "smear horizontal"
+  },
+  {
+   "t": 42.55,
+   "from": "stock perro",
+   "to": "Brooks",
+   "type": "whip-pan",
+   "frames": 4,
+   "detail": "smear horizontal"
+  },
+  {
+   "t": 44.77,
+   "from": "Brooks medio",
+   "to": "Brooks cerrado",
+   "type": "zoom-blur",
+   "frames": 1,
+   "detail": "punch-in con 1 frame de blur"
+  },
+  {
+   "t": 45.75,
+   "from": "Brooks cerrado",
+   "to": "Brooks medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 48.18,
+   "from": "Brooks",
+   "to": "stock gato",
+   "type": "whip-pan",
+   "frames": 6,
+   "detail": "smear horizontal"
+  },
+  {
+   "t": 52.05,
+   "from": "stock gato",
+   "to": "Brooks",
+   "type": "whip-pan",
+   "frames": 4,
+   "detail": "smear horizontal"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.0,
+   "fx": "pop",
+   "detail": "caption sans condensada bold MAYÚSCULAS blanca, 2 líneas, cambio seco por frase (sin animación), ~1 s por bloque"
+  },
+  {
+   "t": 13.38,
+   "fx": "pop",
+   "detail": "caption sobre stock: mismo estilo, misma posición (~63 % de alto), el caption cruza las transiciones smear"
+  },
+  {
+   "t": 44.77,
+   "fx": "pop",
+   "detail": "los datos '56%' y '12%' van en el caption normal, sin color ni escala"
+  },
+  {
+   "t": 49.84,
+   "fx": "pop",
+   "detail": "comillas en el caption para la voz del gato: 'THEY'RE LIKE / \"EH, I' → 'CAN DO WITHOUT / A HUMAN.\"'"
+  }
+ ],
+ "camera": [
+  {
+   "t": 6.41,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.4",
+   "dur_s": 0.0
+  },
+  {
+   "t": 25.76,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.4",
+   "dur_s": 0.0
+  },
+  {
+   "t": 38.54,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.25",
+   "dur_s": 0.0
+  },
+  {
+   "t": 44.77,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.35",
+   "dur_s": 0.0
+  },
+  {
+   "t": 51.2,
+   "move": "pan",
+   "scale_or_dir": "stock gato gira cabeza (movimiento interno)",
+   "dur_s": 0.6
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   9,
+   10,
+   6,
+   5,
+   12,
+   4
+  ],
+  "avg_hold_text_s": 1.0,
+  "notes": "A-roll de 2-7 s; cambio visual cada ~3.8 s; captions cambian cada ~1.0 s (mediana 0.88 s) exactamente al inicio de la frase hablada. Las transiciones al b-roll se adelantan 0.2-0.35 s a la frase que lo justifica."
+ },
+ "typography": "Sans condensada bold MAYÚSCULAS (tipo Bebas Neue/Oswald/Anton), blanca con sombra oscura difusa, 2 líneas de 1-4 palabras, centrada a ~63-66 % de alto, sin caja ni palabra destacada ni cambio de color. Logo de serie 'CULTURE APOTHECARY' serif blanca pequeña fija arriba-derecha todo el clip.",
+ "textures": "Ninguna textura añadida: imagen limpia de estudio (cortina azul-violeta #1E2E9A), stock cálido luminoso; solo la sombra de los captions y el desenfoque de movimiento de las transiciones smear.",
+ "distinct": [
+  "Transición firma: 'smear' (crossfade 4-6 frames con motion blur horizontal) para TODO cambio A-roll↔b-roll o entre hablantes; los cambios dentro de Brooks son cortes/punch-ins.",
+  "B-roll de stock estrictamente literal y solo 3 veces (pareja, perro, gato), 3-4 s cada uno, con el caption corriendo encima.",
+  "Plano de reacción de la presentadora (19.9-24.7) para cubrir una instrucción larga de Brooks: la reacción ES la emoción.",
+  "Punch-ins de cámara (1 frame de blur) en cada remate: 'not that different', 'it saves marriages', '56 %'.",
+  "Humor resuelto por la imagen: el gato con cara de desgana y girando la cabeza en 'they tolerate us'."
+ ]
+}

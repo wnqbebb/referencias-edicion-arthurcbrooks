@@ -1,0 +1,440 @@
+{
+ "version": 1,
+ "style": "arthur-podcast-clip",
+ "hook": {
+  "speaker": true,
+  "text": "Tu tienda necesita menos",
+  "visual": "fullscreen_text"
+ },
+ "scenes": [
+  {
+   "id": "b01a",
+   "type": "aroll",
+   "start": 2.12,
+   "end": 2.84,
+   "props": {
+    "zoom": 1.3
+   }
+  },
+  {
+   "id": "b02a",
+   "type": "j_broll",
+   "start": 4.62,
+   "end": 7.6,
+   "props": {
+    "media": [
+     "media/assets/A03.mp4"
+    ],
+    "small": "una tiene",
+    "big": "100 camisetas",
+    "sans": true,
+    "t": 6.24,
+    "px": 150
+   },
+   "in": "whip"
+  },
+  {
+   "id": "b03a",
+   "type": "j_broll",
+   "start": 7.6,
+   "end": 11.54,
+   "props": {
+    "media": [
+     "media/assets/A05.mp4"
+    ],
+    "small": "miras,",
+    "big": "te confundes",
+    "after": "y no vuelves.",
+    "t": 9.0
+   },
+   "out": "whip"
+  },
+  {
+   "id": "b04a",
+   "type": "j_broll",
+   "start": 11.54,
+   "end": 15.26,
+   "props": {
+    "media": [
+     "media/assets/A02.png",
+     "media/assets/A06.mp4"
+    ],
+    "cuts": [
+     11.54,
+     13.46
+    ],
+    "small": "la otra tiene",
+    "big": "5 prendas",
+    "after": "bien puestas,",
+    "sans": true,
+    "t": 12.08,
+    "px": 160
+   },
+   "in": "whip"
+  },
+  {
+   "id": "b06a",
+   "type": "j_line",
+   "start": 18.56,
+   "end": 21.72,
+   "props": {
+    "bg": "black",
+    "shape": "zigzag",
+    "px": 140,
+    "stops": [
+     {
+      "small": "si subes",
+      "big": "40 camisetas,",
+      "sans": true,
+      "t": 18.92
+     },
+     {
+      "big": "20 jeans",
+      "sans": true,
+      "t": 20.04
+     },
+     {
+      "small": "y",
+      "big": "15 gorras,",
+      "sans": true,
+      "t": 20.78
+     }
+    ]
+   },
+   "in": "whip"
+  },
+  {
+   "id": "b07a",
+   "type": "j_illus",
+   "start": 21.72,
+   "end": 25.64,
+   "props": {
+    "bg": "accent",
+    "mode": "side",
+    "media": "media/assets/A04_cut.png",
+    "fill": "#F1E9DC",
+    "small": "el que no sabe",
+    "big": "no escoge.",
+    "after": "se va.",
+    "t": 24.78
+   },
+   "out": "whip"
+  },
+  {
+   "id": "b08a",
+   "type": "aroll",
+   "start": 25.64,
+   "end": 27.82,
+   "props": {
+    "zoom": 1.35
+   }
+  },
+  {
+   "id": "b09a",
+   "type": "j_broll",
+   "start": 27.82,
+   "end": 32.38,
+   "props": {
+    "media": [
+     "media/assets/A04.png",
+     "media/assets/A07.mp4"
+    ],
+    "cuts": [
+     27.82,
+     30.4
+    ],
+    "small": "puesta con la",
+    "big": "pinta completa",
+    "t": 30.82
+   },
+   "in": "whip",
+   "out": "whip"
+  },
+  {
+   "id": "b10a",
+   "type": "j_graph",
+   "start": 32.82,
+   "end": 36.16,
+   "props": {
+    "y_label": "VENTAS",
+    "x_label": "TEMPORADA",
+    "points": [
+     {
+      "x": 0,
+      "y": 0.2,
+      "t": 32.9
+     },
+     {
+      "x": 0.55,
+      "y": 0.62,
+      "t": 33.78,
+      "label": "lo que ya se vendió"
+     },
+     {
+      "x": 0.9,
+      "y": 0.78,
+      "t": 35.62,
+      "label": "+ 1 o 2 nuevas"
+     }
+    ],
+    "small": "apuéstale a",
+    "big": "lo seguro.",
+    "text_t": 33.3
+   },
+   "in": "whip"
+  },
+  {
+   "id": "b11a",
+   "type": "j_half",
+   "start": 37.38,
+   "end": 40.2,
+   "props": {
+    "bg": "white",
+    "ring": [
+     "CURADA",
+     "SEGURA",
+     "VS",
+     "DESESPERADA"
+    ],
+    "small": "una tienda curada",
+    "big": "se ve segura.",
+    "t": 38.14
+   },
+   "in": "flash_tint"
+  },
+  {
+   "id": "b12a",
+   "type": "arthur_number",
+   "start": 42.34,
+   "end": 44.1,
+   "props": {
+    "value": "5",
+    "label": "las que más salieron",
+    "px": 330
+   }
+  },
+  {
+   "id": "b13a",
+   "type": "arthur_text",
+   "start": 45.18,
+   "end": 47.6,
+   "props": {
+    "bg": "accent",
+    "lines": [
+     {
+      "t": "comenta",
+      "size": "s"
+     },
+     {
+      "t": "FLOW",
+      "size": "l",
+      "px": 260,
+      "sans": true
+     }
+    ]
+   },
+   "in": "flash_tint",
+   "out": "whip"
+  }
+ ],
+ "captions": {
+  "enabled": true,
+  "special_words": [
+   "menos",
+   "100",
+   "5",
+   "escoger",
+   "curada",
+   "desesperada",
+   "5"
+  ]
+ },
+ "music": {
+  "file": "/home/user/viral-edit-system/assets/music_lib/tag/lo-fi/02.mp3",
+  "volume": 0.16
+ },
+ "assets": [
+  {
+   "id": "A01",
+   "name": "camiseta-hero",
+   "kind": "product",
+   "ar": "1:1",
+   "is_ref": true,
+   "use_in": [
+    "referencia de A02, A04, A06, A07"
+   ],
+   "subject": "Camiseta oversize negra (referencia de consistencia)",
+   "prompt": "Product photo of a heavyweight oversized black cotton t-shirt with dropped shoulders and a thick ribbed collar hanging on a matte black metal hanger against a warm beige wall, soft side light revealing the cotton texture and a few natural creases, no logo, clean streetwear boutique look, centered. shot on a full-frame camera with a 50mm lens, true-to-life fabric texture, accurate color, subtle natural shadows, real-world imperfections in the fabric, e-commerce boutique photography, not CGI",
+   "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch",
+   "note": "No sale en el video: solo es la referencia para que la camiseta sea idéntica en todo.",
+   "file": "A01.png",
+   "res": "1920×1920"
+  },
+  {
+   "id": "A02",
+   "name": "tienda-curada-5",
+   "kind": "photo",
+   "ar": "4:5",
+   "refs": [
+    "A01"
+   ],
+   "use_in": [
+    "s05 «5 prendas»"
+   ],
+   "subject": "Tienda curada: solo 5 prendas bien puestas",
+   "prompt": "Photo of a minimalist men's streetwear store wall with only five pieces displayed on a single black rail with wide spacing: the black oversized tee from the reference, a beige overshirt, washed straight denim jeans, a brown chore jacket and a black cap on a small shelf, warm spotlight on each piece, concrete floor, calm and premium. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+   "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch",
+   "file": "A02.png",
+   "res": "1536×1920"
+  },
+  {
+   "id": "A03",
+   "name": "rack-saturado",
+   "kind": "video",
+   "ar": "9:16",
+   "duration": "5 s",
+   "use_in": [
+    "s02 «100 camisetas»"
+   ],
+   "subject": "Rack saturado de camisetas iguales",
+   "prompt": "Vertical video, slow sideways dolly along an overcrowded clothing rack packed with about one hundred nearly identical gray and black t-shirts squeezed together, a hand pushes the hangers and they barely move, flat harsh fluorescent light, cheap messy store. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+   "motion": "Dolly lateral lento; la mano empuja los ganchos a los 2 s.",
+   "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch, morphing fabric, flickering, face distortion, sudden camera jumps, slow motion, text overlays",
+   "file": "A03.mp4",
+   "res": "1080×1920"
+  },
+  {
+   "id": "A04",
+   "name": "modelo-pinta",
+   "kind": "model",
+   "ar": "9:16",
+   "refs": [
+    "A01"
+   ],
+   "use_in": [
+    "s09 «pinta completa»"
+   ],
+   "subject": "Modelo con la pinta completa",
+   "prompt": "Vertical UGC photo of a 25-year-old Latino man with a short fade haircut wearing the exact black oversized tee from the reference image with beige cargo pants, white leather sneakers and a black cap worn backwards, full outfit head to toe, standing against a warm beige wall in a small studio, confident relaxed pose, face in the upper third. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+   "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch",
+   "file": "A04.png",
+   "res": "1080×1920"
+  },
+  {
+   "id": "A05",
+   "name": "cliente-se-va",
+   "kind": "video",
+   "ar": "9:16",
+   "duration": "5 s",
+   "use_in": [
+    "s04 «se confunde y se va»"
+   ],
+   "subject": "Cliente confundido que se va",
+   "prompt": "Vertical video of a young man browsing a crowded clothing rack, flipping fast through hangers, frowning, then sighing, turning around and walking out of the store, handheld, natural store light. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+   "motion": "Plano medio fijo; él sale de cuadro por la derecha en el segundo 4.",
+   "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch, morphing fabric, flickering, face distortion, sudden camera jumps, slow motion, text overlays",
+   "file": "A05.mp4",
+   "res": "1080×1920"
+  },
+  {
+   "id": "A06",
+   "name": "modelo-pinta-video",
+   "kind": "video",
+   "ar": "9:16",
+   "duration": "4 s",
+   "refs": [
+    "A04"
+   ],
+   "use_in": [
+    "s05 segunda toma"
+   ],
+   "subject": "El mismo modelo de A04 en movimiento",
+   "prompt": "Image-to-video from the reference image: the same man adjusts his backwards cap, takes two steps towards the camera and stops with a small confident nod, warm beige wall, handheld with a subtle push-in. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+   "motion": "Dos pasos hacia cámara + push-in 6 %.",
+   "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch, morphing fabric, flickering, face distortion, sudden camera jumps, slow motion, text overlays",
+   "file": "A06.mp4",
+   "res": "1080×1920"
+  },
+  {
+   "id": "A07",
+   "name": "detalle-pinta",
+   "kind": "video",
+   "ar": "9:16",
+   "duration": "3 s",
+   "refs": [
+    "A01",
+    "A04"
+   ],
+   "use_in": [
+    "s09 segunda toma"
+   ],
+   "subject": "Detalles de la pinta (macro)",
+   "prompt": "Vertical macro video, three quick details in one continuous move: the ribbed collar of the black oversized tee, the cargo pocket of the beige pants, the white sneaker stepping forward, warm side light, shallow depth of field. shot on iPhone 15 Pro, natural window light, true-to-life skin texture with pores and fine hair, slight handheld imperfection, authentic UGC look, candid moment, no retouching, realistic fabric weave and wrinkles",
+   "motion": "Tilt down continuo del cuello a las zapatillas.",
+   "negative": "CGI, 3D render, plastic skin, airbrushed, doll face, over-saturated, HDR halo, extra fingers, deformed hands, warped text, watermark, logo, brand names, cartoonish, uncanny eyes, perfect symmetry, studio glamour retouch, morphing fabric, flickering, face distortion, sudden camera jumps, slow motion, text overlays",
+   "file": "A07.mp4",
+   "res": "1080×1920"
+  },
+  {
+   "id": "A08",
+   "name": "halftone",
+   "kind": "texture",
+   "ar": "1:1",
+   "use_in": [
+    "fondos y bloques"
+   ],
+   "subject": "Textura halftone",
+   "prompt": "Seamless halftone dot texture, small black dots fading diagonally on off-white (#F9F7FA) paper, offset print look, subtle misregistration, tileable.",
+   "negative": "text, objects, colors, gradients",
+   "file": "A08.png",
+   "res": "1920×1920"
+  }
+ ],
+ "palette": {
+  "vibrant_bright": "#1B54F8",
+  "vibrant_dark": "#0A2A8C",
+  "dull_white": "#F9F7FA",
+  "dull_black": "#0B0B0D"
+ },
+ "fallbacks": {
+  "A02": "media/broll/pixabay_clothing-store_2.mp4",
+  "A03": "media/broll/pixabay_clothing-store_0.mp4",
+  "A04": "media/broll/pixabay_man-fashion_0.mp4",
+  "A05": "media/broll/pixabay_clothing-store_1.mp4",
+  "A06": "media/broll/pixabay_man-fashion_1.mp4",
+  "A07": "media/broll/pixabay_man-fashion_1.mp4"
+ },
+ "cuts": [
+  {
+   "t": 2.12,
+   "type": "zoom_blur"
+  },
+  {
+   "t": 4.62,
+   "type": "flash_tint"
+  },
+  {
+   "t": 17.0,
+   "type": "flash_tint"
+  },
+  {
+   "t": 25.38,
+   "type": "zoom_blur"
+  },
+  {
+   "t": 25.64,
+   "type": "flash_tint"
+  },
+  {
+   "t": 38.4,
+   "type": "zoom_blur"
+  },
+  {
+   "t": 41.26,
+   "type": "flash_tint"
+  }
+ ],
+ "textures": {
+  "halftone": "media/assets/A08.png"
+ }
+}

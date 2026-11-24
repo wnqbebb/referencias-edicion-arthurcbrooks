@@ -1,0 +1,1726 @@
+{
+ "triggers": [
+  {
+   "t_word": 0.32,
+   "word": "friends,",
+   "element": "'friends.' bold sans blanca grande aparece de golpe (sin escala) junto a 'Hi' diminuto",
+   "category": "captions_text",
+   "offset_s": 0.15,
+   "why": "énfasis: saludo = palabra grande"
+  },
+  {
+   "t_word": 0.98,
+   "word": "my",
+   "element": "corte a retrato de estudio a cuerpo entero (ciclorama blanco); 'My' write-on",
+   "category": "title_cta",
+   "offset_s": 0.05,
+   "why": "cambio de tema: presentación → imagen de identidad"
+  },
+  {
+   "t_word": 1.56,
+   "word": "Arthur",
+   "element": "'Arthur' serif itálica azul grande; 'Brooks.' se añade a 1.76",
+   "category": "title_cta",
+   "offset_s": -0.06,
+   "why": "literal: nombre en color de acento"
+  },
+  {
+   "t_word": 2.8,
+   "word": "write,",
+   "element": "1ª foto (él escribiendo en sofá) pop pequeño sobre papel blanco + 'I write' (write en azul)",
+   "category": "imagery_characters",
+   "offset_s": -0.33,
+   "why": "literal: una foto por verbo (se anticipa 0.33 s)"
+  },
+  {
+   "t_word": 3.22,
+   "word": "speak,",
+   "element": "2ª foto (toga en atril) solapada + 'speak' serif itálica AZUL grande",
+   "category": "imagery_characters",
+   "offset_s": -0.22,
+   "why": "literal + énfasis (verbo central = palabra grande)"
+  },
+  {
+   "t_word": 3.54,
+   "word": "teach",
+   "element": "3ª foto (en clase) arriba-derecha + 'and teach' (teach azul)",
+   "category": "imagery_characters",
+   "offset_s": -0.04,
+   "why": "literal"
+  },
+  {
+   "t_word": 4.74,
+   "word": "of",
+   "element": "corte a b-roll cálido: surfista caminando por la orilla",
+   "category": "broll_text",
+   "offset_s": 0.03,
+   "why": "metáfora: 'science of happiness' = vida plena"
+  },
+  {
+   "t_word": 4.94,
+   "word": "happiness.",
+   "element": "corte a silueta padre-hijo a hombros al atardecer + 'happiness.' serif itálica grande",
+   "category": "broll_text",
+   "offset_s": 0.26,
+   "why": "metáfora/emoción en la palabra clave"
+  },
+  {
+   "t_word": 6.04,
+   "word": "professor,",
+   "element": "papel blanco vacío 2 fr → barajado rápido de fotos (1 foto cada ~2–4 fr: atril con toga, retrato) → se asienta foto lila '· I'm a professor' (6.47)",
+   "category": "imagery_characters",
+   "offset_s": -0.11,
+   "why": "literal; el barajado = 'muchas fotos de profesor'"
+  },
+  {
+   "t_word": 7.32,
+   "word": "author,",
+   "element": "carrusel horizontal: la foto professor se desliza a la izquierda y se atenúa; entra al centro la foto con libro '· I'm an author'",
+   "category": "imagery_characters",
+   "offset_s": -0.02,
+   "why": "literal; enumeración en carrusel"
+  },
+  {
+   "t_word": 8.38,
+   "word": "podcaster.",
+   "element": "carrusel avanza: foto de podcast al centro (más grande, nítida), laterales pequeñas y atenuadas; 'podcaster.' serif bold",
+   "category": "imagery_characters",
+   "offset_s": 0.02,
+   "why": "literal"
+  },
+  {
+   "t_word": 9.54,
+   "word": "Thank",
+   "element": "corte a A-roll MCU; 'Thank' → 'Thank you' serif itálica palabra a palabra",
+   "category": "captions_text",
+   "offset_s": 0.09,
+   "why": "cambio de tema (CTA) → cara"
+  },
+  {
+   "t_word": 12.0,
+   "word": "any",
+   "element": "corte a grabación del perfil de Instagram en perspectiva 3D",
+   "category": "ui_screen",
+   "offset_s": -0.07,
+   "why": "literal: 'social media' = UI real"
+  },
+  {
+   "t_word": 13.14,
+   "word": "follow",
+   "element": "'follow me.' serif itálica + botón Follow pasa a 'Following' (clic de cursor)",
+   "category": "ui_screen",
+   "offset_s": 0.16,
+   "why": "literal (CTA mostrado)"
+  },
+  {
+   "t_word": 14.96,
+   "word": "not",
+   "element": "'not know' bold sans grande",
+   "category": "captions_text",
+   "offset_s": 0.04,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 16.12,
+   "word": "how",
+   "element": "corte a archivo: él con toga granate en atril; 'where I am,' serif itálica",
+   "category": "broll_text",
+   "offset_s": 0.05,
+   "why": "prueba de autoridad / literal"
+  },
+  {
+   "t_word": 18.14,
+   "word": "questions",
+   "element": "'questions' bold sans grande",
+   "category": "captions_text",
+   "offset_s": 0.06,
+   "why": "énfasis (dato clave que abre la historia)"
+  },
+  {
+   "t_word": 19.08,
+   "word": "How",
+   "element": "corte a UI de DM: burbuja azul que crece de una píldora y se escribe la pregunta",
+   "category": "captions_text",
+   "offset_s": -0.11,
+   "why": "literal: la pregunta del seguidor"
+  },
+  {
+   "t_word": 22.28,
+   "word": "By",
+   "element": "corte a A-roll plano frontal (manos juntas) 'By the time'",
+   "category": "ui_screen",
+   "offset_s": -0.01,
+   "why": "respiro antes del flashback"
+  },
+  {
+   "t_word": 23.18,
+   "word": "eight",
+   "element": "papel vacío 4 fr → fotos familiares caen apiladas una por frame; a 23.47 '8' y luego '8 years old' serif itálica",
+   "category": "imagery_characters",
+   "offset_s": -0.18,
+   "why": "dato/edad = número grande"
+  },
+  {
+   "t_word": 24.18,
+   "word": "knew",
+   "element": "corte a foto de archivo a pantalla completa con aro cian con glow sobre el niño + scanlines; 'what I was' serif itálica",
+   "category": "imagery_characters",
+   "offset_s": -0.15,
+   "why": "literal: señala al niño (yo)"
+  },
+  {
+   "t_word": 25.6,
+   "word": "life",
+   "element": "'my life.' bold sans grande sobre la misma foto (palabra no transcrita en evidence; tiempo estimado por imagen)",
+   "category": "imagery_characters",
+   "offset_s": 0.13,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 28.4,
+   "word": "French horn",
+   "element": "papel blanco: fotos del corno entran rotando desde la derecha (27.0); 'French horn' serif itálica AZUL (palabra no transcrita en evidence; tiempo estimado por imagen)",
+   "category": "imagery_characters",
+   "offset_s": 0.1,
+   "why": "literal + palabra clave en acento"
+  },
+  {
+   "t_word": 31.0,
+   "word": "ensembles",
+   "element": "'ensembles' bold sans grande sobre A-roll",
+   "category": "aroll_plain",
+   "offset_s": 0.0,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 32.48,
+   "word": "my",
+   "element": "corte a foto B/N juvenil pensativa a pantalla completa; 'my dream' serif itálica (32.8)",
+   "category": "imagery_characters",
+   "offset_s": -0.11,
+   "why": "emoción → imagen de archivo"
+  },
+  {
+   "t_word": 33.58,
+   "word": "go",
+   "element": "'to' sobrevive al corte y se completa 'to go' → 'to go pro' en A-roll",
+   "category": "captions_text",
+   "offset_s": 0.52,
+   "why": "caption puente entre planos"
+  },
+  {
+   "t_word": 36.7,
+   "word": "19",
+   "element": "timeline sobre papel: la línea se desliza y el marcador azul llega a '19 YEARS' (BECAME A PROFESSIONAL MUSICIAN); portadas de disco caen debajo (36.8–37.5)",
+   "category": "timeline",
+   "offset_s": 0.2,
+   "why": "dato (edad) → hito"
+  },
+  {
+   "t_word": 39.2,
+   "word": "time",
+   "element": "corte a foto B/N con corno entre hiedra; 'the time' serif itálica (el 'the' cruza el corte)",
+   "category": "imagery_characters",
+   "offset_s": -0.17,
+   "why": "literal + puente"
+  },
+  {
+   "t_word": 40.08,
+   "word": "-20s,",
+   "element": "'mid-20s,' serif itálica",
+   "category": "imagery_characters",
+   "offset_s": 0.42,
+   "why": "dato"
+  },
+  {
+   "t_word": 42.04,
+   "word": "because",
+   "element": "'because' bold sans grande",
+   "category": "captions_text",
+   "offset_s": 0.46,
+   "why": "énfasis lógico"
+  },
+  {
+   "t_word": 44.44,
+   "word": "living",
+   "element": "'a living' serif itálica",
+   "category": "captions_text",
+   "offset_s": 0.06,
+   "why": "énfasis emocional"
+  },
+  {
+   "t_word": 45.18,
+   "word": "support",
+   "element": "corte a negro con tarjeta de video redondeada pequeña (niños/casa con jardín)",
+   "category": "broll_text",
+   "offset_s": 0.05,
+   "why": "literal: 'support a family'"
+  },
+  {
+   "t_word": 46.22,
+   "word": "didn't",
+   "element": "'didn't know' serif itálica sobre la tarjeta",
+   "category": "broll_text",
+   "offset_s": 0.28,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 50.2,
+   "word": "saved",
+   "element": "'saved' serif itálica grande; la timeline aparece en fade sobre el A-roll a la altura de la mesa",
+   "category": "timeline",
+   "offset_s": 0.3,
+   "why": "giro emocional"
+  },
+  {
+   "t_word": 51.68,
+   "word": "24",
+   "element": "marcador azul de la timeline (sobre A-roll) avanza a '24 YEARS'",
+   "category": "timeline",
+   "offset_s": 0.32,
+   "why": "dato (edad)"
+  },
+  {
+   "t_word": 53.64,
+   "word": "met",
+   "element": "match-cut: la misma timeline pasa a papel blanco y caen fotos de pareja de los 80 rotadas",
+   "category": "imagery_characters",
+   "offset_s": -0.47,
+   "why": "literal (fotos de la pareja)"
+  },
+  {
+   "t_word": 53.96,
+   "word": "soulmate,",
+   "element": "foto grande de pareja cae y llena 2/3 del cuadro",
+   "category": "imagery_characters",
+   "offset_s": -0.36,
+   "why": "literal"
+  },
+  {
+   "t_word": 55.16,
+   "word": "life.",
+   "element": "'my life.' serif itálica sobre fotos",
+   "category": "imagery_characters",
+   "offset_s": 0.34,
+   "why": "emoción"
+  },
+  {
+   "t_word": 57.2,
+   "word": "something",
+   "element": "'something else.' serif itálica",
+   "category": "captions_text",
+   "offset_s": 0.3,
+   "why": "énfasis emocional"
+  },
+  {
+   "t_word": 58.32,
+   "word": "first",
+   "element": "corte a b-roll macro: mano escribiendo con pluma, post-its; 'go back to' serif",
+   "category": "broll_text",
+   "offset_s": 0.11,
+   "why": "metáfora: volver a estudiar"
+  },
+  {
+   "t_word": 59.86,
+   "word": "late",
+   "element": "corte a foto de archivo color (boina, chaqueta de cuero, campus)",
+   "category": "imagery_characters",
+   "offset_s": -0.06,
+   "why": "literal: él a los 20"
+  },
+  {
+   "t_word": 60.66,
+   "word": "correspondence,",
+   "element": "foto vintage a pantalla completa + 'correspondence.' serif itálica",
+   "category": "imagery_characters",
+   "offset_s": 0.34,
+   "why": "literal"
+  },
+  {
+   "t_word": 61.82,
+   "word": "musician,",
+   "element": "'musician,' aparece 2 fr antes del corte (61.93) sobre la foto full-bleed; corte a la foto como tarjeta girada (~-8°) sobre papel; 'musician,' bold sans; ficha 'OCCUPATION: MUSIC' con resaltado azul tipo selección se escribe (62.1–62.4)",
+   "category": "imagery_characters",
+   "offset_s": 0.11,
+   "why": "dato/ficha"
+  },
+  {
+   "t_word": 62.44,
+   "word": "zero",
+   "element": "'zero' serif itálica junto a la tarjeta; 'zero dollars' continúa tras el corte al A-roll (63.1)",
+   "category": "imagery_characters",
+   "offset_s": 0.36,
+   "why": "dato + puente"
+  },
+  {
+   "t_word": 66.7,
+   "word": "music",
+   "element": "'leave music' serif itálica; la timeline asoma tenue sobre el A-roll (65.5)",
+   "category": "captions_text",
+   "offset_s": -0.2,
+   "why": "anuncio de cambio de etapa"
+  },
+  {
+   "t_word": 68.5,
+   "word": "doctorate",
+   "element": "corte a timeline en papel con retícula: foto de graduación con bebé entra deslizando desde la derecha",
+   "category": "timeline",
+   "offset_s": -0.43,
+   "why": "literal"
+  },
+  {
+   "t_word": 69.38,
+   "word": "social",
+   "element": "'social' bold sans AZUL pequeña → 'scientist,' azul grande (70.0)",
+   "category": "timeline",
+   "offset_s": 0.12,
+   "why": "palabra clave en acento"
+  },
+  {
+   "t_word": 71.4,
+   "word": "college",
+   "element": "la foto cae fuera por abajo (70.6) y entra desde arriba foto con borde de sello dentado; 'college professor' bold sans",
+   "category": "imagery_characters",
+   "offset_s": -0.4,
+   "why": "literal"
+  },
+  {
+   "t_word": 73.52,
+   "word": "realized",
+   "element": "'I realized' serif itálica",
+   "category": "captions_text",
+   "offset_s": -0.02,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 74.42,
+   "word": "something",
+   "element": "'something else' serif itálica; corte a b-roll macro de gemelos de traje (75.5)",
+   "category": "broll_text",
+   "offset_s": 0.08,
+   "why": "metáfora: ponerse el traje = otra carrera"
+  },
+  {
+   "t_word": 76.54,
+   "word": "big",
+   "element": "'big Think Tank' serif itálica",
+   "category": "broll_text",
+   "offset_s": 0.16,
+   "why": "literal"
+  },
+  {
+   "t_word": 77.4,
+   "word": "American",
+   "element": "corte a timeline en papel 'BECAME THE PRESIDENT OF THE AEI · 40-50 YEARS' + foto de gala con bandera",
+   "category": "broll_text",
+   "offset_s": -0.43,
+   "why": "dato/hito"
+  },
+  {
+   "t_word": 78.82,
+   "word": "public",
+   "element": "corte a A-roll; 'public policy' bold sans",
+   "category": "captions_text",
+   "offset_s": -0.19,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 80.44,
+   "word": "Washington",
+   "element": "'Washington' bold sans",
+   "category": "captions_text",
+   "offset_s": 0.06,
+   "why": "literal (lugar)"
+  },
+  {
+   "t_word": 82.54,
+   "word": "but",
+   "element": "corte a archivo: él en atril del AEI con cartel 'Arthur C. Brooks'",
+   "category": "broll_text",
+   "offset_s": -0.04,
+   "why": "prueba de autoridad"
+  },
+  {
+   "t_word": 83.52,
+   "word": "11",
+   "element": "'11 years of that,' serif itálica",
+   "category": "broll_text",
+   "offset_s": 0.08,
+   "why": "dato"
+  },
+  {
+   "t_word": 84.36,
+   "word": "that",
+   "element": "corte seco a gradiente radial azul con comilla serif; 'I needed to change again.' write-on palabra a palabra (84.5–85.6)",
+   "category": "text_centric",
+   "offset_s": 0.01,
+   "why": "voz interior / cita"
+  },
+  {
+   "t_word": 86.84,
+   "word": "pattern",
+   "element": "'a pattern' serif itálica",
+   "category": "captions_text",
+   "offset_s": 0.16,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 87.94,
+   "word": "10",
+   "element": "'10 years' serif itálica muy grande (≈2× normal)",
+   "category": "captions_text",
+   "offset_s": 0.06,
+   "why": "dato"
+  },
+  {
+   "t_word": 89.46,
+   "word": "career",
+   "element": "'career down' serif itálica + 'to the studs.' pequeño",
+   "category": "captions_text",
+   "offset_s": 0.04,
+   "why": "metáfora verbal destacada"
+  },
+  {
+   "t_word": 92.18,
+   "word": "can",
+   "element": "'can change.' serif itálica",
+   "category": "aroll_plain",
+   "offset_s": 0.32,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 93.08,
+   "word": "less",
+   "element": "punch-in a primer plano con dedo apuntando a cámara; caption 'Lesson here, folks.' (transcrito 'less than care folks')",
+   "category": "aroll_plain",
+   "offset_s": -0.05,
+   "why": "énfasis (lección) → cara"
+  },
+  {
+   "t_word": 94.92,
+   "word": "something's",
+   "element": "corte a negro con tarjeta vertical redondeada; dentro b-roll macro (pluma, ojo, cuaderno, papel arrugado) con cortes cada 0.2–0.5 s; 'something's not' serif itálica",
+   "category": "broll_text",
+   "offset_s": -0.12,
+   "why": "metáfora: algo no funciona"
+  },
+  {
+   "t_word": 97.22,
+   "word": "teacher.",
+   "element": "'your teacher.' bold sans",
+   "category": "broll_text",
+   "offset_s": 0.18,
+   "why": "énfasis/conclusión"
+  },
+  {
+   "t_word": 99.22,
+   "word": "my",
+   "element": "'I left at 55,' pequeño (98.9) → 'my job at' serif itálica",
+   "category": "captions_text",
+   "offset_s": 0.28,
+   "why": "dato"
+  },
+  {
+   "t_word": 101.36,
+   "word": "what",
+   "element": "'what people' serif itálica sobre CU frontal",
+   "category": "captions_text",
+   "offset_s": 0.14,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 104.12,
+   "word": "thousand",
+   "element": "'thousand years' serif itálica",
+   "category": "captions_text",
+   "offset_s": 0.38,
+   "why": "dato"
+  },
+  {
+   "t_word": 105.16,
+   "word": "don't",
+   "element": "'don't know' bold sans",
+   "category": "captions_text",
+   "offset_s": 0.34,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 107.02,
+   "word": "position,",
+   "element": "'my position,' bold sans",
+   "category": "captions_text",
+   "offset_s": -0.02,
+   "why": "énfasis/pregunta"
+  },
+  {
+   "t_word": 108.52,
+   "word": "I'm",
+   "element": "corte a selfie en catedral en zoom-out escalonado (3 saltos de ~4 fr); el óvalo azul empieza a dibujarse abajo (108.95)",
+   "category": "imagery_characters",
+   "offset_s": 0.05,
+   "why": "revelación"
+  },
+  {
+   "t_word": 108.92,
+   "word": "Catholic.",
+   "element": "corte a papel gris: selfie reducida a tarjeta con óvalo azul a mano; 'Catholic' serif itálica",
+   "category": "imagery_characters",
+   "offset_s": 0.41,
+   "why": "literal/identidad"
+  },
+  {
+   "t_word": 110.62,
+   "word": "important",
+   "element": "'important thing' bold sans",
+   "category": "imagery_characters",
+   "offset_s": -0.12,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 111.66,
+   "word": "is",
+   "element": "corte a b-roll rosario junto a ventana; 'my faith.' serif (112.0)",
+   "category": "broll_text",
+   "offset_s": -0.09,
+   "why": "literal (fe)"
+  },
+  {
+   "t_word": 112.98,
+   "word": "Camino",
+   "element": "'Camino de Santiago' serif itálica",
+   "category": "captions_text",
+   "offset_s": 0.02,
+   "why": "literal (lugar)"
+  },
+  {
+   "t_word": 114.62,
+   "word": "pilgrimage,",
+   "element": "'pilgrimage,' bold sans entra al 50 % de opacidad y llega a blanco en ~3 fr",
+   "category": "captions_text",
+   "offset_s": -0.02,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 117.94,
+   "word": "Spain.",
+   "element": "'northern Spain.' serif itálica",
+   "category": "captions_text",
+   "offset_s": -0.04,
+   "why": "literal"
+  },
+  {
+   "t_word": 120.72,
+   "word": "life",
+   "element": "'my life' bold sans",
+   "category": "captions_text",
+   "offset_s": 0.18,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 121.68,
+   "word": "to",
+   "element": "corte a archivo: él en escenario ante público",
+   "category": "captions_text",
+   "offset_s": -0.21,
+   "why": "propósito → prueba"
+  },
+  {
+   "t_word": 122.04,
+   "word": "people",
+   "element": "corte a archivo con traje; 'people up' bold sans",
+   "category": "broll_text",
+   "offset_s": -0.07,
+   "why": "literal"
+  },
+  {
+   "t_word": 123.04,
+   "word": "together",
+   "element": "corte a archivo toga granate; 'together' bold sans",
+   "category": "broll_text",
+   "offset_s": -0.17,
+   "why": "prueba de autoridad al ritmo de palabras"
+  },
+  {
+   "t_word": 124.06,
+   "word": "happiness",
+   "element": "corte a archivo toga doctoral; 'happiness' bold sans",
+   "category": "broll_text",
+   "offset_s": -0.19,
+   "why": "prueba"
+  },
+  {
+   "t_word": 126.32,
+   "word": "Spain",
+   "element": "'from Spain,' serif itálica",
+   "category": "captions_text",
+   "offset_s": -0.32,
+   "why": "literal"
+  },
+  {
+   "t_word": 127.2,
+   "word": "professorship",
+   "element": "la timeline entra en fade sobre el A-roll y desliza al hito '60 YEARS · BECAME A PROFESSOR AT HARVARD UNIVERSITY'",
+   "category": "captions_text",
+   "offset_s": -0.2,
+   "why": "dato/hito"
+  },
+  {
+   "t_word": 128.32,
+   "word": "Harvard",
+   "element": "'Harvard' → 'Harvard University' serif itálica",
+   "category": "timeline",
+   "offset_s": -0.02,
+   "why": "literal"
+  },
+  {
+   "t_word": 129.98,
+   "word": "leadership",
+   "element": "corte a b-roll silueta caminando en la orilla al atardecer; 'taught leadership' serif",
+   "category": "broll_text",
+   "offset_s": 0.32,
+   "why": "metáfora"
+  },
+  {
+   "t_word": 131.76,
+   "word": "science",
+   "element": "corte a TAC cerebral sobre negro",
+   "category": "broll_text",
+   "offset_s": -0.16,
+   "why": "literal: ciencia"
+  },
+  {
+   "t_word": 132.22,
+   "word": "happiness",
+   "element": "corte a amigos corriendo al mar; 'happiness' bold sans",
+   "category": "broll_text",
+   "offset_s": -0.05,
+   "why": "metáfora"
+  },
+  {
+   "t_word": 133.24,
+   "word": "finest",
+   "element": "'finest' serif cruza el corte al A-roll y se completa 'finest students'",
+   "category": "broll_text",
+   "offset_s": 0.23,
+   "why": "puente"
+  },
+  {
+   "t_word": 135.5,
+   "word": "built",
+   "element": "'built' → 'built the' → 'built the things' serif itálica (build-up)",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 138.26,
+   "word": "column",
+   "element": "corte a macro de la columna impresa con viñeta, cámara deslizando",
+   "category": "object_element",
+   "offset_s": -0.46,
+   "why": "literal (prueba)"
+  },
+  {
+   "t_word": 139.24,
+   "word": "books",
+   "element": "cortes cada ~0.33 s por portadas: Build the Life You Want, Love Your Enemies, The Happiness Files, The Meaning of Your Life",
+   "category": "object_element",
+   "offset_s": -0.17,
+   "why": "literal: lista de libros"
+  },
+  {
+   "t_word": 140.2,
+   "word": "podcast",
+   "element": "ventana de video (él en camisa blanca) aparece sobre la portada y crece hasta pantalla completa (140.4–140.8)",
+   "category": "broll_text",
+   "offset_s": 0.2,
+   "why": "literal"
+  },
+  {
+   "t_word": 142.84,
+   "word": "social",
+   "element": "'social' bold sans",
+   "category": "captions_text",
+   "offset_s": 0.06,
+   "why": "literal"
+  },
+  {
+   "t_word": 144.6,
+   "word": "science",
+   "element": "montaje de stock de felicidad (pareja mayor, hombre con barba, pareja riendo, hombre con gorro amarillo, grupo de amigos)",
+   "category": "broll_text",
+   "offset_s": -0.37,
+   "why": "metáfora: felicidad"
+  },
+  {
+   "t_word": 144.98,
+   "word": "happiness",
+   "element": "'happiness' bold sans fijo en el centro durante 4 cortes de stock",
+   "category": "broll_text",
+   "offset_s": 0.02,
+   "why": "énfasis sostenido"
+  },
+  {
+   "t_word": 147.88,
+   "word": "profound",
+   "element": "'profound' bold sans reemplaza a 'happiness'",
+   "category": "broll_text",
+   "offset_s": 0.02,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 148.8,
+   "word": "Thank",
+   "element": "corte a A-roll MS; 'Thank you' bold sans palabra a palabra",
+   "category": "title_cta",
+   "offset_s": -0.1,
+   "why": "cierre → cara"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 1.033,
+   "from": "aroll",
+   "to": "retrato estudio (title_cta)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "A-roll oscuro → foto clara; sin efecto, en la palabra 'my'"
+  },
+  {
+   "t": 2.333,
+   "from": "retrato estudio",
+   "to": "papel blanco (collage verbos)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "corte a papel blanco VACÍO 4 fr (0.13 s) antes de que aparezca la 1ª foto: 'respiro blanco'"
+  },
+  {
+   "t": 4.1,
+   "from": "papel collage",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 4.767,
+   "from": "aroll",
+   "to": "b-roll surfista",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 5.2,
+   "from": "b-roll surfista",
+   "to": "b-roll padre-hijo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "cae en 'happiness.' (+0.26 s)"
+  },
+  {
+   "t": 5.9,
+   "from": "b-roll",
+   "to": "papel blanco (professor)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "papel vacío 2 fr; después barajado de fotos 1 cada 2–4 fr (6.07–6.4) = 'shuffle'"
+  },
+  {
+   "t": 7.2,
+   "from": "foto professor",
+   "to": "carrusel author",
+   "type": "slide",
+   "frames": 9,
+   "detail": "carrusel horizontal: foto actual se desplaza a la izquierda y se encoge/atenúa (~0.3 s); la nueva ocupa el centro"
+  },
+  {
+   "t": 8.3,
+   "from": "carrusel author",
+   "to": "carrusel podcaster",
+   "type": "slide",
+   "frames": 9,
+   "detail": "mismo carrusel; los laterales quedan al 40–50 % de opacidad"
+  },
+  {
+   "t": 9.633,
+   "from": "papel carrusel",
+   "to": "aroll MCU",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 11.933,
+   "from": "aroll",
+   "to": "UI Instagram 3D",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 12.7,
+   "from": "UI Instagram (ángulo A)",
+   "to": "UI Instagram (ángulo B, más inclinado)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "re-encuadre de la misma UI: corte entre dos ángulos 3D de cámara virtual"
+  },
+  {
+   "t": 14.3,
+   "from": "UI",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 16.167,
+   "from": "aroll",
+   "to": "archivo toga",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 17.7,
+   "from": "archivo",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 18.967,
+   "from": "aroll",
+   "to": "UI DM",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 22.267,
+   "from": "UI DM",
+   "to": "aroll frontal",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 22.867,
+   "from": "aroll",
+   "to": "papel (fotos 8 años)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "papel vacío 4 fr y luego fotos caen 1 por frame"
+  },
+  {
+   "t": 23.53,
+   "from": "pila de fotos",
+   "to": "foto única '8 years'",
+   "type": "crossfade",
+   "frames": 6,
+   "detail": "la pila se disuelve (fade ~0.2 s) dejando una sola foto centrada: limpieza del collage"
+  },
+  {
+   "t": 24.033,
+   "from": "papel",
+   "to": "foto archivo pantalla completa + aro cian",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 25.967,
+   "from": "foto archivo",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 26.7,
+   "from": "aroll",
+   "to": "papel (corno francés)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "papel vacío 8 fr (0.27 s); las fotos entran girando desde fuera de cuadro abajo-derecha"
+  },
+  {
+   "t": 30.4,
+   "from": "papel",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 32.367,
+   "from": "aroll",
+   "to": "foto B/N pantalla completa",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 34.1,
+   "from": "foto B/N",
+   "to": "aroll",
+   "type": "match-cut (elemento compartido)",
+   "frames": 0,
+   "detail": "el caption 'to' se mantiene idéntico a través del corte y se completa 'to go pro'"
+  },
+  {
+   "t": 35.7,
+   "from": "aroll",
+   "to": "timeline en papel",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 38.233,
+   "from": "timeline papel",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 39.033,
+   "from": "aroll",
+   "to": "foto B/N corno",
+   "type": "match-cut (elemento compartido)",
+   "frames": 0,
+   "detail": "caption 'the' cruza el corte → 'the time'"
+  },
+  {
+   "t": 41.5,
+   "from": "foto B/N",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 43.133,
+   "from": "aroll MCU",
+   "to": "aroll MS",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "zoom-out por corte (escala ≈1.3→1.0)"
+  },
+  {
+   "t": 45.233,
+   "from": "aroll",
+   "to": "negro + tarjeta video",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 47.167,
+   "from": "tarjeta",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 49.8,
+   "from": "aroll MS",
+   "to": "aroll plano abierto",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "abre el plano antes de 'saved'"
+  },
+  {
+   "t": 50.8,
+   "from": "aroll",
+   "to": "aroll + timeline overlay",
+   "type": "crossfade",
+   "frames": 9,
+   "detail": "la timeline aparece en fade (~0.3 s) sobre el A-roll a la altura de la mesa"
+  },
+  {
+   "t": 53.167,
+   "from": "aroll + timeline",
+   "to": "papel + timeline + fotos",
+   "type": "match-cut (elemento compartido)",
+   "frames": 0,
+   "detail": "la línea de tiempo queda en la misma posición; solo cambia el fondo (A-roll→papel) y caen fotos"
+  },
+  {
+   "t": 53.567,
+   "from": "collage fotos",
+   "to": "foto grande pareja",
+   "type": "slide",
+   "frames": 2,
+   "detail": "foto nueva cae y tapa casi todo el cuadro"
+  },
+  {
+   "t": 54.167,
+   "from": "foto pareja",
+   "to": "otra foto pareja",
+   "type": "slide",
+   "frames": 2,
+   "detail": "cubre la anterior (drop-in)"
+  },
+  {
+   "t": 54.567,
+   "from": "foto pareja",
+   "to": "foto pareja girada",
+   "type": "slide",
+   "frames": 2,
+   "detail": "drop-in con rotación"
+  },
+  {
+   "t": 56.067,
+   "from": "papel fotos",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 58.433,
+   "from": "aroll",
+   "to": "b-roll pluma",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 59.8,
+   "from": "b-roll",
+   "to": "archivo boina",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 60.633,
+   "from": "archivo",
+   "to": "archivo vintage",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 62.0,
+   "from": "foto pantalla completa",
+   "to": "tarjeta girada en papel",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "2 fr antes (61.87) se quita el degradado oscuro inferior de la foto y aparece 'musician,' (pre-lap del texto); luego corte seco a la misma foto como tarjeta girada ~-8° sobre papel: full-bleed → tarjeta"
+  },
+  {
+   "t": 63.1,
+   "from": "papel tarjeta",
+   "to": "aroll",
+   "type": "match-cut (elemento compartido)",
+   "frames": 0,
+   "detail": "'zero dollars' cruza el corte"
+  },
+  {
+   "t": 65.5,
+   "from": "aroll",
+   "to": "aroll + timeline tenue",
+   "type": "crossfade",
+   "frames": 15,
+   "detail": "timeline a ~30 % de opacidad anuncia el siguiente hito"
+  },
+  {
+   "t": 68.067,
+   "from": "aroll + timeline",
+   "to": "timeline en papel",
+   "type": "match-cut (elemento compartido)",
+   "frames": 0,
+   "detail": "misma timeline, fondo a papel con retícula; foto entra deslizando desde el borde derecho"
+  },
+  {
+   "t": 70.633,
+   "from": "foto graduación",
+   "to": "foto sello (college professor)",
+   "type": "slide",
+   "frames": 12,
+   "detail": "la foto sale cayendo por abajo y la nueva entra desde arriba y se asienta (push vertical ~0.4 s)"
+  },
+  {
+   "t": 72.733,
+   "from": "papel",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 75.5,
+   "from": "aroll",
+   "to": "b-roll gemelos",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 76.967,
+   "from": "b-roll",
+   "to": "timeline papel AEI",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 78.633,
+   "from": "timeline",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 82.5,
+   "from": "aroll",
+   "to": "archivo AEI",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 84.367,
+   "from": "archivo",
+   "to": "gradiente radial azul (cita)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 85.967,
+   "from": "gradiente",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 93.033,
+   "from": "aroll MS",
+   "to": "aroll CU (dedo)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "punch-in por corte ≈1.0→1.35"
+  },
+  {
+   "t": 94.8,
+   "from": "aroll",
+   "to": "negro + tarjeta vertical",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "dentro de la tarjeta 7 micro-cortes (95.47, 95.77, 95.97, 96.53, 96.97, 97.47, 97.77) de 6–15 fr"
+  },
+  {
+   "t": 98.033,
+   "from": "tarjeta",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 100.767,
+   "from": "aroll MS",
+   "to": "aroll CU frontal",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "punch-in"
+  },
+  {
+   "t": 108.567,
+   "from": "aroll",
+   "to": "selfie catedral",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "seguido de zoom-out escalonado"
+  },
+  {
+   "t": 109.333,
+   "from": "selfie pantalla completa",
+   "to": "tarjeta en papel gris",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "cambio de escala brusco full-bleed → tarjeta pequeña con óvalo"
+  },
+  {
+   "t": 111.567,
+   "from": "papel",
+   "to": "b-roll rosario",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 112.433,
+   "from": "b-roll",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 118.367,
+   "from": "aroll",
+   "to": "aroll (otro ángulo)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "cambio de ángulo al mirar hacia arriba"
+  },
+  {
+   "t": 121.467,
+   "from": "aroll",
+   "to": "archivo escenario",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 121.967,
+   "from": "archivo",
+   "to": "archivo traje",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 122.233,
+   "from": "archivo",
+   "to": "archivo traje (otro)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 122.867,
+   "from": "archivo",
+   "to": "archivo toga granate",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 123.867,
+   "from": "archivo",
+   "to": "archivo toga doctoral",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 125.5,
+   "from": "archivo",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 127.0,
+   "from": "aroll",
+   "to": "aroll + timeline",
+   "type": "crossfade",
+   "frames": 9,
+   "detail": "timeline aparece en fade y desliza"
+  },
+  {
+   "t": 130.3,
+   "from": "aroll",
+   "to": "b-roll atardecer",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 131.6,
+   "from": "b-roll",
+   "to": "TAC cerebral",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 132.167,
+   "from": "TAC",
+   "to": "b-roll amigos playa",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 133.5,
+   "from": "b-roll",
+   "to": "aroll",
+   "type": "match-cut (elemento compartido)",
+   "frames": 0,
+   "detail": "'finest' cruza el corte"
+  },
+  {
+   "t": 137.8,
+   "from": "aroll",
+   "to": "macro columna",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 138.567,
+   "from": "macro columna",
+   "to": "macro libro (Meaning of Your Life)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "cámara macro rotando en continuo; cortes a 138.57 y 138.73 entre objetos"
+  },
+  {
+   "t": 138.733,
+   "from": "macro libro",
+   "to": "macro From Strength to Strength",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 139.067,
+   "from": "libro",
+   "to": "libro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 139.4,
+   "from": "libro",
+   "to": "libro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 139.733,
+   "from": "libro",
+   "to": "libro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 140.4,
+   "from": "portada libro",
+   "to": "video podcast",
+   "type": "zoom (ventana que crece)",
+   "frames": 12,
+   "detail": "ventana de video aparece sobre la portada y escala hasta llenar (140.4–140.8)"
+  },
+  {
+   "t": 141.567,
+   "from": "podcast",
+   "to": "podcast (otro plano)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 142.5,
+   "from": "podcast",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 144.233,
+   "from": "aroll",
+   "to": "stock felicidad 1",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 144.833,
+   "from": "stock",
+   "to": "stock",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 145.567,
+   "from": "stock",
+   "to": "stock",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 146.567,
+   "from": "stock",
+   "to": "stock",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 147.4,
+   "from": "stock",
+   "to": "stock",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 148.7,
+   "from": "stock",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "cierre a cara"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.47,
+   "fx": "pop",
+   "detail": "palabra clave aparece completa en 1 fr, sin escala apreciable; el contexto 'Hi' ya estaba"
+  },
+  {
+   "t": 1.1,
+   "fx": "write-on por palabra",
+   "detail": "'My' → 'My name' → 'My name is' cada ~4 fr, sans pequeña negra"
+  },
+  {
+   "t": 3.0,
+   "fx": "pop",
+   "detail": "'speak' serif itálica azul entra con la 2ª foto"
+  },
+  {
+   "t": 9.63,
+   "fx": "write-on por palabra",
+   "detail": "'Thank' → 'Thank you' + 'for following' diminuto debajo"
+  },
+  {
+   "t": 19.0,
+   "fx": "escala",
+   "detail": "burbuja azul crece desde píldora vacía (19.0–19.4) y el texto se escribe dentro (typing hasta 22.0)"
+  },
+  {
+   "t": 23.47,
+   "fx": "pop",
+   "detail": "'8' aparece y en el siguiente frame 'years' → '8 years old'"
+  },
+  {
+   "t": 34.1,
+   "fx": "write-on por palabra",
+   "detail": "build-up del mismo caption a través del corte: 'to' → 'to go' → 'to go pro'"
+  },
+  {
+   "t": 61.93,
+   "fx": "pop",
+   "detail": "pre-lap: 'musician,' aparece 2 fr antes del corte y se mantiene idéntica en el plano siguiente"
+  },
+  {
+   "t": 62.1,
+   "fx": "máscara",
+   "detail": "'OCCUPATION: MUSIC' se escribe con caja de resaltado azul (selección de texto) de izquierda a derecha"
+  },
+  {
+   "t": 69.5,
+   "fx": "escala",
+   "detail": "'social' azul pequeño se convierte en 'scientist,' azul grande (cambia la palabra grande, la pequeña queda encima)"
+  },
+  {
+   "t": 84.5,
+   "fx": "write-on por palabra",
+   "detail": "cita entre comillas serif: 'I' → 'I needed' → 'I needed to' → 'change again.' + comilla de cierre"
+  },
+  {
+   "t": 88.0,
+   "fx": "escala",
+   "detail": "'10' en serif itálica ~2× tamaño de palabra clave, gris translúcido (número fantasma) + 'every' a la derecha"
+  },
+  {
+   "t": 114.6,
+   "fx": "gris→blanco",
+   "detail": "palabra entra al ~50 % de opacidad y llega a 100 % en ~3 fr (≈0.1 s)"
+  },
+  {
+   "t": 135.5,
+   "fx": "write-on por palabra",
+   "detail": "'built' → 'built the' → 'built the things' + contexto 'that you see here today' debajo"
+  },
+  {
+   "t": 145.0,
+   "fx": "tracking",
+   "detail": "'happiness' fijo durante 4 cortes; la línea pequeña de contexto cambia ('science of' / 'is' / 'my life's')"
+  },
+  {
+   "t": 147.9,
+   "fx": "pop",
+   "detail": "'profound' sustituye a 'happiness' en la misma posición"
+  }
+ ],
+ "camera": [
+  {
+   "t": 1.03,
+   "move": "push-in lento",
+   "scale_or_dir": "1.00→1.02",
+   "dur_s": 1.3
+  },
+  {
+   "t": 7.2,
+   "move": "slide",
+   "scale_or_dir": "horizontal ←",
+   "dur_s": 0.3
+  },
+  {
+   "t": 11.93,
+   "move": "push-in lento",
+   "scale_or_dir": "UI en perspectiva 3D, deriva y rotación leve",
+   "dur_s": 2.4
+  },
+  {
+   "t": 16.17,
+   "move": "push-in lento",
+   "scale_or_dir": "1.00→1.04",
+   "dur_s": 1.5
+  },
+  {
+   "t": 19.0,
+   "move": "push-in lento",
+   "scale_or_dir": "1.00→1.10 + rotación ~3°",
+   "dur_s": 3.3
+  },
+  {
+   "t": 24.03,
+   "move": "push-in lento",
+   "scale_or_dir": "1.00→1.06",
+   "dur_s": 1.9
+  },
+  {
+   "t": 32.37,
+   "move": "push-in lento",
+   "scale_or_dir": "1.00→1.05",
+   "dur_s": 1.7
+  },
+  {
+   "t": 35.7,
+   "move": "slide",
+   "scale_or_dir": "timeline → izquierda (revela hito)",
+   "dur_s": 0.8
+  },
+  {
+   "t": 39.03,
+   "move": "push-in lento",
+   "scale_or_dir": "1.00→1.04 (Ken Burns)",
+   "dur_s": 2.5
+  },
+  {
+   "t": 43.13,
+   "move": "zoom-out",
+   "scale_or_dir": "1.30→1.00 por corte",
+   "dur_s": 0.0
+  },
+  {
+   "t": 51.0,
+   "move": "slide",
+   "scale_or_dir": "timeline → izquierda",
+   "dur_s": 0.8
+  },
+  {
+   "t": 53.17,
+   "move": "push-in lento",
+   "scale_or_dir": "1.00→1.10 sobre el collage de pareja",
+   "dur_s": 2.9
+  },
+  {
+   "t": 62.0,
+   "move": "zoom-out",
+   "scale_or_dir": "1.00→0.45 por corte (full-bleed → tarjeta)",
+   "dur_s": 0.0
+  },
+  {
+   "t": 68.07,
+   "move": "slide",
+   "scale_or_dir": "foto entra desde la derecha",
+   "dur_s": 0.5
+  },
+  {
+   "t": 70.63,
+   "move": "slide",
+   "scale_or_dir": "vertical ↓ (sale abajo, entra desde arriba)",
+   "dur_s": 0.4
+  },
+  {
+   "t": 93.03,
+   "move": "punch-in",
+   "scale_or_dir": "1.00→1.35 por corte",
+   "dur_s": 0.0
+  },
+  {
+   "t": 100.77,
+   "move": "punch-in",
+   "scale_or_dir": "1.00→1.3 por corte",
+   "dur_s": 0.0
+  },
+  {
+   "t": 108.57,
+   "move": "zoom-out",
+   "scale_or_dir": "1.6→1.45→1.3→1.2 en saltos de 4 fr",
+   "dur_s": 0.5
+  },
+  {
+   "t": 127.3,
+   "move": "slide",
+   "scale_or_dir": "timeline → izquierda hasta 60 YEARS",
+   "dur_s": 0.8
+  },
+  {
+   "t": 137.8,
+   "move": "slide",
+   "scale_or_dir": "macro deslizando + rotación lenta sobre papel",
+   "dur_s": 0.8
+  },
+  {
+   "t": 140.4,
+   "move": "push-in lento",
+   "scale_or_dir": "ventana 0.5→1.0 (zoom de ventana a full)",
+   "dur_s": 0.4
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   21,
+   12,
+   11,
+   11,
+   10,
+   16,
+   11,
+   11,
+   10,
+   8,
+   9,
+   8,
+   15,
+   17,
+   15
+  ],
+  "avg_hold_text_s": 0.8,
+  "notes": "Cada 1–2.5 s pasa algo (corte, palabra grande o elemento). Los únicos tramos sin cambio de plano >4 s (84–93, 98–108, 112–121) se sostienen con palabras grandes cada 1–1.5 s y punch-ins por corte. Montajes finales (139–148) aceleran a 1 corte cada 0.3–1 s."
+ },
+ "typography": "Sans grotesca bold muy apretada (Helvetica Now/Inter Display Bold, tracking −3 %) para palabras concretas ('friends.', 'questions', 'ensembles', 'Washington', 'happiness'); serif itálica bold de alto contraste (Playfair/Canela-like) para frases emocionales de 1–3 palabras ('my dream', 'a pattern', 'something else', 'Arthur Brooks.'); contexto en sans regular diminuta (~¼ de la palabra clave) arriba-izquierda y abajo-derecha del bloque. Mayúsculas solo en la timeline (sans pequeña con tracking amplio). Palabra clave ~8–9 % del alto; '10' llega a ~14 %. Color: blanco sobre oscuro, negro sobre papel; azul #2E4FD8 solo en nombre, 'speak', 'French horn', 'social scientist', marcador y ficha OCCUPATION. Bloques de 1 palabra grande + 2–6 palabras de contexto.",
+ "textures": "Papel blanco casi puro (#FAF8FB) con retícula muy tenue (timeline 67–71 s), papel gris (#D0CED2) en 'Catholic'; sombras de contacto suaves bajo fotos impresas, borde blanco y borde de sello dentado (70.7); scanlines + glow cian en la foto infantil (24 s); grano B/N en fotos juveniles; viñeta fuerte en la macro de libros (137.8); tarjetas redondeadas sobre negro puro (45, 95 s). Fotos de archivo full-bleed llevan un degradado negro en el 25 % inferior (se ve desaparecer a 61.87). Sin grano global en el A-roll.",
+ "distinct": [
+  "Timeline por edades reutilizada 5 veces que viaja entre papel y A-roll con match-cut (53.17, 68.07) — la línea es el hilo narrativo.",
+  "Captions puente: la palabra que empieza en un plano cruza el corte y se completa en el siguiente (34.1 'to go pro', 39.03 'the time', 63.1 'zero dollars', 133.5 'finest students').",
+  "Papel vacío de 2–8 fr antes de cada collage (2.33, 5.9, 22.87, 26.7): un respiro blanco que hace 'pop' a lo siguiente.",
+  "CTA y arranque narrativo mostrados como UI real (Instagram con clic en Follow, DM con burbuja que se escribe).",
+  "Voz interior en gradiente radial azul con cita entre comillas (84.4) y revelación con óvalo azul dibujado a mano sobre selfie (109.3): el azul de acento marca los dos momentos íntimos."
+ ]
+}

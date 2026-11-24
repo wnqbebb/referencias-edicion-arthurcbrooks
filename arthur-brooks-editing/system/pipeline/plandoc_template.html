@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Plan de edición · __PROJECT__</title>
+<style>
+:root{--bg:#f6f5f2;--card:#fff;--ink:#16161a;--mute:#6b6b75;--line:#e4e2dc;--acc:#2f6bff}
+@media (prefers-color-scheme:dark){:root{--bg:#121215;--card:#1b1b20;--ink:#ececf1;--mute:#9a9aa6;--line:#2a2a31;--acc:#6f97ff}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 Inter,system-ui,sans-serif}
+header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:14px 20px;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+h1{font-size:17px;margin:0}small{color:var(--mute)}
+button{background:var(--acc);color:#fff;border:0;border-radius:8px;padding:9px 14px;font-weight:600;cursor:pointer}
+.wrap{display:grid;grid-template-columns:1fr 360px;gap:20px;padding:20px;max-width:1400px;margin:auto}
+@media (max-width:900px){.wrap{grid-template-columns:1fr}.side{position:static!important}}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:14px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin-bottom:12px}
+@media (max-width:640px){.row{grid-template-columns:1fr}}
+.script{order:2;cursor:pointer}.script .t{font-size:12px;color:var(--mute)}.script p{margin:4px 0 0;font-size:16px}
+.plan{order:1;display:flex;flex-direction:column;gap:8px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}.chip{border:1px solid var(--line);border-radius:99px;padding:4px 10px;font-size:13px;cursor:pointer;background:transparent;color:var(--ink)}
+.chip.on{background:var(--acc);border-color:var(--acc);color:#fff}
+select,textarea{width:100%;background:var(--bg);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:8px;font:inherit}
+textarea{min-height:56px;resize:vertical}
+.refs{display:flex;gap:6px;flex-wrap:wrap}.refs img{height:64px;border-radius:6px;border:1px solid var(--line)}
+.drop{font-size:12px;color:var(--mute)}
+.side{position:sticky;top:76px;align-self:start}video{width:100%;border-radius:12px;background:#000}
+.legend{font-size:13px;color:var(--mute);margin-top:10px}.legend b{color:var(--ink)}
+</style></head><body>
+<header><h1>Plan de edición — __PROJECT__</h1><small>Estilo: __STYLE__ · Izquierda: tu plan · Derecha: guion (clic = saltar en el video) · Pega imágenes de referencia con Ctrl+V dentro de una fila</small>
+<span style="flex:1"></span><button id="copy">Copiar plan</button></header>
+<div class="wrap"><main id="rows"></main>
+<aside class="side"><video id="v" src="__VIDEO__" controls playsinline></video>
+<div class="legend" id="legend"></div></aside></div>
+<script>
+const ROWS=__ROWS__, SCENES=__SCENES__;
+const KEY='ves-plan-__PROJECT__';let saved={};try{saved=JSON.parse(localStorage.getItem(KEY)||'{}')}catch(e){}
+const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(saved))}catch(e){}};
+const v=document.getElementById('v');
+document.getElementById('legend').innerHTML=Object.entries(SCENES).map(([k,d])=>`<p><b>${k}</b> — ${d}</p>`).join('');
+const host=document.getElementById('rows');
+ROWS.forEach(r=>{
+  const st=saved[r.i]||{scene:r.reco[0]||'aroll',notes:'',refs:[]};saved[r.i]=st;
+  const el=document.createElement('div');el.className='row';el.tabIndex=0;
+  el.innerHTML=`<div class="plan"><div class="chips">${r.reco.map(s=>`<button class="chip" data-s="${s}">${s}</button>`).join('')}</div>
+  <select>${Object.keys(SCENES).map(s=>`<option ${s===st.scene?'selected':''}>${s}</option>`).join('')}</select>
+  <textarea placeholder="¿Qué debe ver el viewer aquí? (texto, assets, referencia…)">${st.notes}</textarea>
+  <div class="refs"></div><div class="drop">Ctrl+V para pegar referencia</div></div>
+  <div class="script"><div class="t">${r.start.toFixed(2)}s → ${r.end.toFixed(2)}s</div><p>${r.text}</p></div>`;
+  const sel=el.querySelector('select'),ta=el.querySelector('textarea'),refs=el.querySelector('.refs');
+  const paint=()=>{el.querySelectorAll('.chip').forEach(c=>c.classList.toggle('on',c.dataset.s===st.scene));sel.value=st.scene;refs.innerHTML=st.refs.map(s=>`<img src="${s}">`).join('')};
+  el.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{st.scene=c.dataset.s;paint();save()});
+  sel.onchange=()=>{st.scene=sel.value;paint();save()};ta.oninput=()=>{st.notes=ta.value;save()};
+  el.querySelector('.script').onclick=()=>{v.currentTime=r.start;v.play()};
+  el.addEventListener('paste',e=>{for(const it of e.clipboardData.items){if(it.type.startsWith('image/')){const fr=new FileReader();fr.onload=()=>{st.refs.push(fr.result);paint();save()};fr.readAsDataURL(it.getAsFile())}}});
+  paint();host.appendChild(el);
+});
+document.getElementById('copy').onclick=async()=>{
+  const out={project:'__PROJECT__',rows:ROWS.map(r=>({start:r.start,end:r.end,script:r.text,scene:saved[r.i].scene,notes:saved[r.i].notes,refs:saved[r.i].refs.length}))};
+  const txt='PLAN HUMANO (convertir a edit_plan.json siguiendo AGENTS.md):\n'+JSON.stringify(out,null,1);
+  try{await navigator.clipboard.writeText(txt);alert('Plan copiado. Pégalo al modelo.')}catch(e){const w=window.open();w.document.write('<pre>'+txt.replace(/</g,'&lt;')+'</pre>')}
+};
+</script></body></html>

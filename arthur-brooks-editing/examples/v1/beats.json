@@ -1,0 +1,779 @@
+{
+ "title": "V1 · Talking head + minimal (vino)",
+ "beats": [
+  {
+   "id": "b01",
+   "start": 0.0,
+   "end": 4.74,
+   "script": "Este Black Friday no le bajes el precio a tu ropa. Sí, ya sé que suena raro, te explico.",
+   "seen": "Abre en su cara: el espectador conecta con quien habla antes de que pase nada (Joseph, beat 1).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "A-roll + punch en «precio»",
+     "cats": "Captions · A-roll",
+     "desc": "Ella a cámara con captions Arthur («Black Friday» grande) y punch-in en «el precio».",
+     "ref": "V11-A09",
+     "type": "aroll",
+     "props": {
+      "zoom": 1.25
+     },
+     "start": 1.72,
+     "end": 2.9
+    },
+    {
+     "title": "Cita de apertura",
+     "cats": "Texto centrado · Cut-away",
+     "desc": "Fondo vino con papel rugoso y comillas: «no le bajes / el precio».",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "accent",
+      "small": "no le bajes",
+      "big": "el precio.",
+      "t": 1.84
+     }
+    },
+    {
+     "title": "Número sobre A-roll",
+     "cats": "Gráficas · Sobre A-roll",
+     "desc": "«-0 %» gigante cae sobre ella.",
+     "ref": "V11-A08",
+     "type": "arthur_number",
+     "props": {
+      "value": "-0%",
+      "label": "de descuento"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "start": 4.74,
+   "end": 7.42,
+   "script": "Ese día todas las tiendas bajan los precios al mismo tiempo.",
+   "seen": "Describe → se muestra: b-roll literal con texto fijo encima, varias tomas bajo el mismo texto (V01-A03).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "B-roll de vitrinas",
+     "cats": "B-roll + texto",
+     "desc": "Pasillo con el mismo -30 % y luego los carteles, bordes oscuros y desenfocados; «al mismo tiempo.»",
+     "ref": "V01-A03",
+     "type": "j_broll",
+     "props": {
+      "media": [
+       "media/assets/A04.mp4",
+       "media/assets/A05.mp4"
+      ],
+      "cuts": [
+       4.74,
+       6.1
+      ],
+      "small": "todas las tiendas bajan",
+      "big": "al mismo tiempo.",
+      "t": 6.5
+     },
+     "enter": "wipe"
+    },
+    {
+     "title": "Línea que atraviesa tiendas",
+     "cats": "Línea + texto",
+     "desc": "Línea vino horizontal que pasa por «tienda 1 · tienda 2 · tienda 3».",
+     "ref": "V10-A27",
+     "type": "j_line",
+     "props": {
+      "bg": "white",
+      "shape": "down",
+      "stops": [
+       {
+        "big": "todas",
+        "t": 5.08
+       },
+       {
+        "big": "al mismo tiempo.",
+        "sans": true,
+        "t": 6.66
+       }
+      ]
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "start": 7.42,
+   "end": 10.06,
+   "script": "La gente ve 20 descuentos iguales. ¿Y a quién le compra?",
+   "seen": "Cantidad + igualdad: íconos repetidos en mancha rugosa (V12-A10).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Etiquetas iguales",
+     "cats": "Ilustración central",
+     "desc": "Tres etiquetas idénticas dibujadas con trazo rugoso; «20 descuentos / iguales».",
+     "ref": "V12-A10",
+     "type": "arthur_icons",
+     "props": {
+      "bg": "white",
+      "icons": [
+       "tag",
+       "tag",
+       "tag"
+      ],
+      "lines": [
+       {
+        "t": "20 descuentos",
+        "size": "l"
+       },
+       {
+        "t": "iguales",
+        "size": "s"
+       }
+      ]
+     },
+     "exit": "glitch_blocks"
+    },
+    {
+     "title": "Gráfico plano",
+     "cats": "Gráficas",
+     "desc": "20 puntos iguales en una cuadrícula oscura.",
+     "ref": "V19-A14",
+     "type": "j_graph",
+     "props": {
+      "points": [
+       {
+        "x": 0,
+        "y": 0.5
+       },
+       {
+        "x": 1,
+        "y": 0.5
+       }
+      ],
+      "big": "20 iguales",
+      "sans": true
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "start": 10.06,
+   "end": 11.2,
+   "script": "No al más barato.",
+   "seen": "Remate → punch-in en su cara (v09).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Punch-in en el remate",
+     "cats": "A-roll",
+     "desc": "Zoom 1.3 en «barato».",
+     "ref": "V11-A09",
+     "type": "aroll",
+     "props": {
+      "zoom": 1.3
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    },
+    {
+     "title": "Cita corta",
+     "cats": "Texto centrado",
+     "desc": "«no al más barato.»",
+     "ref": "V10-A59",
+     "type": "j_quote",
+     "props": {
+      "bg": "white",
+      "small": "no al",
+      "big": "más barato.",
+      "t": 10.24
+     }
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "start": 11.2,
+   "end": 14.16,
+   "script": "Le compra la tienda donde la ropa se ve más bonita",
+   "seen": "Emoción / belleza → pintura con textura + slide de cámara (principio 3).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Pintura «La dependienta»",
+     "cats": "Pinturas · Cut-away",
+     "desc": "Tissot con textura de pintura que se mueve con ella; «donde la ropa se ve / bonita».",
+     "ref": "V06-A02",
+     "type": "j_painting",
+     "props": {
+      "media": "media/assets/P01.png",
+      "small": "donde la ropa se ve",
+      "big": "bonita",
+      "t": 13.02,
+      "text_pos": "bottom"
+     }
+    },
+    {
+     "title": "Modelo en boutique",
+     "cats": "B-roll + texto",
+     "desc": "La modelo con la blusa, bordes desenfocados.",
+     "ref": "V01-A24",
+     "type": "j_broll",
+     "props": {
+      "media": [
+       "media/assets/A02.png"
+      ],
+      "small": "donde la ropa se ve",
+      "big": "bonita",
+      "t": 13.02
+     }
+    },
+    {
+     "title": "Ilustración de la modelo",
+     "cats": "Ilustración central",
+     "desc": "Recorte de la modelo en vino rugoso.",
+     "ref": "V10-A08",
+     "type": "j_illus",
+     "props": {
+      "media": "media/assets/A02_cut.png",
+      "small": "donde la ropa se ve",
+      "big": "bonita",
+      "t": 13.02
+     }
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "start": 14.16,
+   "end": 16.28,
+   "script": "y donde le da confianza que le va a llegar lo mismo que vio.",
+   "seen": "Vuelve a la cara para cerrar la idea.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    },
+    {
+     "title": "Cita",
+     "cats": "Texto centrado",
+     "desc": "«lo mismo / que vio.»",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "white",
+      "small": "que le llegue",
+      "big": "lo mismo que vio.",
+      "t": 15.3
+     }
+    },
+    {
+     "title": "Producto",
+     "cats": "Objeto + texto",
+     "desc": "La blusa hero con revelado rugoso.",
+     "ref": "V01-A37",
+     "type": "j_illus",
+     "props": {
+      "media": "media/assets/A01_cut.png",
+      "keep_color": true,
+      "small": "le llega",
+      "big": "lo mismo",
+      "t": 15.3
+     }
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "start": 16.28,
+   "end": 21.06,
+   "script": "Entonces si bajas el precio y no te compran igual pierdes dos veces, vendes poco y ganas menos",
+   "seen": "Una consecuencia numérica → gráfico oscuro con bola que cae paso a paso en cada palabra; la cámara la sigue (principio 10, V10-A02).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Gráfico que cae",
+     "cats": "Gráficas + representación visual · Cut-away",
+     "desc": "Cuadrícula brillante, la bola baja en «precio», se aplana en «compran igual» y cae en «vendes poco» y «ganas menos»; «pierdes / dos veces.»",
+     "ref": "V19-A14",
+     "type": "j_graph",
+     "props": {
+      "y_label": "GANANCIA",
+      "x_label": "TIEMPO",
+      "points": [
+       {
+        "x": 0,
+        "y": 0.8,
+        "t": 16.4
+       },
+       {
+        "x": 0.2,
+        "y": 0.55,
+        "t": 17.34,
+        "label": "bajas el precio"
+       },
+       {
+        "x": 0.42,
+        "y": 0.55,
+        "t": 18.38
+       },
+       {
+        "x": 0.66,
+        "y": 0.3,
+        "t": 20.02,
+        "label": "vendes poco"
+       },
+       {
+        "x": 0.9,
+        "y": 0.08,
+        "t": 20.82,
+        "label": "ganas menos"
+       }
+      ],
+      "small": "pierdes",
+      "big": "dos veces.",
+      "sans": true,
+      "text_t": 18.66
+     },
+     "enter": "wipe"
+    },
+    {
+     "title": "Bloques que se dividen",
+     "cats": "Gráficas",
+     "desc": "«Vendes poco · Ganas menos».",
+     "ref": "V19-A15",
+     "type": "arthur_blocks",
+     "props": {
+      "bg": "white",
+      "labels": [
+       "Vendes poco",
+       "Ganas menos"
+      ],
+      "lines": [
+       {
+        "t": "pierdes",
+        "size": "s"
+       },
+       {
+        "t": "dos veces.",
+        "size": "l"
+       }
+      ]
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "start": 21.06,
+   "end": 24.06,
+   "script": "por cada prenda. Y en enero no tienes plata para volver a surtir.",
+   "seen": "Dos cosas a la vez (enero / sin plata) → ilustración lateral con media luna de tela y texto que rota (principio 8).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Media luna de enero",
+     "cats": "Ilustración lateral + texto",
+     "desc": "Media luna vino con textura de tela, «ENERO · SIN PLATA · PARA SURTIR» rotando; «sin plata.»",
+     "ref": "V10-A02",
+     "type": "j_half",
+     "props": {
+      "ring": [
+       "ENERO",
+       "SIN PLATA",
+       "PARA SURTIR"
+      ],
+      "small": "y en enero",
+      "big": "sin plata.",
+      "t": 22.72
+     },
+     "exit": "glitch_blocks"
+    },
+    {
+     "title": "Calendario en órbita",
+     "cats": "Ilustración central",
+     "desc": "Ícono de calendario con anillos.",
+     "ref": "V12-A10",
+     "type": "arthur_orbit",
+     "props": {
+      "bg": "accent",
+      "icon": "calendar",
+      "lines": [
+       {
+        "t": "en enero, sin plata",
+        "size": "s"
+       },
+       {
+        "t": "para surtir.",
+        "size": "l"
+       }
+      ]
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "start": 24.06,
+   "end": 26.06,
+   "script": "Mejor haz esto. Deja el precio quieto",
+   "seen": "Anuncia la solución → cara + punch-in.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Punch-in",
+     "cats": "A-roll",
+     "desc": "Zoom en «esto».",
+     "ref": "V11-A09",
+     "type": "aroll",
+     "props": {
+      "zoom": 1.28
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    },
+    {
+     "title": "Cita",
+     "cats": "Texto centrado",
+     "desc": "«deja el precio / quieto.»",
+     "ref": "V10-A59",
+     "type": "j_quote",
+     "props": {
+      "bg": "accent",
+      "small": "deja el precio",
+      "big": "quieto.",
+      "t": 25.48
+     }
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "start": 26.06,
+   "end": 30.9,
+   "script": "y muestra mejor tu ropa. La prenda puesta, completa, con buena luz y una regla que no se negocia.",
+   "seen": "Enumera fases → línea en zigzag con paneo que revela una foto a cada lado (principio 5, V10-A37).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Zigzag con fotos",
+     "cats": "Línea + ilustraciones · Cut-away",
+     "desc": "Línea vino gruesa en zigzag; la cámara la sigue y revela la modelo (puesta), la blusa (completa), la ventana (buena luz) y termina en «no se negocia.»",
+     "ref": "V10-A37",
+     "type": "j_line",
+     "props": {
+      "bg": "white",
+      "shape": "zigzag",
+      "stops": [
+       {
+        "small": "la prenda",
+        "big": "puesta,",
+        "t": 27.74,
+        "img": "media/assets/A02.png"
+       },
+       {
+        "big": "completa,",
+        "sans": true,
+        "t": 28.3,
+        "img": "media/assets/A01.png"
+       },
+       {
+        "small": "con",
+        "big": "buena luz",
+        "t": 29.06,
+        "img": "media/assets/A03f.png"
+       },
+       {
+        "small": "y una regla que",
+        "big": "no se negocia.",
+        "sans": true,
+        "t": 30.44
+       }
+      ]
+     },
+     "enter": "wipe"
+    },
+    {
+     "title": "Franjas numeradas",
+     "cats": "Imágenes + texto",
+     "desc": "3 franjas 1·2·3 que se encienden.",
+     "ref": "V06-A03",
+     "type": "arthur_stripes",
+     "props": {
+      "items": [
+       {
+        "label": "Puesta",
+        "media": "media/assets/A02.png"
+       },
+       {
+        "label": "Completa",
+        "media": "media/assets/A01.png"
+       },
+       {
+        "label": "Buena luz",
+        "media": "media/assets/A03.mp4"
+       }
+      ],
+      "active_at": [
+       1.68,
+       2.24,
+       3.0
+      ]
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "start": 31.4,
+   "end": 34.6,
+   "script": "La foto tiene que ser de tu prenda real. Mismo color, mismo corte.",
+   "seen": "Regla / tesis → tarjeta de color con comillas, entrada sándwich (V08, principio 6).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Cita en vino",
+     "cats": "Texto centrado · Cut-away",
+     "desc": "Papel muy rugoso vino, comillas; «de tu / prenda real. / mismo color, mismo corte.»",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "accent",
+      "small": "la foto tiene que ser de tu",
+      "big": "prenda real.",
+      "after": "mismo color, mismo corte.",
+      "t": 32.5
+     },
+     "enter": "invert_sandwich"
+    },
+    {
+     "title": "Cita en blanco",
+     "cats": "Texto centrado",
+     "desc": "La misma, blanco con vino.",
+     "ref": "V10-A59",
+     "type": "j_quote",
+     "props": {
+      "bg": "white",
+      "small": "la foto tiene que ser de tu",
+      "big": "prenda real.",
+      "t": 32.5
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "start": 34.6,
+   "end": 37.14,
+   "script": "Si llega distinta te la devuelven. Si vendes ropa,",
+   "seen": "Advertencia breve → cara.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    },
+    {
+     "title": "Punch-in",
+     "cats": "A-roll",
+     "desc": "Zoom en «devuelven».",
+     "ref": "V11-A09",
+     "type": "aroll",
+     "props": {
+      "zoom": 1.25
+     }
+    },
+    {
+     "title": "Cita",
+     "cats": "Texto centrado",
+     "desc": "«te la devuelven.»",
+     "ref": "V10-A59",
+     "type": "j_quote",
+     "props": {
+      "bg": "white",
+      "small": "si llega distinta",
+      "big": "te la devuelven.",
+      "t": 35.6
+     }
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "start": 37.14,
+   "end": 39.7,
+   "script": "comenta la palabra que sale en pantalla y te hago gratis",
+   "seen": "CTA → pantalla de acento con la palabra.",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Palabra BLACK",
+     "cats": "Título · CTA",
+     "desc": "Fondo vino, «comenta / BLACK».",
+     "ref": "V10-A59",
+     "type": "arthur_text",
+     "props": {
+      "bg": "accent",
+      "lines": [
+       {
+        "t": "comenta",
+        "size": "s"
+       },
+       {
+        "t": "BLACK",
+        "size": "l",
+        "px": 200,
+        "sans": true
+       }
+      ]
+     },
+     "enter": "glitch_blocks"
+    },
+    {
+     "title": "Cita BLACK",
+     "cats": "Texto centrado",
+     "desc": "Comillas, «BLACK».",
+     "ref": "V01-A27",
+     "type": "j_quote",
+     "props": {
+      "bg": "accent",
+      "small": "comenta",
+      "big": "BLACK",
+      "sans": true,
+      "t": 37.4
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "start": 39.7,
+   "end": 42.66,
+   "script": "Un anuncio de una de tus prendas con tu foto real.",
+   "seen": "Persona → ilustración central de la modelo, rugosa (principio 7).",
+   "pick": "A",
+   "opts": [
+    {
+     "title": "Ilustración de la modelo",
+     "cats": "Ilustración central + texto",
+     "desc": "Recorte de la modelo en vino rugoso que sube desde abajo; «con / tu foto real.»",
+     "ref": "V10-A08",
+     "type": "j_illus",
+     "props": {
+      "media": "media/assets/A02_cut.png",
+      "small": "un anuncio gratis con",
+      "big": "tu foto real.",
+      "t": 41.8
+     }
+    },
+    {
+     "title": "Órbita con su foto",
+     "cats": "Objeto + texto",
+     "desc": "Foto circular con anillos.",
+     "ref": "V12-A10",
+     "type": "arthur_orbit",
+     "props": {
+      "bg": "white",
+      "media": "media/assets/A02.png",
+      "lines": [
+       {
+        "t": "un anuncio gratis con",
+        "size": "s"
+       },
+       {
+        "t": "tu foto real.",
+        "size": "l"
+       }
+      ]
+     }
+    },
+    {
+     "title": "Quedarse en el A-roll",
+     "cats": "Captions · A-roll",
+     "desc": "",
+     "ref": "V01-A40",
+     "type": null,
+     "props": {}
+    }
+   ]
+  }
+ ]
+}

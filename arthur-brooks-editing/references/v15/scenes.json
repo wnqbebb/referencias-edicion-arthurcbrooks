@@ -1,0 +1,92 @@
+[
+ {
+  "id": "v15_s01", "start": 0.0, "end": 6.2, "category": "split_layout",
+  "script": "I think one of the things that we've done in the sort of more modern era is think of ourselves as separate and distinct from nature.",
+  "what": "Pantalla dividida: arriba (~68 %) plano medio del invitado (hombre de ~40 años, camisa caqui de trabajo, barba corta) sentado, gesticulando, con sillas de montar y prado verde detrás; abajo (~32 %) plano general de los tres en sillas blancas de jardín (Brooks a la izquierda de negro).",
+  "design": "División a ~68 % sin separador. Caption sans bold pequeña blanca en caja granate #7A2232, centrada sobre la costura (~65 % de altura), 3–5 palabras. Fondo de prado #B5B86A, camisa #A89A78.",
+  "effects": "Luz de mediodía, fondo desenfocado claro; sin textura.",
+  "animation": "Caption por frase con corte seco; vídeo continuo.",
+  "why": "Hook de idea ('nos creemos separados de la naturaleza') en plano medio del que habla; abajo se ve que la charla ocurre en la naturaleza.",
+  "quality": 2, "best_t": 3.0
+ },
+ {
+  "id": "v15_s02", "start": 6.2, "end": 12.9, "category": "split_layout",
+  "script": "And the more we get separated from it, the less happy we get. And the more we start acting badly.",
+  "what": "Mismo split; el invitado gesticula con ambas manos abiertas.",
+  "design": "Caption en caja granate ~65 %.",
+  "effects": "Igual.",
+  "animation": "Plano continuo.",
+  "why": "Consecuencia (menos felices, peor conducta): sostenida en cara.",
+  "quality": 2, "best_t": 9.0
+ },
+ {
+  "id": "v15_s03", "start": 12.9, "end": 18.8, "category": "split_layout",
+  "script": "And so returning to nature, spending time in nature, is just so fundamentally important for us.",
+  "what": "Mismo split; invitado mirando a la izquierda (hacia Brooks).",
+  "design": "Caption en caja granate ~65 %.",
+  "effects": "Humo del brasero entra en el plano general.",
+  "animation": "Plano continuo.",
+  "why": "Tesis positiva; el plano general verde la ilustra de forma pasiva.",
+  "quality": 2, "best_t": 15.0
+ },
+ {
+  "id": "v15_s04", "start": 18.8, "end": 23.9, "category": "split_layout",
+  "script": "In this country, 100 million people live more than a 10 minute walk from a green space.",
+  "what": "Mismo split; el invitado da el dato.",
+  "design": "Caption '100 million people' en la misma caja granate (sin gráfico ni énfasis especial).",
+  "effects": "Igual.",
+  "animation": "Plano continuo.",
+  "why": "Dato fuerte entregado solo por voz + caption; formato crudo (oportunidad para graph_stats).",
+  "quality": 2, "best_t": 19.5
+ },
+ {
+  "id": "v15_s05", "start": 23.9, "end": 30.0, "category": "split_layout",
+  "script": "And when I say a green space, I'm not talking about this, I'm talking about just a little postage stamp of green space.",
+  "what": "Mismo split; el invitado señala alrededor ('esto') y hace con las manos el gesto de algo pequeño.",
+  "design": "Caption en caja granate ~65 %.",
+  "effects": "Igual.",
+  "animation": "Plano continuo.",
+  "why": "El gesto 'not talking about this' se apoya en que el plano general muestra el entorno.",
+  "quality": 2, "best_t": 25.5
+ },
+ {
+  "id": "v15_s06", "start": 30.0, "end": 36.5, "category": "split_layout",
+  "script": "And the people that live in, that can't access those areas because it's part of their natural environment, they walk to it,",
+  "what": "Mismo split; invitado explicando con las manos.",
+  "design": "Caption en caja granate ~65 %.",
+  "effects": "Igual.",
+  "animation": "Plano continuo.",
+  "why": "Desarrollo del argumento.",
+  "quality": 1, "best_t": 33.0
+ },
+ {
+  "id": "v15_s07", "start": 36.5, "end": 42.9, "category": "split_layout",
+  "script": "are generally have worse mental outcomes than people that have easy access to the outdoors.",
+  "what": "Mismo split; invitado mirando a Brooks.",
+  "design": "Caption en caja granate ~65 % ('worse mental outcomes').",
+  "effects": "Igual.",
+  "animation": "Plano continuo.",
+  "why": "Conclusión del dato (peor salud mental).",
+  "quality": 2, "best_t": 39.0
+ },
+ {
+  "id": "v15_s08", "start": 42.9, "end": 51.67, "category": "split_layout",
+  "script": "So it's critically important that we continue to push to make sure that people understand the value of nature, but even more importantly have access.",
+  "what": "Mismo split; invitado cerrando la idea, mira abajo al final.",
+  "design": "Caption en caja granate ~65 %.",
+  "effects": "Igual.",
+  "animation": "Plano continuo; corte seco a negro.",
+  "why": "Llamada a la acción del invitado (acceso a la naturaleza).",
+  "quality": 2, "best_t": 46.5
+ },
+ {
+  "id": "v15_s09", "start": 51.67, "end": 53.19, "category": "title_cta",
+  "script": "—",
+  "what": "End card sobre negro: logo 'The Fire Pit' (llama roja/amarilla, letras blancas) + insignia granate 'UNITED BY NATURE'.",
+  "design": "Logo centrado a ~42 %, insignia a ~58 %; fondo #000.",
+  "effects": "Ninguno.",
+  "animation": "Corte seco; estático ~1.5 s.",
+  "why": "Firma del show/organización.",
+  "quality": 2, "best_t": 51.0
+ }
+]

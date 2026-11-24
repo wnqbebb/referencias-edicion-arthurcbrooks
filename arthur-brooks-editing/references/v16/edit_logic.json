@@ -1,0 +1,1168 @@
+{
+ "video": "v16",
+ "triggers": [
+  {
+   "t_word": 0.0,
+   "word": "What's",
+   "element": "A-roll plano general (butaca mostaza); pregunta-hook en captions DIMINUTOS palabra a palabra, sin palabra grande",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "hook = pregunta directa del speaker, el texto no compite"
+  },
+  {
+   "t_word": 2.62,
+   "word": "There's",
+   "element": "corte a primer plano 3/4 (2ª cámara); 'There's' diminuto",
+   "category": "captions_text",
+   "offset_s": -0.04,
+   "why": "cambio de plano a ritmo de frase"
+  },
+  {
+   "t_word": 3.0,
+   "word": "research",
+   "element": "archivo B/N de investigador con papeles; 'research' serif itálica bold blanca grande con el corte 3.125",
+   "category": "broll_text",
+   "offset_s": 0.12,
+   "why": "literal (investigación)"
+  },
+  {
+   "t_word": 3.36,
+   "word": "on",
+   "element": "plano casi negro 3.42–3.6 con 'on' diminuto",
+   "category": "broll_text",
+   "offset_s": 0.1,
+   "why": "respiración/ritmo staccato"
+  },
+  {
+   "t_word": 3.66,
+   "word": "what",
+   "element": "archivo B/N de persona colgando fotos en un tablero 3.625",
+   "category": "broll_text",
+   "offset_s": -0.03,
+   "why": "literal (análisis)"
+  },
+  {
+   "t_word": 3.82,
+   "word": "makes",
+   "element": "push horizontal de 2 fr a b-roll cálido de librería con flores; 'makes' serif itálica",
+   "category": "broll_text",
+   "offset_s": 0.14,
+   "why": "transición de archivo frío a mundo cálido de citas"
+  },
+  {
+   "t_word": 4.28,
+   "word": "successful.",
+   "element": "'dates' diminuto + 'successful.' serif itálica bold blanca, leve push-in",
+   "category": "broll_text",
+   "offset_s": 0.0,
+   "why": "énfasis/palabra-promesa"
+  },
+  {
+   "t_word": 5.3,
+   "word": "The",
+   "element": "flash cian #0CA7FC 1 fr 5.25 → azul; paper entra girado desde arriba-derecha 5.33–5.42 y se asienta con esquina doblada",
+   "category": "object_element",
+   "offset_s": -0.05,
+   "why": "dato: 'research' → documento real"
+  },
+  {
+   "t_word": 6.1,
+   "word": "clear",
+   "element": "flash/disolución celeste 6.08–6.17 → paper a pantalla completa ('Anxiety Within Romantic Relationships') con paneo a la izquierda",
+   "category": "object_element",
+   "offset_s": -0.02,
+   "why": "prueba legible"
+  },
+  {
+   "t_word": 6.78,
+   "word": "fear",
+   "element": "marcador negro/rojo resalta el título dentro del paper ~7.0",
+   "category": "object_element",
+   "offset_s": 0.22,
+   "why": "subrayado del dato"
+  },
+  {
+   "t_word": 7.22,
+   "word": "is",
+   "element": "glitch de bloques de color (blanco/cian/rojo) 7.125–7.21 → tarjeta paper sobre azul con 'fear' serif itálica arriba",
+   "category": "object_element",
+   "offset_s": 0.03,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 7.78,
+   "word": "rise",
+   "element": "'is on' diminuto + 'the rise' serif itálica bold debajo de la hoja (layout sándwich)",
+   "category": "object_element",
+   "offset_s": 0.2,
+   "why": "dato"
+  },
+  {
+   "t_word": 8.52,
+   "word": "people",
+   "element": "corte a A-roll plano medio 8.375; 'from' → 'who are dating.'",
+   "category": "captions_text",
+   "offset_s": -0.15,
+   "why": "vuelta a la cara para concluir"
+  },
+  {
+   "t_word": 9.74,
+   "word": "Now,",
+   "element": "cambio de cámara a plano más cerrado 9.625 sobre 'Now,'",
+   "category": "captions_text",
+   "offset_s": -0.11,
+   "why": "anuncio → cara"
+  },
+  {
+   "t_word": 11.04,
+   "word": "There's",
+   "element": "corte a fondo blanco con manchas lavanda 10.958; punto azul diminuto aparece 11.17",
+   "category": "center_illustration",
+   "offset_s": -0.08,
+   "why": "anuncia el modelo → gráfico"
+  },
+  {
+   "t_word": 11.18,
+   "word": "two",
+   "element": "el punto crece a disco azul con degradado radial 11.33; 2º punto aparece arriba-derecha 11.5 y crece 11.83",
+   "category": "center_illustration",
+   "offset_s": 0.15,
+   "why": "literal ('two dimensions' = 2 discos)"
+  },
+  {
+   "t_word": 12.26,
+   "word": "avoidance",
+   "element": "etiqueta 'Avoidance' serif itálica gris→negra 12.33 + flecha curva se dibuja 12.5–12.7",
+   "category": "center_illustration",
+   "offset_s": 0.07,
+   "why": "literal (rótulo)"
+  },
+  {
+   "t_word": 13.4,
+   "word": "anxiety.",
+   "element": "etiqueta 'Anxiety' + flecha 13.5",
+   "category": "center_illustration",
+   "offset_s": 0.1,
+   "why": "literal"
+  },
+  {
+   "t_word": 14.18,
+   "word": "Now,",
+   "element": "etiquetas y flechas se desvanecen 15.0–15.33",
+   "category": "center_illustration",
+   "offset_s": 0.82,
+   "why": "limpia para el siguiente paso"
+  },
+  {
+   "t_word": 15.84,
+   "word": "both",
+   "element": "los discos se deslizan hasta solaparse 15.5–16.17; 'both' diminuto 15.83",
+   "category": "center_illustration",
+   "offset_s": -0.34,
+   "why": "literal (ambos = solape)"
+  },
+  {
+   "t_word": 16.0,
+   "word": "anxious",
+   "element": "'anxious' serif itálica bold 16.17",
+   "category": "center_illustration",
+   "offset_s": 0.17,
+   "why": "literal"
+  },
+  {
+   "t_word": 16.88,
+   "word": "avoidant.",
+   "element": "'and' + 'avoidant.' 16.83",
+   "category": "center_illustration",
+   "offset_s": -0.05,
+   "why": "literal"
+  },
+  {
+   "t_word": 18.08,
+   "word": "insecure",
+   "element": "texto inferior fade-out 17.5; 'Insecure' fade-in arriba 17.67–18.0 + flecha a la intersección 18.0",
+   "category": "center_illustration",
+   "offset_s": -0.3,
+   "why": "dato (nombre del cuadrante)"
+  },
+  {
+   "t_word": 19.44,
+   "word": "attachment",
+   "element": "'in your' 19.17 + 'attachment' serif itálica 19.5 + 'style' 20.17",
+   "category": "center_illustration",
+   "offset_s": 0.06,
+   "why": "etiqueta"
+  },
+  {
+   "t_word": 20.88,
+   "word": "dating",
+   "element": "bloque sustituido: 'and in your' + 'dating style.' 21.0",
+   "category": "center_illustration",
+   "offset_s": 0.12,
+   "why": "etiqueta"
+  },
+  {
+   "t_word": 21.84,
+   "word": "So",
+   "element": "los discos se iluminan a cian (bloom) 21.83–21.875 y corte a A-roll general 21.917",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "salida del gráfico con glow"
+  },
+  {
+   "t_word": 22.64,
+   "word": "against",
+   "element": "'to work' + 'against' sans bold grande 22.83",
+   "category": "captions_text",
+   "offset_s": 0.19,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 23.44,
+   "word": "consciously.",
+   "element": "'consciously.' serif itálica blanca 23.5 + caja azul #1E5BFF aparece detrás 23.67 (1 fr después)",
+   "category": "captions_text",
+   "offset_s": 0.06,
+   "why": "palabra-acción especial = caja de acento"
+  },
+  {
+   "t_word": 24.5,
+   "word": "And",
+   "element": "cambio a plano medio-cerrado 24.5; 'there's' grande 24.67",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "anuncio de la solución → cara más cerca"
+  },
+  {
+   "t_word": 25.68,
+   "word": "You",
+   "element": "b-roll mujer abrazando rodillas junto a la ventana 25.58; 'anxiety,' grande",
+   "category": "broll_text",
+   "offset_s": -0.1,
+   "why": "emoción (ansiedad)"
+  },
+  {
+   "t_word": 26.92,
+   "word": "you",
+   "element": "b-roll rostro gritando con grano verdoso 26.94; dip a negro 27.08",
+   "category": "broll_text",
+   "offset_s": 0.02,
+   "why": "emoción intensa"
+  },
+  {
+   "t_word": 27.44,
+   "word": "sense",
+   "element": "rostro borroso entre oscuridad 27.33; 'sense' grande 27.54",
+   "category": "broll_text",
+   "offset_s": 0.1,
+   "why": "emoción"
+  },
+  {
+   "t_word": 27.98,
+   "word": "dread",
+   "element": "vuelve el rostro gritando 27.83, cae a negro 27.96; 'dread' grande 28.04",
+   "category": "broll_text",
+   "offset_s": 0.06,
+   "why": "emoción (estroboscopio negro/rostro)"
+  },
+  {
+   "t_word": 28.54,
+   "word": "uncertainty",
+   "element": "rostro desenfocado con grano 28.83; 'uncertainty,' blanco que pasa a GRIS 29.08",
+   "category": "broll_text",
+   "offset_s": 0.29,
+   "why": "color = significado (incertidumbre apagada)"
+  },
+  {
+   "t_word": 29.48,
+   "word": "you",
+   "element": "corte a primer plano del speaker 29.33 (giro positivo)",
+   "category": "captions_text",
+   "offset_s": -0.15,
+   "why": "vuelta a la cara para el giro"
+  },
+  {
+   "t_word": 30.2,
+   "word": "adventure.",
+   "element": "'into' + 'adventure.' sans bold grande",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "palabra-promesa"
+  },
+  {
+   "t_word": 32.16,
+   "word": "because",
+   "element": "corte a fondo blanco con resonancia coronal invertida 32.29; el fondo lavanda aparece 32.375",
+   "category": "center_illustration",
+   "offset_s": 0.13,
+   "why": "literal (cerebro)"
+  },
+  {
+   "t_word": 32.9,
+   "word": "modern",
+   "element": "zona derecha del cerebro en ROJO + cuadrícula rosa + 'Fear' serif itálica con flecha",
+   "category": "center_illustration",
+   "offset_s": 0.3,
+   "why": "literal (miedo)"
+  },
+  {
+   "t_word": 33.2,
+   "word": "brain",
+   "element": "caja negra (redacción) 33.33 → frames gris/negro invertido 33.42–33.5 → cerebro VERDE neón 33.54",
+   "category": "center_illustration",
+   "offset_s": 0.13,
+   "why": "reencuadre visual rojo→verde"
+  },
+  {
+   "t_word": 34.24,
+   "word": "possible",
+   "element": "'Adventure' serif itálica con flecha a la zona verde; 'possible' diminuto",
+   "category": "center_illustration",
+   "offset_s": 0.3,
+   "why": "literal"
+  },
+  {
+   "t_word": 35.22,
+   "word": "you",
+   "element": "corte a primer plano cerrado 35.04; 'reframe' grande",
+   "category": "captions_text",
+   "offset_s": -0.18,
+   "why": "vuelta a la cara"
+  },
+  {
+   "t_word": 39.06,
+   "word": "Turning",
+   "element": "cambio de cámara (2ª cámara, otro ángulo CU) 38.96",
+   "category": "captions_text",
+   "offset_s": -0.1,
+   "why": "nuevo punto → nuevo ángulo"
+  },
+  {
+   "t_word": 41.36,
+   "word": "two",
+   "element": "corte a blanco-lavanda 41.42; punto 41.54 → disco 'Step-1' 41.67 → se divide en Step-1/Step-2 vertical 41.83",
+   "category": "center_illustration",
+   "offset_s": 0.18,
+   "why": "literal (dos pasos)"
+  },
+  {
+   "t_word": 41.84,
+   "word": "process.",
+   "element": "los dos círculos orbitan hasta alinearse en horizontal 42.17–43.33",
+   "category": "center_illustration",
+   "offset_s": 0.33,
+   "why": "proceso ordenado"
+  },
+  {
+   "t_word": 44.2,
+   "word": "I'm",
+   "element": "flecha se dibuja desde Step-1 + '“I'm normal.”' serif itálica escrita LETRA A LETRA 44.0–44.83",
+   "category": "center_illustration",
+   "offset_s": -0.2,
+   "why": "mantra (máquina de escribir)"
+  },
+  {
+   "t_word": 45.14,
+   "word": "The",
+   "element": "corte a A-roll general 45.04; 'anxiety' grande 45.25",
+   "category": "captions_text",
+   "offset_s": -0.1,
+   "why": "explicar → cara"
+  },
+  {
+   "t_word": 50.48,
+   "word": "If",
+   "element": "b-roll silueta de cabeza en contraluz teal 50.375; 'fight' + 'against'",
+   "category": "broll_text",
+   "offset_s": -0.1,
+   "why": "emoción (lucha interna)"
+  },
+  {
+   "t_word": 52.3,
+   "word": "normal",
+   "element": "b-roll cálido hombre con la mano en la cabeza 52.33; 'normal' grande 52.42",
+   "category": "broll_text",
+   "offset_s": 0.03,
+   "why": "emoción"
+  },
+  {
+   "t_word": 54.22,
+   "word": "it's",
+   "element": "corte a A-roll plano medio 54.17; 'just' 'going to' 'get worse.'",
+   "category": "captions_text",
+   "offset_s": -0.05,
+   "why": "vuelta a la cara"
+  },
+  {
+   "t_word": 56.92,
+   "word": "I",
+   "element": "corte a primer plano 3/4 56.83; caja azul crece desde una barra horizontal 56.96–57.04",
+   "category": "captions_text",
+   "offset_s": -0.09,
+   "why": "mantra en caja"
+  },
+  {
+   "t_word": 57.54,
+   "word": "feels,",
+   "element": "cita completa '“I don't like how this feels, but this is a normal thing.”' sans bold en caja azul 2 líneas (visible hasta 59.2)",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "frase capturable completa"
+  },
+  {
+   "t_word": 59.38,
+   "word": "This",
+   "element": "corte a plano medio 59.25",
+   "category": "captions_text",
+   "offset_s": -0.13,
+   "why": ""
+  },
+  {
+   "t_word": 62.58,
+   "word": "anxiety",
+   "element": "cambio a plano general 62.54 + 'anxiety' grande 62.63",
+   "category": "captions_text",
+   "offset_s": -0.04,
+   "why": "el corte cae en la palabra clave"
+  },
+  {
+   "t_word": 63.64,
+   "word": "a",
+   "element": "punch-in a plano medio 63.375",
+   "category": "captions_text",
+   "offset_s": -0.27,
+   "why": "énfasis 'is a normal thing'"
+  },
+  {
+   "t_word": 65.48,
+   "word": "Here's",
+   "element": "corte a primer plano 65.46; 'Here's the second part.'",
+   "category": "captions_text",
+   "offset_s": -0.02,
+   "why": "anuncio → cara"
+  },
+  {
+   "t_word": 66.6,
+   "word": "Think",
+   "element": "vuelve el diagrama Step-1/Step-2 con '“I'm normal.”' 66.5; 'Think about this thing,' escrito letra a letra 66.83–68.67 + flecha desde Step-2 hacia abajo 67.17–67.5",
+   "category": "center_illustration",
+   "offset_s": -0.1,
+   "why": "callback: progreso del proceso"
+  },
+  {
+   "t_word": 69.02,
+   "word": "This",
+   "element": "b-roll hombre caminando descalzo por la orilla 68.96; 'walking' grande 69.83",
+   "category": "broll_text",
+   "offset_s": -0.06,
+   "why": "literal (caminar hacia)"
+  },
+  {
+   "t_word": 70.82,
+   "word": "you",
+   "element": "silueta en muelle de noche azul 70.75; 'don't' grande 70.83; 'exactly' 'what it is.'",
+   "category": "broll_text",
+   "offset_s": -0.07,
+   "why": "emoción (incertidumbre)"
+  },
+  {
+   "t_word": 72.32,
+   "word": "That's",
+   "element": "A-roll plano medio 72.29; 'interesting.' grande",
+   "category": "captions_text",
+   "offset_s": -0.03,
+   "why": "giro positivo → cara"
+  },
+  {
+   "t_word": 73.38,
+   "word": "Isn't",
+   "element": "cambio a primer plano 73.375 en la 1ª pregunta retórica",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "pregunta = nuevo plano"
+  },
+  {
+   "t_word": 75.44,
+   "word": "Isn't",
+   "element": "cambio a plano general 75.375 en la 2ª pregunta",
+   "category": "captions_text",
+   "offset_s": -0.07,
+   "why": "pregunta = nuevo plano"
+  },
+  {
+   "t_word": 77.08,
+   "word": "Well,",
+   "element": "b-roll pareja al atardecer frente a un lago 77.0",
+   "category": "broll_text",
+   "offset_s": -0.08,
+   "why": "emoción (cita)"
+  },
+  {
+   "t_word": 78.62,
+   "word": "new",
+   "element": "b-roll rostros casi tocándose, rojo-naranja 78.46; 'experience.' grande",
+   "category": "broll_text",
+   "offset_s": -0.16,
+   "why": "literal"
+  },
+  {
+   "t_word": 79.68,
+   "word": "It's",
+   "element": "A-roll general 79.71; 'opportunity'",
+   "category": "captions_text",
+   "offset_s": 0.03,
+   "why": ""
+  },
+  {
+   "t_word": 81.1,
+   "word": "talk",
+   "element": "primer plano 81.17",
+   "category": "captions_text",
+   "offset_s": 0.07,
+   "why": ""
+  },
+  {
+   "t_word": 85.0,
+   "word": "Focus",
+   "element": "plano general 85.0",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "consejo → cara"
+  },
+  {
+   "t_word": 85.76,
+   "word": "on",
+   "element": "b-roll pareja íntima en cocina a contraluz 85.96",
+   "category": "captions_text",
+   "offset_s": 0.2,
+   "why": "literal (estar interesado)"
+  },
+  {
+   "t_word": 88.76,
+   "word": "interesting.",
+   "element": "A-roll general 88.83; 'interesting.' grande",
+   "category": "captions_text",
+   "offset_s": 0.07,
+   "why": ""
+  },
+  {
+   "t_word": 89.76,
+   "word": "Going",
+   "element": "punch-in a plano medio 89.71",
+   "category": "captions_text",
+   "offset_s": -0.05,
+   "why": ""
+  },
+  {
+   "t_word": 91.68,
+   "word": "So",
+   "element": "ligero reencuadre 91.59",
+   "category": "captions_text",
+   "offset_s": -0.09,
+   "why": ""
+  },
+  {
+   "t_word": 96.0,
+   "word": "Before",
+   "element": "punch-in a primer plano 95.875 para el cierre",
+   "category": "captions_text",
+   "offset_s": -0.13,
+   "why": "cierre emocional = plano cerrado"
+  },
+  {
+   "t_word": 99.68,
+   "word": "adventure.",
+   "element": "'more like an' + 'adventure.' sans bold grande; corte a negro 100.28",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "cierre circular con la palabra-promesa"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 2.58,
+   "from": "aroll general",
+   "to": "aroll primer plano 3/4",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "cambio de cámara"
+  },
+  {
+   "t": 3.125,
+   "from": "aroll",
+   "to": "archivo B/N investigador",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 3.42,
+   "from": "archivo",
+   "to": "casi negro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "3 fr de oscuridad con 'on'"
+  },
+  {
+   "t": 3.625,
+   "from": "casi negro",
+   "to": "archivo tablero de fotos",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 3.958,
+   "from": "archivo B/N",
+   "to": "b-roll librería",
+   "type": "slide",
+   "frames": 2,
+   "detail": "push horizontal: franjas verticales de ambas imágenes mezcladas 2 fr"
+  },
+  {
+   "t": 5.25,
+   "from": "librería",
+   "to": "azul + paper",
+   "type": "flash blanco",
+   "frames": 1,
+   "detail": "flash de color CIAN #0CA7FC (no blanco) de 1 fr → azul #1A8CF5"
+  },
+  {
+   "t": 6.08,
+   "from": "tarjeta paper",
+   "to": "paper a pantalla completa",
+   "type": "crossfade",
+   "frames": 3,
+   "detail": "disolución por celeste/blanco 6.08–6.17 con punch-in al documento"
+  },
+  {
+   "t": 7.125,
+   "from": "paper pantalla completa",
+   "to": "tarjeta paper + 'fear'",
+   "type": "glitch",
+   "frames": 3,
+   "detail": "bloques de color blanco/cian/rojo y rectángulos desplazados 7.125–7.21"
+  },
+  {
+   "t": 8.375,
+   "from": "paper",
+   "to": "aroll plano medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 9.625,
+   "from": "aroll medio",
+   "to": "aroll más cerrado",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "cambio de cámara en 'Now,'"
+  },
+  {
+   "t": 10.958,
+   "from": "aroll",
+   "to": "fondo blanco-lavanda",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "2 fr vacíos antes del punto"
+  },
+  {
+   "t": 21.917,
+   "from": "discos",
+   "to": "aroll general",
+   "type": "flash blanco",
+   "frames": 2,
+   "detail": "flash de glow cian: los discos hacen bloom cian 21.83–21.875 y corte (flash de glow, no de pantalla)"
+  },
+  {
+   "t": 24.5,
+   "from": "aroll general",
+   "to": "aroll medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "cambio de cámara"
+  },
+  {
+   "t": 25.58,
+   "from": "aroll",
+   "to": "b-roll mujer junto a ventana",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 26.94,
+   "from": "mujer",
+   "to": "rostro gritando",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 27.08,
+   "from": "rostro gritando",
+   "to": "negro",
+   "type": "crossfade",
+   "frames": 2,
+   "detail": "dip-to-black (0.08 s)"
+  },
+  {
+   "t": 27.33,
+   "from": "negro",
+   "to": "rostro borroso",
+   "type": "crossfade",
+   "frames": 2,
+   "detail": "fade-in desde negro"
+  },
+  {
+   "t": 27.83,
+   "from": "oscuro",
+   "to": "rostro gritando",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 27.96,
+   "from": "rostro gritando",
+   "to": "negro",
+   "type": "crossfade",
+   "frames": 2,
+   "detail": "dip-to-black; patrón estroboscópico negro/rostro 26.94–28.8"
+  },
+  {
+   "t": 28.83,
+   "from": "negro",
+   "to": "rostro desenfocado",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 29.33,
+   "from": "b-roll",
+   "to": "aroll primer plano",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 32.29,
+   "from": "aroll",
+   "to": "blanco + resonancia",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "1º fr resonancia sobreexpuesta, fondo lavanda entra 32.375"
+  },
+  {
+   "t": 33.33,
+   "from": "cerebro rojo",
+   "to": "cerebro verde",
+   "type": "inversión de color",
+   "frames": 5,
+   "detail": "caja negra 33.33, gris 33.42, negativo negro 33.46, gris 33.5, verde 33.54"
+  },
+  {
+   "t": 35.04,
+   "from": "cerebro verde",
+   "to": "aroll primer plano",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 38.96,
+   "from": "aroll CU A",
+   "to": "aroll CU B",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "cambio de cámara/ángulo"
+  },
+  {
+   "t": 41.42,
+   "from": "aroll",
+   "to": "blanco-lavanda",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 45.04,
+   "from": "diagrama Steps",
+   "to": "aroll general",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 50.375,
+   "from": "aroll",
+   "to": "b-roll silueta teal",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 52.33,
+   "from": "silueta",
+   "to": "b-roll cálido",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 54.17,
+   "from": "b-roll",
+   "to": "aroll medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 56.83,
+   "from": "aroll medio",
+   "to": "aroll CU 3/4",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 59.25,
+   "from": "aroll CU",
+   "to": "aroll medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 62.54,
+   "from": "aroll medio",
+   "to": "aroll general",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "corte en la palabra clave 'anxiety'"
+  },
+  {
+   "t": 63.375,
+   "from": "aroll general",
+   "to": "aroll medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "punch-in por corte"
+  },
+  {
+   "t": 65.46,
+   "from": "aroll medio",
+   "to": "aroll CU",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 66.5,
+   "from": "aroll",
+   "to": "diagrama Steps",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 68.96,
+   "from": "diagrama",
+   "to": "b-roll orilla",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 70.75,
+   "from": "orilla",
+   "to": "muelle de noche",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 72.29,
+   "from": "muelle",
+   "to": "aroll medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 73.375,
+   "from": "aroll medio",
+   "to": "aroll CU",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "pregunta retórica 1"
+  },
+  {
+   "t": 75.375,
+   "from": "aroll CU",
+   "to": "aroll general",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "pregunta retórica 2"
+  },
+  {
+   "t": 77.0,
+   "from": "aroll",
+   "to": "b-roll pareja lago",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 78.46,
+   "from": "pareja lago",
+   "to": "rostros atardecer",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 79.71,
+   "from": "b-roll",
+   "to": "aroll general",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 81.17,
+   "from": "aroll general",
+   "to": "aroll CU",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 85.0,
+   "from": "aroll CU",
+   "to": "aroll general",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 85.96,
+   "from": "aroll",
+   "to": "b-roll pareja cocina",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 88.83,
+   "from": "b-roll",
+   "to": "aroll general",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 89.71,
+   "from": "aroll general",
+   "to": "aroll medio",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "punch-in digital ~1.15x"
+  },
+  {
+   "t": 91.59,
+   "from": "aroll medio",
+   "to": "aroll medio reencuadrado",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "reencuadre leve"
+  },
+  {
+   "t": 95.875,
+   "from": "aroll medio",
+   "to": "aroll primer plano",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "punch-in fuerte para el cierre"
+  },
+  {
+   "t": 100.28,
+   "from": "aroll CU",
+   "to": "negro",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "fin seco sin CTA"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.0,
+   "fx": "write-on por palabra",
+   "detail": "hook: SOLO palabras diminutas sans (~2 % alto) a 0.15–0.25 s/palabra, 2–3 visibles, ninguna grande"
+  },
+  {
+   "t": 3.125,
+   "fx": "pop",
+   "detail": "'research' serif itálica bold aparece completa con el corte (0 fr de animación)"
+  },
+  {
+   "t": 3.958,
+   "fx": "blur-in",
+   "detail": "'makes' entra con el push y se enfoca en 1–2 fr"
+  },
+  {
+   "t": 12.33,
+   "fx": "gris→blanco",
+   "detail": "etiquetas del diagrama entran gris claro→negro (en fondo claro) en ~0.15 s"
+  },
+  {
+   "t": 15.0,
+   "fx": "máscara",
+   "detail": "etiquetas+flechas se desvanecen 0.33 s antes del siguiente estado (limpieza explícita)"
+  },
+  {
+   "t": 17.67,
+   "fx": "blur-in",
+   "detail": "'Insecure' entra desenfocada/transparente 17.67–18.0"
+  },
+  {
+   "t": 21.0,
+   "fx": "máscara",
+   "detail": "bloque inferior se reemplaza completo (fade out/in) al cambiar de frase"
+  },
+  {
+   "t": 23.5,
+   "fx": "escala",
+   "detail": "'consciously.' serif itálica aparece sola y 1 fr después crece la caja azul detrás (wipe horizontal)"
+  },
+  {
+   "t": 29.08,
+   "fx": "gris→blanco",
+   "detail": "inverso: 'uncertainty,' pasa de blanco a GRIS 50 % mientras sigue en pantalla"
+  },
+  {
+   "t": 44.0,
+   "fx": "write-on por palabra",
+   "detail": "'“I'm normal.”' letra a letra (máquina de escribir) en 0.8 s; repetido en 66.83 para 'Think about this thing, that makes you feel uncertain'"
+  },
+  {
+   "t": 56.96,
+   "fx": "escala",
+   "detail": "caja azul del mantra crece desde una barra fina horizontal y luego aparece el texto completo (2 líneas) — no palabra a palabra"
+  },
+  {
+   "t": 62.63,
+   "fx": "pop",
+   "detail": "palabra grande A-roll: sans bold blanca ~6 % alto con relleno diminuto arriba ('The' / 'Remember,'); pop seco 1 fr"
+  }
+ ],
+ "camera": [
+  {
+   "t": 4.0,
+   "move": "push-in lento",
+   "scale_or_dir": "librería 1.0→1.04",
+   "dur_s": 1.25
+  },
+  {
+   "t": 5.33,
+   "move": "slide",
+   "scale_or_dir": "paper entra girado desde arriba-derecha y se asienta",
+   "dur_s": 0.55
+  },
+  {
+   "t": 6.17,
+   "move": "pan",
+   "scale_or_dir": "paper a pantalla completa se desplaza a la izquierda",
+   "dur_s": 0.9
+  },
+  {
+   "t": 11.17,
+   "move": "punch-in",
+   "scale_or_dir": "punto 0→disco 1.0 con ease-out",
+   "dur_s": 0.25
+  },
+  {
+   "t": 15.5,
+   "move": "slide",
+   "scale_or_dir": "discos se juntan hasta solaparse (ease in-out)",
+   "dur_s": 0.67
+  },
+  {
+   "t": 41.54,
+   "move": "punch-in",
+   "scale_or_dir": "punto → disco Step-1 → se divide en 2",
+   "dur_s": 0.3
+  },
+  {
+   "t": 42.17,
+   "move": "pan",
+   "scale_or_dir": "Step-1/Step-2 orbitan de diagonal a horizontal",
+   "dur_s": 1.2
+  },
+  {
+   "t": 63.375,
+   "move": "punch-in",
+   "scale_or_dir": "general→medio por corte (~1.6x)",
+   "dur_s": 0.0
+  },
+  {
+   "t": 85.96,
+   "move": "push-in lento",
+   "scale_or_dir": "b-roll cocina 1.0→1.05",
+   "dur_s": 2.9
+  },
+  {
+   "t": 89.71,
+   "move": "punch-in",
+   "scale_or_dir": "general→medio ~1.15x digital",
+   "dur_s": 0.0
+  },
+  {
+   "t": 95.875,
+   "move": "punch-in",
+   "scale_or_dir": "medio→primer plano ~1.5x",
+   "dur_s": 0.0
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   11,
+   4,
+   9,
+   7,
+   6,
+   5,
+   8,
+   9,
+   6,
+   3,
+   1
+  ],
+  "cuts_per_10s": [
+   8,
+   1,
+   6,
+   3,
+   2,
+   4,
+   3,
+   7,
+   4,
+   0,
+   0
+  ],
+  "avg_hold_text_s": 0.8,
+  "notes": "38 cortes. Eventos = cortes + entradas de elementos gráficos (sin contar captions). Primeros 10 s densos (8 cortes: hook + archivo + paper con flash y glitch); 10–22 s un solo gráfico que evoluciona en 6 estados sin cortar; 25–29 s ráfaga emocional con dips a negro. Los últimos 11 s (89–100) son A-roll sostenido con solo 2 punch-ins: el ritmo cae a propósito para el cierre. Captions A-roll: palabra grande cada ~0.8 s; los cortes de cámara caen en preguntas retóricas y palabras clave. Offset típico corte↔palabra −0.15…+0.15 s."
+ },
+ "typography": "Dos familias: (1) captions de A-roll y b-roll en sans grotesca bold blanca (tipo Inter/SF Pro Display Bold), clave ~6 % del alto, relleno diminuto (~1.5 %) encima-izquierda, centradas a 45–60 % de altura; (2) serif itálica bold de alto contraste (tipo Playfair Display Bold Italic) para palabras-concepto sobre archivo/b-roll ('research', 'makes', 'successful.', 'fear', 'the rise') y para TODO el sistema minimal (Anxiety, Avoidance, Insecure, Step-1, citas). Caja azul #1E5BFF: 1 palabra serif itálica ('consciously.', 23.5) y 1 mantra completo sans bold en 2 líneas (57 s). Gris = incertidumbre (29.08). Minúsculas siempre; 1 clave + 1–3 diminutas por bloque.",
+ "textures": "A-roll limpio con viñeta inferior oscura (degradado negro en el 30 % inferior para leer captions); archivo B/N con grano; b-roll de ansiedad con grano fuerte verdoso y subexposición (26.9–29.3); fondos minimal blanco #F0F3F8 con manchas de degradado lavanda #D9E4F8 en esquinas; discos con degradado radial azul y núcleo blanco (glow); resonancia con cuadrícula técnica rosa + overlay rojo/verde neón; paper blanco limpio sobre azul cian.",
+ "distinct": [
+  "Hook sin palabra grande: la pregunta va en captions diminutos sobre plano general sostenido 2.6 s",
+  "Un solo gráfico de 11 s (10.96–21.9) que evoluciona en 6 estados (punto→2 discos→etiquetas→limpieza→solape→'Insecure'→etiqueta inferior) sin un solo corte",
+  "Reencuadre rojo→verde del MISMO cerebro con transición de inversión/negativo de 5 fr (33.33–33.54)",
+  "Mantras escritos letra a letra (máquina de escribir) en el diagrama Step-1/Step-2 y callback en 66.5 con flecha nueva hacia Step-2",
+  "Ráfaga emocional estroboscópica: rostro gritando / dip a negro / rostro (26.94–28.8) y 'uncertainty' que se apaga a gris en pantalla"
+ ]
+}

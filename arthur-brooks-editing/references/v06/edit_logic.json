@@ -1,0 +1,791 @@
+{
+ "triggers": [
+  {
+   "t_word": 0.44,
+   "word": "fix",
+   "element": "ráfaga de 5 pinturas clásicas de parejas/bodas (cortes cada 3–6 frames) con el texto fijo encima",
+   "category": "imagery_characters",
+   "offset_s": 0.03,
+   "why": "cambio de tema → literal: 'marriage' ilustrado con pinturas de matrimonio"
+  },
+  {
+   "t_word": 0.86,
+   "word": "marriage,",
+   "element": "'marriage.' sans bold grande (pop) bajo 'Here's how you / fix every'",
+   "category": "imagery_characters",
+   "offset_s": 0.01,
+   "why": "énfasis: palabra-tema"
+  },
+  {
+   "t_word": 1.26,
+   "word": "you do",
+   "element": "pantalla de 4 franjas verticales de pinturas distintas + 'You do'",
+   "category": "split_layout",
+   "offset_s": -0.06,
+   "why": "dato/estructura: anuncia lista de 4"
+  },
+  {
+   "t_word": 1.46,
+   "word": "four",
+   "element": "números '1.' '2.' '3.' '4.' pop escalonado cada 2 frames (1.47/1.53/1.60/1.67)",
+   "category": "split_layout",
+   "offset_s": 0.01,
+   "why": "dato: la cifra se vuelve 4 columnas numeradas"
+  },
+  {
+   "t_word": 2.34,
+   "word": "Number",
+   "element": "wipe de la franja 1 a pantalla completa (pintura de pareja bailando)",
+   "category": "imagery_characters",
+   "offset_s": 0.03,
+   "why": "cambio de tema: arranca el punto 1"
+  },
+  {
+   "t_word": 3.46,
+   "word": "together",
+   "element": "'together' sans bold grande bajo 'you have / more fun'",
+   "category": "imagery_characters",
+   "offset_s": 0.3,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 5.7,
+   "word": "More",
+   "element": "b-roll golden hour: gente corriendo por un prado alpino",
+   "category": "broll_text",
+   "offset_s": -0.33,
+   "why": "metáfora de 'fun' (alegría física)"
+  },
+  {
+   "t_word": 7.5,
+   "word": "Therapy",
+   "element": "A-roll con 'Therapy' sans bold grande en GRIS OSCURO sobre la camiseta, detrás del micro",
+   "category": "captions_text",
+   "offset_s": 0.13,
+   "why": "énfasis/contraste cómico"
+  },
+  {
+   "t_word": 9.8,
+   "word": "Have",
+   "element": "b-roll pareja bailando en la calle",
+   "category": "broll_text",
+   "offset_s": -0.1,
+   "why": "literal ('have more fun together')"
+  },
+  {
+   "t_word": 11.64,
+   "word": "Second",
+   "element": "reaparecen las 4 franjas + wipe a pintura de boda ante altar",
+   "category": "imagery_characters",
+   "offset_s": -0.07,
+   "why": "cambio de tema: punto 2 (rezar)"
+  },
+  {
+   "t_word": 12.4,
+   "word": "together.",
+   "element": "'together.' grande bajo 'is pray'",
+   "category": "imagery_characters",
+   "offset_s": 0.0,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 13.98,
+   "word": "the goal",
+   "element": "punch-in digital del A-roll (~1.15x)",
+   "category": "captions_text",
+   "offset_s": -0.05,
+   "why": "énfasis en la tesis"
+  },
+  {
+   "t_word": 15.48,
+   "word": "hemisphere.",
+   "element": "'hemispheres.' grande con el micro tapando letras centrales",
+   "category": "captions_text",
+   "offset_s": 0.3,
+   "why": "énfasis/dato"
+  },
+  {
+   "t_word": 16.14,
+   "word": "The best way",
+   "element": "split horizontal: speaker arriba / plano general del estudio abajo",
+   "category": "split_layout",
+   "offset_s": -0.01,
+   "why": "cambio de idea (método)"
+  },
+  {
+   "t_word": 17.44,
+   "word": "meditating",
+   "element": "pintura religiosa de dos figuras meditando + 'meditating' grande",
+   "category": "imagery_characters",
+   "offset_s": -0.01,
+   "why": "literal"
+  },
+  {
+   "t_word": 18.5,
+   "word": "is by",
+   "element": "A-roll 0.4 s (respiración)",
+   "category": "captions_text",
+   "offset_s": -0.03,
+   "why": "ritmo de enumeración"
+  },
+  {
+   "t_word": 18.9,
+   "word": "praying",
+   "element": "pintura de dos figuras rezando + 'praying' grande",
+   "category": "imagery_characters",
+   "offset_s": -0.03,
+   "why": "literal"
+  },
+  {
+   "t_word": 19.82,
+   "word": "is by",
+   "element": "A-roll 0.5 s (respiración)",
+   "category": "captions_text",
+   "offset_s": -0.05,
+   "why": "ritmo de enumeración"
+  },
+  {
+   "t_word": 20.22,
+   "word": "right",
+   "element": "b-roll de pareja ante atardecer + 'right' grande + 'hemisphere / activity together.' pequeña",
+   "category": "broll_text",
+   "offset_s": 0.05,
+   "why": "metáfora (actividad compartida)"
+  },
+  {
+   "t_word": 22.0,
+   "word": "The third",
+   "element": "reaparecen las 4 franjas + 'The third'",
+   "category": "imagery_characters",
+   "offset_s": -0.07,
+   "why": "cambio de tema: punto 3"
+  },
+  {
+   "t_word": 22.44,
+   "word": "protocol",
+   "element": "wipe a pintura de pareja mirándose a los ojos + 'protocol' grande",
+   "category": "imagery_characters",
+   "offset_s": -0.1,
+   "why": "literal (contacto visual)"
+  },
+  {
+   "t_word": 24.32,
+   "word": "contact",
+   "element": "'eye' mediana + 'contact' grande",
+   "category": "imagery_characters",
+   "offset_s": 0.1,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 26.1,
+   "word": "Never",
+   "element": "b-roll de chica mirando a alguien; caption azul celeste",
+   "category": "broll_text",
+   "offset_s": -0.1,
+   "why": "literal (mirar a los ojos)"
+  },
+  {
+   "t_word": 28.48,
+   "word": "Way",
+   "element": "punch-in A-roll (~1.25x)",
+   "category": "captions_text",
+   "offset_s": 0.25,
+   "why": "énfasis ('way more important')"
+  },
+  {
+   "t_word": 33.42,
+   "word": "oxytocin,",
+   "element": "'oxytocin,' grande sobre la camiseta (pasa de blanco a gris oscuro)",
+   "category": "captions_text",
+   "offset_s": 0.0,
+   "why": "dato científico"
+  },
+  {
+   "t_word": 34.72,
+   "word": "she's",
+   "element": "b-roll mujer sonriendo con luz rosa",
+   "category": "broll_text",
+   "offset_s": 0.41,
+   "why": "literal (ella / bonding)"
+  },
+  {
+   "t_word": 35.7,
+   "word": "bonding,",
+   "element": "'bonding,' grande",
+   "category": "broll_text",
+   "offset_s": 0.2,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 36.1,
+   "word": "but",
+   "element": "b-roll 2ª mujer (cambio por cláusula)",
+   "category": "broll_text",
+   "offset_s": -0.03,
+   "why": "giro del argumento"
+  },
+  {
+   "t_word": 36.86,
+   "word": "that she's",
+   "element": "b-roll 3ª mujer; palabras pequeñas dispersas en horizontal",
+   "category": "broll_text",
+   "offset_s": 0.11,
+   "why": "ritmo por cláusula"
+  },
+  {
+   "t_word": 37.8,
+   "word": "starving",
+   "element": "'starving,' grande",
+   "category": "broll_text",
+   "offset_s": 0.1,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 38.26,
+   "word": "when",
+   "element": "split horizontal speaker/plano general + 'enough oxytocin.'",
+   "category": "split_layout",
+   "offset_s": 0.07,
+   "why": "vuelta al dato"
+  },
+  {
+   "t_word": 40.32,
+   "word": "And last",
+   "element": "reaparecen las 4 franjas + 'And last' → wipe a pintura de pareja regencia (40.47–40.73)",
+   "category": "imagery_characters",
+   "offset_s": -0.15,
+   "why": "cambio de tema: punto 4"
+  },
+  {
+   "t_word": 41.76,
+   "word": "ABT,",
+   "element": "'remember. / ABT.' grande",
+   "category": "imagery_characters",
+   "offset_s": 0.1,
+   "why": "énfasis (acrónimo)"
+  },
+  {
+   "t_word": 42.58,
+   "word": "always",
+   "element": "A-roll con 'Always be touching'",
+   "category": "captions_text",
+   "offset_s": -0.11,
+   "why": "definición del acrónimo"
+  },
+  {
+   "t_word": 43.48,
+   "word": "always",
+   "element": "b-roll pareja abrazada frente al mar",
+   "category": "broll_text",
+   "offset_s": -0.11,
+   "why": "repetición = nuevo plano"
+  },
+  {
+   "t_word": 44.32,
+   "word": "always",
+   "element": "b-roll pareja abrazada al atardecer",
+   "category": "broll_text",
+   "offset_s": -0.05,
+   "why": "repetición = nuevo plano"
+  },
+  {
+   "t_word": 48.3,
+   "word": "with",
+   "element": "b-roll primer plano de brazo enganchado",
+   "category": "broll_text",
+   "offset_s": -0.03,
+   "why": "literal"
+  },
+  {
+   "t_word": 48.54,
+   "word": "beloved",
+   "element": "'beloved' grande",
+   "category": "broll_text",
+   "offset_s": 0.06,
+   "why": "énfasis"
+  },
+  {
+   "t_word": 49.58,
+   "word": "arm",
+   "element": "'arm' grande + 'your arm' grande",
+   "category": "broll_text",
+   "offset_s": 0.05,
+   "why": "literal/énfasis"
+  },
+  {
+   "t_word": 50.54,
+   "word": "while",
+   "element": "b-roll nocturno de pareja paseando por la calle",
+   "category": "broll_text",
+   "offset_s": -0.01,
+   "why": "literal"
+  },
+  {
+   "t_word": 52.2,
+   "word": "I'm",
+   "element": "punch-in A-roll (~1.25x) con cita entre comillas en gris oscuro",
+   "category": "captions_text",
+   "offset_s": 0.3,
+   "why": "remate cómico en la cara"
+  },
+  {
+   "t_word": 53.92,
+   "word": "Why?",
+   "element": "plano de reacción del host riendo",
+   "category": "aroll_plain",
+   "offset_s": -0.19,
+   "why": "remate: reacción"
+  }
+ ],
+ "transitions": [
+  {
+   "t": 0.47,
+   "from": "aroll",
+   "to": "pintura 1 (boda)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "el bloque de texto 'Here's how you / fix every' sigue fijo encima"
+  },
+  {
+   "t": 0.67,
+   "from": "pintura 1",
+   "to": "pintura 2",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "ráfaga: plano de 6 frames"
+  },
+  {
+   "t": 0.83,
+   "from": "pintura 2",
+   "to": "pintura 3 (balcón)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "plano de 5 frames; 'marriage.' pop aquí"
+  },
+  {
+   "t": 0.97,
+   "from": "pintura 3",
+   "to": "pintura 4",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "4 frames"
+  },
+  {
+   "t": 1.1,
+   "from": "pintura 4",
+   "to": "pintura 5 (pareja bajo árbol)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "3 frames"
+  },
+  {
+   "t": 1.2,
+   "from": "pintura 5",
+   "to": "split 4 franjas verticales",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "las 4 franjas ya montadas; 'You do' encima"
+  },
+  {
+   "t": 2.37,
+   "from": "split 4 franjas",
+   "to": "pintura 1 (baile) a pantalla completa",
+   "type": "wipe",
+   "frames": 10,
+   "detail": "barrido izq→der tipo crossfade-en-barrido 2.37–2.70; la franja '4.' sale por la derecha"
+  },
+  {
+   "t": 4.0,
+   "from": "pintura",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 5.37,
+   "from": "aroll",
+   "to": "b-roll prado",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 6.8,
+   "from": "b-roll prado",
+   "to": "b-roll prado 2",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "texto 'more fun, / less grievance.' persiste"
+  },
+  {
+   "t": 7.63,
+   "from": "b-roll",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "'Therapy' aparece con el corte"
+  },
+  {
+   "t": 9.7,
+   "from": "aroll",
+   "to": "b-roll baile en calle",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 11.57,
+   "from": "b-roll",
+   "to": "split 4 franjas (reprise)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "callback del índice de la lista"
+  },
+  {
+   "t": 11.6,
+   "from": "split 4 franjas",
+   "to": "pintura altar",
+   "type": "wipe",
+   "frames": 10,
+   "detail": "mismo barrido izq→der 11.60–11.93"
+  },
+  {
+   "t": 13.03,
+   "from": "pintura",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 13.93,
+   "from": "aroll",
+   "to": "aroll ~1.15x",
+   "type": "punch-in (jump-zoom)",
+   "frames": 0,
+   "detail": "corte de escala sin cambiar de cámara"
+  },
+  {
+   "t": 16.13,
+   "from": "aroll",
+   "to": "split horizontal (speaker / plano general)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "dos mitades sin separador"
+  },
+  {
+   "t": 17.43,
+   "from": "split",
+   "to": "pintura meditando",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 18.47,
+   "from": "pintura",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "A-roll de 0.4 s"
+  },
+  {
+   "t": 18.87,
+   "from": "aroll",
+   "to": "pintura rezando",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 19.77,
+   "from": "pintura",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "A-roll de 0.5 s"
+  },
+  {
+   "t": 20.27,
+   "from": "aroll",
+   "to": "b-roll atardecer",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 21.93,
+   "from": "b-roll",
+   "to": "split 4 franjas (reprise)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "'The third'"
+  },
+  {
+   "t": 22.27,
+   "from": "split 4 franjas",
+   "to": "pintura mirada",
+   "type": "wipe",
+   "frames": 6,
+   "detail": "barrido izq→der 22.27–22.47"
+  },
+  {
+   "t": 24.77,
+   "from": "pintura",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 26.0,
+   "from": "aroll",
+   "to": "b-roll chica",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 28.73,
+   "from": "b-roll",
+   "to": "aroll ~1.25x",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "vuelve al A-roll ya en encuadre cerrado"
+  },
+  {
+   "t": 31.0,
+   "from": "aroll cerrado",
+   "to": "aroll medio",
+   "type": "punch-in (jump-zoom)",
+   "frames": 0,
+   "detail": "punch-out a plano normal"
+  },
+  {
+   "t": 32.03,
+   "from": "aroll",
+   "to": "aroll ~1.05x",
+   "type": "punch-in (jump-zoom)",
+   "frames": 0,
+   "detail": "micro reencuadre en 'because'"
+  },
+  {
+   "t": 35.13,
+   "from": "aroll",
+   "to": "b-roll mujer luz rosa",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 36.07,
+   "from": "b-roll",
+   "to": "b-roll mujer 2",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "una cláusula = un plano"
+  },
+  {
+   "t": 36.97,
+   "from": "b-roll",
+   "to": "b-roll mujer 3",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 38.33,
+   "from": "b-roll",
+   "to": "split horizontal",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 40.17,
+   "from": "split",
+   "to": "split 4 franjas (reprise)",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "'And last'"
+  },
+  {
+   "t": 40.47,
+   "from": "split 4 franjas",
+   "to": "pintura regencia",
+   "type": "wipe",
+   "frames": 8,
+   "detail": "barrido izq→der 40.47–40.73"
+  },
+  {
+   "t": 42.47,
+   "from": "pintura",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 43.37,
+   "from": "aroll",
+   "to": "b-roll pareja mar",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "en la 2ª repetición"
+  },
+  {
+   "t": 44.27,
+   "from": "b-roll",
+   "to": "b-roll pareja atardecer",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "en la 3ª repetición"
+  },
+  {
+   "t": 45.13,
+   "from": "b-roll",
+   "to": "aroll",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 48.27,
+   "from": "aroll",
+   "to": "b-roll brazo",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 50.53,
+   "from": "b-roll",
+   "to": "b-roll paseo nocturno",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": ""
+  },
+  {
+   "t": 52.5,
+   "from": "b-roll",
+   "to": "aroll ~1.25x",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "remate en encuadre cerrado"
+  },
+  {
+   "t": 53.73,
+   "from": "aroll",
+   "to": "host reacción",
+   "type": "corte seco",
+   "frames": 0,
+   "detail": "cierre con la risa del host"
+  }
+ ],
+ "text_fx": [
+  {
+   "t": 0.0,
+   "fx": "write-on por palabra",
+   "detail": "'Here's' / 'how you' aparecen palabra a palabra, escalonados en 2 alturas, sin animación (aparición seca)"
+  },
+  {
+   "t": 0.86,
+   "fx": "pop",
+   "detail": "'marriage.' entra seco, grande, mientras las pinturas siguen cortando debajo"
+  },
+  {
+   "t": 1.47,
+   "fx": "pop",
+   "detail": "números 1.–4. aparecen uno cada 2 frames (escalonado izq→der)"
+  },
+  {
+   "t": 3.8,
+   "fx": "escala",
+   "detail": "jerarquía: 'you have' pequeña, 'more fun' media, 'together' grande; bloques escalonados, no línea recta"
+  },
+  {
+   "t": 7.63,
+   "fx": "gris→blanco",
+   "detail": "sobre la camiseta blanca el texto se vuelve gris oscuro ('Therapy', 'oxytocin', \"I'm big and strong.\"): el color del texto se adapta al fondo"
+  },
+  {
+   "t": 7.63,
+   "fx": "máscara",
+   "detail": "texto detrás del micro (el micro tapa letras centrales de 'Therapy' y 'hemispheres.')"
+  },
+  {
+   "t": 9.0,
+   "fx": "pop",
+   "detail": "'grievance,' se mantiene igual en las 3 repeticiones; no se reescribe"
+  },
+  {
+   "t": 26.1,
+   "fx": "write-on por palabra",
+   "detail": "caption en azul celeste pequeña sobre b-roll (único caso de color)"
+  },
+  {
+   "t": 36.97,
+   "fx": "tracking",
+   "detail": "'that  she's  better at' palabras sueltas separadas en horizontal, 'starving,' grande debajo"
+  },
+  {
+   "t": 52.5,
+   "fx": "write-on por palabra",
+   "detail": "cita con comillas curvas: '“I'm' pequeña, 'big' grande, 'and' pequeña, 'strong.”' grande, en gris oscuro"
+  }
+ ],
+ "camera": [
+  {
+   "t": 13.93,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.15",
+   "dur_s": 0.0
+  },
+  {
+   "t": 28.73,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.25",
+   "dur_s": 0.0
+  },
+  {
+   "t": 31.0,
+   "move": "zoom-out",
+   "scale_or_dir": "1.25→1.0",
+   "dur_s": 0.0
+  },
+  {
+   "t": 32.03,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.05",
+   "dur_s": 0.0
+  },
+  {
+   "t": 52.5,
+   "move": "punch-in",
+   "scale_or_dir": "1.0→1.25",
+   "dur_s": 0.0
+  }
+ ],
+ "rhythm": {
+  "events_per_10s": [
+   15,
+   11,
+   8,
+   9,
+   10,
+   3
+  ],
+  "avg_hold_text_s": 0.7,
+  "notes": "Hook hiperrápido: 6 cortes en 1.2 s. Después ~1 evento/s. Cada punto de la lista abre con el índice de 4 franjas (callback) y un wipe a pintura. En enumeraciones, A-roll de 0.4–0.5 s entre pinturas. La 'respiración' larga es A-roll de 3–5 s."
+ },
+ "typography": "Sans grotesca bold (Helvetica/Inter Bold) en todo, sin serif. 2–3 tamaños por bloque: conectores ~3% de alto, palabra clave ~6–8% (2–3x). Minúsculas salvo inicio de frase; números con punto ('1.'). Bloques de 1–3 palabras escalonados en alturas distintas, alineación libre (izq/der/centro). Blanco por defecto; gris oscuro sobre la camiseta blanca; un caso azul celeste. Citas con comillas curvas. Nunca caja ni contorno; sombra muy suave.",
+ "textures": "Sin texturas añadidas. La textura la ponen las pinturas al óleo (craquelado, barniz dorado). B-roll con grano natural y golden hour. Sin viñeta, sin halftone.",
+ "distinct": [
+  "Índice de lista con 4 franjas verticales de pinturas que reaparece como 'capítulo' antes de cada punto (1.2, 11.57, 21.93, 40.17) y se abre con wipe izq→der",
+  "Ráfaga de 5 pinturas en 0.73 s con el texto fijo (0.47–1.2)",
+  "Texto que cambia a gris oscuro sobre la camiseta blanca y se esconde detrás del micro",
+  "Split horizontal speaker/plano general usado 2 veces como pausa (16.13, 38.33)",
+  "Repetición verbal (always be touching x3) = un plano nuevo por repetición"
+ ]
+}

@@ -1,0 +1,74 @@
+[
+ {
+  "t": 0.07,
+  "dur": 0.15,
+  "kind": "pop",
+  "gain_db": 11.6,
+  "to_cut": 0.07,
+  "word": "Here's",
+  "to_word": 0.07
+ },
+ {
+  "t": 1.358,
+  "dur": 0.22,
+  "kind": "hit/boom",
+  "gain_db": 7.8,
+  "to_cut": 0.16,
+  "word": "do",
+  "to_word": 0.04
+ },
+ {
+  "t": 24.044,
+  "dur": 0.0,
+  "kind": "click",
+  "gain_db": 7.2,
+  "to_cut": -0.73,
+  "word": "eye",
+  "to_word": -0.02
+ },
+ {
+  "t": 25.217,
+  "dur": 0.0,
+  "kind": "click",
+  "gain_db": 5.7,
+  "to_cut": 0.45,
+  "word": "talk.",
+  "to_word": -0.04
+ },
+ {
+  "t": 26.796,
+  "dur": 0.12,
+  "kind": "pop",
+  "gain_db": 5.2,
+  "to_cut": 0.8,
+  "word": "talking",
+  "to_word": -0.16
+ },
+ {
+  "t": 30.314,
+  "dur": 0.21,
+  "kind": "hit/boom",
+  "gain_db": 7.4,
+  "to_cut": 1.58,
+  "word": "his",
+  "to_word": 0.01
+ },
+ {
+  "t": 43.723,
+  "dur": 0.15,
+  "kind": "pop",
+  "gain_db": 6.6,
+  "to_cut": 0.35,
+  "word": "touching,",
+  "to_word": -0.04
+ },
+ {
+  "t": 49.958,
+  "dur": 0.21,
+  "kind": "hit/boom",
+  "gain_db": 7.0,
+  "to_cut": -0.57,
+  "word": "into",
+  "to_word": 0.08
+ }
+]
